@@ -40,3 +40,11 @@ image p davin_amused = "p_davin_amused.png"
 image p bother_pleased = "p_bother_pleased.png"
 image p bother_alert = "p_bother_alert.png"
 image p bother_aggrieved = "p_bother_aggrieved.png"
+
+# Full-screen illustrations (1920x1080) for narrated passages.
+image cg wake = "cg/wake.png"
+image cg swim = "cg/swim.png"
+image cg sea_door = "cg/sea_door.png"
+image cg healing = "cg/healing.png"
+image cg lamp_seam = "cg/lamp_seam.png"
+image cg lamp_on = "cg/lamp_on.png"
