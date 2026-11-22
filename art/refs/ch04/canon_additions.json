@@ -1,0 +1,32 @@
+{
+ "characters": {
+  "Jef": {
+   "fixed": "a very small, VERY OLD man (about nine hundred years), deeply wrinkled skin like folded paper, nearly bald with a few wisps of white hair at the sides, very bright very dark eyes; worn brown leather apron over a faded wool jersey with a hole at the elbow (choice: pale skin, tuft of white hair over the ears); no gift, a mechanic; carries a small worn tool",
+   "references": [
+    "art/refs/ch04/portraits/jef_grumbling.png"
+   ],
+   "note": "Say 'VERY OLD, deeply wrinkled, nearly bald' on every edit; keep the eyes dark with highlights."
+  },
+  "Maelis": {
+   "fixed": "Jef's wife of fifty-one years, in her seventies, tall and straight, grey hair pinned in a low bun, lined composed face, brown eyes; patched dark coat with full pockets (choice: coat colour dark charcoal, patches brown); a healer born in the Quiet, the rays' mouth",
+   "references": [
+    "art/refs/ch04/portraits/maelis_examining.png"
+   ]
+  },
+  "Anselm Rook": {
+   "fixed": "broad-shouldered white-haired man of about seventy-two, courteous heavy face, grey-blue eyes, thin pale scars from the temples down the sides of the neck (the Thread); dark close-fitting surface hard suit with a clear glass helmet (portraits show the suit's high dark collar; p_anselm_helmed shows the helmet)",
+   "references": [
+    "art/refs/ch04/portraits/anselm_calm.png",
+    "art/refs/ch04/portraits/anselm_helmed.png"
+   ],
+   "note": "The helmed portrait has a faint glass ring in its cut-out."
+  }
+ },
+ "places": {
+  "The Well lip": "curved shelf of smooth dark rock at the edge of a vast round black shaft of perfectly still water, soft glowing pale green weed along the rim, pale blue lantern jellies as big as houses drifting over the gulf; at the bottom a single white star (the Lantern)",
+  "Kettle House": "low stone house half in water and half out on a rock shelf, pigeon-breast sky with a low red sun, washing line stiff with frost, shell-edged weed garden, workshop with its door open, kettle on the step; no fence or gate",
+  "Kettle House interior": "one long stone room, iron stove at one end, long mended table of mixed planks, jar shelves, box bed behind a curtain, loft ladder, window onto black water and jellies, fist-sized pale jelly in a glass bowl",
+  "Workshop": "untidy stone room, benches heaped with lamps in pieces, a lamp's heart laid open, coils of warm pale wire, small worn tools on one wall, a stool and a mug",
+  "The Lantern": "nine milk-white glass domed halls in a ring joined by covered ways, lit from within, standing at the bottom of a black rock shaft like a crown of lamps; white fans and pale flowers; inside, halls with round pools of faintly gold water and stools; four halls dark and dry"
+ }
+}

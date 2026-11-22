@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: illustration
+refs: art/refs/ch04/portraits/jef_tired.png
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, restrained and quiet, no text, no letters. Reference is Jef, a very old small bald man with a few white hairs, in a leather apron over a wool jersey. Inside a narrow crawlway beneath a great pale machine heart, exactly one person: Jef lies on his back, eyes closed, peaceful and still, a small oil lamp still burning beside him. One of his hands reaches up inside the glowing works of the machine, resting on a part; his other hand lies on his chest and holds a small worn tool a little way out, handle first, as if offering it. Quiet, tender, restrained, no blood, no injury. Soft light from the machine.

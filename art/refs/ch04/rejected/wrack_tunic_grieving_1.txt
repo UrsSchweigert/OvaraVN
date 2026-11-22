@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: sheet
+refs: art/refs/ch02/portraits/wrack_tunic_calm.png
+
+Anime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same lighting, same skin colour; only the expression changes. Both shoulders visible. The eyes are fully drawn with irises, pupils and highlights. A moderate, restrained expression, no grin, no laughing. Lean man, short messy black hair, light skin, dark brown eyes, plain grey-green tunic. Expression: grieving, silent, eyes lowered and glistening, mouth pressed, no sobbing, restrained.

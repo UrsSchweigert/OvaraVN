@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: illustration
+refs: art/refs/ch01/portraits/wrack_tunic.png, art/refs/ch02/portraits/okonta.png, art/refs/ch05/places/dc_canyon_above.png
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, no text, no letters. Reference 1 is Wrack, a lean man with PALE LIGHT PEACH skin and short messy BLACK hair, grey-green tunic, BARE FEET. Reference 2 is Okonta, a spare older woman with DARK BROWN skin and short GREY hair, slate-grey high-collared suit. Reference 3 is Deep Chorus, an undersea canyon whose walls are cut into tiers of pale glass galleries; keep the walls like reference 3 but the rims are only golden kelp forest, no buildings, no boxes. Entirely underwater, no sky. Seen from far above, two tiny figures lie flat on two slim pale silver needle-shaped vessels going down the middle of the canyon, each figure very small: on the left Okonta with DARK BROWN skin and GREY hair, on the right Wrack with PALE skin and BLACK hair, both lying flat with nothing in their hands. Slender bridges across the gulf, bottom lost in blue. Exactly two people, both small.

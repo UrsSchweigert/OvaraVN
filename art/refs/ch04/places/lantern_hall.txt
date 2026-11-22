@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no animals, no text, no letters. Inside a vast high hall of milk-white glass, warm, bright and very quiet: a high curved glass ceiling, and on the floor many round pools with low pale stone rims, each full of water that glows faintly gold. Empty stools at the edge of the pools. Tall archway openings at the sides. A soft gold glow. Nobody in the hall.

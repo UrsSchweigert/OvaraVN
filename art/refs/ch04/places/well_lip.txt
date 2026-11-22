@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no animals, no text, no letters. The edge of a vast round hole in the sea at the top of the world. In the foreground a curved shelf of smooth dark rock with soft pale green glowing weed along its edge. Beyond the edge is nothing: black, perfectly still water, a gulf of great depth. Great soft bells of pale blue glowing fire the size of houses, lantern jellies, drift over the gulf trailing glimmering veils, reflected in the still water. A dim blue-black dusk sky above. Silent, still, as if holding its breath.

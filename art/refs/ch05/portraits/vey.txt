@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: sheet
+refs: 
+
+Anime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's RIGHT (her nose points to the right edge of the picture), plain light grey background, no text. Both shoulders visible. The eyes are fully drawn with irises, pupils and highlights. A restrained realistic expression, no grin. A tall, exact woman of seventy, light skin, fine lines in her face, silver hair bound close to her head, perfectly straight upright posture, cold composed expression, thin firm mouth. She wears a formal high-collared robe of deep sea-green sea-silk with a plain shell-white band at the collar. An elder and speaker of a council.

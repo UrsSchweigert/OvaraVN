@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no animals, no text, no letters. Dry air, no water inside the room, nothing flooded. A long, low dry hall in the bottom of an undersea city, no windows to the outside, lit only by a dim green gloom and swags of weak greenish-yellow glowing weed hung from the ceiling. Close rows of blankets and bundles laid on the floor edge to edge where people have been sleeping, the blankets empty and no people visible, stale warm thick air, everything worn and still. Oppressive and sad.

@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: illustration
+refs: art/refs/ch01/portraits/wrack_tunic.png
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, no text, no letters. Reference 1 is Wrack, a lean man with PALE light skin and short messy BLACK hair in a plain grey-green tunic with bare feet. Underwater in cold deep blue open sea far in the north, entirely underwater, no sky, no horizon. A slender pale silver needle-shaped vessel, shorter than a rowing boat is long and scarred along its flank, pointed at both ends, no rudder, no screw, no window, glowing softly along its side. Wrack lies flat along its back, chest down, arms at his sides and nothing in his hands, leaning forward into the motion, his face grim and concentrated. Ahead of him the dark water parts and opens like a great doorway of light between two walls of blue ice. Exactly one person and one needle, nobody else.

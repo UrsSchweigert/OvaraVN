@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: illustration
+refs: 
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, no text, no letters. Entirely underwater, no sky. Seen from far above, the vast gulf of an undersea canyon a kilometre wide with tiers of pale glass-faced galleries down both walls, white-lit near the top and going dark with hanging swags of glowing yellow-green weed lower down, slender bridges across the gulf, golden kelp forest along both rims, the bottom lost in blue. In the middle of the gulf two tiny dark silhouettes lie flat on two slim pale silver needle-shaped vessels, going down together, each only a few pixels across, very small against the vast gulf. Awe turning to dread.

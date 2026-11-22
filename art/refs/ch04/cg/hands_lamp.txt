@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: illustration
+refs: art/refs/ch04/portraits/jef_grumbling.png, art/refs/ch04/portraits/wrack_tunic_grieving.png
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, restrained and quiet, no text, no letters. Reference 1 is Jef, a very old small bald man with a few white hairs, wrinkled skin and a worn leather apron. Reference 2 is Wrack, a lean young-looking man with short black hair, light skin, in a grey-green tunic. Inside a lamplit stone kitchen at a wooden table, Jef sits across from Wrack holding Wrack's two hands palm-up in his own, turning them over under an oil lamp. Close view: old knotted, age-spotted fingers over young smooth hands, each hand with five fingers, drawn carefully; both faces partly visible, Jef intent, Wrack still. Exactly two people. Warm lamplight.

@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no animals, no text, no letters. Night at the top of the world. The stone step of a low house at the edge of black still water, an iron kettle on the step and an empty wooden chair with a folded rug on it. A low red sun on the rim of the world turning, laying a moving red light across a great white plain of ice above the house and across the black water. Pale blue glowing lantern jellies drift over the water. Quiet and gentle.

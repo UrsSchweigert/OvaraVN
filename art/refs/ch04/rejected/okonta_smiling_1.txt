@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: sheet
+refs: art/refs/ch02/portraits/okonta.png
+
+Anime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same lighting, same skin colour; only the expression changes. Both shoulders visible. The eyes are fully drawn with irises, pupils and highlights. A moderate, restrained expression, no grin, no laughing. Spare woman of about sixty, dark brown skin, short grey hair, slate-grey high-collared suit, thin pale scars from the temples. Expression: a small private smile, eyes lowered as if looking into a cup, amused and warm.

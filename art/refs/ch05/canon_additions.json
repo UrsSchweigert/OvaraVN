@@ -1,0 +1,31 @@
+{
+ "_note": "Chapter 5 additions for art/canon.json: merge into 'characters' and 'places'. Sefa and Okonta/Wrack keep their existing entries; Sefa now also wears a grey cloth healer's band on her upper arm (c05.s02.p018.3).",
+ "characters": {
+  "Elder Vey": {
+   "fixed": "tall, exact woman of seventy, light skin, deep lines at forehead and eyes, silver hair bound close to her head, perfectly upright posture (never seen to slump), cold composed face; formal high-collared deep sea-green robe with a pale shell-white band at the collar (colour is a choice)",
+   "references": [
+    "art/refs/ch05/portraits/vey_cold.png"
+   ],
+   "note": "Expression edits make her look younger; always say 'SEVENTY YEARS OLD, deep lines, creased cheeks'. Expressions: vey_cold, vey_shaken (older, not straight), vey_tight."
+  },
+  "Aurel": {
+   "fixed": "quiet grey man of about fifty-five, close-cropped grey hair, weathered tan-brown skin, lined calm face, steady tired eyes; plain loose grey-green sea-silk tunic. The Mighty of Deep Chorus.",
+   "references": [
+    "art/refs/ch05/portraits/aurel.png"
+   ],
+   "note": "Look is a choice apart from 'quiet grey man' (c05.s04.p008.2). Expressions: aurel_calm, aurel_tired."
+  }
+ },
+ "places": {
+  "Jef's workshop (after his death)": "untidy stone-walled workshop, benches heaped with lamps in pieces and coils of wire, a dead barrel-sized pale ribbed air-heart laid out in pieces beside a dark oval warm-stone, a white mug with a dried tea stain left untouched, grey window light, nothing lit",
+  "The landing (evening)": "smooth dark stone landing with wide steps into black still water, low stone wall, patches of snow and ice, deep blue dusk sky with a last faint light",
+  "Open sea with ice shelf (the ride south)": "cold deep-blue open sea, the underside of an ice shelf like an upside-down country of pale ridges and hanging valleys, shafts of light, a few luminous pale singers; entirely underwater",
+  "Deep Chorus canyon": "a gulf a kilometre wide cut into the golden kelp forest floor, tiers of long pale-glass galleries down both walls, slender bridges wall to wall, hanging weed gardens; white light above the twentieth tier, dark below with greenish-yellow lampweed; entirely underwater",
+  "Deep Chorus canyon, lit to the sixtieth tier": "same canyon, warm white lamps lit down both walls to one tier, black dark windows below, bottom lost in blue; entirely underwater",
+  "Deep Chorus high hall": "third tier council hall, vault of clear glass with green canyon water beyond, pale shell-inlaid floor in a wave pattern, seven plain stone seats in an arc, white lamps on short ivory posts; dry",
+  "Deep Chorus service tunnels": "narrow rough stone tunnels behind the galleries, old pipes, a worn stair, failing lamps, swags of weak yellow-green lampweed; dry",
+  "Deep Chorus lowest dry halls": "long low dry halls in the green dimness, swags of glowing lampweed on the ceiling, rows of sleepers on mats and blankets; dry, stale",
+  "Deep Chorus heart-chamber": "vast dim stone vault, a house-sized pale ribbed air-heart like a great closed shell furred with grey dust, thick water channels on both sides, a door with a broken wax seal; dry",
+  "Deep Chorus sea-door on the rim": "bare dry stone chamber with a round sea-door pool in the floor and a wide arch of glass onto the golden kelp forest beyond; dry"
+ }
+}

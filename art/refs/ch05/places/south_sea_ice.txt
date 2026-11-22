@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no animals, no text, no letters. Entirely underwater, no sky, no horizon, no grass, no surface. Open cold sea far in the north, deep clear blue water, a vast ice shelf seen from below as an upside-down country of pale blue ridges and hanging valleys filling the upper half of the picture, light coming down through gaps in the ice in long pale shafts, a few pale singers (slender luminous fish) far off, a sense of vast distance and a long road ahead. Empty water, no buildings, no vessels.

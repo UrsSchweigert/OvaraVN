@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: sheet
+refs: 
+
+Anime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. Both shoulders visible. The eyes are fully drawn with irises, pupils and highlights. A restrained expression, no grin. A tall, straight, grey-haired woman in her seventies with a lined, weathered, composed face, her grey hair pinned back, wearing a patched dark coat with full pockets. Expression: a steady, examining gaze, calm and level.

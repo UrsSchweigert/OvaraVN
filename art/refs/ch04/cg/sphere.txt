@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: illustration
+refs: 
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, restrained and quiet, no text, no letters. At night at the top of the world, a perfect sphere of clear water a hundred metres across hangs in the air above a round black well in the sea, turning slowly, with a living shoal of silver fish swimming inside it. A low red sun on the rim shines through the sphere and lays a moving red light across a white plain of ice. Dark rock shelf with a small stone house at the left edge. Wonder and stillness. No people.

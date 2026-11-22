@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no animals, no text, no letters. Interior of an untidy workshop in a stone house, the largest room of the house: workbenches heaped with lamps in pieces, a machine like a lamp's heart laid open, coils of pale wire that glows faintly warm, a work lamp, a stool, a mug on a bench. On one stone wall hang many small tools, each small and of no particular shape, smooth worn lumps and thin curved implements polished until they shine, not wrenches, not spoons. A small window shows only black night water outside, no trees, no land. Warm lamp light, cluttered, deeply used. Nobody in the room.

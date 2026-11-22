@@ -560,4 +560,4 @@ label ch03:
     hide right
     with qd
 
-    return
+    jump ch04

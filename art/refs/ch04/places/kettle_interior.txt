@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no animals, no text, no letters. Interior of a low stone house at night: one long room seen from one end, a small iron stove at the far end with a glow, a long wooden table that has been mended many times with planks of different woods, shelves of glass jars along the wall, a box bed behind a half-drawn curtain, a ladder up to a loft, a warm oil lamp lit on the table. A small window on the left shows only black night water outside with a few pale blue glowing jellies drifting past, no trees, no land. On the windowsill a small glass bowl holding a fist-sized plain translucent pale blue glowing bell with no face. Stone walls, warm lamplight, homely and lived-in. Nobody in the room.

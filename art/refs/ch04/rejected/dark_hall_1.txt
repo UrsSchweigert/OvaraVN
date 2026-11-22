@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no animals, no text, no letters. A vast high hall of milk-pale glass that is dark and unlit: the round pools on the floor are dry, empty pale basins with dust in them, cold dim blue-grey light from outside through the glass walls, a tall archway in front leading to a second dark hall. Cold, silent, abandoned, no water anywhere. Nobody in the hall.

@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no animals, no text, no letters. Interior of an untidy workshop in a stone house, still and grieved. Dry air, no water inside the room, nothing flooded. Workbenches heaped with lamps in pieces and coils of wire. On the nearest bench a dead barrel-sized pale ribbed air-heart laid out in separate pieces beside a half-opened dark oval warm-stone, and beside them a plain white mug seen from the side, low angle so its inside cannot be seen, a faint dry brown stain down its side. Many small worn tools hang on the stone wall, a stool. All lamps are unlit; the light is grey and low through a small window, dusty, quiet. Nobody in the room.

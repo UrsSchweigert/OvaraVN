@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no animals, no text, no letters. ENTIRELY UNDERWATER at the bottom of a black deep shaft, no sky, no horizon, no surface. Nine great halls of milk-white glass, each as large as a hill-sized dome, set in a ring and joined by covered glass ways, lit from within so the hospital stands in the black water like a crown of lamps. Around it white fans and pale flowers the size of a hand grow, feeding on the warmth leaking from the walls. Black rock walls of the shaft far behind. Vast, cold outside and warm within.

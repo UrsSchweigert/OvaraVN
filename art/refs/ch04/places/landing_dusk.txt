@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no animals, no text, no letters. Dusk at the top of the world. A landing of smooth dark stone with wide steps going down into black still water, under a sky the colour of a pigeon's breast with a low red sun on the rim, a long red twilight on the water and on the ice. Far out over the black gulf a very long, slender line of pale glowing hoop-shaped ribs of an immense river-like machine passes slowly, small and distant, a smooth blunt pale prow at its front, no ship, no mast, no deck, its light flickering. Grave, quiet, farewell.

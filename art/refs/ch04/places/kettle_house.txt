@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no animals, no text, no letters. A low stone house half in the water and half out, standing on a shelf of smooth dark rock where the rock breaks the surface of black still water, under a sky the colour of a pigeon's breast, soft grey and pink and lilac, with a low red sun rolling along the rim of the world. A line of washing stiff with frost. A seaweed garden edged in shells beside the house. At one end a workshop with its wooden door standing open on a clutter of half-mended things. A kettle sits on the stone step. No fence, no gate. A few great soft bells of pale blue glowing fire, lantern jellies, drift over the black water; plain translucent bells with trailing veils, no faces, no eyes. Cold, quiet, homely.

@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: illustration
+refs: 
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, restrained and quiet, no text, no letters. ENTIRELY UNDERWATER in a deep black shaft, no sky, no horizon, no surface. Seen from above and far off at an angle: a ring made of NINE separate domed halls of milk-white glass, nine, one more than eight, like the nine hours of a clock face with a ninth squeezed in: count them, 9 domes, evenly spaced around a circle of black water, each joined to its neighbours by a short covered glass way, each lit from within, the hospital standing in the black water like a crown of nine lamps. A few white fans and small pale flowers. No people.
