@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no animals, no text. Underwater scene on the seabed, all of it under the sea, no grass and no soil: bare sand and stone. A tended kelp forest: kelp stands in neat rows, the sand between is raked clean. The ground rises in terraces, each walled with fitted stone. At the top stands a huge dome the size of a hill, made of a pale, smooth, milky material, neither glass nor stone, in great curved panes held by ribs of white metal with no rivet or seam. Kelp is trained up one side of it. The lower panes are worn dull. Light shines out of the dome on its left half only; the right half is dark, and long strings of weed hang against its dark panes, glowing a faint yellow-green.

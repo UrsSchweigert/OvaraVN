@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: sheet
+refs: art/refs/ch01/wrack.png
+
+The same man, same face and hair, same raw red cable-tie marks on both wrists, now barefoot and wearing a plain loose tunic of fine grey-green cloth that gleams like the inside of a shell, instead of the jacket and boots. Anime-style character reference illustration, clean line art, soft cel shading, full body, standing, facing the viewer, plain light grey background, no text. Lost, quietly troubled expression.

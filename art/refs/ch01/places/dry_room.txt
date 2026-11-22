@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no animals, no text. The inside of a small plain stone room, dry air, no water and no bubbles, lit by warm lamplight, with a stone floor, a plain wooden bench along one wall, and a doorway. Quiet, still, plain.
