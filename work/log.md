@@ -16,3 +16,11 @@ Newest entry last. Each entry: date, what was done, what was verified and how, w
 - Not verified: the cutting page has not been opened in a real browser; only its server was tested. Chapter 1 suggestions were written without a scene manifest (stage 1 is not done), so the "shown" cuts assume the picture will show those things.
 - Waiting on the owner: review chapter 1 at http://127.0.0.1:8765 (use 127.0.0.1, not localhost: another program on this Mac answers on localhost:8765). Install Ren'Py before stage 5.
 - Next: stage 1, one scene-analyst per chapter, then the style bake-off. After the owner approves chapter 1, read its review file and update `work/cuts/guide.md`.
+
+## 2026-11-22: stage 1 done
+
+- Done: scene manifests for all 18 chapters (93 scenes), merged `work/manifest/cast.json` (67 names) and `places.json` (64 place names, not yet merged into backgrounds). `./vn check` changed to accept null `time`, `key_moment` and an empty `cast` for an end card.
+- Verified: `./vn check` exits 0 with all manifests in. Sentence ids inside `looks` and `key_moment` were not checked by a tool; only some analysts checked them by hand.
+- Not done: chapter 1 cuts not re-read against the manifest. The owner has not yet reviewed chapter 1.
+- Open problem for stage 2: every model in `config/models.json` is an edit model and needs a reference image, but there is no art yet. The bake-off needs text-to-image variants of the candidates, or a plain first reference. Check fal's text-to-image ids and prices before spending.
+- Next: resolve that, then the bake-off (cap $10).
