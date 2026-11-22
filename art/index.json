@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T16:58:31Z",
+ "generated": "2026-11-22T17:02:31Z",
  "count": 116,
  "items": [
   {
@@ -1594,7 +1594,8 @@
    "No readable carvings or signs; ask for 'worn abstract marks'.",
    "fal's content filter rejects references showing wounds or scars and prompts with 'violent'/'limp': crop references to head and shoulders, soften wording.",
    "Pupils: always write 'eyes fully drawn with irises, pupils and highlights'; 'blank/empty' produced eyeless faces.",
-   "Check every result at full size against the sentence it depicts before using it."
+   "Check every result at full size against the sentence it depicts before using it.",
+   "Portrait facing: every portrait must face the viewer's RIGHT. Text-to-image bases often face left; check each result and mirror left-facing ones (grey reference and cut-out) before using it. Okonta, Brask and the diver officer were mirrored for this reason on 2026-11-22."
   ],
   "characters": {
    "Wrack": {
