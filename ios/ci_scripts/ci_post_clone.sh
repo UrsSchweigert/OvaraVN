@@ -24,6 +24,9 @@ if [[ -n "$RENPY_SHA256" ]]; then
 fi
 tar -xjf sdk.tar.bz2
 SDK="$WORK/renpy-${RENPY_VERSION}-sdk"
+# The iOS add-on (renios) is a separate download; it unpacks to renios/ in the SDK.
+curl -fsSL -o renios.zip "https://www.renpy.org/dl/${RENPY_VERSION}/renpy-${RENPY_VERSION}-renios.zip"
+unzip -q renios.zip -d "$SDK"
 
 # Build a throwaway Xcode project, then copy only the heavy parts into ios/.
 export SDL_VIDEODRIVER=dummy
