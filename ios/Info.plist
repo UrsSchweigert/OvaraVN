@@ -54,5 +54,7 @@
 		<string>UIInterfaceOrientationLandscapeRight</string>
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 	</array>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>Used to connect Bluetooth game controllers so you can play with a controller.</string>
 </dict>
 </plist>
