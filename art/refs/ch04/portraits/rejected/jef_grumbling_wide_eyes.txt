@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: sheet
+refs: 
+
+Anime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. Both shoulders visible. The eyes are fully drawn with irises, pupils and highlights. A restrained expression, no grin. A very small, very old man, deeply wrinkled skin like paper folded many times, only a few wisps of white hair on a nearly bald head, very bright, very dark, sharp eyes, a mouth set in a mild grumble. He wears a worn brown leather apron over a faded wool jersey that has a hole at the elbow. Expression: grumbling, put-upon but not angry.
