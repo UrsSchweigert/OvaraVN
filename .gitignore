@@ -1,0 +1,12 @@
+config/local.json
+.env
+.env.*
+work/units/
+__pycache__/
+*.tmp
+.DS_Store
+game/**/cache/
+game/**/saves/
+*.rpyc
+build/
+dists/

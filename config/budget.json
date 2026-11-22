@@ -1,0 +1,6 @@
+{
+ "currency": "USD",
+ "total_cap": 200,
+ "purpose_caps": {"bakeoff": 10},
+ "warn_at": 0.8
+}
