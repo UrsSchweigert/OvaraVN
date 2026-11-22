@@ -1,0 +1,204 @@
+{
+ "scenes": [
+  {
+   "id": "c15.s01",
+   "place": "Port Halcyon harbour",
+   "time": "Sunset, the last of the light",
+   "cast": [
+    "Wrack",
+    "Sefa",
+    "Okonta"
+   ],
+   "speaks": [
+    "Wrack",
+    "Sefa"
+   ],
+   "mood": "desperate, losing hold",
+   "key_moment": "The Dragon's ribs standing out of the swell in a long line against the sunset, each with its mane of bright water (c15.s01.p002.3, c15.s01.p002.4)",
+   "looks": [
+    "c15.s01.p001.2",
+    "c15.s01.p002.3",
+    "c15.s01.p002.4",
+    "c15.s01.p005.2",
+    "c15.s01.p005.3",
+    "c15.s01.p009.1",
+    "c15.s01.p014.2",
+    "c15.s01.p015.3",
+    "c15.s01.p018.1"
+   ],
+   "needs": {
+    "backgrounds": [
+     "Port Halcyon harbour at sunset, Dragon across the harbour mouth, warships canted in berths, smoke round the eastern head"
+    ],
+    "sprites": [
+     "Ilan (in the water, ebbed)",
+     "Sefa",
+     "Okonta (flying needle)",
+     "the Dragon (creature)"
+    ],
+    "expressions": [
+     "Ilan strained",
+     "Ilan numb",
+     "Sefa crying out"
+    ]
+   }
+  },
+  {
+   "id": "c15.s02",
+   "place": "Refinery school, the Waterline",
+   "time": "Morning, three days later",
+   "cast": [
+    "Wrack",
+    "Sefa",
+    "Yeva",
+    "Bother",
+    "the man in Meridian grey"
+   ],
+   "speaks": [
+    "Wrack",
+    "Sefa",
+    "Yeva",
+    "the man in Meridian grey"
+   ],
+   "mood": "weak, grave, dread",
+   "key_moment": "Through the schoolroom window, the harbour water clear to the bottom and people along the quays looking down into it (c15.s02.p004.5, c15.s02.p004.6, c15.s02.p004.7)",
+   "looks": [
+    "c15.s02.p002.3",
+    "c15.s02.p002.8",
+    "c15.s02.p004.2",
+    "c15.s02.p004.3",
+    "c15.s02.p004.4",
+    "c15.s02.p004.5",
+    "c15.s02.p004.6",
+    "c15.s02.p014.5",
+    "c15.s02.p017.6"
+   ],
+   "needs": {
+    "backgrounds": [
+     "Refinery school schoolroom, morning, blackboard, small desks pushed back, drawings pinned along wall, window onto harbour and the Stacks"
+    ],
+    "sprites": [
+     "Ilan (lying under blanket)",
+     "Sefa",
+     "Yeva",
+     "Bother",
+     "man in Meridian grey (with gun)"
+    ],
+    "expressions": [
+     "Ilan tired",
+     "Sefa anxious",
+     "Yeva hard"
+    ]
+   }
+  },
+  {
+   "id": "c15.s03",
+   "place": "Refinery school, the Waterline",
+   "time": null,
+   "cast": [
+    "Garran",
+    "Pim",
+    "Wrack",
+    "Bother"
+   ],
+   "speaks": [
+    "Garran",
+    "Wrack"
+   ],
+   "mood": "earnest, uneasy, honest",
+   "key_moment": "Pim and Bother regarding each other with great seriousness (c15.s03.p012.2)",
+   "looks": [
+    "c15.s03.p001.2"
+   ],
+   "needs": {
+    "backgrounds": [
+     "Refinery school schoolroom"
+    ],
+    "sprites": [
+     "Garran (cap, carrying Pim)",
+     "Pim",
+     "Ilan",
+     "Bother"
+    ],
+    "expressions": [
+     "Garran pensive",
+     "Ilan resolute"
+    ]
+   }
+  },
+  {
+   "id": "c15.s04",
+   "place": "Refinery school, the Waterline",
+   "time": "Afternoon",
+   "cast": [
+    "Adler Crane",
+    "Wrack",
+    "Yeva",
+    "two fishwives"
+   ],
+   "speaks": [
+    "Adler Crane",
+    "Wrack",
+    "Yeva"
+   ],
+   "mood": "sober, confessional, tense",
+   "key_moment": "Crane standing before the blackboard, hands at his sides, brought in between two fishwives (c15.s04.p001.1, c15.s04.p003.1, c15.s04.p003.3)",
+   "looks": [
+    "c15.s04.p003.1",
+    "c15.s04.p008.4",
+    "c15.s04.p011.9"
+   ],
+   "needs": {
+    "backgrounds": [
+     "Refinery school schoolroom, afternoon"
+    ],
+    "sprites": [
+     "Adler Crane (spare, grey, tidy, grey coat)",
+     "Ilan",
+     "Yeva",
+     "fishwives (two, one larger)"
+    ],
+    "expressions": [
+     "Crane steady",
+     "Crane unsteady",
+     "Ilan stern"
+    ]
+   }
+  },
+  {
+   "id": "c15.s05",
+   "place": "Refinery school, the Waterline",
+   "time": "Dusk, the last of the light from the window",
+   "cast": [
+    "Wrack",
+    "Sefa"
+   ],
+   "speaks": [
+    "Wrack",
+    "Sefa"
+   ],
+   "mood": "weary, then resolved",
+   "key_moment": "Sefa sitting beside him, hands held out palms up in the last light from the window (c15.s05.p004.3, c15.s05.p005.2, c15.s05.p005.3)",
+   "looks": [
+    "c15.s05.p005.2",
+    "c15.s05.p008.8",
+    "c15.s05.p008.9"
+   ],
+   "needs": {
+    "backgrounds": [
+     "Refinery school schoolroom at dusk"
+    ],
+    "sprites": [
+     "Ilan",
+     "Sefa"
+    ],
+    "expressions": [
+     "Ilan despairing",
+     "Ilan realising",
+     "Sefa wry",
+     "Sefa firm"
+    ]
+   }
+  }
+ ]
+}

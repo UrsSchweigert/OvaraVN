@@ -26,6 +26,17 @@ class CheckTest(unittest.TestCase):
         self.assertTrue(any("no key_moment" in e for e in errs))
         self.assertTrue(any("'Zed'" in e for e in errs))
 
+    def test_manifest_null_time_and_key_moment_allowed_but_not_missing(self):
+        sc = {"id": "c01.s01", "place": "p", "time": None, "cast": ["Wrack"], "mood": "m", "key_moment": None}
+        L.write_json(L.WORK / "manifest" / "ch01.json", {"scenes": [sc]})
+        errs = []
+        check.check_manifests(errs)
+        self.assertEqual(errs, [])
+        del sc["time"]
+        L.write_json(L.WORK / "manifest" / "ch01.json", {"scenes": [sc]})
+        check.check_manifests(errs)
+        self.assertTrue(any("no time" in e for e in errs))
+
     def test_manifest_ok(self):
         L.write_json(L.WORK / "manifest" / "ch01.json", {"scenes": [{"id": "c01.s01", "place": "p", "time": "t", "cast": ["Wrack"], "mood": "m", "key_moment": "k"}]})
         L.write_json(L.WORK / "manifest" / "cast.json", ["Wrack"])

@@ -1,0 +1,284 @@
+{
+ "scenes": [
+  {
+   "id": "c16.s01",
+   "place": "Kelder tanks, Port Halcyon",
+   "time": "Morning to evening; hard white electric light over the tanks that never flickers",
+   "cast": [
+    "Wrack",
+    "Sefa",
+    "Corin",
+    "Okonta",
+    "Speaker of Kelder"
+   ],
+   "speaks": [
+    "Wrack",
+    "Corin",
+    "Okonta",
+    "Speaker of Kelder"
+   ],
+   "mood": "grim, then hopeful; release",
+   "key_moment": "The callers of Kelder climb out of the orphan water and go down through the open sluice into the clean harbour (c16.s01.p015.1-3, c16.s01.p016.1-2)",
+   "looks": [
+    "c16.s01.p003.1",
+    "c16.s01.p003.2",
+    "c16.s01.p003.3",
+    "c16.s01.p003.7",
+    "c16.s01.p005.2",
+    "c16.s01.p005.3",
+    "c16.s01.p005.4",
+    "c16.s01.p009.1",
+    "c16.s01.p016.2",
+    "c16.s01.p022.2",
+    "c16.s01.p025.3"
+   ],
+   "needs": {
+    "backgrounds": [
+     "Kelder tanks behind the sea-wall, day",
+     "Kelder tanks and sluice, evening",
+     "Port Halcyon harbour with the Stacks"
+    ],
+    "sprites": [
+     "Ilan",
+     "Sefa",
+     "Corin (grey-bearded, big, holding hacksaw)",
+     "Okonta",
+     "Speaker of Kelder (old man, mild defeated face)"
+    ],
+    "expressions": [
+     "Corin: shaking, earnest",
+     "Okonta: unsmiling, steady",
+     "Speaker of Kelder: mild, defeated, considering",
+     "Ilan: pleading, honest"
+    ]
+   }
+  },
+  {
+   "id": "c16.s02",
+   "place": "Saltgate",
+   "time": "night at the end, loading by lantern",
+   "cast": [
+    "Wrack",
+    "Sefa",
+    "Okonta",
+    "Corin",
+    "Noodle-stall old man",
+    "Senior Lockkeeper"
+   ],
+   "speaks": [
+    "Wrack",
+    "Noodle-stall old man",
+    "Senior Lockkeeper"
+   ],
+   "mood": "eerie, then resolved",
+   "key_moment": "Saltgate's green, dripping stack-bottoms standing out of the water on black pillars, the canals bare mud (c16.s02.p003.1, c16.s02.p004.1-8)",
+   "looks": [
+    "c16.s02.p003.1",
+    "c16.s02.p004.3",
+    "c16.s02.p004.4",
+    "c16.s02.p004.5",
+    "c16.s02.p004.6",
+    "c16.s02.p004.7",
+    "c16.s02.p007.2",
+    "c16.s02.p008.3",
+    "c16.s02.p008.4",
+    "c16.s02.p014.7"
+   ],
+   "needs": {
+    "backgrounds": [
+     "Saltgate stack-bottoms in the open air",
+     "Wet Market, dry planking",
+     "Sluice noodle stall and dry canal",
+     "Lockkeepers' north gate box",
+     "Saltgate barges loaded by lantern, night"
+    ],
+    "sprites": [
+     "Ilan",
+     "Noodle-stall old man",
+     "Senior Lockkeeper (seventy, brass badge worn smooth)"
+    ],
+    "expressions": [
+     "Senior Lockkeeper: stern, then resolved",
+     "Noodle-stall old man: kindly, puzzled"
+    ]
+   }
+  },
+  {
+   "id": "c16.s03",
+   "place": "Deep Chorus high hall",
+   "time": null,
+   "cast": [
+    "Wrack",
+    "Elder Vey",
+    "Brask"
+   ],
+   "speaks": [
+    "Wrack",
+    "Elder Vey",
+    "Brask"
+   ],
+   "mood": "solemn, then swelling",
+   "key_moment": "The choirs answer: one phrase of four rising notes taken up tier by tier until the whole canyon rings and the glass hums (c16.s03.p012.2-5)",
+   "looks": [
+    "c16.s03.p002.1",
+    "c16.s03.p002.3",
+    "c16.s03.p012.5",
+    "c16.s03.p014.1",
+    "c16.s03.p009.5"
+   ],
+   "needs": {
+    "backgrounds": [
+     "Deep Chorus high hall under clear glass vault",
+     "Deep Chorus canyon galleries",
+     "Sea-door on the rim"
+    ],
+    "sprites": [
+     "Ilan",
+     "Elder Vey",
+     "Brask (huge young man in sealskin)"
+    ],
+    "expressions": [
+     "Elder Vey: upright, reserved",
+     "Brask: wry"
+    ]
+   }
+  },
+  {
+   "id": "c16.s04",
+   "place": "Edge of the dead water, Lashing",
+   "time": "Twentieth day; flat grey sea, no time of day given",
+   "cast": [
+    "Wrack",
+    "Dace",
+    "Odile"
+   ],
+   "speaks": [],
+   "mood": "awe, held breath",
+   "key_moment": "A grey wall forty kilometres off, flat-topped like a table edge with mist along it, shivering toward a sea crowded with boats and mariners (c16.s04.p004.1-2, c16.s04.p008.1-5)",
+   "looks": [
+    "c16.s04.p002.5",
+    "c16.s04.p004.2",
+    "c16.s04.p004.3",
+    "c16.s04.p004.4",
+    "c16.s04.p004.5",
+    "c16.s04.p004.7",
+    "c16.s04.p005.4",
+    "c16.s04.p005.5",
+    "c16.s04.p005.6",
+    "c16.s04.p008.1",
+    "c16.s04.p008.2",
+    "c16.s04.p008.3",
+    "c16.s04.p008.4",
+    "c16.s04.p008.5",
+    "c16.s04.p009.3"
+   ],
+   "needs": {
+    "backgrounds": [
+     "Girdle sea with the fleet, wall to the west",
+     "The grey wall on the horizon"
+    ],
+    "sprites": [
+     "Ilan",
+     "Dace",
+     "Odile"
+    ],
+    "expressions": []
+   }
+  },
+  {
+   "id": "c16.s05",
+   "place": "Edge of the dead water, Lashing",
+   "time": "Twenty-second day; no time of day given",
+   "cast": [
+    "Wrack",
+    "Sefa",
+    "Maelis",
+    "Bother"
+   ],
+   "speaks": [
+    "Wrack",
+    "Sefa",
+    "Maelis"
+   ],
+   "mood": "tender, wondering",
+   "key_moment": "Sefa surfaces holding a double handful of warm sea that keeps its shape, laughing and crying (c16.s05.p012.1-5)",
+   "looks": [
+    "c16.s05.p002.2",
+    "c16.s05.p002.4",
+    "c16.s05.p002.5",
+    "c16.s05.p003.1",
+    "c16.s05.p006.4",
+    "c16.s05.p012.3",
+    "c16.s05.p012.5"
+   ],
+   "needs": {
+    "backgrounds": [
+     "Girdle sea, Dace's boat stern with rays wheeling",
+     "Underwater beside the boat"
+    ],
+    "sprites": [
+     "Ilan (in blanket)",
+     "Sefa",
+     "Maelis (tall, patched coat, hair growing)",
+     "Bother (hound)",
+     "Ray (old one with notched wing)"
+    ],
+    "expressions": [
+     "Sefa: laughing and crying",
+     "Sefa: troubled, honest",
+     "Maelis: calm",
+     "Maelis: amused"
+    ]
+   }
+  },
+  {
+   "id": "c16.s06",
+   "place": "Edge of the dead water, Lashing",
+   "time": "Evening before the crossing; later, lanterns lit",
+   "cast": [
+    "Wrack",
+    "Hesper",
+    "Sefa",
+    "Garran",
+    "Odile",
+    "Odo",
+    "Teodora Raske",
+    "Adler Crane",
+    "Hanne"
+   ],
+   "speaks": [
+    "Wrack",
+    "Hesper",
+    "Garran"
+   ],
+   "mood": "quiet, resolved",
+   "key_moment": "Sefa asleep in the bows, her hand trailing in the water, the sea round her fingers faintly gold (c16.s06.p008.4-5)",
+   "looks": [
+    "c16.s06.p002.4",
+    "c16.s06.p002.5",
+    "c16.s06.p005.2",
+    "c16.s06.p005.3",
+    "c16.s06.p008.5",
+    "c16.s06.p011.1",
+    "c16.s06.p012.2"
+   ],
+   "needs": {
+    "backgrounds": [
+     "Boat stern at evening, fleet and rings",
+     "Rafts by lantern at night, wall to the west"
+    ],
+    "sprites": [
+     "Ilan",
+     "Hesper",
+     "Sefa",
+     "Garran (big, with child asleep on shoulder)"
+    ],
+    "expressions": [
+     "Hesper: tight-jawed, then eased",
+     "Hesper: almost smiling",
+     "Garran: steady"
+    ]
+   }
+  }
+ ]
+}

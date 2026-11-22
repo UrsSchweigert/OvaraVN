@@ -1,0 +1,263 @@
+{
+ "scenes": [
+  {
+   "id": "c09.s01",
+   "place": "Keelhaven",
+   "time": "Night, rain at departure; third night orange sky lit by yard sparks and floodlights",
+   "cast": [
+    "Wrack",
+    "Dace",
+    "Sefa",
+    "Okonta"
+   ],
+   "speaks": [
+    "Wrack",
+    "Dace",
+    "Okonta"
+   ],
+   "mood": "tense, awed, resolved",
+   "key_moment": "The Kessler Banks at night: a hundred-kilometre plain of steel, comb-tooth slipways, rows of cranes, showering sparks and smoke lit from below (c09.s01.p008.2-c09.s01.p008.8); Slip Nine's half-plated hull with the square void amidships (c09.s01.p014.2-c09.s01.p014.5)",
+   "looks": [
+    "c09.s01.p008.2",
+    "c09.s01.p008.3",
+    "c09.s01.p008.4",
+    "c09.s01.p008.5",
+    "c09.s01.p008.6",
+    "c09.s01.p009.1",
+    "c09.s01.p011.5",
+    "c09.s01.p013.2",
+    "c09.s01.p014.1",
+    "c09.s01.p014.2",
+    "c09.s01.p014.3",
+    "c09.s01.p014.4",
+    "c09.s01.p014.5"
+   ],
+   "needs": {
+    "backgrounds": [
+     "Dace's boat stern in rain at Saltgate north lock",
+     "Keelhaven approach at night, slipways and cranes",
+     "coal wharf facing Slip Nine"
+    ],
+    "sprites": [
+     "Ilan",
+     "Dace",
+     "Okonta (cloaked, wet)",
+     "Sefa"
+    ],
+    "expressions": [
+     "Ilan resolute",
+     "Dace questioning",
+     "Okonta urgent"
+    ]
+   }
+  },
+  {
+   "id": "c09.s02",
+   "place": "Raske's office, Kessler-Vane design loft",
+   "time": "Fourth to fifth siren, night; green-shaded lamps",
+   "cast": [
+    "Wrack",
+    "Teodora Raske"
+   ],
+   "speaks": [
+    "Wrack",
+    "Teodora Raske"
+   ],
+   "mood": "intimate, charged, reluctant hope",
+   "key_moment": "The warm-stone begins to glow on Raske's desk and her hand shakes over it (c09.s02.p015.1-c09.s02.p016.2)",
+   "looks": [
+    "c09.s02.p002.1",
+    "c09.s02.p003.2",
+    "c09.s02.p010.2",
+    "c09.s02.p013.3",
+    "c09.s02.p015.1",
+    "c09.s02.p016.2",
+    "c09.s02.p009.4"
+   ],
+   "needs": {
+    "backgrounds": [
+     "design loft hall with empty drawing tables under green lamps",
+     "Raske's office with shelf of models and awards"
+    ],
+    "sprites": [
+     "Teodora Raske (sixty, small, grey, ink on cuffs, spectacles)",
+     "Ilan"
+    ],
+    "expressions": [
+     "Raske stern",
+     "Raske shocked",
+     "Raske shaking, moved",
+     "Ilan earnest"
+    ]
+   }
+  },
+  {
+   "id": "c09.s03",
+   "place": "Net loft over a chandler's shop",
+   "time": "Second night, lantern light",
+   "cast": [
+    "Wrack",
+    "Teodora Raske",
+    "Dace",
+    "the hull man",
+    "the woman from engines",
+    "the young draughtsman"
+   ],
+   "speaks": [
+    "Wrack",
+    "Teodora Raske",
+    "Dace",
+    "the hull man",
+    "the woman from engines"
+   ],
+   "mood": "hushed, wondering",
+   "key_moment": "The woman from engines holds her scarred hands to the glowing warm-stone as to a fire (c09.s03.p004.1-c09.s03.p004.5)",
+   "looks": [
+    "c09.s03.p003.2",
+    "c09.s03.p003.3",
+    "c09.s03.p004.1",
+    "c09.s03.p004.2",
+    "c09.s03.p007.2",
+    "c09.s03.p001.1"
+   ],
+   "needs": {
+    "backgrounds": [
+     "net loft with hanging nets, barrel, lantern"
+    ],
+    "sprites": [
+     "Teodora Raske",
+     "the hull man (grey, stooped)",
+     "the woman from engines (burn scars on hands)",
+     "the young draughtsman",
+     "Dace",
+     "Ilan"
+    ],
+    "expressions": [
+     "woman from engines weeping",
+     "draughtsman crying",
+     "Raske steady"
+    ]
+   }
+  },
+  {
+   "id": "c09.s04",
+   "place": "Keelhaven old ferry stage and open sea",
+   "time": "Before first siren, dark; then black rain at sea; first Eye at dawn; third evening",
+   "cast": [
+    "Wrack",
+    "Dace",
+    "Okonta",
+    "Sefa",
+    "Teodora Raske",
+    "the Kessler-Vane engineers and families"
+   ],
+   "speaks": [
+    "Okonta",
+    "Sefa"
+   ],
+   "mood": "frantic, perilous, then relieved",
+   "key_moment": "Ilan in the bow of the last tug in black rain, the storm giving twenty times what he asked (c09.s04.p007.4-c09.s04.p008.2); alternatively the silver needle sweeping the road (c09.s04.p004.4)",
+   "looks": [
+    "c09.s04.p002.4",
+    "c09.s04.p002.5",
+    "c09.s04.p002.6",
+    "c09.s04.p002.7",
+    "c09.s04.p003.3",
+    "c09.s04.p004.4",
+    "c09.s04.p011.3",
+    "c09.s04.p013.1",
+    "c09.s04.p013.2"
+   ],
+   "needs": {
+    "backgrounds": [
+     "old ferry stage at night with armoured trucks",
+     "storm at sea from tug bow",
+     "Eye of the storm, tugs side by side"
+    ],
+    "sprites": [
+     "Ilan",
+     "Okonta",
+     "Sefa",
+     "Dace",
+     "crowd of engineers and families"
+    ],
+    "expressions": [
+     "Ilan strained",
+     "Okonta fierce",
+     "Sefa shouting"
+    ]
+   }
+  },
+  {
+   "id": "c09.s05",
+   "place": "Lashing",
+   "time": "Evening; lantern-lit nights over many days",
+   "cast": [
+    "Wrack",
+    "Dace",
+    "Teodora Raske",
+    "Okonta",
+    "Sefa",
+    "the fat old man in the striped jersey",
+    "the apprentices",
+    "the engineers"
+   ],
+   "speaks": [
+    "Wrack",
+    "Dace",
+    "Okonta",
+    "the fat old man in the striped jersey"
+   ],
+   "mood": "warm, hopeful, then ominous",
+   "key_moment": "Ilan teaching three hundred engineers on the barge deck, lanterns in the rigging, each holding a dead lamp or warm-stone on their knees (c09.s05.p006.1-c09.s05.p006.6)",
+   "looks": [
+    "c09.s05.p001.1",
+    "c09.s05.p002.1",
+    "c09.s05.p002.2",
+    "c09.s05.p002.3",
+    "c09.s05.p002.5",
+    "c09.s05.p002.6",
+    "c09.s05.p002.7",
+    "c09.s05.p002.8",
+    "c09.s05.p002.9",
+    "c09.s05.p004.3",
+    "c09.s05.p006.2",
+    "c09.s05.p006.3",
+    "c09.s05.p006.5",
+    "c09.s05.p010.4",
+    "c09.s05.p014.1",
+    "c09.s05.p015.1",
+    "c09.s05.p015.2",
+    "c09.s05.p015.4",
+    "c09.s05.p016.1",
+    "c09.s05.p019.1",
+    "c09.s05.p025.1",
+    "c09.s05.p026.2",
+    "c09.s05.p026.3",
+    "c09.s05.p026.4"
+   ],
+   "needs": {
+    "backgrounds": [
+     "Lashing from the water, stormgrass mat and roped hulls",
+     "barge deck at night with lanterns and seated engineers",
+     "soup barge deck"
+    ],
+    "sprites": [
+     "Ilan",
+     "Dace",
+     "Teodora Raske",
+     "Okonta",
+     "Sefa",
+     "fat old man in striped jersey with brass trumpet",
+     "two fifteen-year-old apprentices"
+    ],
+    "expressions": [
+     "Ilan frightened",
+     "Sefa pale",
+     "Okonta grave",
+     "old man unhappy"
+    ]
+   }
+  }
+ ]
+}

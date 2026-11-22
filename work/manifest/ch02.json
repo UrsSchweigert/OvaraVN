@@ -1,0 +1,222 @@
+{
+ "scenes": [
+  {
+   "id": "c02.s01",
+   "place": "Low Anthem dome",
+   "time": "Evening, then several evenings after; the text gives no light",
+   "cast": [
+    "Wrack",
+    "Sefa",
+    "Elder Oro",
+    "Davin",
+    "Hesper"
+   ],
+   "speaks": [
+    "Wrack",
+    "Sefa",
+    "Elder Oro",
+    "Davin"
+   ],
+   "mood": "uneasy, quiet, wry",
+   "key_moment": "Elder Oro and Wrack at the dark half of the dome, Wrack's hands on the eleven dead lamps and the last one coming on (c02.s01.p007.1-8)",
+   "looks": [
+    "c02.s01.p002.3",
+    "c02.s01.p006.2",
+    "c02.s01.p007.2",
+    "c02.s01.p008.3",
+    "c02.s01.p009.2"
+   ],
+   "needs": {
+    "backgrounds": [
+     "Low Anthem dome crown",
+     "Low Anthem dark half of the dome with eleven lamps",
+     "Low Anthem net-racks"
+    ],
+    "sprites": [
+     "Wrack",
+     "Sefa",
+     "Elder Oro",
+     "Davin",
+     "Hesper (distant, on the dome)"
+    ],
+    "expressions": [
+     "Wrack baffled",
+     "Elder Oro delighted",
+     "Davin slow smile"
+    ]
+   }
+  },
+  {
+   "id": "c02.s02",
+   "place": "Low Anthem terraces",
+   "time": "Night, moonlit",
+   "cast": [
+    "Wrack",
+    "Sefa",
+    "Hesper",
+    "Ione"
+   ],
+   "speaks": [
+    "Sefa",
+    "Hesper",
+    "Wrack"
+   ],
+   "mood": "dread, awe, then shock",
+   "key_moment": "The barge hanging in the moonlight on a pillar of sea, streaming, with its crew on deck, as the sludge pours back up (c02.s02.p011.2-6)",
+   "looks": [
+    "c02.s02.p002.2",
+    "c02.s02.p005.1",
+    "c02.s02.p005.2",
+    "c02.s02.p005.5",
+    "c02.s02.p005.6",
+    "c02.s02.p005.8",
+    "c02.s02.p005.9",
+    "c02.s02.p006.3",
+    "c02.s02.p011.3",
+    "c02.s02.p011.4",
+    "c02.s02.p011.6"
+   ],
+   "needs": {
+    "backgrounds": [
+     "Low Anthem terraces at night under a barge hull",
+     "Low Anthem terraces wrecked"
+    ],
+    "sprites": [
+     "Wrack",
+     "Sefa",
+     "Hesper",
+     "Ione"
+    ],
+    "expressions": [
+     "Wrack shaken",
+     "Hesper angry, voice shaking",
+     "Ione in pain, working on"
+    ]
+   }
+  },
+  {
+   "id": "c02.s03",
+   "place": "Low Anthem hall",
+   "time": "Three days; the text gives no light",
+   "cast": [
+    "Wrack",
+    "Ione",
+    "Sefa",
+    "Davin",
+    "Hesper"
+   ],
+   "speaks": [
+    "Wrack",
+    "Ione",
+    "Hesper"
+   ],
+   "mood": "hollow, quiet, instructive",
+   "key_moment": null,
+   "looks": [
+    "c02.s03.p004.3",
+    "c02.s03.p004.4"
+   ],
+   "needs": {
+    "backgrounds": [
+     "Low Anthem hall with hammocks"
+    ],
+    "sprites": [
+     "Wrack",
+     "Ione",
+     "Hesper",
+     "Davin"
+    ],
+    "expressions": [
+     "Wrack ebbed, shivering",
+     "Hesper teacher's voice",
+     "Hesper tired"
+    ]
+   }
+  },
+  {
+   "id": "c02.s04",
+   "place": "Low Anthem broken terrace",
+   "time": "Day, then evening; the text gives no light for the burial",
+   "cast": [
+    "Wrack",
+    "Hesper",
+    "Davin",
+    "Elder Oro"
+   ],
+   "speaks": [
+    "Hesper",
+    "Wrack"
+   ],
+   "mood": "grief, anger, loss",
+   "key_moment": "The burial in the kelp: dead wrapped in sea-silk, names cut into the kelp stems, Hesper standing silent by Davin's stem (c02.s04.p007.1-6, c02.s04.p008.2)",
+   "looks": [
+    "c02.s04.p002.1",
+    "c02.s04.p003.4",
+    "c02.s04.p005.4",
+    "c02.s04.p007.2",
+    "c02.s04.p007.3",
+    "c02.s04.p007.6",
+    "c02.s04.p009.2",
+    "c02.s04.p009.3"
+   ],
+   "needs": {
+    "backgrounds": [
+     "Low Anthem broken terrace",
+     "Kelp forest with named stems at burial"
+    ],
+    "sprites": [
+     "Wrack",
+     "Hesper with bundle and knotted cord",
+     "Gunboats (three, grey, Halcyon crest)"
+    ],
+    "expressions": [
+     "Hesper face like a shut door",
+     "Wrack despairing"
+    ]
+   }
+  },
+  {
+   "id": "c02.s05",
+   "place": "Low Anthem broken terrace",
+   "time": "Dusk into dark, after the light went",
+   "cast": [
+    "Wrack",
+    "Okonta",
+    "Sefa",
+    "Bother"
+   ],
+   "speaks": [
+    "Okonta",
+    "Wrack",
+    "Sefa"
+   ],
+   "mood": "grim, strange, resolved",
+   "key_moment": "The pale needle of Maker metal hanging over the terrace, with Okonta stepping off it (c02.s05.p002.3-7, c02.s05.p003.1-4)",
+   "looks": [
+    "c02.s05.p002.4",
+    "c02.s05.p002.5",
+    "c02.s05.p002.7",
+    "c02.s05.p003.3",
+    "c02.s05.p003.4",
+    "c02.s05.p010.2"
+   ],
+   "needs": {
+    "backgrounds": [
+     "Low Anthem broken terrace"
+    ],
+    "sprites": [
+     "Wrack",
+     "Okonta",
+     "Sefa with sea-silk strapping",
+     "Bother (tide hound)",
+     "Maker vehicle (pale needle)"
+    ],
+    "expressions": [
+     "Okonta grave",
+     "Sefa fierce",
+     "Wrack resolved"
+    ]
+   }
+  }
+ ]
+}

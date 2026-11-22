@@ -1,0 +1,214 @@
+{
+ "scenes": [
+  {
+   "id": "c12.s01",
+   "place": "Nine Spires",
+   "time": "Daylight under a clean sky on the Bright Shelves, then dusk and night in the eastern tower",
+   "cast": [
+    "Wrack",
+    "Teodora Raske",
+    "Hanne",
+    "Sefa",
+    "Okonta",
+    "Odile"
+   ],
+   "speaks": [
+    "Wrack",
+    "Hanne",
+    "Odile"
+   ],
+   "mood": "wonder, wary welcome",
+   "key_moment": "The tug seeming to hang in clear pale green water over white sand, its shadow sharp on the sea floor, glass coral reefs chiming, with the nine white Maker towers rising ahead. c12.s01.p004.4, c12.s01.p004.5, c12.s01.p004.6, c12.s01.p004.8, c12.s01.p008.2, c12.s01.p008.3",
+   "looks": [
+    "c12.s01.p004.4",
+    "c12.s01.p004.5",
+    "c12.s01.p004.6",
+    "c12.s01.p004.7",
+    "c12.s01.p004.8",
+    "c12.s01.p004.9",
+    "c12.s01.p007.1",
+    "c12.s01.p008.2",
+    "c12.s01.p008.3",
+    "c12.s01.p008.4",
+    "c12.s01.p008.6",
+    "c12.s01.p008.7",
+    "c12.s01.p009.3",
+    "c12.s01.p009.4",
+    "c12.s01.p009.6",
+    "c12.s01.p011.2",
+    "c12.s01.p011.3",
+    "c12.s01.p015.1",
+    "c12.s01.p015.3"
+   ],
+   "needs": {
+    "backgrounds": [
+     "Bright Shelves from the tug deck, day",
+     "Nine Spires towers and stone aprons with rafts, day",
+     "Room high in the eastern tower, window on the sea, night"
+    ],
+    "sprites": [
+     "Ilan",
+     "Teodora Raske",
+     "Hanne",
+     "Sefa",
+     "Okonta",
+     "Odile"
+    ],
+    "expressions": [
+     "Odile: brisk, then cool",
+     "Ilan: quiet",
+     "Hanne: awed"
+    ]
+   }
+  },
+  {
+   "id": "c12.s02",
+   "place": "Tidehall",
+   "time": "Morning, sunlight through ten metres of water",
+   "cast": [
+    "Wrack",
+    "Odile",
+    "Hesper",
+    "Elder Vey",
+    "Aurel",
+    "Brask",
+    "Ione",
+    "Sefa",
+    "Okonta",
+    "Dace",
+    "Teodora Raske"
+   ],
+   "speaks": [
+    "Wrack",
+    "Odile",
+    "Hesper",
+    "Elder Vey",
+    "Brask",
+    "Ione",
+    "Sefa"
+   ],
+   "mood": "solemn, tense, then turning",
+   "key_moment": "Ilan alone on the white sand at the centre of the vast terraced bowl, with two hundred holds on the tiers above and nets of light moving on the stone. c12.s02.p003.3, c12.s02.p003.4, c12.s02.p015.1, c12.s02.p017.1",
+   "looks": [
+    "c12.s02.p003.3",
+    "c12.s02.p003.4",
+    "c12.s02.p008.2",
+    "c12.s02.p008.3",
+    "c12.s02.p008.4",
+    "c12.s02.p008.5",
+    "c12.s02.p008.6",
+    "c12.s02.p009.1",
+    "c12.s02.p009.2",
+    "c12.s02.p011.2",
+    "c12.s02.p023.2",
+    "c12.s02.p038.1",
+    "c12.s02.p039.3",
+    "c12.s02.p041.2",
+    "c12.s02.p041.3"
+   ],
+   "needs": {
+    "backgrounds": [
+     "Tidehall bowl, centre looking up at the tiers",
+     "Tidehall tiers crowded with speakers"
+    ],
+    "sprites": [
+     "Ilan",
+     "Odile",
+     "Hesper",
+     "Elder Vey",
+     "Brask",
+     "Ione",
+     "Sefa"
+    ],
+    "expressions": [
+     "Hesper: blank, then hard",
+     "Ione: even, scarred forearms shown",
+     "Sefa: small, hands held away",
+     "Ilan: frightened, steady",
+     "Brask: scornful"
+    ]
+   }
+  },
+  {
+   "id": "c12.s03",
+   "place": "Tidehall",
+   "time": "Day, then until dark",
+   "cast": [
+    "Wrack",
+    "Aurel",
+    "Hesper",
+    "Brask",
+    "Odile"
+   ],
+   "speaks": [],
+   "mood": "hushed, then ringing and released",
+   "key_moment": "A knee-high swell rolling out from the centre of Tidehall across the Bright Shelves while every glass coral reef chimes at once. c12.s03.p006.1, c12.s03.p006.2, c12.s03.p007.1, c12.s03.p007.2, c12.s03.p007.3",
+   "looks": [
+    "c12.s03.p001.3",
+    "c12.s03.p005.1",
+    "c12.s03.p006.2",
+    "c12.s03.p007.1",
+    "c12.s03.p007.2",
+    "c12.s03.p007.3"
+   ],
+   "needs": {
+    "backgrounds": [
+     "Tidehall bowl, centre, ring of callers on the sand",
+     "Bright Shelves reefs ringing, wide view"
+    ],
+    "sprites": [
+     "Ilan",
+     "Aurel",
+     "Hesper",
+     "Brask"
+    ],
+    "expressions": [
+     "Ilan: eyes closed, still",
+     "Hesper: looking at her hands"
+    ]
+   }
+  },
+  {
+   "id": "c12.s04",
+   "place": "Tidehall",
+   "time": "Last of the light, then dusk",
+   "cast": [
+    "Wrack",
+    "Ione",
+    "Sefa",
+    "Okonta",
+    "Bother"
+   ],
+   "speaks": [
+    "Wrack",
+    "Ione",
+    "Okonta"
+   ],
+   "mood": "quiet, hard-won, then foreboding",
+   "key_moment": null,
+   "looks": [
+    "c12.s04.p002.1",
+    "c12.s04.p007.2",
+    "c12.s04.p014.2"
+   ],
+   "needs": {
+    "backgrounds": [
+     "Rim of Tidehall bowl, dusk",
+     "Empty eastern block of the tiers"
+    ],
+    "sprites": [
+     "Ilan",
+     "Ione",
+     "Sefa",
+     "Okonta",
+     "Bother"
+    ],
+    "expressions": [
+     "Ione: arms folded, then softening",
+     "Okonta: grey-faced",
+     "Ilan: steady"
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,182 @@
+{
+ "scenes": [
+  {
+   "id": "c13.s01",
+   "place": "Old Tolla",
+   "time": "rain throughout; the shrine is found on the first morning",
+   "cast": [
+    "Wrack",
+    "Sefa",
+    "Dace",
+    "Okonta",
+    "Teodora Raske"
+   ],
+   "speaks": [
+    "Wrack",
+    "Sefa",
+    "Dace",
+    "Okonta",
+    "Teodora Raske"
+   ],
+   "mood": "wary, urgent, resolved",
+   "key_moment": "The carved woman rising from a wave in the rock shrine, with fish-hooks, shells and a child's shoe left before her. (c13.s01.p006.1-c13.s01.p006.6)",
+   "looks": [
+    "c13.s01.p003.3",
+    "c13.s01.p003.5",
+    "c13.s01.p004.2",
+    "c13.s01.p004.3",
+    "c13.s01.p004.4",
+    "c13.s01.p004.5",
+    "c13.s01.p006.1",
+    "c13.s01.p006.3",
+    "c13.s01.p006.4",
+    "c13.s01.p006.5",
+    "c13.s01.p006.6",
+    "c13.s01.p008.2",
+    "c13.s01.p012.3",
+    "c13.s01.p014.4",
+    "c13.s01.p014.5",
+    "c13.s01.p014.6"
+   ],
+   "needs": {
+    "backgrounds": [
+     "Old Tolla village on crag above cove, rain",
+     "Old Tolla shrine hollow",
+     "Old Tolla fish-loft interior, rain on roof"
+    ],
+    "sprites": [
+     "Ilan Voss",
+     "Sefa",
+     "Dace",
+     "Okonta",
+     "Teodora Raske"
+    ],
+    "expressions": [
+     "Sefa: shaken, white",
+     "Ilan: tired, rubbing eyes",
+     "Raske: sharp, skeptical",
+     "Dace: shy"
+    ]
+   }
+  },
+  {
+   "id": "c13.s02",
+   "place": "Old Tolla fish-loft",
+   "time": "Arrival and talk at an unstated hour; that night on the quay in rain; next morning.",
+   "cast": [
+    "Marit Coyle",
+    "Wrack",
+    "Sefa"
+   ],
+   "speaks": [
+    "Marit Coyle",
+    "Wrack"
+   ],
+   "mood": "tense, then tender",
+   "key_moment": "Marit and Sefa sitting together on the quay in the rain, a village blanket round Marit, looking at the water. (c13.s02.p018.2-c13.s02.p018.7)",
+   "looks": [
+    "c13.s02.p001.1",
+    "c13.s02.p002.1",
+    "c13.s02.p002.4",
+    "c13.s02.p011.3",
+    "c13.s02.p016.4",
+    "c13.s02.p018.3",
+    "c13.s02.p018.6",
+    "c13.s02.p009.8"
+   ],
+   "needs": {
+    "backgrounds": [
+     "Old Tolla fish-loft interior, rain on roof",
+     "Old Tolla quay in rain, night"
+    ],
+    "sprites": [
+     "Marit Coyle (silver eyelids, borrowed oilskins)",
+     "Ilan Voss",
+     "Sefa"
+    ],
+    "expressions": [
+     "Marit: hard, unfriendly look",
+     "Marit: red-eyed, softened",
+     "Sefa: staring, wet from rain"
+    ]
+   }
+  },
+  {
+   "id": "c13.s03",
+   "place": "Orrin Spire",
+   "time": "Evening of the broadcast ('tonight'); evening sun on the harbour screen.",
+   "cast": [
+    "Wrack",
+    "Marit Coyle",
+    "Teodora Raske",
+    "Caspar Venn",
+    "Bertil",
+    "Meridian captain"
+   ],
+   "speaks": [
+    "Wrack",
+    "Marit Coyle",
+    "Caspar Venn",
+    "Bertil",
+    "Meridian captain"
+   ],
+   "mood": "tense, defiant, then dread",
+   "key_moment": "The floor manager steps unbuttoning his collar between the Meridian guns and Ilan's chair, and the studio staff join him. (c13.s03.p046.1-c13.s03.p047.2)",
+   "looks": [
+    "c13.s03.p001.1",
+    "c13.s03.p002.6",
+    "c13.s03.p002.8",
+    "c13.s03.p004.1",
+    "c13.s03.p004.3",
+    "c13.s03.p005.3",
+    "c13.s03.p005.4",
+    "c13.s03.p005.5",
+    "c13.s03.p007.3",
+    "c13.s03.p008.2",
+    "c13.s03.p010.1",
+    "c13.s03.p016.2",
+    "c13.s03.p021.2",
+    "c13.s03.p021.3",
+    "c13.s03.p023.10",
+    "c13.s03.p023.11",
+    "c13.s03.p026.2",
+    "c13.s03.p031.5",
+    "c13.s03.p042.1",
+    "c13.s03.p042.2",
+    "c13.s03.p044.4",
+    "c13.s03.p044.5",
+    "c13.s03.p049.1",
+    "c13.s03.p049.2",
+    "c13.s03.p049.5",
+    "c13.s03.p049.6",
+    "c13.s03.p055.2",
+    "c13.s03.p055.4"
+   ],
+   "needs": {
+    "backgrounds": [
+     "Concord street with giant screens between glass towers",
+     "Orrin Spire and the windowless Exchange",
+     "Spire lobby, blue marble",
+     "Makeup room, mirror ringed in bulbs",
+     "Studio One, desk, two chairs, glass wall with clouds"
+    ],
+    "sprites": [
+     "Ilan Voss",
+     "Marit Coyle",
+     "Teodora Raske (lipstick, document case)",
+     "Caspar Venn",
+     "Bertil",
+     "Meridian captain",
+     "Meridian soldiers in grey (eight)"
+    ],
+    "expressions": [
+     "Venn: grave, then gentle apology, then blank",
+     "Marit: pleasant, white under silver",
+     "Ilan: steady, unsettled",
+     "Captain: putty-faced",
+     "Bertil: quiet"
+    ]
+   }
+  }
+ ]
+}

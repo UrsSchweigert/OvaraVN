@@ -1,0 +1,186 @@
+{
+ "scenes": [
+  {
+   "id": "c10.s01",
+   "place": "Lashing raft-town",
+   "time": null,
+   "cast": [
+    "Odo",
+    "Wrack",
+    "Dace",
+    "Sefa",
+    "Teodora Raske",
+    "Okonta"
+   ],
+   "speaks": [
+    "Odo",
+    "Wrack",
+    "Dace",
+    "Teodora Raske"
+   ],
+   "mood": "tense, wary, law-bound",
+   "key_moment": null,
+   "looks": [
+    "c10.s01.p002.3",
+    "c10.s01.p009.2"
+   ],
+   "needs": {
+    "backgrounds": [
+     "Lashing raft-town planking beside a barge, water alongside"
+    ],
+    "sprites": [
+     "Odo",
+     "Ilan",
+     "Dace",
+     "Raske",
+     "Sefa (in water)"
+    ],
+    "expressions": [
+     "Odo: uneasy",
+     "Ilan: calm",
+     "Dace: angry",
+     "Sefa: quiet, withdrawn",
+     "Raske: dry, refusing"
+    ]
+   }
+  },
+  {
+   "id": "c10.s02",
+   "place": "Frigate afterdeck, Lashing",
+   "time": "lantern light; hour not stated",
+   "cast": [
+    "Wrack",
+    "Anselm Rook",
+    "Dace's aunt"
+   ],
+   "speaks": [
+    "Wrack",
+    "Anselm Rook"
+   ],
+   "mood": "courteous, dreadful, intimate",
+   "key_moment": "The table and two chairs with a lantern on the cleared afterdeck, iron grating beneath and the sea below it (c10.s02.p002.3-c10.s02.p002.6); Rook turning at the rail, glad (c10.s02.p003.1-c10.s02.p003.6).",
+   "looks": [
+    "c10.s02.p002.1",
+    "c10.s02.p002.2",
+    "c10.s02.p002.3",
+    "c10.s02.p002.4",
+    "c10.s02.p002.5",
+    "c10.s02.p003.1",
+    "c10.s02.p003.2",
+    "c10.s02.p009.1",
+    "c10.s02.p009.2",
+    "c10.s02.p021.3"
+   ],
+   "needs": {
+    "backgrounds": [
+     "Frigate afterdeck at night: table, two chairs, lantern, iron grating over the sea"
+    ],
+    "sprites": [
+     "Ilan",
+     "Rook (dark high-collared coat)",
+     "Dace's aunt"
+    ],
+    "expressions": [
+     "Rook: glad, courteous, moved",
+     "Ilan: guarded, afraid",
+     "Dace's aunt: mouth shut like a purse"
+    ]
+   }
+  },
+  {
+   "id": "c10.s03",
+   "place": "Frigate afterdeck, Lashing",
+   "time": "lantern light, after the meal; hour not stated",
+   "cast": [
+    "Wrack",
+    "Anselm Rook",
+    "Dace's aunt",
+    "Odo"
+   ],
+   "speaks": [
+    "Wrack",
+    "Anselm Rook"
+   ],
+   "mood": "tempting, chilling, grief and anger",
+   "key_moment": "The governor set in the soup bowl and the water drawing back into a ring a finger high round the dry middle (c10.s03.p011.2, c10.s03.p013.1, c10.s03.p014.1-c10.s03.p014.2, c10.s03.p014.5).",
+   "looks": [
+    "c10.s03.p002.2",
+    "c10.s03.p002.4",
+    "c10.s03.p005.5",
+    "c10.s03.p011.2",
+    "c10.s03.p014.1",
+    "c10.s03.p014.2",
+    "c10.s03.p018.4",
+    "c10.s03.p038.2",
+    "c10.s03.p040.2",
+    "c10.s03.p043.1",
+    "c10.s03.p043.3",
+    "c10.s03.p044.4"
+   ],
+   "needs": {
+    "backgrounds": [
+     "Frigate afterdeck at night (as c10.s02)",
+     "Lashing lanterns on the swell, forty white lamps on a barge rail"
+    ],
+    "sprites": [
+     "Ilan",
+     "Rook",
+     "Dace's aunt",
+     "Odo (distant, with trumpet)"
+    ],
+    "expressions": [
+     "Rook: pleased, tired, steady",
+     "Ilan: still, then stricken and on his feet"
+    ]
+   },
+   "props": null
+  },
+  {
+   "id": "c10.s04",
+   "place": "Frigate afterdeck, Lashing",
+   "time": "dark, beyond the last lanterns; hour not stated",
+   "cast": [
+    "Sefa",
+    "Wrack",
+    "Okonta",
+    "Teodora Raske",
+    "Bother"
+   ],
+   "speaks": [
+    "Sefa",
+    "Wrack",
+    "Okonta",
+    "Teodora Raske"
+   ],
+   "mood": "shaken, honest, tender",
+   "key_moment": "Ilan and Sefa sitting against the rail, she leaning on his arm, with the storm wall standing round the Eye in the dark (c10.s04.p018.1-c10.s04.p018.3, c10.s04.p027.1-c10.s04.p027.2).",
+   "looks": [
+    "c10.s04.p001.1",
+    "c10.s04.p002.1",
+    "c10.s04.p005.3",
+    "c10.s04.p006.2",
+    "c10.s04.p014.1",
+    "c10.s04.p027.2"
+   ],
+   "needs": {
+    "backgrounds": [
+     "Frigate afterdeck at night with overturned chair",
+     "Edge of the storm wall round the Eye beyond the lanterns"
+    ],
+    "sprites": [
+     "Sefa (wet)",
+     "Ilan",
+     "Okonta",
+     "Raske (shawl over head)",
+     "Bother"
+    ],
+    "expressions": [
+     "Sefa: shaken, then leaning, low-voiced",
+     "Ilan: grave, rueful",
+     "Okonta: grey-faced",
+     "Raske: dry"
+    ]
+   }
+  }
+ ]
+}

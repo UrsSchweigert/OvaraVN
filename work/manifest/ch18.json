@@ -1,0 +1,172 @@
+{
+ "scenes": [
+  {
+   "id": "c18.s01",
+   "place": "Meet",
+   "time": null,
+   "cast": [
+    "Adler Crane",
+    "Wrack",
+    "Odile"
+   ],
+   "speaks": [],
+   "mood": "aftermath, quiet, dry",
+   "key_moment": "The empty streets with the lamps still on (c18.s01.p002.8, c18.s01.p002.9)",
+   "looks": [
+    "c18.s01.p005.1",
+    "c18.s01.p005.3"
+   ],
+   "needs": {
+    "backgrounds": [
+     "Meet streets, empty, lamps lit",
+     "Tidehall court"
+    ],
+    "sprites": [],
+    "expressions": []
+   }
+  },
+  {
+   "id": "c18.s02",
+   "place": "Dragon square",
+   "time": null,
+   "cast": [
+    "Wrack",
+    "Threaded",
+    "woman with the clay tube"
+   ],
+   "speaks": [],
+   "mood": "quiet, restored",
+   "key_moment": "The bright water returning into the Dragon's ribs (c18.s02.p002.1, c18.s02.p002.2)",
+   "looks": [
+    "c18.s02.p002.2"
+   ],
+   "needs": {
+    "backgrounds": [
+     "Square where the Dragon lay"
+    ],
+    "sprites": [
+     "Ilan",
+     "old woman with the clay tube"
+    ],
+    "expressions": [
+     "Ilan: calm, working"
+    ]
+   }
+  },
+  {
+   "id": "c18.s03",
+   "place": "Low Anthem",
+   "time": "evening, the last evening, lit terraces",
+   "cast": [
+    "Wrack",
+    "Hesper",
+    "Hanne",
+    "Sefa",
+    "Ione",
+    "Bother"
+   ],
+   "speaks": [
+    "Hesper",
+    "Wrack"
+   ],
+   "mood": "tender, communal, healing",
+   "key_moment": "Hesper sings the tending song to Ilan on the lit terrace (c18.s03.p011.3, c18.s03.p012.1, c18.s03.p012.2)",
+   "looks": [
+    "c18.s03.p004.2",
+    "c18.s03.p004.9",
+    "c18.s03.p005.5",
+    "c18.s03.p008.1",
+    "c18.s03.p011.3"
+   ],
+   "needs": {
+    "backgrounds": [
+     "Low Anthem terrace, dome lit all round",
+     "Low Anthem meeting hall",
+     "Cracked dome"
+    ],
+    "sprites": [
+     "Ilan",
+     "Hesper",
+     "Hanne",
+     "Sefa"
+    ],
+    "expressions": [
+     "Hesper: rusty, grieving, warm",
+     "Ilan: mouth shut, then trying to sing"
+    ]
+   }
+  },
+  {
+   "id": "c18.s04",
+   "place": "Meet",
+   "time": "morning (spring); night for the workshop",
+   "cast": [
+    "Wrack",
+    "Maelis",
+    "Sefa",
+    "Bother",
+    "Teodora Raske",
+    "Adler Crane",
+    "Garran"
+   ],
+   "speaks": [
+    "Wrack",
+    "Maelis"
+   ],
+   "mood": "warm, wry, resolute",
+   "key_moment": "Ilan rolls up his sleeves with the tool in hand: \"This\" (c18.s04.p025.1, c18.s04.p026.1)",
+   "looks": [
+    "c18.s04.p002.2",
+    "c18.s04.p003.3",
+    "c18.s04.p003.4",
+    "c18.s04.p003.5",
+    "c18.s04.p003.6",
+    "c18.s04.p003.7",
+    "c18.s04.p003.8",
+    "c18.s04.p003.9",
+    "c18.s04.p004.4",
+    "c18.s04.p016.2",
+    "c18.s04.p016.3",
+    "c18.s04.p016.4",
+    "c18.s04.p016.6",
+    "c18.s04.p017.1",
+    "c18.s04.p018.3",
+    "c18.s04.p019.6"
+   ],
+   "needs": {
+    "backgrounds": [
+     "Meet market streets, ankle deep at high tide",
+     "Square by the water",
+     "Canal table with basins",
+     "Archive workshop under the eastern quarter, walls alight"
+    ],
+    "sprites": [
+     "Ilan",
+     "Maelis",
+     "Sefa",
+     "Bother",
+     "Teodora Raske"
+    ],
+    "expressions": [
+     "Ilan: nervous, then resolved",
+     "Maelis: sidelong, composed"
+    ]
+   }
+  },
+  {
+   "id": "c18.s05",
+   "place": "Meet",
+   "time": null,
+   "cast": [],
+   "speaks": [],
+   "mood": "closing",
+   "key_moment": null,
+   "looks": [],
+   "needs": {
+    "backgrounds": [],
+    "sprites": [],
+    "expressions": []
+   }
+  }
+ ]
+}

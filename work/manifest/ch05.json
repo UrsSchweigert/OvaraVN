@@ -1,0 +1,202 @@
+{
+ "scenes": [
+  {
+   "id": "c05.s01",
+   "place": "Jef's workshop",
+   "time": "Nine days of ordinary days, then the ninth evening; later the landing and a long ride south by needle. Light not stated.",
+   "cast": [
+    "Wrack",
+    "Okonta"
+   ],
+   "speaks": [
+    "Wrack",
+    "Okonta"
+   ],
+   "mood": "grief, stillness, then urgency",
+   "key_moment": "Wrack lies along Jef's old needle, going south, the sea opening in front of them like a door (c05.s01.p020.3, c05.s01.p020.8)",
+   "looks": [
+    "c05.s01.p002.4",
+    "c05.s01.p003.4",
+    "c05.s01.p003.8",
+    "c05.s01.p003.9",
+    "c05.s01.p013.1",
+    "c05.s01.p015.3"
+   ],
+   "needs": {
+    "backgrounds": [
+     "Jef's workshop",
+     "landing",
+     "open sea with ice shelf"
+    ],
+    "sprites": [
+     "Wrack",
+     "Okonta"
+    ],
+    "expressions": [
+     "Wrack: grieving",
+     "Wrack: resolved",
+     "Okonta: frowning",
+     "Okonta: listening"
+    ]
+   }
+  },
+  {
+   "id": "c05.s02",
+   "place": "Deep Chorus",
+   "time": "Sixth day of the journey; light not stated. White window light above the twentieth tier, green dimness below.",
+   "cast": [
+    "Wrack",
+    "Okonta",
+    "Elder Vey",
+    "Sefa",
+    "Bother"
+   ],
+   "speaks": [
+    "Wrack",
+    "Okonta",
+    "Elder Vey",
+    "Sefa"
+   ],
+   "mood": "awe turning to dread",
+   "key_moment": "The canyon of Deep Chorus: a gulf a kilometre wide, tiers of lit galleries, bridges, hanging weed, like the inside of a throat (c05.s02.p006.2-p006.9)",
+   "looks": [
+    "c05.s02.p002.2",
+    "c05.s02.p002.3",
+    "c05.s02.p006.2",
+    "c05.s02.p006.3",
+    "c05.s02.p006.4",
+    "c05.s02.p006.5",
+    "c05.s02.p006.6",
+    "c05.s02.p006.7",
+    "c05.s02.p006.8",
+    "c05.s02.p006.9",
+    "c05.s02.p010.1",
+    "c05.s02.p010.2",
+    "c05.s02.p012.2",
+    "c05.s02.p012.3",
+    "c05.s02.p012.4",
+    "c05.s02.p012.5",
+    "c05.s02.p012.6",
+    "c05.s02.p012.7",
+    "c05.s02.p018.1",
+    "c05.s02.p018.2",
+    "c05.s02.p018.3",
+    "c05.s02.p021.3",
+    "c05.s02.p022.1",
+    "c05.s02.p022.2",
+    "c05.s02.p022.7",
+    "c05.s02.p029.1",
+    "c05.s02.p030.2",
+    "c05.s02.p030.3",
+    "c05.s02.p030.4",
+    "c05.s02.p030.9"
+   ],
+   "needs": {
+    "backgrounds": [
+     "Deep Chorus canyon, from above",
+     "Deep Chorus high hall",
+     "Deep Chorus service tunnels",
+     "Deep Chorus lowest dry halls",
+     "Deep Chorus heart-chamber"
+    ],
+    "sprites": [
+     "Wrack",
+     "Okonta",
+     "Elder Vey",
+     "Sefa",
+     "Bother"
+    ],
+    "expressions": [
+     "Okonta: grim",
+     "Vey: composed, cold",
+     "Sefa: hard and quiet",
+     "Sefa: tired",
+     "Bother: excited",
+     "Wrack: stunned"
+    ]
+   }
+  },
+  {
+   "id": "c05.s03",
+   "place": "Deep Chorus heart-chamber",
+   "time": "A day and a night, then some time on the second day; light not stated.",
+   "cast": [
+    "Wrack",
+    "Sefa",
+    "Bother"
+   ],
+   "speaks": [
+    "Wrack",
+    "Sefa"
+   ],
+   "mood": "strain, fear, loss",
+   "key_moment": "Sefa grips Wrack by the collar, her face a hand's width from his, shouting him back from going under (c05.s03.p010.2-p010.3)",
+   "looks": [
+    "c05.s03.p003.2"
+   ],
+   "needs": {
+    "backgrounds": [
+     "Deep Chorus heart-chamber"
+    ],
+    "sprites": [
+     "Wrack",
+     "Sefa",
+     "Bother"
+    ],
+    "expressions": [
+     "Wrack: fading, going grey",
+     "Wrack: dazed",
+     "Sefa: fierce",
+     "Sefa: eyes filling"
+    ]
+   }
+  },
+  {
+   "id": "c05.s04",
+   "place": "Deep Chorus sea-door",
+   "time": "The dying heart revives at dawn on the fifth day; the talk with Vey follows. Light at the sea-door not stated.",
+   "cast": [
+    "Wrack",
+    "Elder Vey",
+    "Sefa",
+    "Aurel"
+   ],
+   "speaks": [
+    "Wrack",
+    "Elder Vey"
+   ],
+   "mood": "exhaustion, relief, unease",
+   "key_moment": "The lamps come on down both walls of the canyon, tier by tier, and stop at the sixtieth tier with forty tiers left dark (c05.s04.p011.7, c05.s04.p012.1, c05.s04.p013.1-p013.2)",
+   "looks": [
+    "c05.s04.p008.1",
+    "c05.s04.p008.2",
+    "c05.s04.p010.4",
+    "c05.s04.p011.2",
+    "c05.s04.p015.3",
+    "c05.s04.p022.5",
+    "c05.s04.p022.6",
+    "c05.s04.p030.2",
+    "c05.s04.p030.3"
+   ],
+   "needs": {
+    "backgrounds": [
+     "Deep Chorus high hall (crowded)",
+     "Deep Chorus canyon, lamps lit to the sixtieth tier",
+     "Deep Chorus sea-door on the rim",
+     "Heart-chamber, under the dying heart"
+    ],
+    "sprites": [
+     "Wrack",
+     "Elder Vey",
+     "Aurel",
+     "Sefa"
+    ],
+    "expressions": [
+     "Vey: shaken, not straight",
+     "Vey: tight-mouthed",
+     "Wrack: exhausted"
+    ]
+   }
+  }
+ ]
+}
