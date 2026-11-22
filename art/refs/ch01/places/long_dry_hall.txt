@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text. A long, dim, dry stone hall at night with a row of hammocks hung along both sides, plain stone floor, a faint warm lamp at the far end, quiet shadows. Nobody in it.

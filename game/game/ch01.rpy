@@ -6,23 +6,16 @@ define c_oro = Character("Elder Oro")
 define c_ione = Character("Ione")
 define c_davin = Character("Davin")
 
-transform pos_wrack:
-    xalign 0.10 yalign 1.0 zoom 0.62
-transform pos_sefa:
-    xalign 0.30 yalign 1.0 zoom 0.62
-transform pos_bother:
-    xalign 0.50 yalign 1.0 zoom 0.45
-transform pos_ione:
-    xalign 0.70 yalign 1.0 zoom 0.62
-transform pos_oro:
-    xalign 0.90 yalign 1.0 zoom 0.62
+transform head_left:
+    xalign 0.27 yalign 1.0 yoffset -80 zoom 0.8
+transform head_right:
+    xalign 0.73 yalign 1.0 yoffset -80 xzoom -0.8 yzoom 0.8
 
 label ch01:
 
     # c01.s01
     scene bg kelp_forest
     with fade
-    show wrack at pos_wrack with dissolve
     "He woke on the seabed with a kelp frond across his face and no idea who he was."
 
     "That was the second thing he noticed. The first was that he was breathing."
@@ -35,22 +28,29 @@ label ch01:
 
     "Something bumped his ribs."
 
-    show bother at pos_bother with dissolve
     "He turned his head and found a whiskered grey muzzle a hand's width from his nose. It belonged to an animal like a seal that had been built by someone fond of dogs."
     "It wore a collar of plaited cord. It snuffled his neck, sneezed a stream of bubbles into his face, and looked up, very pleased with itself, for someone to tell about it."
 
-    show sefa at pos_sefa with dissolve
     "A girl of about sixteen hung in the water above him. She was holding a harvesting hook the way you hold something you are prepared to use."
 
+    show p_wrack as left at head_left
+    show p_sefa as right at head_right
+    with dissolve
     "\"Bother, leave it,\" she said. Then, to him: \"You're wearing shoes.\""
 
     "He looked. He was. Heavy surface boots, a torn grey jacket with a corporate crest half ripped away, and around both wrists the raw red marks of a cable tie."
 
     "\"What's your name?\""
 
+    hide left
+    hide right
+    with dissolve
     "He opened his mouth and found nothing behind it. Not a name, not a mother, not a street."
     "Only a blank like a wiped slate, and under the blank, very far down, the feeling of having done something terrible."
 
+    show p_wrack as left at head_left
+    show p_sefa as right at head_right
+    with dissolve
     "\"I don't know,\" he said. His voice came out strange in the water, slow and round, and he understood, distantly, that he had never spoken in water before."
 
     "The girl studied him. The animal she had called Bother swam a tight circle round his boots and came back to report to her knee."
@@ -58,9 +58,15 @@ label ch01:
     "\"Then you're Wrack,\" she said."
     c_sefa "It's what we call what the tide brings in. I'm Sefa. Can you swim, or do I tow you?"
 
+    hide left
+    hide right
+    with dissolve
     "He could swim, it turned out, though not as she did. She went through the water without seeming to do anything, a flick of the feet now and then, like a person strolling."
     "He laboured after her in his boots. The hound went ahead and came back, ahead and back, to make sure that nobody was lost."
 
+    show p_wrack as left at head_left
+    show p_sefa as right at head_right
+    with dissolve
     c_sefa "Don't touch anything,"
     "Sefa said over her shoulder."
     c_sefa "And don't say you're from the islands until an elder asks you. Some of them will mind."
@@ -68,9 +74,6 @@ label ch01:
     # c01.s02
     scene bg terraces_dome
     with fade
-    show wrack at pos_wrack with dissolve
-    show sefa at pos_sefa with dissolve
-    show bother at pos_bother with dissolve
     "The forest had been tended. He began to see it as they went."
     "The sand between was raked clean, and here and there a stem had been cut and bound with cord, as a branch is pruned."
     "Then the ground began to step upward in terraces, each one walled with fitted stone, and there were people on them."
@@ -80,16 +83,25 @@ label ch01:
 
     "They stopped singing when they saw his boots."
 
+    show p_wrack as left at head_left
+    show p_sefa as right at head_right
+    with dissolve
     c_sefa "Silverbacks,"
     "Sefa said, as though nothing had happened, nodding at the fish."
     c_sefa "We herd them. That's the nursery terrace, and those are the drying racks, and that's home."
 
+    hide left
+    hide right
+    with dissolve
     "At the top of the terraces stood a dome."
 
     "It was the size of a hill. He could see at once that it had not been built by the people on the terraces, or by anyone like them. It was very old, and very beautiful."
     "Light shone through it from inside, but only on one side."
     "The other half of the dome was dark, and against the dark panes somebody had hung long strings of a weed that glowed a faint yellow-green, like a candle seen through a leaf."
 
+    show p_wrack as left at head_left
+    show p_sefa as right at head_right
+    with dissolve
     c_wrack "What is it?"
 
     c_sefa "Low Anthem. It's a hold."
@@ -111,11 +123,8 @@ label ch01:
     "She said it as she might have said that people grow old."
     c_sefa "Come on. In at the sea-door, and mind your head."
 
-    scene bg dry_room
+    scene bg sea_door
     with fade
-    show wrack at pos_wrack with dissolve
-    show sefa at pos_sefa with dissolve
-    show bother at pos_bother with dissolve
     "The sea-door was a round pool in the floor of the dome, twenty paces across, with the sea on one side of its surface and air on the other."
     "He came up through it into warmth and lamplight and the smell of smoke and frying fish, and stood dripping on a stone floor."
     "Then, because his body had apparently always known how, he breathed out the water and breathed in the air. It hurt a little, like a first breath on a cold morning."
@@ -125,14 +134,14 @@ label ch01:
     # c01.s03
     scene bg dry_room
     with fade
-    show wrack at pos_wrack with dissolve
     "They put him in a dry room and argued about him for three days."
 
-    show sefa at pos_sefa with dissolve
-    show bother at pos_bother with dissolve
     "He was not in the room when they argued, but Sefa was, when she could get in. She brought him the news with his meals. She had appointed herself his guard."
     "It seemed nobody had asked her to, and nobody had told her to stop. The hound came with her and lay across the doorway with his chin on Wrack's boot."
 
+    show p_wrack as left at head_left
+    show p_sefa as right at head_right
+    with dissolve
     c_sefa "He's a tide hound,"
     "she said, when he asked."
     c_sefa "Every hold has them. They herd the silverbacks and they watch the terraces at night, and if a child swims off they bring it back by the collar. He's not a very good one."
@@ -140,6 +149,9 @@ label ch01:
     "Bother thumped his tail-flipper on the floor at the sound of his name."
     c_sefa "He found you. He's been insufferable about it."
 
+    hide left
+    hide right
+    with dissolve
     "The meals were flat cakes of pressed kelp, smoked silverback, and a bowl of small green globes that burst salt on the tongue. He ate everything."
     "He did not know when he had last eaten, and that was the least of what he did not know."
 
@@ -148,17 +160,31 @@ label ch01:
     "He was an agravar, a land-dweller, one of the forty million who lived on the rocks up above and threw their filth down. But agravars drowned. Then he was a spy."
     "Or he was bait. The corporations that ruled the islands had thrown a man in to see who came to collect him."
 
+    show p_wrack as left at head_left
+    show p_sefa as right at head_right
+    with dissolve
     c_wrack "What do you think I am?"
+    hide left
+    hide right
+    with dissolve
     "Wrack asked her."
 
     "Sefa considered it honestly."
+    show p_wrack as left at head_left
+    show p_sefa as right at head_right
+    with dissolve
     c_sefa "I think you're somebody who's had something awful happen to them,"
     c_sefa "Eat your sea-grapes."
 
-    show oro at pos_oro with dissolve
+    hide left
+    hide right
+    with dissolve
     "It was Elder Oro who ended the argument. Wrack met him on the second evening. He was a very old man with a gentle, slightly amused way of looking at things."
     "He came in and sat on the bench and looked at Wrack's wrists for a while."
 
+    show p_wrack as left at head_left
+    show p_oro as right at head_right
+    with dissolve
     c_oro "I am the eldest here, so I speak last,"
     c_oro "It's a great advantage. By the time it's my turn everyone else has said all the foolish things, and I need only choose the least foolish."
     "He nodded at the marks."
@@ -168,7 +194,9 @@ label ch01:
 
     c_oro "No. Well. It'll come or it won't. In the meantime Ione will look at you."
 
-    show ione at pos_ione with dissolve
+    hide left
+    hide right
+    with dissolve
     "Ione was Sefa's mother, and the hold's healer."
     "She was a broad calm woman with her sleeves rolled, and her forearms were ridged from wrist to elbow with old shiny scars, as though she had once put both arms into a fire."
     "She did not explain them. She filled a shallow bowl from the sea-door and set it on the floor between them."
@@ -176,6 +204,9 @@ label ch01:
 
     "Wrack felt the room change. It was the way a room changes when someone starts to sing quietly in the corner."
 
+    show p_wrack as left at head_left
+    show p_sefa as right at head_right
+    with dissolve
     c_sefa "She's intending it,"
     "Sefa told him, low."
     c_sefa "Watch. This is the gift."
@@ -189,12 +220,18 @@ label ch01:
     "She hesitated."
     c_sefa "I can do cuts. The other way is calling, when you ask it to move. I can't do that at all. Hold still. It doesn't hurt."
 
+    hide left
+    hide right
+    with dissolve
     "Ione lifted the water out of the bowl in her two hands. It held its shape, a little, as water should not. She laid it on his head."
 
     "It was warm, and it went on being warm inside his skull. It moved gently from place to place, like someone walking through a house and trying the doors."
 
     "After a long time she took her hands away."
 
+    show p_wrack as left at head_left
+    show p_ione as right at head_right
+    with dissolve
     c_ione "There's nothing broken,"
     "she told Elder Oro."
     c_ione "No blow, no fever, no poison. The memory isn't damaged."
@@ -202,8 +239,12 @@ label ch01:
     c_ione "It's gone. Taken, clean, all in one piece. I've seen it once before, in a caller from Deep Chorus who reached too far in a storm."
     c_ione "She came back not knowing her own children."
 
+    show p_oro as right at head_right
+    with dissolve
     c_oro "The undertow,"
 
+    show p_ione as right at head_right
+    with dissolve
     c_ione "The undertow."
     "Ione dried her hands on her tunic. She spoke to Wrack now, plainly, as healers speak to the people they have bad news for."
     c_ione "The sea gives when it's asked. But if you ask for more than you can carry, or if you let go of yourself altogether, it takes something back."
@@ -212,24 +253,29 @@ label ch01:
     c_ione "But I'll say this to the elders. The undertow only takes from people who have the gift. So whatever else he is, he isn't an agravar. No agravar has ever been answered."
     c_ione "And whatever he did out there, he did it with everything he had."
 
-    show wrack tunic at pos_wrack with dissolve
+    hide left
+    hide right
+    with dissolve
     "That decided it, more or less. A mariner the sea had marked was the sea's business."
     "They gave him a tunic of the grey-green cloth, which was called sea-silk and weighed nothing."
     "They gave him a hammock in the long dry hall where the unmarried men slept, a hook, and a row of terrace to work."
 
     # c01.s04
-    scene bg terraces_dome
+    scene bg terrace_work
     with fade
-    show wrack tunic at pos_wrack with dissolve
-    show bother at pos_bother with dissolve
     "He was bad at it."
 
-    show davin at pos_sefa with dissolve
     "He cut the fronds too low and bled the stems."
     "He let a whole net of silverbacks out through a gate because he could not tell which way it latched, and Bother had to round them up, with a great deal of noise and an air of personal grievance."
     "A net-mender named Davin, a quiet, big-handed man with a slow smile, came and showed him the latch three times, and did not seem to mind showing him a fourth."
+    show p_wrack_tunic as left at head_left
+    show p_davin as right at head_right
+    with dissolve
     c_davin "Up and across,"
     c_davin "Everything in this hold is up and across. The Makers were all left-handed, my wife says."
+    hide left
+    hide right
+    with dissolve
     "His wife was called Hesper. Wrack had seen her only at a distance, a lean hard woman whom people made room for."
     "She was the hold's Tidecaller, Davin said, with a pride he did not try to hide."
     "She was the only one for two hundred kilometres who could ask the sea to move and have it do so."
@@ -240,8 +286,9 @@ label ch01:
     "In the evenings the lamps on the lit side of the dome dimmed of their own accord, slowly, as they had every evening for three thousand years."
     "The dark side had only its strings of glowing weed."
 
-    hide davin with dissolve
-    show sefa at pos_sefa with dissolve
+    show p_wrack_tunic as left at head_left
+    show p_sefa as right at head_right
+    with dissolve
     c_sefa "Lampweed,"
     c_sefa "It grows up north. You hang it where the lamps have failed."
     c_sefa "The old people say you can tell how a hold is doing by counting its lampweed, and then they say we shouldn't count ours."
@@ -255,10 +302,8 @@ label ch01:
     "She saw his face."
     c_sefa "You don't know who Jef is either."
 
-    scene bg dry_room
+    scene bg long_dry_hall
     with fade
-    show wrack tunic at pos_wrack with dissolve
-    show bother at pos_bother with dissolve
     "He heard about Jef from the night crew, lying in his hammock in the dark hall with the others talking round him. He gathered it in pieces."
     "Jef lived at the top of the world. Jef was older than the oldest song. He had been alive at the Hold Wars, nine hundred years ago."
     "When an air-heart failed in some great hold and the dry halls began to go stale, they sent to Jef, and if they were lucky he came, a small old man with a bag of tools."
@@ -292,7 +337,6 @@ label ch01:
 
     scene bg meeting_hall
     with fade
-    show wrack tunic at pos_wrack with dissolve
     "On the ninth day he walked through the meeting hall on his way to the terraces."
 
     "It was the heart of the dome, a round high room where the whole hold could sit. At its centre stood a Maker lamp. It had been dark since Sefa's grandmother was a child."
@@ -310,14 +354,18 @@ label ch01:
     "Light poured down the hall, white and steady. People stopped where they stood. A child shrieked."
     "Someone dropped a basket, and the shellfish rolled across the floor in the first clear light that room had seen in three generations."
 
-    show oro at pos_oro with dissolve
     "Elder Oro had been crossing the hall with his stick. He stood looking up at the lamp. Then he sat down on the floor, quite slowly, and began to cry."
 
-    show sefa at pos_sefa with dissolve
+    show p_wrack_tunic as left at head_left
+    show p_sefa as right at head_right
+    with dissolve
     c_sefa "How did you do that?"
     "Sefa whispered."
 
     c_wrack "I don't know,"
+    hide left
+    hide right
+    with dissolve
     "It was the truth, and it frightened him more than the breathing had."
 
     "Nobody in Low Anthem had ever seen a Maker thing repaired. Nobody in any hold had, for six hundred years, except by one pair of hands."
@@ -325,6 +373,9 @@ label ch01:
 
     "Elder Oro wiped his face with the heel of his hand."
 
+    show p_wrack_tunic as left at head_left
+    show p_oro as right at head_right
+    with dissolve
     c_oro "Somebody,"
     c_oro "had better send word north."
 

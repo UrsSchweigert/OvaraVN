@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text. The inside of a great dome of pale smooth curved panes and seamless white metal ribs. In the stone floor is a round pool, twenty paces across, the sea on one side of its surface and air above it. Warm lamplight, a little smoke in the air, a stone floor around the pool, a cooking fire at the edge. Quiet and warm.

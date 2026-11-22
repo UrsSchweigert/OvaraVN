@@ -108,6 +108,8 @@ def _http(req, timeout=300):
         raise err
     except urllib.error.URLError as e:
         raise ImageError("network error: %s" % e.reason)
+    except OSError as e:  # connection reset, timeout mid-read
+        raise ImageError("network error: %s" % e)
 
 
 def call_fal(model_id, payload, key):

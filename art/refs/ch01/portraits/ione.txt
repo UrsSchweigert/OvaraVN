@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: sheet
+refs: /private/tmp/claude-501/-Users-ursschweigert-Documents-GitHub-OvaraVN/cc48d835-f556-4c15-90fe-4f84aaa68c2a/scratchpad/ione_head.png
+
+Anime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders only, the head and upper chest filling the frame, three-quarter view turned to face the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes. A broad calm woman, healer, calm and cautious expression.
