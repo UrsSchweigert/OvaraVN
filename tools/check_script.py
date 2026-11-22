@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Compare the text in a staged Ren'Py chapter with the approved text.
 
-Usage: python3 tools/check_script.py [chapter number, default 1]
+Usage: python3 tools/check_script.py [chapter number | all, default 1]
 
 Reads game/game/chNN.rpy and work/cut/chNN.md. Removes Ren'Py syntax, quote
 marks and speech-tag drops, then compares sentence by sentence, in order.
@@ -14,11 +14,23 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 SPEAKERS = {"c_wrack": "Wrack", "c_sefa": "Sefa", "c_oro": "Elder Oro",
-            "c_ione": "Ione", "c_davin": "Davin"}
+            "c_ione": "Ione", "c_davin": "Davin", "c_hesper": "Hesper",
+            "c_okonta": "Okonta"}
 
 # Speech tags that only name the speaker. These are the only text the script
 # may drop. Each is (text in the approved file, what is left).
-ALLOWED_DROPS = {1: [
+ALLOWED_DROPS = {2: [
+    ('hold," Sefa said. "They', 'hold," "They'),
+    ('"Two," said Elder Oro.', '"Two,"'),
+    ('year," he said. "Barge', 'year," "Barge'),
+    ('"You nearly killed nine people," she said.', '"You nearly killed nine people,"'),
+    ('wall," she said. "Lie down', 'wall," "Lie down'),
+    ('thing," she said. "It\'ll', 'thing," "It\'ll'),
+    ('them," she said. "I want', 'them," "I want'),
+    ('"My name is Okonta," she said.', '"My name is Okonta,"'),
+    ('dome," Okonta said. "Not', 'dome," "Not'),
+    ('"Come back," she said.', '"Come back,"'),
+], 1: [
     ('"What is it?" he said.', '"What is it?"'),
     ('"You really don\'t know anything," she said.', '"You really don\'t know anything,"'),
     ('to them," she said. "Eat', 'to them," "Eat'),
@@ -113,15 +125,22 @@ def check(ch, root=ROOT):
 
 
 def main():
-    ch = int(sys.argv[1]) if len(sys.argv) > 1 else 1
-    errors, n = check(ch)
-    if errors:
-        print(f"chapter {ch}: {len(errors)} problem(s)")
-        for e in errors:
-            print("  " + e)
-        return 1
-    print(f"chapter {ch}: script matches the approved text ({n} sentences, in order)")
-    return 0
+    arg = sys.argv[1] if len(sys.argv) > 1 else "1"
+    if arg == "all":
+        chs = sorted(int(p.stem[2:]) for p in (ROOT / "game" / "game").glob("ch[0-9][0-9].rpy"))
+    else:
+        chs = [int(arg)]
+    status = 0
+    for ch in chs:
+        errors, n = check(ch)
+        if errors:
+            print(f"chapter {ch}: {len(errors)} problem(s)")
+            for e in errors:
+                print("  " + e)
+            status = 1
+        else:
+            print(f"chapter {ch}: script matches the approved text ({n} sentences, in order)")
+    return status
 
 
 if __name__ == "__main__":

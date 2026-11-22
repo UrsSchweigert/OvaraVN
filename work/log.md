@@ -32,3 +32,11 @@ Newest entry last. Each entry: date, what was done, what was verified and how, w
 - Waiting on the owner: gates `style` and `cast` (not approved; the owner has not seen these). Chapter 1 cut review.
 - Later the same day: made four chapter 1 backgrounds (kelp forest, terraces and dome, dry room, meeting hall) and Wrack's sea-silk outfit. Three backgrounds were redone once; first tries are in `art/refs/ch01/rejected/`. Total spend $0.54 of $200. Verified by looking at each image against the cited sentences; the image-reviewer agent was not used. The owner said the character images "look good"; gates `style` and `cast` are still open because only the owner may approve them.
 - Ren'Py 8.6.1 and Renios installed by the lead at the owner's request (see `docs/decisions.md`). Verified: `renpy.sh --version` and a lint run on the bundled sample. Next: builder creates `game/`, scriptwriter does chapter 1.
+
+## 2026-11-22: chapter 2 built with the chapter pipeline
+
+- Done: chapter 2 approved by the owner (8 of 8 suggestions accepted); `docs/chapter-pipeline.md` written; Hesper and Okonta designed (art bible); 17 new portraits cut out with BiRefNet; 7 backgrounds; 5 illustrations; `game/game/ch02.rpy`, `images_ch02.rpy`; chapter 1 now jumps to chapter 2; `tools/check_script.py all`.
+- Verified: lint clean; `check_script.py all` matches ch1 (294) and ch2 (314) sentences; `./vn check` ok; both chapters ran to the end in fast-skip mode with no exception; saved frames of four ch2 scenes looked right. Spend $4.65 of $200.
+- Not verified: the illustrations' placement by eye in the running game; sentence ranges were chosen by the script writer. Ione's "pain" portrait is unused (she never speaks in pain).
+- Waiting on the owner: play chapters 1 and 2; review chapter 3 cuts; gates `style` and `cast`; Ren'Py iOS build check.
+- Next: chapter 3 (after approval), then the slice gate needs the iOS simulator.

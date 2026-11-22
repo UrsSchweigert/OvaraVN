@@ -482,4 +482,4 @@ label ch01:
     with qd
     c_oro "had better send word north."
 
-    return
+    jump ch02
