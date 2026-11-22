@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text, no letters. Underwater on a bare rise above a kelp forest where nothing grows, a strong cold current. At the centre stands a six-sided pillar of pale smooth stuff twice the height of a man with nothing on it. Round it a ring of stone benches whose surfaces are covered in worn abstract scratched marks, nothing readable. In a hollow on the lee side a small camp of nets and a cooking stone. Cold blue light.

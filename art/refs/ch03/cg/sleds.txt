@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: illustration
+refs: 
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, no text, no letters. Underwater on a bare rise in cold blue light. Four squat ugly grey sleds with caged screws come up over the rise in a line, each ridden by an armoured diver in a grey diving suit and metal helmet with a stripe and a blue shield crest, harpoon guns levelled. Below them, small, a pale six-sided stone pillar with a ring of benches and a little camp of nets where a few mariners in grey-green tunics freeze, one covering a frail old man with her body. Tense, menacing.

@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text, no letters. Underwater at night in a golden kelp forest, dim moonlit blue-green water, brass-coloured trunks as thick as a man's waist. A slender pale silver needle-shaped vessel is moored to one kelp stem by a loop of cord, a faint soft light pulsing slowly along its flank like something asleep. Far off in the dark water, vast pale whale shapes. Quiet and still.

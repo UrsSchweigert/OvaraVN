@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text, no letters. Entirely underwater: the ruin of a mariner hold, a pale dome three times the size of a village's, broken open like an egg, only half of it standing, its pale ribs curving up into the dark with nothing between them. The floor inside is a drift of silt with the stumps of walls and a stair of six steps going up to nothing. A ring of bare sand surrounds it where no weed grows. Silent as a grave, dim blue light.

@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: illustration
+refs: art/refs/ch03/portraits/wrack_tunic_awed.png
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, no text, no letters. Reference 1 is Wrack, a lean man with short BLACK hair in a plain loose grey-green tunic with short sleeves. ENTIRELY UNDERWATER, deep blue water. The great blunt head of an enormous pale metal vehicle swings round to face Wrack: a smooth pale prow the size of a house with no eyes and no mouth, and in its surface a long panel sliding open like an eyelid, a thin line of warm light showing in the gap. Wrack floats small in the foreground seen partly from behind, one palm lifted toward it, awed and still. Far behind, small, four squat grey sleds with caged screws hang in the water ridden by divers in grey armoured diving suits and metal helmets, forgotten. Exactly one person in the foreground.

@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: illustration
+refs: 
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, no text, no letters. ENTIRELY UNDERWATER, deep blue water with shafts of light, no sky, no sunset, no horizon, no desert, no land above. Over a bare seabed rise with a small pale six-sided stone pillar and a tiny camp, an enormous river with a spine sweeps overhead through the water: a kilometre of pale metal ribs, each one a great hoop taller than a dome, running one behind another in a long sinuous line, with bright dense glowing water bound to the ribs and streaming forward along the frame like a flame streaming back from a torch. Vast, awesome, serene. Tiny figures look up from the rise.

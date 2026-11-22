@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: illustration
+refs: art/refs/ch02/portraits/okonta.png, art/refs/ch01/portraits/wrack_tunic.png
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, no text, no letters. Reference 1 is Okonta, a spare older woman with DARK BROWN skin and short GREY hair in a slate-grey suit. Reference 2 is Wrack, a lean man with PALE skin and short BLACK hair in a grey-green tunic. Seen from inside a flooded hall with pale metal ribs arching overhead and no walls, only a wall of bright clear bound water: through it six vast white whales, blunt-headed with small wise eyes, run alongside, rolling to look in at the people. One calf no bigger than a fishing boat swims very near its mother, the old scars on her flank clear. In the foreground, from behind, Okonta and Wrack stand gazing out. Exactly two people. Calm wonder.

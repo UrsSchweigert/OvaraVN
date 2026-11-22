@@ -32,6 +32,7 @@ The chapter's cuts must be approved by the owner in `./vn cutter` (`./vn status`
 ## Testing rules
 
 - Test scripts must NEVER set `_preferences.*` (auto-forward, skip, volume, text speed): preferences are saved to the player's persistent file and survive restarts. On 2026-11-22 a test left auto-advance on at 0.02 s and the game ran through everything by itself. For skipping use `config.skipping` (not saved); for auto-advance in tests use a Python flag, or restore the old values and call `renpy.save_persistent()` before quitting.
+- Safe real-time test (no saved settings touched): a throw-away `zz_run.rpy` with `config.periodic_callbacks.append(lambda: renpy.queue_event('dismiss'))` (only when an env var is set), a `config.all_character_callbacks` counter writing a progress file, then `label zz_run: call chNN` and `renpy.quit()`; start with `VN_START=zz_run`. Run it as a background job and read the marker file. Delete the test file afterwards.
 - Fast-skip runs skip transitions. For a real check run the chapter with transitions in real time (auto-forward by a test-only flag) and watch a progress counter file.
 
 ## Facts to remember

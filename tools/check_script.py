@@ -15,7 +15,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 SPEAKERS = {"c_wrack": "Wrack", "c_sefa": "Sefa", "c_oro": "Elder Oro",
             "c_ione": "Ione", "c_davin": "Davin", "c_hesper": "Hesper",
-            "c_okonta": "Okonta"}
+            "c_okonta": "Okonta", "c_brask": "Brask"}
 
 # Speech tags that only name the speaker. These are the only text the script
 # may drop. Each is (text in the approved file, what is left).
@@ -30,6 +30,28 @@ ALLOWED_DROPS = {2: [
     ('"My name is Okonta," she said.', '"My name is Okonta,"'),
     ('dome," Okonta said. "Not', 'dome," "Not'),
     ('"Come back," she said.', '"Come back,"'),
+], 3: [
+    ('it," he said. "Like', 'it," "Like'),
+    ('singers," Okonta said. "Whales', 'singers," "Whales'),
+    ('seasons," Okonta said. "The', 'seasons," "The'),
+    ('you," Okonta said. "Everybody', 'you," "Everybody'),
+    ('Engines," she said. "Four', 'Engines," "Four'),
+    ('Breakers," Okonta said. "They', 'Breakers," "They'),
+    ('Sounding," she said. "Six', 'Sounding," "Six'),
+    ('us," she said. "Someone', 'us," "Someone'),
+    ('Slick," said Okonta. "Twenty', 'Slick," "Twenty'),
+    ('eels," Okonta said. "They', 'eels," "They'),
+    ('stone," Okonta said. "There', 'stone," "There'),
+    ('on," she said. She had', 'on," She had'),
+    ('passenger," Okonta said. "I\'ll', 'passenger," "I\'ll'),
+    ('man," he said. He had', 'man," He had'),
+    ('him," she said. "Alive', 'him," "Alive'),
+    ('tired," he said. "It\'s so', 'tired," "It\'s so'),
+    ('in," Okonta said. She was', 'in," She was'),
+    ('for," Okonta said. She had', 'for," She had'),
+    ('latch," Okonta said. "Leave', 'latch," "Leave'),
+    ('Pale," he said. "Since', 'Pale," "Since'),
+    ('stop," Okonta said. "Except', 'stop," "Except'),
 ], 1: [
     ('"What is it?" he said.', '"What is it?"'),
     ('"You really don\'t know anything," she said.', '"You really don\'t know anything,"'),

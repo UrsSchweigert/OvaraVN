@@ -402,4 +402,4 @@ label ch02:
     with qd
     "Then the forest took them, and there was nothing behind but the humming dark."
 
-    return
+    jump ch03

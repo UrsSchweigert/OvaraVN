@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text, no letters. Underwater at the edge of a poisoned zone: a tall wall of golden kelp stops at a line as sharp as a shoreline. Beyond it stand neat rows of black, dead bitterwrack plants a hundred metres deep, and past them the water is the colour of strong tea, murky brown, with ragged shreds hanging in it that neither sink nor rise. Dread and silence.

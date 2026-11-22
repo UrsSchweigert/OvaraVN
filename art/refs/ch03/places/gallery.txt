@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text, no letters. Inside a flooded hall a kilometre long that travels through the deep sea: pale metal ribs arch overhead one behind another into a distant point of light. There are no walls and no windows: between the ribs flows a wall of bright, clear, faintly glowing bound water, pouring past like the back of a waterfall, and beyond it only the dark blue-green open sea, with NO sky, NO horizon, NO land and NO beach anywhere. A band of scratched marks runs along the floor, hammock-nets hang between the ribs, cooking stones and a rack of dried fish. Warm, still, calm.
