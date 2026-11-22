@@ -1,0 +1,128 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Cutting app</title>
+<style>
+:root{--bg:#faf8f4;--fg:#222;--mute:#777;--line:#ddd6c8;--panel:#fff;--acc:#2f5d8a;--cut:#a33;--own:#6a3d9a;--ok:#2d7a4b}
+@media(prefers-color-scheme:dark){:root{--bg:#1b1c1e;--fg:#e6e3dc;--mute:#9a978f;--line:#34363a;--panel:#242629;--acc:#7fb0e0;--cut:#e58a8a;--own:#c3a2e8;--ok:#7fc79a}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.4 system-ui,sans-serif;display:flex;height:100vh}
+#side{width:290px;border-right:1px solid var(--line);overflow:auto;padding:10px;flex:none}
+#side h2{font-size:14px;margin:4px 6px 10px}
+.ch{display:block;width:100%;text-align:left;background:none;border:1px solid transparent;border-radius:6px;padding:6px 8px;color:inherit;cursor:pointer;font:inherit}
+.ch:hover,.ch.on{background:var(--panel);border-color:var(--line)}
+.ch small{display:block;color:var(--mute);font-size:12px}
+#main{flex:1;display:flex;flex-direction:column;min-width:0}
+#bar{border-bottom:1px solid var(--line);padding:8px 16px;display:flex;gap:14px;align-items:center;flex-wrap:wrap;font-size:14px}
+#bar .sp{flex:1}
+button{font:inherit;font-size:14px;padding:4px 10px;border:1px solid var(--line);background:var(--panel);color:var(--fg);border-radius:6px;cursor:pointer}
+button:hover{border-color:var(--acc)}button.primary{background:var(--acc);color:var(--bg);border-color:var(--acc)}
+#body{flex:1;overflow:auto;padding:24px 16px 120px}
+#text{max-width:40em;margin:0 auto;font:19px/1.65 Georgia,serif}
+#text p{margin:0 0 1em}.scene{color:var(--mute);text-align:center;margin:1.6em 0;letter-spacing:.3em}
+.s{cursor:pointer;border-radius:3px}.s:hover{background:rgba(127,127,127,.15)}
+.s.sel{outline:2px solid var(--acc);outline-offset:1px}
+.s.scut{text-decoration:line-through;color:var(--cut);text-decoration-thickness:2px}
+.s.sedit .old{text-decoration:line-through;color:var(--cut)}.s.sedit .new{color:var(--ok);border-bottom:2px double var(--ok)}
+.s.sown{text-decoration:line-through;color:var(--own);border-bottom:2px dotted var(--own)}
+.s.sownedit .old{text-decoration:line-through;color:var(--own)}.s.sownedit .new{color:var(--own);border-bottom:2px dotted var(--own)}
+.s.declined{border-bottom:1px dashed var(--mute)}.s.declined::after{content:" ⊘";font-size:.7em;color:var(--mute)}
+.tag{font:11px system-ui;color:var(--mute)}
+#panel{position:fixed;right:0;bottom:0;left:290px;background:var(--panel);border-top:1px solid var(--line);padding:10px 16px;display:none}
+#panel .row{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin-top:6px}
+#panel textarea,#panel input,#chnote{width:100%;font:inherit;font-size:14px;background:var(--bg);color:var(--fg);border:1px solid var(--line);border-radius:6px;padding:5px}
+#chnote{max-width:40em;display:block;margin:18px auto 0}
+#err{background:#a33;color:#fff;padding:8px 16px;display:none}
+#probs{background:#b8860b;color:#fff;padding:8px 16px;display:none;font-size:14px}
+.badge{font-size:12px;border:1px solid var(--line);border-radius:10px;padding:1px 7px}
+.legend{font-size:12px;color:var(--mute)}
+kbd{border:1px solid var(--line);border-radius:3px;padding:0 4px;font-size:12px}
+</style></head><body>
+<div id="side"><h2>Chapters</h2><div id="list"></div></div>
+<div id="main">
+ <div id="err"></div><div id="probs"></div>
+ <div id="bar"></div>
+ <div id="body"><div id="text">Choose a chapter.</div><textarea id="chnote" rows="2" placeholder="Note to the cutter for this chapter" style="display:none"></textarea></div>
+ <div id="panel"></div>
+</div>
+<script>
+const $=s=>document.querySelector(s);
+let cur=null,data=null,sel=null,result=false,list=[];
+const esc=t=>t.replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));
+const md=t=>esc(t).replace(/\*([^*]+)\*/g,'<em>$1</em>');
+const wc=t=>t.trim()?t.trim().split(/\s+/).length:0;
+async function api(path,body){
+  const r=await fetch(path,body?{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(body)}:{});
+  const j=await r.json();
+  if(!r.ok){const e=$('#err');e.textContent=j.error||'Error';e.style.display='block';setTimeout(()=>e.style.display='none',6000);throw new Error(j.error)}
+  return j}
+async function loadList(){list=await api('/api/chapters');
+  $('#list').innerHTML=list.map(c=>{const pct=c.words?Math.round(100*(c.words-c.words_after)/c.words):0;
+   const st={none:'no suggestions yet',review:'awaits review',approved:'approved',stale:'novel changed: review again'}[c.state];
+   return `<button class="ch ${cur===c.chapter?'on':''}" data-n="${c.chapter}">${c.chapter}. ${esc(c.title)}<small>${c.words}→${c.words_after} words, ${pct}% cut · ${st}${c.problems?' · '+c.problems+' PROBLEMS':''}</small></button>`}).join('');
+  document.querySelectorAll('.ch').forEach(b=>b.onclick=()=>open(+b.dataset.n))}
+async function open(n){cur=n;sel=null;data=await api('/api/chapter/'+n);render();loadList()}
+function state(id){const sg=data.suggestions[id],d=data.decisions[id];
+  if(d)return d.state==='cut'?{k:'own',cut:1}:d.state==='edit'?{k:'ownedit',text:d.text}:{k:'keep',declined:!!sg};
+  if(sg)return sg.action==='cut'?{k:'sug',cut:1}:{k:'sugedit',text:sg.text};
+  return {k:'keep'}}
+function render(){
+  const ch=data.chapter;let h='',after=0,before=0,unseen=0;
+  $('#probs').style.display=data.problems.length?'block':'none';
+  $('#probs').textContent=data.problems.length?'Problems in the suggestions file (those items are not shown): '+data.problems.join(' | '):'';
+  ch.scenes.forEach((sc,i)=>{if(i)h+='<div class="scene">· · ·</div>';
+    sc.paras.forEach(p=>{let ph='';
+      p.sents.forEach(s=>{const st=state(s.id);before+=wc(s.text);
+        if(data.suggestions[s.id]&&!data.decisions[s.id])unseen++;
+        const out=st.cut?'':st.text!==undefined?st.text:s.text;after+=wc(out);
+        if(result){if(out)ph+=md(out)+' ';return}
+        let cls='s ',inner;
+        if(st.k==='sug')cls+='scut',inner=md(s.text);
+        else if(st.k==='own')cls+='sown',inner=md(s.text);
+        else if(st.k==='sugedit')cls+='sedit',inner=`<span class="old">${md(s.text)}</span> <span class="new">${md(st.text)}</span>`;
+        else if(st.k==='ownedit')cls+='sownedit',inner=`<span class="old">${md(s.text)}</span> <span class="new">${md(st.text)}</span>`;
+        else inner=md(s.text),cls+=st.declined?'declined':'';
+        if(sel===s.id)cls+=' sel';
+        ph+=`<span class="${cls}" data-id="${s.id}">${inner}</span> `});
+      if(ph)h+=`<p data-p="${p.id}">${ph}</p>`})});
+  $('#text').innerHTML=`<h2 style="font-weight:normal">Chapter ${ch.chapter}. ${esc(ch.title)}</h2>`+h;
+  const cn=$('#chnote');cn.style.display='block';cn.value=data.note;cn.disabled=data.approved;
+  const pct=before?Math.round(100*(before-after)/before):0;
+  $('#bar').innerHTML=`<b>${before} → ${after} words (${pct}% cut)</b><span>${unseen} suggestions unseen</span>
+   <span class="legend">struck red = suggested cut · green = suggested wording · purple dotted = your change · ⊘ = you declined</span><span class="sp"></span>
+   <button id="rv">${result?'Back to marked text':'Read the result'}</button>
+   ${data.approved?'<span class="badge">approved</span><button id="re">Reopen</button>':'<button class="primary" id="ap">Approve chapter</button>'}`;
+  $('#rv').onclick=()=>{result=!result;render()};
+  if($('#ap'))$('#ap').onclick=approve;if($('#re'))$('#re').onclick=async()=>{data=await api('/api/reopen',{chapter:cur});render();loadList()};
+  document.querySelectorAll('.s').forEach(e=>e.onclick=()=>{sel=e.dataset.id;render();panel()});
+  panel()}
+function panel(){const p=$('#panel');if(!sel||data.approved||result){p.style.display='none';return}
+  const s=[...flat()].find(x=>x.id===sel),sg=data.suggestions[sel],d=data.decisions[sel];
+  p.style.display='block';
+  p.innerHTML=`<div>${sg?`<b>${sg.action==='cut'?'Suggested cut':'Suggested replacement'}</b> <span class="badge">${sg.kind}</span> ${esc(sg.reason)}`:'No suggestion for this sentence.'}</div>
+  <div class="row"><button id="k">Keep <kbd>k</kbd></button><button id="c">Cut <kbd>c</kbd></button><button id="e">Edit <kbd>e</kbd></button><button id="r">Reset <kbd>r</kbd></button>
+  <button id="pc">Cut paragraph</button><button id="pk">Keep paragraph</button><span class="legend"><kbd>n</kbd>/<kbd>p</kbd> next/previous suggestion · <kbd>j</kbd>/<kbd>l</kbd> any sentence</span></div>
+  <div class="row"><input id="nt" placeholder="Note to the cutter (optional)" value="${esc((d&&d.note)||'')}"></div>
+  <div class="row" id="ed" style="display:none"><textarea id="et" rows="3">${esc(d&&d.text||(sg&&sg.text)||s.text)}</textarea><button class="primary" id="es">Save wording</button></div>`;
+  $('#k').onclick=()=>act('keep');$('#c').onclick=()=>act('cut');$('#r').onclick=()=>act(null,true);
+  $('#e').onclick=edit;$('#es').onclick=()=>act('edit',false,$('#et').value);
+  $('#pc').onclick=()=>actp('cut');$('#pk').onclick=()=>actp('keep');
+  $('#nt').onchange=()=>{const st=d?d.state:state(sel).cut?'cut':'keep';if(st==='edit')return;act(st)}}
+function* flat(){for(const sc of data.chapter.scenes)for(const p of sc.paras)for(const s of p.sents)yield s}
+function edit(){$('#ed').style.display='flex';$('#et').focus()}
+async function act(st,reset,text){const body={chapter:cur,id:sel,state:st,reset:!!reset};if(text!==undefined)body.text=text;
+  const nt=$('#nt');if(nt&&!reset)body.note=nt.value;data=await api('/api/decide',body);render();loadList()}
+async function actp(st){const pid=sel.split('.').slice(0,3).join('.');data=await api('/api/decide',{chapter:cur,id:pid,state:st});render();loadList()}
+async function approve(){const un=Object.keys(data.suggestions).filter(i=>!data.decisions[i]).length;
+  if(!confirm(`Approve chapter ${cur}?\n\n${un} suggestions you have not looked at will be accepted as they are.`))return;
+  data=await api('/api/approve',{chapter:cur});render();loadList()}
+$('#chnote').onchange=async e=>{data=await api('/api/note',{chapter:cur,note:e.target.value});render()};
+function move(dir,onlySug){const ids=[...flat()].map(s=>s.id).filter(i=>!onlySug||data.suggestions[i]);
+  if(!ids.length)return;let k=ids.indexOf(sel);
+  if(k<0){const all=[...flat()].map(s=>s.id);const at=all.indexOf(sel);k=dir>0?ids.findIndex(i=>all.indexOf(i)>at)-1:ids.findIndex(i=>all.indexOf(i)>=at);if(k<-1)k=ids.length-1}
+  sel=ids[Math.max(0,Math.min(ids.length-1,k+dir))];render();const e=document.querySelector('.s.sel');if(e)e.scrollIntoView({block:'center'})}
+document.addEventListener('keydown',e=>{if(!data||/INPUT|TEXTAREA/.test(e.target.tagName)||e.metaKey||e.ctrlKey)return;
+  const k=e.key;if(k==='n')move(1,true);else if(k==='p')move(-1,true);else if(k==='l')move(1,false);else if(k==='j')move(-1,false);
+  else if(!sel||data.approved)return;else if(k==='k')act('keep');else if(k==='c')act('cut');else if(k==='e'){e.preventDefault();edit()}else if(k==='r')act(null,true);
+  else if(k==='Escape'){sel=null;render()}});
+loadList();
+</script></body></html>
