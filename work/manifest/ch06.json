@@ -1,0 +1,249 @@
+{
+ "scenes": [
+  {
+   "id": "c06.s01",
+   "place": "The Dragon's gallery",
+   "time": "Time of day not given; dim, failing light, the bright walls thinned to a film",
+   "cast": [
+    "Wrack",
+    "Okonta",
+    "Corin",
+    "woman with the clay tube",
+    "girl with the harpoon"
+   ],
+   "speaks": [
+    "Wrack",
+    "Okonta",
+    "Corin",
+    "woman with the clay tube",
+    "girl with the harpoon"
+   ],
+   "mood": "weary, grieving, divided",
+   "key_moment": "Forty-one needles asleep in their cradles along the Dragon's belly, the walls thin as film with open sea in the gaps, and the Threaded waiting in knots of three and four (c06.s01.p002.1, c06.s01.p002.2, c06.s01.p003.2, c06.s01.p003.3, c06.s01.p003.5)",
+   "looks": [
+    "c06.s01.p002.2",
+    "c06.s01.p003.2",
+    "c06.s01.p003.3",
+    "c06.s01.p003.4",
+    "c06.s01.p004.4",
+    "c06.s01.p004.5",
+    "c06.s01.p004.6",
+    "c06.s01.p004.7",
+    "c06.s01.p004.8",
+    "c06.s01.p011.5",
+    "c06.s01.p010.8"
+   ],
+   "needs": {
+    "backgrounds": [
+     "The Dragon's gallery, dim, walls thinned, hammock-nets slack, needles in cradles"
+    ],
+    "sprites": [
+     "Wrack",
+     "Okonta",
+     "Corin",
+     "woman with the clay tube",
+     "girl with the harpoon"
+    ],
+    "expressions": [
+     "Okonta: quiet, sorry",
+     "Corin: grief held in",
+     "girl with the harpoon: angry",
+     "woman with the clay tube: dry, blunt",
+     "Wrack: uncertain"
+    ]
+   }
+  },
+  {
+   "id": "c06.s02",
+   "place": "The Dragon's gallery",
+   "time": "Evening",
+   "cast": [
+    "Wrack",
+    "Okonta",
+    "Anselm Rook",
+    "woman with the clay tube",
+    "Corin"
+   ],
+   "speaks": [
+    "Wrack",
+    "Okonta",
+    "Anselm Rook",
+    "woman with the clay tube"
+   ],
+   "mood": "tense, courteous menace, persuasion",
+   "key_moment": "Anselm Rook standing easily beside his grey needle in the last cradle, in dark suit and clear glass helmet, one gloved hand on the rib where the square name is cut (c06.s02.p004.1, c06.s02.p004.2, c06.s02.p004.3, c06.s02.p004.4)",
+   "looks": [
+    "c06.s02.p004.1",
+    "c06.s02.p004.2",
+    "c06.s02.p004.3",
+    "c06.s02.p005.2",
+    "c06.s02.p018.1"
+   ],
+   "needs": {
+    "backgrounds": [
+     "The Dragon's gallery, dim, last cradle at the stern"
+    ],
+    "sprites": [
+     "Anselm Rook in dark suit and clear glass helmet",
+     "Okonta",
+     "Wrack",
+     "Corin",
+     "woman with the clay tube"
+    ],
+    "expressions": [
+     "Rook: calm, courteous",
+     "Rook: lowered, private",
+     "Okonta: cold",
+     "Wrack: shaken, angry",
+     "Corin: staring at nothing"
+    ]
+   }
+  },
+  {
+   "id": "c06.s03",
+   "place": "The Slick",
+   "time": "Dead of the night watch",
+   "cast": [
+    "Wrack",
+    "Okonta",
+    "Corin",
+    "Bother",
+    "Sefa",
+    "Tam",
+    "scarred woman on a dart"
+   ],
+   "speaks": [
+    "Corin",
+    "Okonta"
+   ],
+   "mood": "violent, helpless, shameful",
+   "key_moment": "Wrack bound in steel mesh and towed on his face through the strong-tea brown water of the Slick, while the eels rise from the silt (c06.s03.p008.2, c06.s03.p009.2, c06.s03.p013.3, c06.s03.p013.4, c06.s03.p018.1, c06.s03.p018.2)",
+   "looks": [
+    "c06.s03.p002.3",
+    "c06.s03.p008.2",
+    "c06.s03.p013.3",
+    "c06.s03.p013.4",
+    "c06.s03.p016.3",
+    "c06.s03.p016.4",
+    "c06.s03.p018.2",
+    "c06.s03.p021.3",
+    "c06.s03.p022.3",
+    "c06.s03.p011.1"
+   ],
+   "needs": {
+    "backgrounds": [
+     "The Dragon's gallery at night, under the floor with the patched heart",
+     "Open kelp water, gold then black",
+     "The Slick, brown dead water with hanging shreds"
+    ],
+    "sprites": [
+     "Wrack",
+     "Okonta",
+     "Corin",
+     "Bother",
+     "Sefa",
+     "Tam",
+     "scarred woman on a dart",
+     "eels"
+    ],
+    "expressions": [
+     "Wrack: fear, shame",
+     "Corin: shouting, cracking voice",
+     "Okonta: hurt, defiant"
+    ]
+   }
+  },
+  {
+   "id": "c06.s04",
+   "place": "The Dragon's gallery",
+   "time": "Time of day not given; days of training follow",
+   "cast": [
+    "Wrack",
+    "Okonta",
+    "Sefa"
+   ],
+   "speaks": [
+    "Wrack",
+    "Okonta",
+    "Sefa"
+   ],
+   "mood": "sore, stern, determined",
+   "key_moment": "The needle's prow slides off a skin of water an arm's length from Wrack's shoulder, as off wet glass (c06.s04.p013.5, c06.s04.p013.6)",
+   "looks": [
+    "c06.s04.p001.4",
+    "c06.s04.p002.1",
+    "c06.s04.p008.11"
+   ],
+   "needs": {
+    "backgrounds": [
+     "The Dragon's gallery, dim"
+    ],
+    "sprites": [
+     "Wrack",
+     "Okonta",
+     "Sefa"
+    ],
+    "expressions": [
+     "Okonta: wincing, then expressionless",
+     "Wrack: dejected, then resolved",
+     "Sefa: lip between teeth, dry"
+    ]
+   }
+  },
+  {
+   "id": "c06.s05",
+   "place": "The Dragon's heart",
+   "time": "Two days and a night; ends by morning",
+   "cast": [
+    "Wrack",
+    "Okonta",
+    "Sefa",
+    "Bother",
+    "woman with the clay tube",
+    "girl with the harpoon",
+    "young man from Fallow"
+   ],
+   "speaks": [
+    "Wrack",
+    "Okonta",
+    "woman with the clay tube",
+    "young man from Fallow"
+   ],
+   "mood": "quiet, grieving, resolved",
+   "key_moment": "The worn heart's pieces laid out in order on the gallery floor, with twenty-seven Threaded standing round them in silence like a graveside (c06.s05.p008.2, c06.s05.p008.3)",
+   "looks": [
+    "c06.s05.p003.2",
+    "c06.s05.p003.3",
+    "c06.s05.p003.4",
+    "c06.s05.p003.5",
+    "c06.s05.p010.3",
+    "c06.s05.p013.2",
+    "c06.s05.p013.4",
+    "c06.s05.p015.2",
+    "c06.s05.p024.1"
+   ],
+   "needs": {
+    "backgrounds": [
+     "The Dragon's heart under the gallery floor",
+     "The Dragon's gallery with nineteen needles in cradles",
+     "View of the forest sliding past beneath the bound water"
+    ],
+    "sprites": [
+     "Wrack",
+     "Okonta",
+     "Sefa",
+     "Bother",
+     "woman with the clay tube",
+     "girl with the harpoon",
+     "young man from Fallow"
+    ],
+    "expressions": [
+     "Wrack: frowning, thinking",
+     "Okonta: frowning",
+     "young man from Fallow: ashamed, eyes averted",
+     "Sefa: watchful"
+    ]
+   }
+  }
+ ]
+}

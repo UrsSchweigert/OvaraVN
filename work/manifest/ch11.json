@@ -1,0 +1,261 @@
+{
+ "scenes": [
+  {
+   "id": "c11.s01",
+   "place": "The Eye",
+   "time": "two nights later; hour not stated",
+   "cast": [
+    "Wrack",
+    "Okonta",
+    "Sefa",
+    "Teodora Raske",
+    "Fallow youth"
+   ],
+   "speaks": [
+    "Wrack",
+    "Okonta",
+    "Fallow youth",
+    "Teodora Raske"
+   ],
+   "mood": "urgent, dread",
+   "key_moment": "The grey-lipped Fallow youth falls off his dart at the barge rail and Okonta pulls him out (c11.s01.p001.1, c11.s01.p002.1, c11.s01.p002.2)",
+   "looks": [
+    "c11.s01.p002.2",
+    "c11.s01.p012.1"
+   ],
+   "needs": {
+    "backgrounds": [
+     "The Eye (barge rail)"
+    ],
+    "sprites": [
+     "Ilan",
+     "Okonta",
+     "Sefa",
+     "Raske",
+     "Fallow youth"
+    ],
+    "expressions": [
+     "Ilan: grim",
+     "Okonta: expressionless",
+     "Sefa: worried",
+     "Fallow youth: exhausted"
+    ]
+   }
+  },
+  {
+   "id": "c11.s02",
+   "place": "Anthem Waters valley",
+   "time": "gold light in the kelp",
+   "cast": [
+    "Wrack",
+    "Okonta",
+    "Sefa",
+    "Corin",
+    "The woman from Fallow",
+    "Fallow caller"
+   ],
+   "speaks": [
+    "Wrack",
+    "Okonta",
+    "Sefa"
+   ],
+   "mood": "horror, desperate, terrible power",
+   "key_moment": "Twelve hulls crushed under the sea, transports opening like pods and people pouring into the forest (c11.s02.p033.1, c11.s02.p034.1-p034.6)",
+   "looks": [
+    "c11.s02.p004.1",
+    "c11.s02.p004.3",
+    "c11.s02.p004.7",
+    "c11.s02.p005.1",
+    "c11.s02.p007.3",
+    "c11.s02.p013.1",
+    "c11.s02.p014.3",
+    "c11.s02.p014.4",
+    "c11.s02.p025.3",
+    "c11.s02.p034.6",
+    "c11.s02.p038.1"
+   ],
+   "needs": {
+    "backgrounds": [
+     "Anthem Waters valley (gold kelp, column of sleds)",
+     "Anthem Waters valley under brown spoil curtain",
+     "Anthem Waters valley silent after the order"
+    ],
+    "sprites": [
+     "Ilan",
+     "Okonta",
+     "Sefa",
+     "Corin",
+     "Fallow woman",
+     "Fallow caller"
+    ],
+    "expressions": [
+     "Ilan: afraid",
+     "Ilan: cold, ordering",
+     "Ilan: dazed, on knees",
+     "Sefa: fierce, holding him",
+     "Sefa: small surprise",
+     "Okonta: urgent"
+    ]
+   }
+  },
+  {
+   "id": "c11.s03",
+   "place": "Anthem Waters valley",
+   "time": "an hour of rescue after the fight",
+   "cast": [
+    "Wrack",
+    "Sefa",
+    "The woman from Fallow",
+    "Meridian sailor boy"
+   ],
+   "speaks": [
+    "Sefa"
+   ],
+   "mood": "aftermath, grief",
+   "key_moment": "Sefa holds her hands in the sea beside the injured boy and nothing happens (c11.s03.p005.3, c11.s03.p006.1, c11.s03.p007.1-p007.4, c11.s03.p008.1)",
+   "looks": [
+    "c11.s03.p002.3",
+    "c11.s03.p007.4",
+    "c11.s03.p010.3"
+   ],
+   "needs": {
+    "backgrounds": [
+     "Anthem Waters valley silent after the order"
+    ],
+    "sprites": [
+     "Sefa",
+     "Ilan",
+     "Fallow woman",
+     "Meridian sailor boy"
+    ],
+    "expressions": [
+     "Sefa: frowning, puzzled",
+     "Sefa: understanding, dry-eyed",
+     "Sefa: brisk, brave",
+     "Meridian sailor boy: terrified"
+    ]
+   }
+  },
+  {
+   "id": "c11.s04",
+   "place": "Anthem Waters valley",
+   "time": "same day, gold light",
+   "cast": [
+    "Wrack",
+    "Okonta",
+    "Corin",
+    "Tam",
+    "Fallow caller"
+   ],
+   "speaks": [
+    "Okonta",
+    "Corin",
+    "Wrack",
+    "Fallow caller"
+   ],
+   "mood": "somber, flat grief",
+   "key_moment": "Okonta walks slowly along the rows of grey-sleeved dead (c11.s04.p002.1, c11.s04.p002.2)",
+   "looks": [
+    "c11.s04.p001.1",
+    "c11.s04.p004.1",
+    "c11.s04.p004.2",
+    "c11.s04.p007.2",
+    "c11.s04.p007.6"
+   ],
+   "needs": {
+    "backgrounds": [
+     "Anthem Waters valley silent after the order"
+    ],
+    "sprites": [
+     "Okonta",
+     "Corin",
+     "Ilan",
+     "Tam",
+     "Fallow caller"
+    ],
+    "expressions": [
+     "Okonta: flat, bloodied",
+     "Corin: older, sorrowful",
+     "Corin: pitying",
+     "Fallow caller: puzzled, wet-eyed"
+    ]
+   }
+  },
+  {
+   "id": "c11.s05",
+   "place": "Anthem Waters valley",
+   "time": "dusk",
+   "cast": [
+    "Wrack",
+    "Hesper",
+    "Sefa"
+   ],
+   "speaks": [
+    "Wrack",
+    "Hesper"
+   ],
+   "mood": "cold confrontation",
+   "key_moment": "Hesper comes down alone into the valley among the wrecks, thin, burned dark, a cord on her wrist, yellow-green lights behind her (c11.s05.p002.1, c11.s05.p003.1-p003.4)",
+   "looks": [
+    "c11.s05.p002.1",
+    "c11.s05.p003.2",
+    "c11.s05.p003.4",
+    "c11.s05.p011.1"
+   ],
+   "needs": {
+    "backgrounds": [
+     "Anthem Waters valley at dusk"
+    ],
+    "sprites": [
+     "Hesper",
+     "Ilan",
+     "Sefa"
+    ],
+    "expressions": [
+     "Hesper: cold, soft-spoken",
+     "Hesper: flinching then set",
+     "Hesper: stopped, stricken",
+     "Ilan: pleading"
+    ]
+   }
+  },
+  {
+   "id": "c11.s06",
+   "place": "Anthem Waters valley",
+   "time": "night, then morning",
+   "cast": [
+    "Wrack",
+    "Sefa",
+    "Okonta"
+   ],
+   "speaks": [
+    "Wrack",
+    "Sefa"
+   ],
+   "mood": "guilt, tenderness, quiet",
+   "key_moment": "Ilan and Sefa sit at the end of the row of dead, her head on his shoulder, the silent forest around them (c11.s06.p005.1-p005.4, c11.s06.p008.3, c11.s06.p013.1)",
+   "looks": [
+    "c11.s06.p002.6",
+    "c11.s06.p002.7",
+    "c11.s06.p002.8",
+    "c11.s06.p014.2"
+   ],
+   "needs": {
+    "backgrounds": [
+     "Anthem Waters valley at night",
+     "Anthem Waters valley, morning"
+    ],
+    "sprites": [
+     "Ilan",
+     "Sefa",
+     "Okonta"
+    ],
+    "expressions": [
+     "Sefa: wavering, tearful",
+     "Sefa: fierce, insisting",
+     "Ilan: hollow, remorseful"
+    ]
+   }
+  }
+ ]
+}

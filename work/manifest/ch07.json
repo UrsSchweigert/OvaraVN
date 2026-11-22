@@ -1,0 +1,363 @@
+{
+ "scenes": [
+  {
+   "id": "c07.s01",
+   "place": "Dragon gallery",
+   "time": "Four days of travel; morning and evening in the gallery, then dark water, then bright noon sun on the Bright Shelves",
+   "cast": [
+    "Wrack",
+    "Sefa",
+    "Okonta",
+    "Bother"
+   ],
+   "speaks": [
+    "Wrack",
+    "Sefa",
+    "Okonta"
+   ],
+   "mood": "wonder, then dread, then relief",
+   "key_moment": "The snow of the Girdle falling past the gallery wall: a bottle, a shoe, a printed sheet turning over, with Sefa's hand flat on the water (c07.s01.p007.1-8, c07.s01.p010.2)",
+   "looks": [
+    "c07.s01.p002.4",
+    "c07.s01.p004.2",
+    "c07.s01.p007.1",
+    "c07.s01.p007.2",
+    "c07.s01.p007.3",
+    "c07.s01.p007.4",
+    "c07.s01.p007.5",
+    "c07.s01.p007.6",
+    "c07.s01.p007.7",
+    "c07.s01.p007.8",
+    "c07.s01.p012.3",
+    "c07.s01.p012.4",
+    "c07.s01.p012.5",
+    "c07.s01.p016.1",
+    "c07.s01.p016.2",
+    "c07.s01.p016.3",
+    "c07.s01.p016.4",
+    "c07.s01.p016.5",
+    "c07.s01.p016.6",
+    "c07.s01.p016.7",
+    "c07.s01.p016.8",
+    "c07.s01.p017.3",
+    "c07.s01.p018.2",
+    "c07.s01.p018.3"
+   ],
+   "needs": {
+    "backgrounds": [
+     "Dragon gallery, brown dark with falling snow",
+     "Dragon gallery, storm and ship keels overhead",
+     "Dragon gallery, Bright Shelves: white sand, grass meadows, glass coral",
+     "Nine Spires seen far off"
+    ],
+    "sprites": [
+     "Wrack",
+     "Sefa",
+     "Okonta",
+     "Bother"
+    ],
+    "expressions": [
+     "Sefa awed",
+     "Sefa dismayed",
+     "Wrack uneasy",
+     "Okonta nearly smiling"
+    ]
+   }
+  },
+  {
+   "id": "c07.s02",
+   "place": "Ember House",
+   "time": "Last morning in fog; dusk with a low red sun",
+   "cast": [
+    "Wrack",
+    "Sefa",
+    "Okonta"
+   ],
+   "speaks": [
+    "Wrack",
+    "Sefa",
+    "Okonta"
+   ],
+   "mood": "hushed, uneasy, grief",
+   "key_moment": "A ray the size of a ship rises under the water at dusk, its eye looking up at Wrack through a hand's depth of water (c07.s02.p014.3-6)",
+   "looks": [
+    "c07.s02.p002.1",
+    "c07.s02.p002.2",
+    "c07.s02.p002.3",
+    "c07.s02.p003.1",
+    "c07.s02.p003.2",
+    "c07.s02.p003.3",
+    "c07.s02.p003.4",
+    "c07.s02.p005.2",
+    "c07.s02.p005.3",
+    "c07.s02.p005.4",
+    "c07.s02.p005.5",
+    "c07.s02.p005.6",
+    "c07.s02.p005.7",
+    "c07.s02.p005.8",
+    "c07.s02.p007.1",
+    "c07.s02.p007.2",
+    "c07.s02.p007.3",
+    "c07.s02.p007.4",
+    "c07.s02.p007.5",
+    "c07.s02.p007.6",
+    "c07.s02.p008.2",
+    "c07.s02.p008.3",
+    "c07.s02.p009.1",
+    "c07.s02.p009.2",
+    "c07.s02.p014.2",
+    "c07.s02.p014.3",
+    "c07.s02.p014.4",
+    "c07.s02.p014.5",
+    "c07.s02.p014.6"
+   ],
+   "needs": {
+    "backgrounds": [
+     "Landing in hot fog",
+     "Smokers seen from the water's edge: black water, red glow, chimney towers",
+     "Ember House on black sand islet with cairn",
+     "Ember House at dusk with red sun road"
+    ],
+    "sprites": [
+     "Wrack",
+     "Sefa",
+     "Okonta"
+    ],
+    "expressions": [
+     "Okonta heavy",
+     "Sefa small and afraid",
+     "Wrack uncertain"
+    ]
+   }
+  },
+  {
+   "id": "c07.s03",
+   "place": "The Wheel",
+   "time": "warm open dark far below",
+   "cast": [
+    "Wrack"
+   ],
+   "speaks": [],
+   "mood": "awe, grave, a question asked",
+   "key_moment": "Wrack held at the centre of the Wheel, hundreds of rays turning wing behind wing around him (c07.s03.p001.2-4, c07.s03.p002.1)",
+   "looks": [
+    "c07.s03.p001.2",
+    "c07.s03.p001.3",
+    "c07.s03.p005.1",
+    "c07.s03.p005.2",
+    "c07.s03.p005.3",
+    "c07.s03.p005.4",
+    "c07.s03.p005.5",
+    "c07.s03.p005.6",
+    "c07.s03.p005.7",
+    "c07.s03.p005.8",
+    "c07.s03.p005.9",
+    "c07.s03.p006.2",
+    "c07.s03.p007.2",
+    "c07.s03.p007.3",
+    "c07.s03.p008.1",
+    "c07.s03.p008.2",
+    "c07.s03.p008.3",
+    "c07.s03.p010.3",
+    "c07.s03.p010.4",
+    "c07.s03.p010.5",
+    "c07.s03.p010.6",
+    "c07.s03.p010.7",
+    "c07.s03.p010.8",
+    "c07.s03.p010.9",
+    "c07.s03.p012.2",
+    "c07.s03.p012.3",
+    "c07.s03.p012.4"
+   ],
+   "needs": {
+    "backgrounds": [
+     "The Wheel, open warm dark with ring of rays",
+     "Vision: the old sea, forests and lit Maker cities",
+     "Vision: the war and the boy in the ferryman's jacket",
+     "Vision: the chart with a red line"
+    ],
+    "sprites": [
+     "Wrack"
+    ],
+    "expressions": [
+     "Wrack resolved"
+    ]
+   }
+  },
+  {
+   "id": "c07.s04",
+   "place": "The Hush",
+   "time": "dark, one ember of light",
+   "cast": [
+    "Wrack",
+    "Maelis"
+   ],
+   "speaks": [
+    "Wrack",
+    "Maelis"
+   ],
+   "mood": "quiet, solemn, then a shock",
+   "key_moment": "Maelis sitting by a single ember of light in a dish, her hair cut off (c07.s04.p004.2, c07.s04.p005.1-2)",
+   "looks": [
+    "c07.s04.p001.1",
+    "c07.s04.p002.4",
+    "c07.s04.p002.5",
+    "c07.s04.p002.6",
+    "c07.s04.p002.7",
+    "c07.s04.p003.3",
+    "c07.s04.p003.4",
+    "c07.s04.p004.2",
+    "c07.s04.p005.2",
+    "c07.s04.p009.2"
+   ],
+   "needs": {
+    "backgrounds": [
+     "The Hush exterior, black stone, no lamps",
+     "The Hush halls, dark",
+     "Hush small room with ember in a dish"
+    ],
+    "sprites": [
+     "Wrack",
+     "Maelis"
+    ],
+    "expressions": [
+     "Maelis calm and grave",
+     "Wrack resolved",
+     "Wrack stricken"
+    ]
+   }
+  },
+  {
+   "id": "c07.s05",
+   "place": "Wrack's memory",
+   "time": "flashback over many years, night at the final rail",
+   "cast": [
+    "Wrack",
+    "Tomas",
+    "Nerys",
+    "Anselm Rook",
+    "Adler Crane"
+   ],
+   "speaks": [
+    "Nerys",
+    "Anselm Rook",
+    "Adler Crane"
+   ],
+   "mood": "grief, ambition, betrayal",
+   "key_moment": "In the Makers' city the walls turn to light and show Ilan the faces of a people with both mariner and agravar features (c07.s05.p016.7-14)",
+   "looks": [
+    "c07.s05.p002.2",
+    "c07.s05.p004.5",
+    "c07.s05.p004.6",
+    "c07.s05.p007.2",
+    "c07.s05.p009.4",
+    "c07.s05.p009.5",
+    "c07.s05.p009.8",
+    "c07.s05.p011.3",
+    "c07.s05.p013.3",
+    "c07.s05.p016.1",
+    "c07.s05.p016.9",
+    "c07.s05.p016.10",
+    "c07.s05.p016.11",
+    "c07.s05.p016.12",
+    "c07.s05.p016.13",
+    "c07.s05.p017.2"
+   ],
+   "needs": {
+    "backgrounds": [
+     "Saltgate tenement on the Sluice, fourth floor kitchen",
+     "School on the Sluice",
+     "Concord room with no windows",
+     "Office on the rim at Port Halcyon",
+     "Makers' city central hall waking in light",
+     "Control hall and rail at night"
+    ],
+    "sprites": [
+     "Ilan Voss (young and adult)",
+     "Tomas",
+     "Nerys",
+     "Anselm Rook",
+     "Adler Crane"
+    ],
+    "expressions": [
+     "Rook calm",
+     "Crane sorry",
+     "Ilan terrified"
+    ]
+   }
+  },
+  {
+   "id": "c07.s06",
+   "place": "The Hush",
+   "time": "dark, one ember of light",
+   "cast": [
+    "Wrack",
+    "Maelis"
+   ],
+   "speaks": [
+    "Wrack",
+    "Maelis"
+   ],
+   "mood": "raw guilt, steady judgment, resolve",
+   "key_moment": "The old ray with the notched wing shows Wrack a raft-town in a storm and a small fast boat putting out from it (c07.s06.p019.2-3)",
+   "looks": [
+    "c07.s06.p001.1",
+    "c07.s06.p019.2"
+   ],
+   "needs": {
+    "backgrounds": [
+     "Hush small room with ember in a dish",
+     "Dark water above the Hush with rays turning"
+    ],
+    "sprites": [
+     "Wrack",
+     "Maelis"
+    ],
+    "expressions": [
+     "Wrack broken",
+     "Wrack resolved",
+     "Maelis impassive"
+    ]
+   }
+  },
+  {
+   "id": "c07.s07",
+   "place": "Ember House",
+   "time": "Morning",
+   "cast": [
+    "Wrack",
+    "Sefa",
+    "Okonta",
+    "Bother"
+   ],
+   "speaks": [
+    "Wrack",
+    "Sefa",
+    "Okonta"
+   ],
+   "mood": "confession, anger, fragile loyalty",
+   "key_moment": "Sefa, having heard everything, walks down the black sand into the water and swims out of sight, Bother following (c07.s07.p006.2-4)",
+   "looks": [
+    "c07.s07.p001.2",
+    "c07.s07.p001.3",
+    "c07.s07.p005.1"
+   ],
+   "needs": {
+    "backgrounds": [
+     "Ember House on black sand islet with cairn"
+    ],
+    "sprites": [
+     "Wrack",
+     "Sefa",
+     "Okonta",
+     "Bother"
+    ],
+    "expressions": [
+     "Sefa swollen-eyed and furious",
+     "Okonta stiff and weary",
+     "Wrack steady"
+    ]
+   }
+  }
+ ]
+}

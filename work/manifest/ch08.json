@@ -1,0 +1,349 @@
+{
+ "scenes": [
+  {
+   "id": "c08.s01",
+   "place": "Belt Edge Sea",
+   "time": "Fourth day of travel; grey twilight under a heaving surface, later low bruised sky and walls of rain",
+   "cast": [
+    "Wrack",
+    "Sefa",
+    "Okonta",
+    "Dace",
+    "Bother"
+   ],
+   "speaks": [
+    "Wrack",
+    "Sefa",
+    "Okonta",
+    "Dace"
+   ],
+   "mood": "wary, uneasy, wry",
+   "key_moment": "Dace's four-coloured patched boat sitting on the swell like a duck, with her weathered face, pipe and string-tied hat over the side (c08.s01.p006.1-3)",
+   "looks": [
+    "c08.s01.p003.1",
+    "c08.s01.p003.2",
+    "c08.s01.p003.3",
+    "c08.s01.p006.1",
+    "c08.s01.p006.2",
+    "c08.s01.p006.3",
+    "c08.s01.p011.2",
+    "c08.s01.p012.3",
+    "c08.s01.p012.4"
+   ],
+   "needs": {
+    "backgrounds": [
+     "open sea at the south edge of the Belt, grey twilight",
+     "open sea under bruised sky with rain walls"
+    ],
+    "sprites": [
+     "Ilan",
+     "Sefa",
+     "Okonta",
+     "Dace",
+     "Bother"
+    ],
+    "expressions": [
+     "Sefa awed",
+     "Dace cheerful",
+     "Ilan wry"
+    ]
+   }
+  },
+  {
+   "id": "c08.s02",
+   "place": "Dace's boat in the Eyes",
+   "time": "Day, through storm then calm Eyes under a ring of blue sky",
+   "cast": [
+    "Wrack",
+    "Sefa",
+    "Dace",
+    "Bother"
+   ],
+   "speaks": [
+    "Wrack",
+    "Sefa"
+   ],
+   "mood": "seasick, reflective, candid",
+   "key_moment": "The boat turning on green glass water in an Eye, a ring of blue sky and the storm standing round like a wall (c08.s02.p002.8-9, c08.s02.p005.2)",
+   "looks": [
+    "c08.s02.p002.3",
+    "c08.s02.p002.8",
+    "c08.s02.p002.9",
+    "c08.s02.p003.2",
+    "c08.s02.p003.3",
+    "c08.s02.p003.7",
+    "c08.s02.p006.4"
+   ],
+   "needs": {
+    "backgrounds": [
+     "boat in an Eye of the storm, green glass water, blue sky ring, cloud wall",
+     "boat in black rain and grey sea hills"
+    ],
+    "sprites": [
+     "Ilan",
+     "Sefa",
+     "Dace",
+     "Bother"
+    ],
+    "expressions": [
+     "Sefa sick and pale",
+     "Ilan thoughtful",
+     "Bother barking"
+    ]
+   }
+  },
+  {
+   "id": "c08.s03",
+   "place": "Saltgate",
+   "time": "Fifth evening, rain, coloured lights",
+   "cast": [
+    "Wrack",
+    "Sefa",
+    "Dace"
+   ],
+   "speaks": [
+    "Sefa",
+    "Dace"
+   ],
+   "mood": "dazzled, dense, uneasy",
+   "key_moment": "Saltgate rising from the rain: a hundred black sea-stacks hung with tiers of building like nests, neon signs forty metres high breaking on black water (c08.s03.p003.1-9)",
+   "looks": [
+    "c08.s03.p003.1",
+    "c08.s03.p003.2",
+    "c08.s03.p003.5",
+    "c08.s03.p003.6",
+    "c08.s03.p003.7",
+    "c08.s03.p003.8",
+    "c08.s03.p003.9",
+    "c08.s03.p004.2",
+    "c08.s03.p007.1",
+    "c08.s03.p007.2",
+    "c08.s03.p007.3",
+    "c08.s03.p013.2",
+    "c08.s03.p013.3"
+   ],
+   "needs": {
+    "backgrounds": [
+     "Saltgate skyline from the water, evening rain, neon",
+     "canal lock with open rusted iron gates and Lockkeeper glass boxes",
+     "canal wall with wanted poster of Ilan Voss"
+    ],
+    "sprites": [
+     "Ilan with hat",
+     "Sefa",
+     "Dace"
+    ],
+    "expressions": [
+     "Sefa awestruck, face lit by changing colours",
+     "Ilan guarded"
+    ]
+   }
+  },
+  {
+   "id": "c08.s04",
+   "place": "Wet Market",
+   "time": "Day in the market; that night in the rain at the Sluice",
+   "cast": [
+    "Wrack",
+    "Sefa",
+    "Bother"
+   ],
+   "speaks": [
+    "Wrack",
+    "Sefa"
+   ],
+   "mood": "wonder, then grief and shame",
+   "key_moment": "The Wet Market basin, three tiers of stalls with the lowest a metre under water, lamps on chains, water full of light and legs (c08.s04.p002.1-7)",
+   "looks": [
+    "c08.s04.p002.1",
+    "c08.s04.p002.2",
+    "c08.s04.p002.3",
+    "c08.s04.p002.4",
+    "c08.s04.p002.5",
+    "c08.s04.p002.6",
+    "c08.s04.p002.7",
+    "c08.s04.p003.2",
+    "c08.s04.p003.3",
+    "c08.s04.p003.7",
+    "c08.s04.p003.8",
+    "c08.s04.p008.1",
+    "c08.s04.p008.5"
+   ],
+   "needs": {
+    "backgrounds": [
+     "Wet Market basin, three tiers, lamps on chains",
+     "the Sluice, narrow back canal with washing and leaning tenements, night rain"
+    ],
+    "sprites": [
+     "Ilan",
+     "Sefa swimming",
+     "Bother",
+     "old noodle-stall man"
+    ],
+    "expressions": [
+     "Sefa amazed",
+     "Ilan melancholy"
+    ]
+   }
+  },
+  {
+   "id": "c08.s05",
+   "place": "Brightwater Wellness Centre",
+   "time": "Evening in the noodle shop; later the rescue inside the tower",
+   "cast": [
+    "Wrack",
+    "Sefa",
+    "Dace",
+    "Pell",
+    "Yeva"
+   ],
+   "speaks": [
+    "Wrack",
+    "Sefa",
+    "Dace",
+    "Pell"
+   ],
+   "mood": "tense, grim, then urgent",
+   "key_moment": "The Wellwalker floating curled in a glass cylinder of orphan water, tubes in her arms, grey hair moving, eyes open (c08.s05.p020.1-4)",
+   "looks": [
+    "c08.s05.p002.3",
+    "c08.s05.p002.4",
+    "c08.s05.p002.5",
+    "c08.s05.p004.1",
+    "c08.s05.p004.2",
+    "c08.s05.p004.3",
+    "c08.s05.p016.2",
+    "c08.s05.p016.3",
+    "c08.s05.p020.1",
+    "c08.s05.p020.2",
+    "c08.s05.p020.3",
+    "c08.s05.p020.4",
+    "c08.s05.p024.8"
+   ],
+   "needs": {
+    "backgrounds": [
+     "noodle shop window across the canal from the tower",
+     "Brightwater Wellness Centre exterior, white tiles, fountain, blue drop and sun sign",
+     "white lobby",
+     "white tank room",
+     "emergency stair flooded with water",
+     "loading dock canal"
+    ],
+    "sprites": [
+     "Ilan in suit",
+     "Pell",
+     "Dace",
+     "Sefa in water",
+     "Yeva in tank",
+     "four guards"
+    ],
+    "expressions": [
+     "Pell nervous",
+     "Ilan cool and bored",
+     "Ilan sorrowful"
+    ]
+   }
+  },
+  {
+   "id": "c08.s06",
+   "place": "Under the Wet Market",
+   "time": "Three days after the rescue, then nine days of lessons",
+   "cast": [
+    "Wrack",
+    "Sefa",
+    "Yeva",
+    "Dace"
+   ],
+   "speaks": [
+    "Wrack",
+    "Sefa",
+    "Yeva",
+    "Dace"
+   ],
+   "mood": "patient, stern, quietly hopeful",
+   "key_moment": "Ilan waist deep in the canal with a cupful of water between his palms, the water going warm as he thinks of Dace's crushed foot (c08.s06.p011.1, c08.s06.p013.1-3, c08.s06.p014.1)",
+   "looks": [
+    "c08.s06.p003.2",
+    "c08.s06.p009.1",
+    "c08.s06.p011.1",
+    "c08.s06.p017.3"
+   ],
+   "needs": {
+    "backgrounds": [
+     "shadows under the Wet Market, clean tide water, pilings"
+    ],
+    "sprites": [
+     "Yeva",
+     "Ilan",
+     "Sefa",
+     "Dace",
+     "stoker"
+    ],
+    "expressions": [
+     "Yeva dry",
+     "Ilan straining",
+     "Ilan calm",
+     "Dace in pain",
+     "Sefa bursting to speak"
+    ]
+   }
+  },
+  {
+   "id": "c08.s07",
+   "place": "Wet Market",
+   "time": "Days and nights over nine days, lamps dimmed on the sixth night, last evening by the canal",
+   "cast": [
+    "Wrack",
+    "Sefa",
+    "Yeva",
+    "Dace",
+    "Linnea Marsh",
+    "Garran",
+    "Pim",
+    "Pell"
+   ],
+   "speaks": [
+    "Wrack",
+    "Sefa",
+    "Yeva",
+    "Linnea Marsh",
+    "Garran"
+   ],
+   "mood": "hopeful, solemn, quietly triumphant",
+   "key_moment": "The porter laying his limp daughter in Sefa's arms, then the child sitting up in the basin and asking for noodles (c08.s07.p007.1-2, c08.s07.p008.1-4)",
+   "looks": [
+    "c08.s07.p004.2",
+    "c08.s07.p004.3",
+    "c08.s07.p004.4",
+    "c08.s07.p006.2",
+    "c08.s07.p006.3",
+    "c08.s07.p007.2",
+    "c08.s07.p011.2",
+    "c08.s07.p013.2",
+    "c08.s07.p013.3",
+    "c08.s07.p032.5"
+   ],
+   "needs": {
+    "backgrounds": [
+     "lowest tier of the Wet Market with plank table and two basins",
+     "canal with wanted poster on the wall across"
+    ],
+    "sprites": [
+     "Sefa",
+     "Yeva",
+     "Ilan with hat",
+     "Linnea Marsh in plain raincoat",
+     "Garran",
+     "Pim",
+     "Brightwater guards in white"
+    ],
+    "expressions": [
+     "Marsh flat and unflinching",
+     "Garran wary then accepting",
+     "Sefa tearful",
+     "Pim well"
+    ]
+   }
+  }
+ ]
+}

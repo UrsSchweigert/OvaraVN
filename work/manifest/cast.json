@@ -1,0 +1,357 @@
+{
+ "Wrack": {
+  "aliases": [
+   "Ilan",
+   "Ilan Voss"
+  ],
+  "scenes": 92,
+  "first": "c01.s01"
+ },
+ "Sefa": {
+  "aliases": [],
+  "scenes": 52,
+  "first": "c01.s01"
+ },
+ "Okonta": {
+  "aliases": [],
+  "scenes": 42,
+  "first": "c02.s05"
+ },
+ "Bother": {
+  "aliases": [],
+  "scenes": 23,
+  "first": "c01.s01"
+ },
+ "Teodora Raske": {
+  "aliases": [
+   "Raske"
+  ],
+  "scenes": 17,
+  "first": "c09.s02"
+ },
+ "Maelis": {
+  "aliases": [],
+  "scenes": 16,
+  "first": "c04.s01"
+ },
+ "Dace": {
+  "aliases": [],
+  "scenes": 16,
+  "first": "c08.s01"
+ },
+ "Hesper": {
+  "aliases": [],
+  "scenes": 12,
+  "first": "c02.s01"
+ },
+ "Corin": {
+  "aliases": [],
+  "scenes": 10,
+  "first": "c06.s01"
+ },
+ "Brask": {
+  "aliases": [],
+  "scenes": 9,
+  "first": "c03.s03"
+ },
+ "Jef": {
+  "aliases": [],
+  "scenes": 9,
+  "first": "c04.s01"
+ },
+ "Adler Crane": {
+  "aliases": [
+   "Crane"
+  ],
+  "scenes": 9,
+  "first": "c07.s05"
+ },
+ "Ione": {
+  "aliases": [],
+  "scenes": 8,
+  "first": "c01.s03"
+ },
+ "Anselm Rook": {
+  "aliases": [
+   "Anselm",
+   "Rook"
+  ],
+  "scenes": 7,
+  "first": "c04.s07"
+ },
+ "Yeva": {
+  "aliases": [],
+  "scenes": 7,
+  "first": "c08.s05"
+ },
+ "Garran": {
+  "aliases": [],
+  "scenes": 7,
+  "first": "c08.s07"
+ },
+ "Hanne": {
+  "aliases": [],
+  "scenes": 6,
+  "first": "c12.s01"
+ },
+ "Odile": {
+  "aliases": [],
+  "scenes": 6,
+  "first": "c12.s01"
+ },
+ "Elder Oro": {
+  "aliases": [],
+  "scenes": 4,
+  "first": "c01.s03"
+ },
+ "Davin": {
+  "aliases": [],
+  "scenes": 4,
+  "first": "c01.s04"
+ },
+ "The woman from Fallow": {
+  "aliases": [
+   "Fallow woman"
+  ],
+  "scenes": 4,
+  "first": "c03.s03"
+ },
+ "Elder Vey": {
+  "aliases": [
+   "Vey"
+  ],
+  "scenes": 4,
+  "first": "c05.s02"
+ },
+ "Aurel": {
+  "aliases": [],
+  "scenes": 4,
+  "first": "c05.s04"
+ },
+ "woman with the clay tube": {
+  "aliases": [
+   "old woman with the clay tube"
+  ],
+  "scenes": 4,
+  "first": "c06.s01"
+ },
+ "Odo": {
+  "aliases": [
+   "Odo of Lashing"
+  ],
+  "scenes": 4,
+  "first": "c10.s01"
+ },
+ "Marit Coyle": {
+  "aliases": [],
+  "scenes": 4,
+  "first": "c13.s02"
+ },
+ "The old man from Fallow": {
+  "aliases": [
+   "the old man from Fallow"
+  ],
+  "scenes": 3,
+  "first": "c03.s03"
+ },
+ "Well-wardens": {
+  "aliases": [],
+  "scenes": 2,
+  "first": "c04.s04"
+ },
+ "healers": {
+  "aliases": [],
+  "scenes": 2,
+  "first": "c04.s04"
+ },
+ "girl with the harpoon": {
+  "aliases": [],
+  "scenes": 2,
+  "first": "c06.s01"
+ },
+ "Tam": {
+  "aliases": [],
+  "scenes": 2,
+  "first": "c06.s03"
+ },
+ "Pell": {
+  "aliases": [],
+  "scenes": 2,
+  "first": "c08.s05"
+ },
+ "Pim": {
+  "aliases": [],
+  "scenes": 2,
+  "first": "c08.s07"
+ },
+ "Dace's aunt": {
+  "aliases": [],
+  "scenes": 2,
+  "first": "c10.s02"
+ },
+ "Fallow caller": {
+  "aliases": [],
+  "scenes": 2,
+  "first": "c11.s02"
+ },
+ "the boy": {
+  "aliases": [],
+  "scenes": 1,
+  "first": "c01.s04"
+ },
+ "the old woman": {
+  "aliases": [],
+  "scenes": 1,
+  "first": "c01.s04"
+ },
+ "The diver officer": {
+  "aliases": [],
+  "scenes": 1,
+  "first": "c03.s03"
+ },
+ "The Dragon": {
+  "aliases": [],
+  "scenes": 1,
+  "first": "c03.s03"
+ },
+ "the daughter": {
+  "aliases": [],
+  "scenes": 1,
+  "first": "c04.s01"
+ },
+ "a child": {
+  "aliases": [],
+  "scenes": 1,
+  "first": "c04.s04"
+ },
+ "an old woman": {
+  "aliases": [],
+  "scenes": 1,
+  "first": "c04.s04"
+ },
+ "scarred woman on a dart": {
+  "aliases": [],
+  "scenes": 1,
+  "first": "c06.s03"
+ },
+ "young man from Fallow": {
+  "aliases": [],
+  "scenes": 1,
+  "first": "c06.s05"
+ },
+ "Tomas": {
+  "aliases": [],
+  "scenes": 1,
+  "first": "c07.s05"
+ },
+ "Nerys": {
+  "aliases": [],
+  "scenes": 1,
+  "first": "c07.s05"
+ },
+ "Linnea Marsh": {
+  "aliases": [],
+  "scenes": 1,
+  "first": "c08.s07"
+ },
+ "the hull man": {
+  "aliases": [],
+  "scenes": 1,
+  "first": "c09.s03"
+ },
+ "the woman from engines": {
+  "aliases": [],
+  "scenes": 1,
+  "first": "c09.s03"
+ },
+ "the young draughtsman": {
+  "aliases": [],
+  "scenes": 1,
+  "first": "c09.s03"
+ },
+ "the Kessler-Vane engineers and families": {
+  "aliases": [],
+  "scenes": 1,
+  "first": "c09.s04"
+ },
+ "the fat old man in the striped jersey": {
+  "aliases": [],
+  "scenes": 1,
+  "first": "c09.s05"
+ },
+ "the apprentices": {
+  "aliases": [],
+  "scenes": 1,
+  "first": "c09.s05"
+ },
+ "the engineers": {
+  "aliases": [],
+  "scenes": 1,
+  "first": "c09.s05"
+ },
+ "Fallow youth": {
+  "aliases": [],
+  "scenes": 1,
+  "first": "c11.s01"
+ },
+ "Meridian sailor boy": {
+  "aliases": [],
+  "scenes": 1,
+  "first": "c11.s03"
+ },
+ "Caspar Venn": {
+  "aliases": [],
+  "scenes": 1,
+  "first": "c13.s03"
+ },
+ "Bertil": {
+  "aliases": [],
+  "scenes": 1,
+  "first": "c13.s03"
+ },
+ "Meridian captain": {
+  "aliases": [],
+  "scenes": 1,
+  "first": "c13.s03"
+ },
+ "Calla": {
+  "aliases": [],
+  "scenes": 1,
+  "first": "c14.s02"
+ },
+ "Brin": {
+  "aliases": [],
+  "scenes": 1,
+  "first": "c14.s02"
+ },
+ "the man in Meridian grey": {
+  "aliases": [],
+  "scenes": 1,
+  "first": "c15.s02"
+ },
+ "two fishwives": {
+  "aliases": [],
+  "scenes": 1,
+  "first": "c15.s04"
+ },
+ "Speaker of Kelder": {
+  "aliases": [],
+  "scenes": 1,
+  "first": "c16.s01"
+ },
+ "Noodle-stall old man": {
+  "aliases": [],
+  "scenes": 1,
+  "first": "c16.s02"
+ },
+ "Senior Lockkeeper": {
+  "aliases": [],
+  "scenes": 1,
+  "first": "c16.s02"
+ },
+ "Threaded": {
+  "aliases": [],
+  "scenes": 1,
+  "first": "c18.s02"
+ }
+}

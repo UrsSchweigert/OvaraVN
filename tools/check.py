@@ -10,6 +10,7 @@ import vnlib as L
 
 EXPECT_CHAPTERS, EXPECT_WORDS = 18, 73618
 MANIFEST_FIELDS = ("place", "time", "cast", "mood", "key_moment")
+NULLABLE = ("time", "key_moment", "cast")  # must be present; null is a valid answer
 
 
 def check_split(errs):
@@ -71,7 +72,11 @@ def check_manifests(errs):
                 errs.append("%s: no entry for scene %s" % (p, sc["id"]))
                 continue
             for f in MANIFEST_FIELDS:
-                if not m.get(f):
+                if f in NULLABLE:
+                    ok = f in m  # the role file says: where the text is silent, write null (cast: [] for an end card)
+                else:
+                    ok = bool(m.get(f))
+                if not ok:
                     errs.append("%s: scene %s has no %s" % (p, sc["id"], f))
             if cast is not None:
                 for who in m.get("cast", []):

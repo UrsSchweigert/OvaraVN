@@ -1,0 +1,252 @@
+{
+ "scenes": [
+  {
+   "id": "c03.s01",
+   "place": "The Kelp Forest (open water)",
+   "time": "First day in gold light; at dusk the light fails and it is night (c03.s01.p007.1, p008.1)",
+   "cast": [
+    "Wrack",
+    "Okonta"
+   ],
+   "speaks": [
+    "Wrack",
+    "Okonta"
+   ],
+   "mood": "quiet, wary, confiding",
+   "key_moment": "Okonta lying back in the water at night beside the moored needle, its faint light pulsing like something asleep, while pale whale song falls from far above (c03.s01.p007.2, p007.4, p008.2, p008.3)",
+   "looks": [
+    "c03.s01.p002.4",
+    "c03.s01.p002.5",
+    "c03.s01.p002.6",
+    "c03.s01.p004.4",
+    "c03.s01.p004.6",
+    "c03.s01.p007.2",
+    "c03.s01.p009.3",
+    "c03.s01.p013.1",
+    "c03.s01.p013.2"
+   ],
+   "needs": {
+    "backgrounds": [
+     "Kelp forest by day, gold blur, open water",
+     "Kelp forest at night, needle moored to a kelp stem"
+    ],
+    "sprites": [
+     "Wrack",
+     "Okonta"
+    ],
+    "expressions": [
+     "Okonta: neutral",
+     "Okonta: slight smile (p014.6)",
+     "Okonta: eyes closed, listening (p009.6)",
+     "Wrack: neutral"
+    ]
+   }
+  },
+  {
+   "id": "c03.s02",
+   "place": "The Tangle",
+   "time": "Second to third day; light fails a few metres into the kelp; evening when herded to the Slick (c03.s02.p007.3, p015.3)",
+   "cast": [
+    "Wrack",
+    "Okonta"
+   ],
+   "speaks": [
+    "Wrack",
+    "Okonta"
+   ],
+   "mood": "hunted, then dread, then grief",
+   "key_moment": "The kelp stops at a line as sharp as a shoreline; black dead bitterwrack and strong-tea water beyond, with shreds hanging in it (c03.s02.p019.2, p019.6, p019.7, p019.8, p019.9, p019.10)",
+   "looks": [
+    "c03.s02.p007.1",
+    "c03.s02.p007.3",
+    "c03.s02.p007.4",
+    "c03.s02.p007.6",
+    "c03.s02.p007.7",
+    "c03.s02.p008.1",
+    "c03.s02.p012.2",
+    "c03.s02.p012.3",
+    "c03.s02.p012.4",
+    "c03.s02.p012.5",
+    "c03.s02.p012.6",
+    "c03.s02.p012.7",
+    "c03.s02.p019.2",
+    "c03.s02.p019.6",
+    "c03.s02.p019.7",
+    "c03.s02.p019.8",
+    "c03.s02.p019.9",
+    "c03.s02.p019.10",
+    "c03.s02.p022.2",
+    "c03.s02.p022.3",
+    "c03.s02.p022.4",
+    "c03.s02.p024.5",
+    "c03.s02.p027.5",
+    "c03.s02.p002.6"
+   ],
+   "needs": {
+    "backgrounds": [
+     "The Tangle: thick groaning kelp, wrecks furred with weed",
+     "Sounding: broken dome, pale ribs, silt floor, stair to nothing, ring of bare sand",
+     "The Slick: dead black bitterwrack wall, tea-brown water"
+    ],
+    "sprites": [
+     "Wrack",
+     "Okonta",
+     "Slick eel (eyeless, slimed, ulcered)"
+    ],
+    "expressions": [
+     "Okonta: mouth set in a line (p015.3)",
+     "Okonta: shouting",
+     "Wrack: fear in the water",
+     "Wrack: weeping (p032.3)"
+    ]
+   }
+  },
+  {
+   "id": "c03.s03",
+   "place": "Greywatch Stone",
+   "time": "Days four to six of the wait; sixth day at the turn of the morning watch, per the almanac (c03.s03.p003.9, p013.2)",
+   "cast": [
+    "Wrack",
+    "Okonta",
+    "Brask",
+    "The woman from Fallow",
+    "The old man from Fallow",
+    "The diver officer",
+    "The Dragon"
+   ],
+   "speaks": [
+    "Wrack",
+    "Okonta",
+    "Brask",
+    "The woman from Fallow",
+    "The diver officer"
+   ],
+   "mood": "tense, then awe, then relief",
+   "key_moment": "The Dragon stops above the stone, its blunt eyeless head turned to Wrack, a panel sliding open like an eyelid, as Wrack lays his palm on it (c03.s03.p029.3, p029.4, p029.5, p029.6, p029.7, p032.1)",
+   "looks": [
+    "c03.s03.p001.1",
+    "c03.s03.p002.1",
+    "c03.s03.p002.2",
+    "c03.s03.p002.3",
+    "c03.s03.p002.5",
+    "c03.s03.p006.2",
+    "c03.s03.p006.3",
+    "c03.s03.p009.2",
+    "c03.s03.p009.3",
+    "c03.s03.p009.5",
+    "c03.s03.p010.2",
+    "c03.s03.p015.2",
+    "c03.s03.p017.2",
+    "c03.s03.p019.1",
+    "c03.s03.p024.6",
+    "c03.s03.p024.7",
+    "c03.s03.p025.2",
+    "c03.s03.p025.3",
+    "c03.s03.p025.4",
+    "c03.s03.p025.5",
+    "c03.s03.p029.4",
+    "c03.s03.p029.5",
+    "c03.s03.p029.6",
+    "c03.s03.p029.7",
+    "c03.s03.p032.2"
+   ],
+   "needs": {
+    "backgrounds": [
+     "Greywatch Stone: bare rise, hexagonal pale pillar, ring of benches scratched with names, small camp in a lee hollow",
+     "Open water above the stone with the Dragon passing"
+    ],
+    "sprites": [
+     "Wrack",
+     "Okonta",
+     "Brask (huge, red beard, sealskin coat fur inside)",
+     "The woman from Fallow",
+     "The old man from Fallow",
+     "The diver officer (helmet with stripe, faceplate lamp)",
+     "Halcyon divers on grey sleds",
+     "The Dragon"
+    ],
+    "expressions": [
+     "Diver officer: gone white, gun lowered (p019.1, p019.2)",
+     "Diver officer: face closed (p022.1)",
+     "Okonta: staring (p036.2)",
+     "Wrack: unafraid, working",
+     "Brask: watching, seal-spear raised"
+    ]
+   }
+  },
+  {
+   "id": "c03.s04",
+   "place": "The Dragon's gallery",
+   "time": "Three days north; first evening, first night, second day, third day (c03.s04.p005.3, p010.1, p012.1, p017.1)",
+   "cast": [
+    "Wrack",
+    "Okonta",
+    "Brask",
+    "The woman from Fallow",
+    "The old man from Fallow"
+   ],
+   "speaks": [
+    "Wrack",
+    "Okonta",
+    "Brask",
+    "The woman from Fallow"
+   ],
+   "mood": "wonder, calm, approaching stillness",
+   "key_moment": "Six white singers running alongside the Dragon, rolling to look in through the bound water, a calf near enough that the scars on its mother's flank show (c03.s04.p010.3, p010.4, p010.5, p010.7)",
+   "looks": [
+    "c03.s04.p002.2",
+    "c03.s04.p002.3",
+    "c03.s04.p002.4",
+    "c03.s04.p002.5",
+    "c03.s04.p002.6",
+    "c03.s04.p002.7",
+    "c03.s04.p003.2",
+    "c03.s04.p003.3",
+    "c03.s04.p003.4",
+    "c03.s04.p003.5",
+    "c03.s04.p003.6",
+    "c03.s04.p003.7",
+    "c03.s04.p003.8",
+    "c03.s04.p003.9",
+    "c03.s04.p009.1",
+    "c03.s04.p009.2",
+    "c03.s04.p010.3",
+    "c03.s04.p010.4",
+    "c03.s04.p010.5",
+    "c03.s04.p010.7",
+    "c03.s04.p012.1",
+    "c03.s04.p012.2",
+    "c03.s04.p012.3",
+    "c03.s04.p012.6",
+    "c03.s04.p014.5",
+    "c03.s04.p016.7",
+    "c03.s04.p018.1",
+    "c03.s04.p018.2",
+    "c03.s04.p018.4",
+    "c03.s04.p018.5",
+    "c03.s04.p018.6"
+   ],
+   "needs": {
+    "backgrounds": [
+     "The gallery: flooded hall, ribs arching to a point of light, walls of bright bound water, hammock-nets, cradles, names along the floor",
+     "Pale whales alongside, seen through the wall",
+     "Deep cold blue water below the forest",
+     "Underside of the ice shelf with inverted amber Maker dome of Rime"
+    ],
+    "sprites": [
+     "Wrack",
+     "Okonta",
+     "Brask",
+     "The woman from Fallow",
+     "The old man from Fallow"
+    ],
+    "expressions": [
+     "Wrack: embarrassed by thanks (p005.4)",
+     "Brask: comfortable in the cold (p012.4)",
+     "Okonta: neutral",
+     "Okonta: brief touch on shoulder (p022.6)"
+    ]
+   }
+  }
+ ]
+}

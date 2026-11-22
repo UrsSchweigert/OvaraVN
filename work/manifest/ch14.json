@@ -1,0 +1,173 @@
+{
+ "scenes": [
+  {
+   "id": "c14.s01",
+   "place": "Concord",
+   "time": "Morning in the lift and streets, then sunrise with rain and squalls at sea, sunset at Port Halcyon",
+   "cast": [
+    "Wrack",
+    "Teodora Raske",
+    "Okonta",
+    "Sefa",
+    "Bother",
+    "Dace"
+   ],
+   "speaks": [
+    "Wrack",
+    "Teodora Raske",
+    "Okonta"
+   ],
+   "mood": "tense, then exalted",
+   "key_moment": "Ilan lies along the brow of the surfaced Dragon at sunrise, its ribs trailing spray, a kilometre long (c14.s01.p013.1, c14.s01.p014.3, c14.s01.p014.7, c14.s01.p020.3)",
+   "looks": [
+    "c14.s01.p002.2",
+    "c14.s01.p002.5",
+    "c14.s01.p003.1",
+    "c14.s01.p003.6",
+    "c14.s01.p004.2",
+    "c14.s01.p013.1",
+    "c14.s01.p014.3",
+    "c14.s01.p018.3",
+    "c14.s01.p018.4",
+    "c14.s01.p018.5",
+    "c14.s01.p018.6",
+    "c14.s01.p018.7",
+    "c14.s01.p019.2",
+    "c14.s01.p019.3",
+    "c14.s01.p019.4"
+   ],
+   "needs": {
+    "backgrounds": [
+     "Concord lobby of blue marble with screens",
+     "Concord avenue and seawall",
+     "open sea at sunrise",
+     "Girdle islands from the sea (Saltgate, Lashing in its Eye)"
+    ],
+    "sprites": [
+     "Ilan",
+     "Teodora Raske",
+     "Okonta",
+     "Sefa with Bother",
+     "the Dragon (surfaced)"
+    ],
+    "expressions": [
+     "Ilan: resolved",
+     "Raske: fierce",
+     "Okonta: shouting over hull-song"
+    ]
+   }
+  },
+  {
+   "id": "c14.s02",
+   "place": "Port Halcyon",
+   "time": "Sunset, last light of day, ash falling",
+   "cast": [
+    "Wrack",
+    "Okonta",
+    "Corin",
+    "Hesper",
+    "Calla",
+    "Brin"
+   ],
+   "speaks": [
+    "Wrack",
+    "Okonta",
+    "Corin",
+    "Hesper"
+   ],
+   "mood": "dread, grief, release",
+   "key_moment": "The wave, 200 metres of green water with a white lip lit through by the last light, with twelve small figures before it (c14.s02.p006.1-p006.5)",
+   "looks": [
+    "c14.s02.p001.1",
+    "c14.s02.p001.2",
+    "c14.s02.p001.3",
+    "c14.s02.p001.4",
+    "c14.s02.p003.1",
+    "c14.s02.p003.3",
+    "c14.s02.p003.4",
+    "c14.s02.p003.6",
+    "c14.s02.p003.9",
+    "c14.s02.p003.11",
+    "c14.s02.p003.12",
+    "c14.s02.p006.2",
+    "c14.s02.p006.3",
+    "c14.s02.p006.4",
+    "c14.s02.p006.5",
+    "c14.s02.p011.2",
+    "c14.s02.p015.3",
+    "c14.s02.p015.4",
+    "c14.s02.p019.5",
+    "c14.s02.p019.6",
+    "c14.s02.p024.2",
+    "c14.s02.p033.2",
+    "c14.s02.p038.2"
+   ],
+   "needs": {
+    "backgrounds": [
+     "Port Halcyon caldera harbour with Waterline, Stacks and Rim",
+     "the wave before the harbour mouth",
+     "Waterline tank farm and refinery quay"
+    ],
+    "sprites": [
+     "Ilan",
+     "Okonta",
+     "Corin",
+     "Hesper",
+     "Calla",
+     "Brin"
+    ],
+    "expressions": [
+     "Hesper: raw, exhausted, then broken",
+     "Corin: grey with weariness",
+     "Ilan: steady"
+    ]
+   }
+  },
+  {
+   "id": "c14.s03",
+   "place": "Port Halcyon",
+   "time": "Dusk after sunset",
+   "cast": [
+    "Wrack",
+    "Sefa",
+    "Bother",
+    "Adler Crane"
+   ],
+   "speaks": [
+    "Sefa"
+   ],
+   "mood": "climactic, then exhausted calm",
+   "key_moment": "Ilan kneeling on the sea with both hands in the filthy water as clean water spreads from them and the filth rises in a dark sphere (c14.s03.p008.2, c14.s03.p009.2-p009.6)",
+   "looks": [
+    "c14.s03.p001.2",
+    "c14.s03.p001.3",
+    "c14.s03.p001.4",
+    "c14.s03.p003.3",
+    "c14.s03.p005.5",
+    "c14.s03.p009.2",
+    "c14.s03.p009.4",
+    "c14.s03.p009.6",
+    "c14.s03.p015.3",
+    "c14.s03.p016.1",
+    "c14.s03.p018.3"
+   ],
+   "needs": {
+    "backgrounds": [
+     "Port Halcyon harbour with warship fleet and unfinished grey hull",
+     "harbour water, tea-coloured with oily sheen"
+    ],
+    "sprites": [
+     "Ilan",
+     "Sefa",
+     "Bother",
+     "Adler Crane (grey coat, on bridge)"
+    ],
+    "expressions": [
+     "Ilan: spent",
+     "Sefa: fierce",
+     "Crane: still, unreadable"
+    ]
+   }
+  }
+ ]
+}

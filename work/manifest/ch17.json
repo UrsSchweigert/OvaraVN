@@ -1,0 +1,321 @@
+{
+ "scenes": [
+  {
+   "id": "c17.s01",
+   "place": "The Dead Water",
+   "time": "Day, first day to second evening; noon mentioned; light not otherwise described",
+   "cast": [
+    "Wrack",
+    "Yeva",
+    "Sefa",
+    "Ione",
+    "Garran",
+    "Dace"
+   ],
+   "speaks": [
+    "Yeva",
+    "Sefa"
+   ],
+   "mood": "patient, hushed, hopeful",
+   "key_moment": "Six thousand healers sit down in the dead water in a line two kilometres long (c17.s01.p002.2, c17.s01.p008.1)",
+   "looks": [
+    "c17.s01.p002.2",
+    "c17.s01.p002.5",
+    "c17.s01.p006.2",
+    "c17.s01.p007.2",
+    "c17.s01.p013.5",
+    "c17.s01.p013.6",
+    "c17.s01.p015.5",
+    "c17.s01.p016.2"
+   ],
+   "needs": {
+    "backgrounds": [
+     "The Dead Water, healers in a line along the edge, boats behind"
+    ],
+    "sprites": [
+     "Yeva",
+     "Sefa",
+     "Ione",
+     "Hush healer (unnamed, small woman, dark grey)",
+     "Garran",
+     "Ilan (lying in boat stern)"
+    ],
+    "expressions": [
+     "Yeva: plain, grave",
+     "Sefa: attentive",
+     "Ilan: weary, understanding"
+    ]
+   }
+  },
+  {
+   "id": "c17.s02",
+   "place": "The Road of Living Water",
+   "time": "First afternoon; second morning",
+   "cast": [
+    "Wrack",
+    "Corin",
+    "Okonta",
+    "Odo",
+    "Garran",
+    "Marit Coyle"
+   ],
+   "speaks": [
+    "Corin",
+    "Odo"
+   ],
+   "mood": "tense, then relieved",
+   "key_moment": "Corin goes out ahead with open hands and calls the grey riders by name (c17.s02.p003.3)",
+   "looks": [
+    "c17.s02.p002.1",
+    "c17.s02.p002.2",
+    "c17.s02.p007.1"
+   ],
+   "needs": {
+    "backgrounds": [
+     "The Road of Living Water with barges, wall in mist",
+     "Sky over the wall with needles"
+    ],
+    "sprites": [
+     "Corin",
+     "Odo of Lashing",
+     "Garran",
+     "Marit Coyle",
+     "needles, grey and silver"
+    ],
+    "expressions": [
+     "Corin: open, calling",
+     "Odo: steady, heavy-voiced"
+    ]
+   }
+  },
+  {
+   "id": "c17.s03",
+   "place": "Site Nine",
+   "time": "Day, sun on the mud",
+   "cast": [
+    "Wrack",
+    "Okonta",
+    "Corin",
+    "Teodora Raske",
+    "Hanne",
+    "Adler Crane",
+    "Maelis",
+    "Hesper"
+   ],
+   "speaks": [
+    "Okonta",
+    "Teodora Raske",
+    "Hanne",
+    "Wrack",
+    "Adler Crane"
+   ],
+   "mood": "awe, dread, quiet resolve",
+   "key_moment": "From the top of the wall Ilan sees the pit eighty kilometres across, with the grey city and the coiled Dragon under the platform (c17.s03.p007.2, c17.s03.p009.7)",
+   "looks": [
+    "c17.s03.p001.1",
+    "c17.s03.p002.2",
+    "c17.s03.p004.3",
+    "c17.s03.p007.2",
+    "c17.s03.p007.3",
+    "c17.s03.p007.4",
+    "c17.s03.p007.5",
+    "c17.s03.p007.6",
+    "c17.s03.p007.7",
+    "c17.s03.p007.8",
+    "c17.s03.p009.2",
+    "c17.s03.p009.3",
+    "c17.s03.p009.5",
+    "c17.s03.p009.7",
+    "c17.s03.p011.3",
+    "c17.s03.p013.1",
+    "c17.s03.p013.2",
+    "c17.s03.p017.2"
+   ],
+   "needs": {
+    "backgrounds": [
+     "Wall face, sixty metres of grey glass",
+     "Pit seen from the wall top",
+     "Silted city street with lamps",
+     "Square in the silted city"
+    ],
+    "sprites": [
+     "Ilan (barefoot, sea-silk tunic)",
+     "Raske",
+     "Hanne (lamp tied to wrist)",
+     "Crane (hard suit, helmet)",
+     "Okonta",
+     "Corin",
+     "Maelis",
+     "soldiers in grey, sergeant"
+    ],
+    "expressions": [
+     "Ilan: resolute",
+     "Hanne: whispering, wondering",
+     "Crane: tidy, calm",
+     "Raske: eyes shut"
+    ]
+   }
+  },
+  {
+   "id": "c17.s04",
+   "place": "The Vault of the Ring",
+   "time": "Not given; lit by the walls",
+   "cast": [
+    "Wrack",
+    "Anselm Rook",
+    "Maelis",
+    "Adler Crane",
+    "Teodora Raske",
+    "Hanne"
+   ],
+   "speaks": [
+    "Wrack",
+    "Anselm Rook",
+    "Maelis"
+   ],
+   "mood": "grave, confrontational, then yielding",
+   "key_moment": "The vault walls turn to light and show Rook the first quarrel and the fall; Rook sits silent (c17.s04.p041.3, c17.s04.p043.1, c17.s04.p048.1)",
+   "looks": [
+    "c17.s04.p002.1",
+    "c17.s04.p002.3",
+    "c17.s04.p002.4",
+    "c17.s04.p002.6",
+    "c17.s04.p003.1",
+    "c17.s04.p003.2",
+    "c17.s04.p004.1",
+    "c17.s04.p004.3",
+    "c17.s04.p004.4",
+    "c17.s04.p004.5",
+    "c17.s04.p004.6",
+    "c17.s04.p015.1",
+    "c17.s04.p035.2",
+    "c17.s04.p043.2",
+    "c17.s04.p016.5"
+   ],
+   "needs": {
+    "backgrounds": [
+     "Vault with ring in floor, bell-shaped, three doors",
+     "Vault walls lit with moving pictures"
+    ],
+    "sprites": [
+     "Anselm Rook (shirt, open collar, scarred neck, rag-wrapped hands)",
+     "Maelis (coat, hands in pockets)",
+     "Ilan",
+     "Crane"
+    ],
+    "expressions": [
+     "Rook: exhausted, near-smile, turned away",
+     "Maelis: taking stock, calm",
+     "Ilan: kneeling, earnest"
+    ]
+   }
+  },
+  {
+   "id": "c17.s05",
+   "place": "The Vault of the Ring",
+   "time": "Eleven hours of work, then toward morning; light of the wall",
+   "cast": [
+    "Wrack",
+    "Anselm Rook",
+    "Maelis",
+    "Hanne",
+    "Teodora Raske",
+    "Adler Crane"
+   ],
+   "speaks": [
+    "Wrack",
+    "Anselm Rook",
+    "Maelis"
+   ],
+   "mood": "quiet, tender, elegiac",
+   "key_moment": "Two old people sit side by side at the ring in the light of the wall, like children on a dock (c17.s05.p015.2)",
+   "looks": [
+    "c17.s05.p003.3",
+    "c17.s05.p002.6",
+    "c17.s05.p013.2",
+    "c17.s05.p015.2"
+   ],
+   "needs": {
+    "backgrounds": [
+     "Vault with ring, wall lit"
+    ],
+    "sprites": [
+     "Ilan",
+     "Rook",
+     "Maelis (coat folded on stone)",
+     "Hanne with lamp",
+     "Raske",
+     "Crane"
+    ],
+    "expressions": [
+     "Rook: eased, square face",
+     "Maelis: steady",
+     "Ilan: spent"
+    ]
+   }
+  },
+  {
+   "id": "c17.s06",
+   "place": "Site Nine, Central Square",
+   "time": "Dawn, morning, noon",
+   "cast": [
+    "Wrack",
+    "Yeva",
+    "Sefa",
+    "Ione",
+    "Garran",
+    "Maelis",
+    "Marit Coyle",
+    "Brask",
+    "Hesper",
+    "Aurel"
+   ],
+   "speaks": [
+    "Maelis"
+   ],
+   "mood": "wonder, release, reconciliation",
+   "key_moment": "The city rises out of the sea, white towers streaming water into the morning (c17.s06.p010.5, c17.s06.p011.1)",
+   "looks": [
+    "c17.s06.p011.1",
+    "c17.s06.p011.2",
+    "c17.s06.p011.3",
+    "c17.s06.p011.8",
+    "c17.s06.p011.9",
+    "c17.s06.p012.2",
+    "c17.s06.p012.3",
+    "c17.s06.p012.4",
+    "c17.s06.p013.1",
+    "c17.s06.p016.3",
+    "c17.s06.p016.4",
+    "c17.s06.p016.5",
+    "c17.s06.p017.2",
+    "c17.s06.p020.5",
+    "c17.s06.p002.3"
+   ],
+   "needs": {
+    "backgrounds": [
+     "Central square with the platform on six legs, sea ankle deep",
+     "Risen city of white towers at morning",
+     "Boats and rafts seen from the water with the city rising",
+     "Walls showing faces"
+    ],
+    "sprites": [
+     "Ilan",
+     "Yeva",
+     "Sefa",
+     "Ione (scarred arms)",
+     "Garran",
+     "Maelis (coat over arm)",
+     "Brask",
+     "rays"
+    ],
+    "expressions": [
+     "Ilan: emptied, open",
+     "Garran: earnest",
+     "Ione: nodding",
+     "Maelis: composed, dry"
+    ]
+   }
+  }
+ ]
+}

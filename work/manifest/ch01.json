@@ -1,0 +1,213 @@
+{
+ "scenes": [
+  {
+   "id": "c01.s01",
+   "place": "Kelp Forest",
+   "time": "light green at the edges and gold in the middle, moving slowly across the sand",
+   "cast": [
+    "Wrack",
+    "Sefa",
+    "Bother"
+   ],
+   "speaks": [
+    "Wrack",
+    "Sefa"
+   ],
+   "mood": "strange, wondering, uneasy",
+   "key_moment": "He wakes on the sand at the bottom of the golden kelp forest, breathing water, with a girl and a seal-like hound above him (c01.s01.p001.1, c01.s01.p003.2-p003.5, c01.s01.p005.1-p006.1)",
+   "looks": [
+    "c01.s01.p003.3",
+    "c01.s01.p003.4",
+    "c01.s01.p003.5",
+    "c01.s01.p005.2",
+    "c01.s01.p005.3",
+    "c01.s01.p005.4",
+    "c01.s01.p005.5",
+    "c01.s01.p006.1",
+    "c01.s01.p006.2",
+    "c01.s01.p006.3",
+    "c01.s01.p006.4",
+    "c01.s01.p008.3",
+    "c01.s01.p014.2"
+   ],
+   "needs": {
+    "backgrounds": [
+     "Kelp Forest, seabed, golden brass-coloured stems, green-gold light"
+    ],
+    "sprites": [
+     "Wrack (surface boots, torn grey jacket with half-ripped corporate crest, red cable-tie marks on wrists)",
+     "Sefa (about sixteen, thin, long limbed, dark hair tied back with a shining strip, large nearly black eyes, harvesting hook)",
+     "Bother (tide hound, plaited cord collar)"
+    ],
+    "expressions": [
+     "Wrack: bewildered",
+     "Wrack: blank, troubled",
+     "Sefa: wary",
+     "Sefa: studying",
+     "Bother: pleased"
+    ]
+   }
+  },
+  {
+   "id": "c01.s02",
+   "place": "Low Anthem Terraces",
+   "time": null,
+   "cast": [
+    "Wrack",
+    "Sefa",
+    "Bother"
+   ],
+   "speaks": [
+    "Wrack",
+    "Sefa"
+   ],
+   "mood": "awe, wariness, wonder",
+   "key_moment": "The Maker dome the size of a hill at the top of the terraces, half lit and half dark with glowing weed hung on the dark panes (c01.s02.p005.1, c01.s02.p006.1-p006.9)",
+   "looks": [
+    "c01.s02.p001.3",
+    "c01.s02.p001.4",
+    "c01.s02.p001.5",
+    "c01.s02.p002.1",
+    "c01.s02.p002.2",
+    "c01.s02.p002.3",
+    "c01.s02.p002.4",
+    "c01.s02.p006.1",
+    "c01.s02.p006.3",
+    "c01.s02.p006.4",
+    "c01.s02.p006.5",
+    "c01.s02.p006.6",
+    "c01.s02.p006.8",
+    "c01.s02.p006.9",
+    "c01.s02.p011.3",
+    "c01.s02.p012.1",
+    "c01.s02.p012.2"
+   ],
+   "needs": {
+    "backgrounds": [
+     "Low Anthem Terraces, walled terraces of kelp rows",
+     "Low Anthem dome exterior, underwater",
+     "Sea-door pool inside the dome, stone floor, lamplight"
+    ],
+    "sprites": [
+     "Wrack",
+     "Sefa",
+     "Bother",
+     "Hold people (long-limbed, dark-eyed, grey-green sea-silk tunics)",
+     "Silverback fish"
+    ],
+    "expressions": [
+     "Wrack: puzzled",
+     "Sefa: sharp look",
+     "Sefa: proud, shrugging",
+     "Wrack: hurt by first breath of air"
+    ]
+   }
+  },
+  {
+   "id": "c01.s03",
+   "place": "Low Anthem Dry Room",
+   "time": "Three days; Oro's visit on the second evening",
+   "cast": [
+    "Wrack",
+    "Sefa",
+    "Bother",
+    "Elder Oro",
+    "Ione"
+   ],
+   "speaks": [
+    "Wrack",
+    "Sefa",
+    "Elder Oro",
+    "Ione"
+   ],
+   "mood": "tense, tender, grave",
+   "key_moment": "Ione lifts the water from the bowl in her two hands, holding its shape, and lays it on Wrack's head (c01.s03.p012.4-p012.5, c01.s03.p017.1-p017.3)",
+   "looks": [
+    "c01.s03.p004.1",
+    "c01.s03.p008.3",
+    "c01.s03.p012.1",
+    "c01.s03.p012.2",
+    "c01.s03.p017.2",
+    "c01.s03.p023.3",
+    "c01.s03.p023.4"
+   ],
+   "needs": {
+    "backgrounds": [
+     "Low Anthem Dry Room, stone, lamplit"
+    ],
+    "sprites": [
+     "Wrack (in sea-silk tunic after p023)",
+     "Sefa",
+     "Bother",
+     "Elder Oro (very old, carved stick, bald brown head)",
+     "Ione (broad, calm, sleeves rolled, scarred forearms)"
+    ],
+    "expressions": [
+     "Elder Oro: gentle, amused",
+     "Ione: calm, cautious",
+     "Sefa: thoughtful",
+     "Wrack: lost"
+    ]
+   }
+  },
+  {
+   "id": "c01.s04",
+   "place": "Low Anthem Meeting Hall",
+   "time": "Days of work and evenings; the ninth day for the lamp, hour not stated",
+   "cast": [
+    "Wrack",
+    "Sefa",
+    "Davin",
+    "Elder Oro",
+    "Bother",
+    "the boy",
+    "the old woman"
+   ],
+   "speaks": [
+    "Wrack",
+    "Sefa",
+    "Davin",
+    "Elder Oro",
+    "the boy",
+    "the old woman"
+   ],
+   "mood": "warm routine turning to astonishment",
+   "key_moment": "The Maker lamp comes on and white light pours down the hall while Elder Oro sits on the floor and weeps (c01.s04.p021.2-p021.8, c01.s04.p022.1, c01.s04.p023.1-p023.4, c01.s04.p024.1-p024.3)",
+   "looks": [
+    "c01.s04.p002.3",
+    "c01.s04.p002.8",
+    "c01.s04.p003.6",
+    "c01.s04.p003.7",
+    "c01.s04.p007.6",
+    "c01.s04.p011.2",
+    "c01.s04.p011.5",
+    "c01.s04.p019.1",
+    "c01.s04.p019.2",
+    "c01.s04.p019.3",
+    "c01.s04.p019.5",
+    "c01.s04.p019.7",
+    "c01.s04.p023.1"
+   ],
+   "needs": {
+    "backgrounds": [
+     "Low Anthem Meeting Hall, round and high, with the Maker lamp column at its centre",
+     "Terrace work in the kelp",
+     "Long dry hall at night, hammocks"
+    ],
+    "sprites": [
+     "Wrack",
+     "Sefa",
+     "Davin (quiet, big-handed, slow smile)",
+     "Elder Oro",
+     "Bother"
+    ],
+    "expressions": [
+     "Wrack: frightened",
+     "Elder Oro: weeping",
+     "Sefa: whispering amazed",
+     "Davin: patient smile"
+    ]
+   }
+  }
+ ]
+}
