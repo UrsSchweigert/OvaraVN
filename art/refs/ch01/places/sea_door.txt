@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text. The inside of a great ancient dome deep under the sea, lit by warm lamplight. Beyond the curved pale panes there is only dark blue-green sea water, no sky, no land. In the middle of the stone floor is a round pool, twenty paces across, its surface half water and half still air, glowing faintly. A little smoke drifts in the air and a small cooking fire burns at the edge of the stone floor. Quiet and warm.

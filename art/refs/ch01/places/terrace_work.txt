@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text. Underwater, a tended kelp forest in golden-green light. Stone-walled terraces with rows of kelp, floating nets heaped with cut kelp fronds, harvesting hooks lying on a wall, a drying rack. A shoal of fat silver fish, each as long as an arm, grazes along the foot of a wall.

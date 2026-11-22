@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: sheet
+refs: art/refs/ch01/davin.png
+
+Anime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders only, the head and upper chest filling the frame, three-quarter view turned to face the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes. A quiet man with a slow patient smile.
