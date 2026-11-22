@@ -159,13 +159,14 @@ def generate(model_name, prompt, refs, out, purpose, chapter=None, size=(1024, 1
     new_total, cap = check_cap(cost, purpose)
     payload = dict(m.get("extra", {}))
     payload["prompt"] = prompt
-    payload[m["refs_field"]] = [data_uri(r) for r in refs]
+    if m["refs_field"]:
+        payload[m["refs_field"]] = [data_uri(r) for r in refs]
     if m["size"] == "image_size":
         payload["image_size"] = {"width": w, "height": h}
     else:
         payload["aspect_ratio"] = aspect
-    if not refs:
-        raise ImageError("These are edit models: give at least one reference image with --ref.")
+    if m["refs_field"] and not refs:
+        raise ImageError("%s is an edit model: give at least one reference image with --ref." % model_name)
     out = Path(out)
     phash = hashlib.sha256(prompt.encode()).hexdigest()[:16]
     if dry_run:

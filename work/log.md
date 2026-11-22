@@ -24,3 +24,9 @@ Newest entry last. Each entry: date, what was done, what was verified and how, w
 - Not done: chapter 1 cuts not re-read against the manifest. The owner has not yet reviewed chapter 1.
 - Open problem for stage 2: every model in `config/models.json` is an edit model and needs a reference image, but there is no art yet. The bake-off needs text-to-image variants of the candidates, or a plain first reference. Check fal's text-to-image ids and prices before spending.
 - Next: resolve that, then the bake-off (cap $10).
+
+## 2026-11-22: chapter 1 reference images
+
+- Done: added text-to-image models to `config/models.json` (`flux-2-t2i`, `seedream-4.5-t2i`, `nano-banana-2-t2i`; the three work). Compared them on Sefa, chose flux-2. Made reference images for Sefa, Wrack, Bother, Elder Oro, Ione and Davin in `art/refs/ch01/` (two rejected and redone). Draft `art/bible.md`.
+- Verified: I looked at each image and compared it with the sentences cited in the bible. I did not use the image-reviewer agent. Spend so far about $0.30 of $200.
+- Waiting on the owner: gates `style` and `cast` (not approved; the owner has not seen these). Chapter 1 cut review.

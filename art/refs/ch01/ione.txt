@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: sheet
+refs: 
+
+Anime-style character reference illustration, clean line art, soft cel shading, gentle natural colours. Full body, standing, facing the viewer, plain light grey background, no text. A broad, calm woman, a healer, with her sleeves rolled up. Both forearms are covered from wrist to elbow with old, healed, smooth shiny scars in raised ridges, as if burned long ago; the scars are pale and closed, not open wounds. She wears a tunic of fine grey-green cloth that gleams like the inside of a shell. Calm, cautious expression.

@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: sheet
+refs: 
+
+Anime-style character reference illustration, clean line art, soft cel shading, gentle natural colours. Full body, standing, facing the viewer, plain light grey background, no text. A quiet, big-handed man, a net-mender, with a slow smile and patient expression. He wears a close tunic of fine grey-green cloth that gleams like the inside of a shell.
