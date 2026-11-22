@@ -29,9 +29,13 @@ curl -fsSL -o renios.zip "https://www.renpy.org/dl/${RENPY_VERSION}/renpy-${RENP
 unzip -q renios.zip -d "$SDK"
 
 # Build a throwaway Xcode project, then copy only the heavy parts into ios/.
+# Images ship as WebP to keep the app small; the PNG masters in git stay as they are.
+command -v cwebp >/dev/null 2>&1 || HOMEBREW_NO_AUTO_UPDATE=1 brew install webp
+python3 "$ROOT/tools/webp_game.py" "$ROOT/game" "$WORK/game_webp"
+
 export SDL_VIDEODRIVER=dummy
 cd "$SDK"
-./renpy.sh launcher ios_create "$ROOT/game" "$WORK/ios"
+./renpy.sh launcher ios_create "$WORK/game_webp" "$WORK/ios"
 for d in base prebuilt Frameworks; do
     rm -rf "$ROOT/ios/$d"
     cp -R "$WORK/ios/$d" "$ROOT/ios/$d"

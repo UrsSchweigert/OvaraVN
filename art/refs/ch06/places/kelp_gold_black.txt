@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text, no letters. Entirely underwater in a kelp forest: tall brass-coloured kelp trunks as thick as a man's waist, no branches, golden blades far above. The left side of the picture is lit gold and the water darkens steadily across to the right until it is black, with the last trunks vanishing into the dark. A feeling of speed, a gold smear. No sky, no horizon, no surface, no grass.

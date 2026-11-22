@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: background
+refs: art/refs/ch03/places/gallery.png, art/refs/ch03/places/cradles.png
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text, no letters. The same long flooded hall as the first reference in morning light: the bright bound-water walls between the pale ribs are thick and shining again, pouring past, and the floor shows only nineteen slender pale silver needle-shaped vessels in cradles in a row built for two hundred, the rest of the cradles empty with a little silt. Hammock-nets slack. On a rib one wheel-shaped worn metal part hangs lashed by cord. Quiet, grieving, soft light. Inside the hall, no sky, no land.

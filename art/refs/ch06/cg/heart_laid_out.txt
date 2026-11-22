@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: illustration
+refs: art/refs/ch06/places/gallery_failing.png, art/refs/ch06/places/heart_under.png
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, no text, no letters. Reference 1 is a dim hall with ribs, nets and dark open sea in the gaps. Reference 2 is a pile of worn old machine parts. In the middle of the hall floor, laid out in neat order in a long row, lie the dismantled pieces of a great worn machine: large worn metal wheels and rings, rods, plates and couplings. Standing round them in a loose wide ring, seen mostly from behind and from the side, perhaps two dozen figures in slate-grey suits, small and dark in the dim light, with different hair: white, grey, black, brown, some tall, some short, heads bowed, perfectly still and silent, like mourners at a graveside. Solemn, grieving, soft dim light. No sky, no horizon.

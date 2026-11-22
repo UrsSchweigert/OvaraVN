@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: illustration
+refs: art/refs/ch05/portraits/wrack_tunic_resolved.png, art/refs/ch02/portraits/okonta.png, art/refs/ch06/places/gallery_failing.png
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, no text, no letters. Reference 1 is Wrack, a lean man with pale light skin and short messy black hair in a plain grey-green tunic, bare feet. Reference 2 is Okonta, a spare dark brown skinned woman with short grey hair in a slate-grey suit. Reference 3 is a dim hall with pale ribs. Inside the dim hall, Wrack stands braced, eyes closed in concentration, hands open at his sides. Around him, an arm's length out from his shoulder, a faint clear shimmering skin of water forms a shell like wet glass. A slender pale silver needle-shaped vessel with Okonta crouched low on it, grey suit, rushes at him from the right and its pointed prow slides harmlessly off the skin of water an arm's length from his shoulder, throwing a ripple of light, like a drop sliding off glass. Exactly two people, nobody else. Entirely underwater setting, no sky, no horizon.

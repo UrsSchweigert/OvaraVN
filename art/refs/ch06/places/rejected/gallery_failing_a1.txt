@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: background
+refs: art/refs/ch03/places/gallery.png, art/refs/ch03/places/cradles.png
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text, no letters. The same long flooded hall as the first reference, but failing and dim: the bright bound-water walls between the ribs have thinned to a pale film and in places have gone altogether, so the dark open sea stands in the gaps between the ribs. Hammock-nets hang slack and empty between the ribs. Along the floor on both sides, row on row, lie many slender pale silver needle-shaped vessels in low cradles, each with a faint glow pulsing, like a stable full of sleeping horses. Dim, cold, tired light, a hush. Inside the hall, no sky, no land.
