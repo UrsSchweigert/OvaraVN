@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: illustration
+refs: art/refs/ch02/portraits/wrack_tunic_shaken.png
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, no text, no letters. Reference 1 is Wrack, a lean man with short BLACK hair in a grey-green tunic. Entirely underwater at night, deep blue-green water, a rocky seabed with kelp, no beach, no sand dunes, no sky. Looking up, the silver sea surface stretches overhead like a ceiling, and a huge pillar of sea water, the full width of a ship, pushes up through the surface lifting the dark hull of a barge out of the ocean; rings of pressure spread through the water like a struck bell, bending the kelp. Small in the foreground on the seabed, Wrack on his knees with his head thrown back and his arms open, eyes wide. Exactly one person.

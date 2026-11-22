@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: illustration
+refs: 
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, no text, no letters. Underwater at night on stone kelp terraces. A group of mariner Tenders, long-limbed dark-eyed people in grey-green sea-silk tunics, hold up long fine-meshed nets weighted at the corners, spread under a falling curtain of thick black sludge and catching it. Other Tenders fold the black sludge into hide bladders and seal them with wax. Further back old women plant bitterwrack along the terrace edges with baskets. Grim, tired, steady work, dark blue water, moonlight from far above.

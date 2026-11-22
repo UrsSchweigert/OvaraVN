@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: illustration
+refs: art/refs/ch02/portraits/hesper_tired.png
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, no text, no letters. Reference 1 is Hesper, a lean hard woman with dark hair pulled back. Underwater at night, a side view of Hesper holding in her two hands a slab of living sea water, clear and glowing faintly, leaning it like a board against a falling curtain of black sludge. A strong clear current carries the black fall sideways, away from nursery beds of young silver fish below. Her face is set and strained, her hands pale and chapped. Exactly one person.

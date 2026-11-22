@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: illustration
+refs: 
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, no text, no letters. Seen from underwater at night looking up: the rusty hull of a cargo barge floats on the moonlit surface, its belly hatch open, and thick black sludge pours slowly down through the water, spreading as it sinks like ink dropped in a glass. Far below, golden kelp blades curl and turn brown where the black fall touches them. Dark blue water, silver moonlight at the surface. No people.

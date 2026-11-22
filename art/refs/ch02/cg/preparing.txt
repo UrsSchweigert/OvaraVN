@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: illustration
+refs: art/refs/ch02/portraits/wrack_tunic_resolved.png, art/refs/ch02/portraits/ione_pain.png
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, no text, no letters. Reference 1 is Wrack, a lean man with short BLACK hair in a grey-green tunic. Reference 2 is Ione, a sturdy healer with brown hair in a low bun and sleeves rolled up. Underwater at night. Wrack and Ione each hold a corner of a long net under a falling curtain of black sludge. A splash of black sludge has hit Ione's bare forearm; she hisses through her teeth and keeps working, grimacing. Wrack, beside her, has stopped and looks up at the long dark hull of the barge above, his whole face and body filled with a sudden fierce wanting, fists tight, the water around him beginning to stir. Exactly two people in the foreground.
