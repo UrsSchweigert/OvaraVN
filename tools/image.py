@@ -148,6 +148,8 @@ def generate(model_name, prompt, refs, out, purpose, chapter=None, size=(1024, 1
     if purpose not in PURPOSES:
         raise ImageError("purpose must be one of: " + ", ".join(PURPOSES))
     m = models[model_name]
+    if m.get("kind") == "matte":
+        return _matte(model_name, m, refs, out, purpose, chapter, dry_run)
     if len(refs) > m["max_refs"]:
         raise ImageError("%s takes at most %d reference images" % (model_name, m["max_refs"]))
     for r in refs:
@@ -200,6 +202,41 @@ def generate(model_name, prompt, refs, out, purpose, chapter=None, size=(1024, 1
     return row
 
 
+def _matte(model_name, m, refs, out, purpose, chapter, dry_run):
+    """Cut the background out of one image with a background-removal model."""
+    if len(refs) != 1 or not Path(refs[0]).exists():
+        raise ImageError("%s needs exactly one --ref image to cut out" % model_name)
+    cost = round(m["price"]["per_image"], 6)
+    new_total, cap = check_cap(cost, purpose)
+    payload = dict(m.get("extra", {}))
+    payload[m["image_field"]] = data_uri(refs[0])
+    if dry_run:
+        return {"dry_run": True, "model": m["id"], "cost": cost, "total_after": new_total, "cap": cap,
+                "payload_keys": sorted(payload), "refs": 1}
+    key = find_key()
+    out = Path(out)
+    row = {"time": L.now(), "model": model_name, "model_id": m["id"], "purpose": purpose, "chapter": chapter,
+           "cost": cost, "out": str(out), "prompt_hash": "", "ok": False}
+    try:
+        resp = call_fal(m["id"], payload, key)
+        images = resp.get("images") or ([resp["image"]] if resp.get("image") else [])
+        if not images or not images[0].get("url"):
+            raise ImageError("fal answered but sent no image")
+        data = download(images[0]["url"])
+        out.parent.mkdir(parents=True, exist_ok=True)
+        out.write_bytes(data)
+        row["ok"] = True
+    except ImageError as e:
+        row["error"] = str(e).replace(key, "***")[:300]
+        if not e.billed:
+            row["cost"] = 0.0
+        _append(row)
+        raise
+    _append(row)
+    row["warn"] = bool(cap and new_total >= budget().get("warn_at", 0.8) * cap)
+    return row
+
+
 def _append(row):
     LEDGER.parent.mkdir(parents=True, exist_ok=True)
     with open(LEDGER, "a", encoding="utf-8") as f:
@@ -209,7 +246,7 @@ def _append(row):
 def cmd_image(argv):
     ap = argparse.ArgumentParser(prog="./vn image", description="Generate one image through fal.ai, logged and capped.")
     ap.add_argument("model")
-    g = ap.add_mutually_exclusive_group(required=True)
+    g = ap.add_mutually_exclusive_group(required=False)
     g.add_argument("--prompt")
     g.add_argument("--prompt-file")
     ap.add_argument("--ref", action="append", default=[], help="reference image; repeat for more")
@@ -220,7 +257,14 @@ def cmd_image(argv):
     ap.add_argument("--aspect", default="1:1", help="for models that take an aspect ratio, e.g. 16:9")
     ap.add_argument("--dry-run", action="store_true")
     a = ap.parse_args(argv)
-    prompt = a.prompt if a.prompt is not None else Path(a.prompt_file).read_text(encoding="utf-8").strip()
+    prompt = a.prompt if a.prompt is not None else \
+        Path(a.prompt_file).read_text(encoding="utf-8").strip() if a.prompt_file else None
+    if prompt is None:
+        models = L.read_json(CONFIG / "models.json")
+        if models.get(a.model, {}).get("kind") != "matte":
+            print("give --prompt or --prompt-file", file=sys.stderr)
+            return 1
+        prompt = ""
     try:
         r = generate(a.model, prompt, a.ref, a.out, a.purpose, a.chapter, parse_size(a.size), a.aspect, a.dry_run)
     except ImageError as e:
