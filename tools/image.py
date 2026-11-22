@@ -25,7 +25,7 @@ LEDGER = L.WORK / "ledger.jsonl"
 
 
 class ImageError(Exception):
-    pass
+    billed = True  # a failure may still have been charged, unless fal rejected the request outright
 
 
 # ---- key -------------------------------------------------------------------
@@ -103,7 +103,9 @@ def _http(req, timeout=300):
         with urllib.request.urlopen(req, timeout=timeout) as r:
             return r.read()
     except urllib.error.HTTPError as e:
-        raise ImageError("fal returned HTTP %d: %s" % (e.code, e.read()[:400].decode("utf-8", "replace")))
+        err = ImageError("fal returned HTTP %d: %s" % (e.code, e.read()[:400].decode("utf-8", "replace")))
+        err.billed = e.code not in (400, 401, 403, 404, 422)  # rejected before any work
+        raise err
     except urllib.error.URLError as e:
         raise ImageError("network error: %s" % e.reason)
 
@@ -185,8 +187,9 @@ def generate(model_name, prompt, refs, out, purpose, chapter=None, size=(1024, 1
             encoding="utf-8")
         row["ok"] = True
     except ImageError as e:
-        # a failed call may still have been billed, so the ledger keeps its cost
         row["error"] = str(e).replace(key, "***")[:300]
+        if not e.billed:
+            row["cost"] = 0.0
         _append(row)
         raise
     _append(row)
