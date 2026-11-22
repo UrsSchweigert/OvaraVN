@@ -1,5 +1,5 @@
-model: fal-ai/flux-2
+model: fal-ai/flux-2/edit
 purpose: background
-refs: 
+refs: art/refs/ch01/lamp/lamp_unlit.png
 
-Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no animals, no text. The inside of a round, high, empty meeting hall, a stone floor, nobody in it, no people at all. At its exact centre a smooth pale white column, as thick as a man's waist, rises from floor to roof without a mark or seam, polished to a shine at shoulder height, with a wreath of fresh green weed hung on it. The hall is dim and the column is unlit.
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, no text. Reference 1 is the lamp. The inside of a round, high, empty meeting hall of cool grey stone, dim and quiet, lit only by a little dull light from far above, no people at all. The lamp from reference 1, exactly as designed, stands in the exact centre, floor to ceiling, dead and dark. Cool grey and blue-green colours, no red or pink.

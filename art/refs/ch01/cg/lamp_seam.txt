@@ -1,5 +1,5 @@
 model: fal-ai/flux-2/edit
 purpose: illustration
-refs: art/refs/ch01/portraits/wrack_tunic.png
+refs: art/refs/ch01/portraits/wrack_tunic.png, art/refs/ch01/lamp/lamp_unlit.png
 
-Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, no text. The people look exactly like the reference images, in the order given. Reference 1 is Wrack in a plain grey-green tunic. There is exactly ONE person in the picture: Wrack, seen from behind and slightly to the side, standing alone. In a dim, round, high meeting hall he reaches up with both of his own hands to a smooth pale column that rises from floor to roof, a wreath of fresh green weed hung on it. His fingertips have found a seam in the column that nobody ever saw, and it is opening; a thin line of white light glows from inside. No other people anywhere, an empty hall.
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, no text. Reference 1 is Wrack in a plain grey-green tunic, reference 2 is the lamp. There is exactly one person in the picture: Wrack, seen from behind, standing alone in a dim round hall. He reaches up with both hands to the lamp from reference 2, exactly as designed, at shoulder height of the column, where a hairline seam in the pale metal is opening and a thin line of white light shines out of it. The glass lens at the top of the lamp is still dark. No one else anywhere.

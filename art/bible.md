@@ -34,11 +34,15 @@ Wide 16:9, same style, no people. From the text (sentence ids from `work/units/c
 
 Wrack's second outfit, the sea-silk tunic (c01.s03.p023.3): `art/refs/ch01/wrack_tunic.png`. Made from his first sheet with the edit model; the face matches, the cloth does not shimmer.
 
+## The Maker lamp (owner's design change)
+
+The owner asked for a real, old lamp-like lamp, because mobile versions of it appear later in the story. Design in `art/refs/ch01/lamp/lamp_unlit.png`: a pale ivory metal column as thick as a man's waist, with ribbed collars, old bundled cables down one side, a caged glass lens housing near the top, a hairline seam at shoulder height (polished by touch), and the weed wreath. Dark when dead; the lens blazes white when it comes on. This replaces the earlier plain column that the source text described ("a smooth pale column from floor to roof... without a mark", c01.s04.p019.3, which the owner's cuts removed). Used in: `places/meeting_hall.png`, `cg/lamp_seam.png`, `cg/lamp_on.png`. Material matches the dome's white metal (c01.s02.p006.4).
+
 ## Known weaknesses
 
 - Wrack's crest is whole, not half ripped away, and its lettering is garbled. Fix before it appears large.
 - Skin tone is unstated for everyone but Oro. The model's default is pale for the others.
-- The meeting-hall column is lit white by a skylight. In the scene it is dark until Wrack opens it (c01.s04.p022), so a dark version is needed before that scene.
+- Sefa is not clearly visible in the lamp-on illustration.
 - The dome's panes look a little like glass. The text says "neither glass nor stone".
 - The dry room has no hammock or fire; the text gives none.
 - Expressions (see the manifest `needs`) are not made yet.
