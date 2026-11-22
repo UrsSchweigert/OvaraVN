@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: illustration
+refs: art/refs/ch02/portraits/okonta.png, art/refs/ch01/portraits/wrack_tunic.png
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, no text, no letters. Reference 1 is Okonta, a spare older woman with DARK BROWN skin and short GREY hair in a slate-grey high-collared suit. Reference 2 is Wrack, a lean man with PALE skin and short BLACK hair in a grey-green tunic. Underwater in a golden kelp forest, everything a streaking gold blur of kelp from speed. A slender pale silver needle-shaped vessel with a faint glow streaks through the water; Okonta rides it leaning her shoulders like a swimmer, steering with nothing in her hands, and Wrack clings to her back with his eyes shut tight. Exactly two people.

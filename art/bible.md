@@ -68,3 +68,19 @@ Places: `places/dome_crown` (underwater at night, platform on the dome's crown),
 Illustrations (`art/refs/ch02/cg/`): `lamps`, `barge`, `gunboats` (three gunboats floating on the surface, waterline across their hulls; blue shield crest on the bows, the same crest I drew on Wrack's jacket in chapter 1: the text says "the Halcyon crest" without describing it), `burial`, `needle` (Okonta alone stepping off the pale needle; earlier tries with Wrack and Sefa kept duplicating Wrack).
 
 Not shown in any image: the sludge's source ship details, the unnamed crew faces (rough).
+
+
+## Chapter 3 additions
+
+New characters (portraits in `art/refs/ch03/portraits/`, cut-outs in `portraits_cut/`; fixed features in `art/canon.json`; browse with `./vn art open`):
+
+| Who | From the text | Choices |
+|---|---|---|
+| Brask | "a huge young man with a red beard, who wore a coat of sealskin with the fur inside in spite of the warmth of the water" (c03.s03.p009.2); an ice-diver of Rime; "a voice like a slab of something being dropped" (p010.2) | red hair, light skin, grey fur at the collar |
+| The woman from Fallow | "a woman of about thirty", "a tired, flat, capable way of speaking" (c03.s03.p006.3 and nearby) | dark hair tied back, light weathered skin |
+| The old man from Fallow | "an old man who lay propped against a bundle, breathing as though each breath had to be lifted" (c03.s03.p006.3) | thin white hair, deeply wrinkled |
+| The diver officer | "an officer, by the stripe on her helmet" (c03.s03.p017.2), "even through the helmet glass he could see her go white" (p019.1) | about forty, cropped dark hair, blue shield crest on the shoulder (as on the Halcyon gunboats) |
+
+New emotions: Okonta listening (eyes closed, c03.s01.p009.6); Wrack quiet awe.
+
+Places: `kelp_night`, `tangle`, `sounding_ruin`, `slick_edge`, `greywatch_stone`, `gallery`, `cradles`, `ice_shelf`. Illustrations (`art/refs/ch03/cg/`): `needle_ride`, `moored_night`, `eel`, `dragon_arrives`, `dragon_head`, `sleds`, `whales`. The gallery is inside the Dragon, so no sky, horizon or land is ever visible through the bound water.

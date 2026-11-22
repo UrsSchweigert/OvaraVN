@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: sheet
+refs: 
+
+Anime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view turned toward the viewer's right, plain light grey background, no text. Both shoulders visible. The eyes are fully drawn with irises, pupils and highlights. A woman of about thirty with a tired, flat, capable face, long-limbed and dark-eyed, dark hair tied back plainly, light weathered skin, wearing a worn plain tunic of grey-green cloth that gleams like the inside of a shell. Weary but steady.

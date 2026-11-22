@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: sheet
+refs: art/refs/ch03/portraits/fallow_man.png
+
+Anime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: the SAME VERY OLD, DEEPLY WRINKLED face with hollow cheeks, thin white hair, same worn grey-green cloth; only the expression changes. Both shoulders visible. The eyes are fully drawn with irises, pupils and highlights. Expression: laboured, mouth open with effort, drawing a heavy breath.

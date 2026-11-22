@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: illustration
+refs: 
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, no text, no letters. Underwater at dawn over a bare rise on the seabed with a small pale stone pillar and a tiny camp. A huge river with a spine sweeps overhead: a kilometre of pale metal ribs, each one a great hoop taller than a dome, running one behind another in a long sinuous line, with bright dense glowing water bound to the ribs and pouring forward along the frame without leaving it, like a flame streaming back from a torch. Vast, awesome, serene. Tiny figures look up from the rise.

@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text, no letters. Low in the belly of a great pale-ribbed vehicle, a row of cradles shaped like long slender needles set into the floor, each with a small carved mark beside it; one near the end stands empty with silt in it. Warm dim light, a quiet hush.

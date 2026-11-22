@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: sheet
+refs: 
+
+Anime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view turned toward the viewer's right, plain light grey background, no text. Both shoulders visible. The eyes are fully drawn with irises, pupils and highlights. A very old frail man with thin white hair and hollow cheeks, dark eyes, wearing a worn grey-green cloth wrapped round his shoulders, his mouth slightly open as if each breath has to be lifted, gentle and weary.

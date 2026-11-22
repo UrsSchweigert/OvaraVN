@@ -24,9 +24,13 @@ BASE_ALIAS = {
     "sefa_wary": "sefa", "wrack_bewildered": "wrack", "wrack_tunic_troubled": "wrack_tunic",
     "oro_gentle": "oro", "ione_calm": "ione", "davin_smile": "davin", "bother_pleased": "bother",
     "hesper_stern": "hesper", "okonta_grave": "okonta",
+    "brask_watchful": "brask", "fallow_woman_weary": "fallow_woman", "fallow_man_frail": "fallow_man",
+    "officer_hard": "officer",
 }
 CHAR_NAMES = {"wrack_tunic": "Wrack", "wrack": "Wrack", "sefa": "Sefa", "bother": "Bother", "oro": "Elder Oro",
-              "ione": "Ione", "davin": "Davin", "hesper": "Hesper", "okonta": "Okonta"}
+              "ione": "Ione", "davin": "Davin", "hesper": "Hesper", "okonta": "Okonta",
+              "brask": "Brask", "fallow_woman": "The woman from Fallow", "fallow_man": "The old man from Fallow",
+              "officer": "The diver officer"}
 
 
 def _root(root=None):

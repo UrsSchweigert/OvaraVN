@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-22T16:34:29Z",
- "count": 87,
+ "generated": "2026-11-22T16:58:31Z",
+ "count": 116,
  "items": [
   {
    "kind": "portrait",
@@ -43,6 +43,48 @@
    },
    "character": "Bother",
    "emotion": "pleased"
+  },
+  {
+   "kind": "portrait",
+   "id": "p brask_awed",
+   "game_file": "game/game/images/p_brask_awed.png",
+   "source": "art/refs/ch03/portraits/brask_awed.png",
+   "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch03/portraits/brask.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same lighting, same skin colour; only the expression changes. Both shoulders visible. The eyes are fully drawn with irises, pupils and highlights. A restrained realistic expression, no grin, no laughing. Expression: awed and silent, eyes wide, mouth slightly open, staring at something immense.",
+   "model": "flux-2",
+   "cost": 0.024,
+   "chapters": {
+    "3": 1
+   },
+   "character": "Brask",
+   "emotion": "awed"
+  },
+  {
+   "kind": "portrait",
+   "id": "p brask_gruff",
+   "game_file": "game/game/images/p_brask_gruff.png",
+   "source": "art/refs/ch03/portraits/brask_gruff.png",
+   "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch03/portraits/brask.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same lighting, same skin colour; only the expression changes. Both shoulders visible. The eyes are fully drawn with irises, pupils and highlights. A restrained realistic expression, no grin, no laughing. Expression: gruff and sceptical, a slight scowl, looking someone over slowly.",
+   "model": "flux-2",
+   "cost": 0.024,
+   "chapters": {
+    "3": 3
+   },
+   "character": "Brask",
+   "emotion": "gruff"
+  },
+  {
+   "kind": "portrait",
+   "id": "p brask_watchful",
+   "game_file": "game/game/images/p_brask_watchful.png",
+   "source": "art/refs/ch03/portraits/brask.png",
+   "prompt": "model: fal-ai/flux-2\npurpose: sheet\nrefs: \n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view turned toward the viewer's right, plain light grey background, no text. Both shoulders visible. The eyes are fully drawn with irises, pupils and highlights. A huge, broad young man with a short red beard and short red hair, a wide strong face, watchful steady eyes, wearing a heavy coat of sealskin with the fur turned inside so the outside is smooth dark leather, a high collar. An ice-diver from the top of the world.",
+   "model": "flux-2-t2i",
+   "cost": 0.012,
+   "chapters": {
+    "3": 3
+   },
+   "character": "Brask",
+   "emotion": "watchful"
   },
   {
    "kind": "portrait",
@@ -100,6 +142,84 @@
    },
    "character": "Davin",
    "emotion": "smile"
+  },
+  {
+   "kind": "portrait",
+   "id": "p fallow_man_calm",
+   "game_file": "game/game/images/p_fallow_man_calm.png",
+   "source": "art/refs/ch03/portraits/fallow_man_calm.png",
+   "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch03/portraits/fallow_man.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: the SAME VERY OLD, DEEPLY WRINKLED face with hollow cheeks, thin white hair, same worn grey-green cloth; only the expression changes. Both shoulders visible. The eyes are fully drawn with irises, pupils and highlights. Expression: gentle and peaceful, a faint content look, eyes soft and tired.",
+   "model": "flux-2",
+   "cost": 0.024,
+   "chapters": {},
+   "character": "The old man from Fallow",
+   "emotion": "calm"
+  },
+  {
+   "kind": "portrait",
+   "id": "p fallow_man_frail",
+   "game_file": "game/game/images/p_fallow_man_frail.png",
+   "source": "art/refs/ch03/portraits/fallow_man.png",
+   "prompt": "model: fal-ai/flux-2\npurpose: sheet\nrefs: \n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view turned toward the viewer's right, plain light grey background, no text. Both shoulders visible. The eyes are fully drawn with irises, pupils and highlights. A very old frail man with thin white hair and hollow cheeks, dark eyes, wearing a worn grey-green cloth wrapped round his shoulders, his mouth slightly open as if each breath has to be lifted, gentle and weary.",
+   "model": "flux-2-t2i",
+   "cost": 0.012,
+   "chapters": {},
+   "character": "The old man from Fallow",
+   "emotion": "frail"
+  },
+  {
+   "kind": "portrait",
+   "id": "p fallow_man_laboured",
+   "game_file": "game/game/images/p_fallow_man_laboured.png",
+   "source": "art/refs/ch03/portraits/fallow_man_laboured.png",
+   "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch03/portraits/fallow_man.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: the SAME VERY OLD, DEEPLY WRINKLED face with hollow cheeks, thin white hair, same worn grey-green cloth; only the expression changes. Both shoulders visible. The eyes are fully drawn with irises, pupils and highlights. Expression: laboured, mouth open with effort, drawing a heavy breath.",
+   "model": "flux-2",
+   "cost": 0.024,
+   "chapters": {},
+   "character": "The old man from Fallow",
+   "emotion": "laboured"
+  },
+  {
+   "kind": "portrait",
+   "id": "p fallow_woman_hopeful",
+   "game_file": "game/game/images/p_fallow_woman_hopeful.png",
+   "source": "art/refs/ch03/portraits/fallow_woman_hopeful.png",
+   "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch03/portraits/fallow_woman.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same lighting, same skin colour; only the expression changes. Both shoulders visible. The eyes are fully drawn with irises, pupils and highlights. A restrained realistic expression, no grin, no laughing. Expression: anxious hope, eyes lifted and pleading, lips pressed together.",
+   "model": "flux-2",
+   "cost": 0.024,
+   "chapters": {
+    "3": 1
+   },
+   "character": "The woman from Fallow",
+   "emotion": "hopeful"
+  },
+  {
+   "kind": "portrait",
+   "id": "p fallow_woman_relieved",
+   "game_file": "game/game/images/p_fallow_woman_relieved.png",
+   "source": "art/refs/ch03/portraits/fallow_woman_relieved.png",
+   "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch03/portraits/fallow_woman.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same lighting, same skin colour; only the expression changes. Both shoulders visible. The eyes are fully drawn with irises, pupils and highlights. A restrained realistic expression, no grin, no laughing. Expression: quiet relief, shoulders eased, eyes wet and grateful.",
+   "model": "flux-2",
+   "cost": 0.024,
+   "chapters": {
+    "3": 1
+   },
+   "character": "The woman from Fallow",
+   "emotion": "relieved"
+  },
+  {
+   "kind": "portrait",
+   "id": "p fallow_woman_weary",
+   "game_file": "game/game/images/p_fallow_woman_weary.png",
+   "source": "art/refs/ch03/portraits/fallow_woman.png",
+   "prompt": "model: fal-ai/flux-2\npurpose: sheet\nrefs: \n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view turned toward the viewer's right, plain light grey background, no text. Both shoulders visible. The eyes are fully drawn with irises, pupils and highlights. A woman of about thirty with a tired, flat, capable face, long-limbed and dark-eyed, dark hair tied back plainly, light weathered skin, wearing a worn plain tunic of grey-green cloth that gleams like the inside of a shell. Weary but steady.",
+   "model": "flux-2-t2i",
+   "cost": 0.012,
+   "chapters": {
+    "3": 1
+   },
+   "character": "The woman from Fallow",
+   "emotion": "weary"
   },
   {
    "kind": "portrait",
@@ -254,6 +374,46 @@
   },
   {
    "kind": "portrait",
+   "id": "p officer_grim",
+   "game_file": "game/game/images/p_officer_grim.png",
+   "source": "art/refs/ch03/portraits/officer_grim.png",
+   "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch03/portraits/officer.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same lighting, same skin colour; only the expression changes. Both shoulders visible. The eyes are fully drawn with irises, pupils and highlights. A restrained realistic expression, no grin, no laughing. Expression: grim and resolved, jaw set, eyes hard.",
+   "model": "flux-2",
+   "cost": 0.024,
+   "chapters": {},
+   "character": "The diver officer",
+   "emotion": "grim"
+  },
+  {
+   "kind": "portrait",
+   "id": "p officer_hard",
+   "game_file": "game/game/images/p_officer_hard.png",
+   "source": "art/refs/ch03/portraits/officer.png",
+   "prompt": "model: fal-ai/flux-2\npurpose: sheet\nrefs: \n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view turned toward the viewer's right, plain light grey background, no text. Both shoulders visible. The eyes are fully drawn with irises, pupils and highlights. A woman officer of about forty inside a grey armoured diving suit and a metal diving helmet with a round glass faceplate; her face is clearly visible through the glass: hard-eyed, composed, dark hair cropped. A coloured stripe across the top of the helmet, a small lamp on the helmet's brow, a blue shield-shaped crest on the shoulder of the suit.",
+   "model": "flux-2-t2i",
+   "cost": 0.012,
+   "chapters": {
+    "3": 1
+   },
+   "character": "The diver officer",
+   "emotion": "hard"
+  },
+  {
+   "kind": "portrait",
+   "id": "p officer_shocked",
+   "game_file": "game/game/images/p_officer_shocked.png",
+   "source": "art/refs/ch03/portraits/officer_shocked.png",
+   "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch03/portraits/officer.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same lighting, same skin colour; only the expression changes. Both shoulders visible. The eyes are fully drawn with irises, pupils and highlights. A restrained realistic expression, no grin, no laughing. Expression: shocked, her face gone white, eyes wide, mouth open, shaken.",
+   "model": "flux-2",
+   "cost": 0.024,
+   "chapters": {
+    "3": 1
+   },
+   "character": "The diver officer",
+   "emotion": "shocked"
+  },
+  {
+   "kind": "portrait",
    "id": "p okonta_grave",
    "game_file": "game/game/images/p_okonta_grave.png",
    "source": "art/refs/ch02/portraits/okonta.png",
@@ -261,10 +421,25 @@
    "model": "flux-2-t2i",
    "cost": 0.012,
    "chapters": {
-    "2": 1
+    "2": 1,
+    "3": 14
    },
    "character": "Okonta",
    "emotion": "grave"
+  },
+  {
+   "kind": "portrait",
+   "id": "p okonta_listening",
+   "game_file": "game/game/images/p_okonta_listening.png",
+   "source": "art/refs/ch03/portraits/okonta_listening.png",
+   "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch02/portraits/okonta.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same lighting, same skin colour; only the expression changes. Both shoulders visible. The eyes are fully drawn with irises, pupils and highlights. A restrained realistic expression, no grin, no laughing. Expression: listening intently, eyes closed, head tilted slightly, calm.",
+   "model": "flux-2",
+   "cost": 0.024,
+   "chapters": {
+    "3": 2
+   },
+   "character": "Okonta",
+   "emotion": "listening"
   },
   {
    "kind": "portrait",
@@ -275,7 +450,8 @@
    "model": "flux-2",
    "cost": 0.024,
    "chapters": {
-    "2": 1
+    "2": 1,
+    "3": 2
    },
    "character": "Okonta",
    "emotion": "sorrow"
@@ -289,7 +465,8 @@
    "model": "flux-2",
    "cost": 0.024,
    "chapters": {
-    "2": 1
+    "2": 1,
+    "3": 4
    },
    "character": "Okonta",
    "emotion": "urgent"
@@ -303,7 +480,8 @@
    "model": "flux-2",
    "cost": 0.024,
    "chapters": {
-    "2": 1
+    "2": 1,
+    "3": 5
    },
    "character": "Okonta",
    "emotion": "wry"
@@ -570,10 +748,25 @@
    "model": "flux-2",
    "cost": 0.024,
    "chapters": {
-    "2": 6
+    "2": 6,
+    "3": 13
    },
    "character": "Wrack",
    "emotion": "attentive"
+  },
+  {
+   "kind": "portrait",
+   "id": "p wrack_tunic_awed",
+   "game_file": "game/game/images/p_wrack_tunic_awed.png",
+   "source": "art/refs/ch03/portraits/wrack_tunic_awed.png",
+   "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch01/portraits/wrack_tunic.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same lighting, same skin colour; only the expression changes. Both shoulders visible. The eyes are fully drawn with irises, pupils and highlights. A restrained realistic expression, no grin, no laughing. Expression: quiet awe, eyes wide and fixed on something enormous, mouth closed, face open and still.",
+   "model": "flux-2",
+   "cost": 0.024,
+   "chapters": {
+    "3": 3
+   },
+   "character": "Wrack",
+   "emotion": "awed"
   },
   {
    "kind": "portrait",
@@ -584,7 +777,8 @@
    "model": "flux-2",
    "cost": 0.024,
    "chapters": {
-    "2": 1
+    "2": 1,
+    "3": 1
    },
    "character": "Wrack",
    "emotion": "baffled"
@@ -598,7 +792,8 @@
    "model": "flux-2",
    "cost": 0.024,
    "chapters": {
-    "2": 1
+    "2": 1,
+    "3": 1
    },
    "character": "Wrack",
    "emotion": "calm"
@@ -642,7 +837,8 @@
    "cost": 0.024,
    "chapters": {
     "1": 1,
-    "2": 2
+    "2": 2,
+    "3": 1
    },
    "character": "Wrack",
    "emotion": "frightened"
@@ -685,7 +881,8 @@
    "model": "flux-2",
    "cost": 0.024,
    "chapters": {
-    "2": 3
+    "2": 3,
+    "3": 1
    },
    "character": "Wrack",
    "emotion": "shaken"
@@ -713,7 +910,8 @@
    "model": "flux-2",
    "cost": 0.024,
    "chapters": {
-    "2": 2
+    "2": 2,
+    "3": 1
    },
    "character": "Wrack",
    "emotion": "soft"
@@ -728,7 +926,8 @@
    "cost": 0.024,
    "chapters": {
     "1": 3,
-    "2": 2
+    "2": 2,
+    "3": 3
    },
    "character": "Wrack",
    "emotion": "troubled"
@@ -743,6 +942,19 @@
    "cost": 0.024,
    "chapters": {
     "2": 1
+   },
+   "character": null
+  },
+  {
+   "kind": "background",
+   "id": "bg cradles",
+   "game_file": "game/game/images/bg/cradles.png",
+   "source": "art/refs/ch03/places/cradles.png",
+   "prompt": "model: fal-ai/flux-2\npurpose: background\nrefs: \n\nAnime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text, no letters. Inside the closed pale-ribbed hull of a great vehicle deep under the sea: a curved metal tunnel with ribs, a row of cradles shaped like long slender needles set into the floor, each with a small carved mark beside it; one near the end stands empty with silt in it. The hull is completely closed: no opening, no beach, no sand dunes, no sky. Dim warm lamplight, a quiet hush.",
+   "model": "flux-2-t2i",
+   "cost": 0.024,
+   "chapters": {
+    "3": 1
    },
    "character": null
   },
@@ -787,6 +999,32 @@
   },
   {
    "kind": "background",
+   "id": "bg gallery",
+   "game_file": "game/game/images/bg/gallery.png",
+   "source": "art/refs/ch03/places/gallery.png",
+   "prompt": "model: fal-ai/flux-2\npurpose: background\nrefs: \n\nAnime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text, no letters. Inside a flooded hall a kilometre long that travels through the deep sea: pale metal ribs arch overhead one behind another into a distant point of light. There are no walls and no windows: between the ribs flows a wall of bright, clear, faintly glowing bound water, pouring past like the back of a waterfall, and beyond it only the dark blue-green open sea, with NO sky, NO horizon, NO land and NO beach anywhere. A band of scratched marks runs along the floor, hammock-nets hang between the ribs, cooking stones and a rack of dried fish. Warm, still, calm.",
+   "model": "flux-2-t2i",
+   "cost": 0.024,
+   "chapters": {
+    "3": 3
+   },
+   "character": null
+  },
+  {
+   "kind": "background",
+   "id": "bg greywatch_stone",
+   "game_file": "game/game/images/bg/greywatch_stone.png",
+   "source": "art/refs/ch03/places/greywatch_stone.png",
+   "prompt": "model: fal-ai/flux-2\npurpose: background\nrefs: \n\nAnime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text, no letters. Underwater on a bare rise above a kelp forest where nothing grows, a strong cold current. At the centre stands a six-sided pillar of pale smooth stuff twice the height of a man with nothing on it. Round it a ring of stone benches whose surfaces are covered in worn abstract scratched marks, nothing readable. In a hollow on the lee side a small camp of nets and a cooking stone. Cold blue light.",
+   "model": "flux-2-t2i",
+   "cost": 0.024,
+   "chapters": {
+    "3": 4
+   },
+   "character": null
+  },
+  {
+   "kind": "background",
    "id": "bg hall_day",
    "game_file": "game/game/images/bg/hall_day.png",
    "source": "art/refs/ch02/places/hall_day.png",
@@ -800,6 +1038,19 @@
   },
   {
    "kind": "background",
+   "id": "bg ice_shelf",
+   "game_file": "game/game/images/bg/ice_shelf.png",
+   "source": "art/refs/ch03/places/ice_shelf.png",
+   "prompt": "model: fal-ai/flux-2\npurpose: background\nrefs: \n\nAnime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text, no letters. Underwater looking up at the underside of an ice shelf like an upside-down country of blue valleys and hanging ridges, domes of trapped air shining like mercury, small luminous shoals browsing along it. Clinging to the ice like a swallow's nest, a pale Maker dome hangs upside down glowing amber, with small lights moving to and fro beneath it. Cold, clear and vast.",
+   "model": "flux-2-t2i",
+   "cost": 0.024,
+   "chapters": {
+    "3": 1
+   },
+   "character": null
+  },
+  {
+   "kind": "background",
    "id": "bg kelp_forest",
    "game_file": "game/game/images/bg/kelp_forest.png",
    "source": "art/refs/ch01/places/kelp_forest.png",
@@ -807,7 +1058,21 @@
    "model": "flux-2-t2i",
    "cost": 0.024,
    "chapters": {
-    "1": 2
+    "1": 2,
+    "3": 3
+   },
+   "character": null
+  },
+  {
+   "kind": "background",
+   "id": "bg kelp_night",
+   "game_file": "game/game/images/bg/kelp_night.png",
+   "source": "art/refs/ch03/places/kelp_night.png",
+   "prompt": "model: fal-ai/flux-2\npurpose: background\nrefs: \n\nAnime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text, no letters. Underwater at night in a golden kelp forest, dim moonlit blue-green water, brass-coloured trunks as thick as a man's waist. A slender pale silver needle-shaped vessel is moored to one kelp stem by a loop of cord, a faint soft light pulsing slowly along its flank like something asleep. Far off in the dark water, vast pale whale shapes. Quiet and still.",
+   "model": "flux-2-t2i",
+   "cost": 0.024,
+   "chapters": {
+    "3": 1
    },
    "character": null
   },
@@ -873,6 +1138,45 @@
    "cost": 0.024,
    "chapters": {
     "1": 1
+   },
+   "character": null
+  },
+  {
+   "kind": "background",
+   "id": "bg slick_edge",
+   "game_file": "game/game/images/bg/slick_edge.png",
+   "source": "art/refs/ch03/places/slick_edge.png",
+   "prompt": "model: fal-ai/flux-2\npurpose: background\nrefs: \n\nAnime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text, no letters. Underwater at the edge of a poisoned zone: a tall wall of golden kelp stops at a line as sharp as a shoreline. Beyond it stand neat rows of black, dead bitterwrack plants a hundred metres deep, and past them the water is the colour of strong tea, murky brown, with ragged shreds hanging in it that neither sink nor rise. Dread and silence.",
+   "model": "flux-2-t2i",
+   "cost": 0.024,
+   "chapters": {
+    "3": 2
+   },
+   "character": null
+  },
+  {
+   "kind": "background",
+   "id": "bg sounding_ruin",
+   "game_file": "game/game/images/bg/sounding_ruin.png",
+   "source": "art/refs/ch03/places/sounding_ruin.png",
+   "prompt": "model: fal-ai/flux-2\npurpose: background\nrefs: \n\nAnime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text, no letters. Entirely underwater: the ruin of a mariner hold, a pale dome three times the size of a village's, broken open like an egg, only half of it standing, its pale ribs curving up into the dark with nothing between them. The floor inside is a drift of silt with the stumps of walls and a stair of six steps going up to nothing. A ring of bare sand surrounds it where no weed grows. Silent as a grave, dim blue light.",
+   "model": "flux-2-t2i",
+   "cost": 0.024,
+   "chapters": {
+    "3": 1
+   },
+   "character": null
+  },
+  {
+   "kind": "background",
+   "id": "bg tangle",
+   "game_file": "game/game/images/bg/tangle.png",
+   "source": "art/refs/ch03/places/tangle.png",
+   "prompt": "model: fal-ai/flux-2\npurpose: background\nrefs: \n\nAnime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text, no letters. A thick wild kelp thicket under the sea, the stems rubbing together so densely that the light fails a few metres in, dim and eerie. Between the stems lie the wrecks of ancient warships from wars two hundred years gone, on their sides, furred with weed, fish going in and out of the gun-ports, a rusted helmet on the sand. A pale soft glow ahead among the stems like a held lamp.",
+   "model": "flux-2-t2i",
+   "cost": 0.024,
+   "chapters": {
+    "3": 1
    },
    "character": null
   },
@@ -1112,6 +1416,97 @@
   },
   {
    "kind": "illustration",
+   "id": "cg c3_dragon_arrives",
+   "game_file": "game/game/images/cg/c3_dragon_arrives.png",
+   "source": null,
+   "prompt": "",
+   "model": null,
+   "cost": null,
+   "chapters": {
+    "3": 1
+   },
+   "character": null
+  },
+  {
+   "kind": "illustration",
+   "id": "cg c3_dragon_head",
+   "game_file": "game/game/images/cg/c3_dragon_head.png",
+   "source": null,
+   "prompt": "",
+   "model": null,
+   "cost": null,
+   "chapters": {
+    "3": 1
+   },
+   "character": null
+  },
+  {
+   "kind": "illustration",
+   "id": "cg c3_eel",
+   "game_file": "game/game/images/cg/c3_eel.png",
+   "source": null,
+   "prompt": "",
+   "model": null,
+   "cost": null,
+   "chapters": {
+    "3": 1
+   },
+   "character": null
+  },
+  {
+   "kind": "illustration",
+   "id": "cg c3_moored_night",
+   "game_file": "game/game/images/cg/c3_moored_night.png",
+   "source": null,
+   "prompt": "",
+   "model": null,
+   "cost": null,
+   "chapters": {
+    "3": 1
+   },
+   "character": null
+  },
+  {
+   "kind": "illustration",
+   "id": "cg c3_needle_ride",
+   "game_file": "game/game/images/cg/c3_needle_ride.png",
+   "source": null,
+   "prompt": "",
+   "model": null,
+   "cost": null,
+   "chapters": {
+    "3": 1
+   },
+   "character": null
+  },
+  {
+   "kind": "illustration",
+   "id": "cg c3_sleds",
+   "game_file": "game/game/images/cg/c3_sleds.png",
+   "source": null,
+   "prompt": "",
+   "model": null,
+   "cost": null,
+   "chapters": {
+    "3": 1
+   },
+   "character": null
+  },
+  {
+   "kind": "illustration",
+   "id": "cg c3_whales",
+   "game_file": "game/game/images/cg/c3_whales.png",
+   "source": null,
+   "prompt": "",
+   "model": null,
+   "cost": null,
+   "chapters": {
+    "3": 1
+   },
+   "character": null
+  },
+  {
+   "kind": "illustration",
    "id": "cg healing",
    "game_file": "game/game/images/cg/healing.png",
    "source": "art/refs/ch01/cg/healing.png",
@@ -1260,18 +1655,54 @@
     "references": [
      "art/refs/ch02/portraits/okonta.png"
     ]
+   },
+   "Brask": {
+    "fixed": "huge young man, ice-diver of Rime (the hold at the top of the world), short red hair and short red beard, wide strong face, light skin; heavy coat of sealskin worn with the fur turned INSIDE (smooth dark leather outside, grey fur visible at the collar); voice like a slab dropped; carries a seal-spear (choice: red hair, beard length)",
+    "references": [
+     "art/refs/ch03/portraits/brask.png"
+    ]
+   },
+   "The woman from Fallow": {
+    "fixed": "woman of about thirty from Fallow (unnamed), tired flat capable face, long-limbed and dark-eyed, dark hair tied back plainly, weathered light skin, worn grey-green sea-silk tunic; towed her father eleven days on a sled of kelp-floats",
+    "references": [
+     "art/refs/ch03/portraits/fallow_woman.png"
+    ]
+   },
+   "The old man from Fallow": {
+    "fixed": "very old, frail, deeply wrinkled, hollow cheeks, thin white hair, dark eyes, worn grey-green cloth wrapped round the shoulders; breathes as though each breath has to be lifted (the woman's father)",
+    "references": [
+     "art/refs/ch03/portraits/fallow_man.png"
+    ],
+    "note": "Expression edits make him look younger; always say 'VERY OLD, DEEPLY WRINKLED, hollow cheeks'."
+   },
+   "The diver officer": {
+    "fixed": "woman of about forty, cropped dark hair, hard-eyed; Halcyon armoured diving suit in grey with a round-glass metal helmet (face visible through the glass), a coloured stripe over the helmet marks her rank, a lamp on the helmet's brow, a blue shield-shaped crest on the shoulder; carries a harpoon gun (c03.s03.p017.2)",
+    "references": [
+     "art/refs/ch03/portraits/officer.png"
+    ]
    }
   },
   "objects": {
    "Maker lamp": "pale ivory metal column as thick as a man's waist, a few ribbed collars, old bundled cables down one side, caged glass lens housing near the top, hairline seam at shoulder height polished by touch; dark when dead, lens blazes white when lit. Once lit it stays lit. Wall/dome lamps use the same design on a short post.",
    "reference": [
     "art/refs/ch01/lamp/lamp_unlit.png"
-   ]
+   ],
+   "Halcyon diving gear": "grey armoured diving suits, metal helmets with round glass faceplates, a stripe for officers, blue shield crest; they ride squat ugly grey sleds with caged screws and carry harpoon guns",
+   "The needle (Okonta's vehicle)": "a sliver of pale silver metal three times the length of a man, no thicker than a kelp stem, pointed at both ends, no rudder, no screw, no window; a soft light runs along its flank like the light on a fish; it is steered by the rider leaning, with nothing in the hands; two ride clinging on its back",
+   "The Dragon": "a river with a spine: a kilometre of pale metal ribs, each a hoop taller than a hold's dome, one behind another in a long sinuous line, with bright dense glowing water BOUND to the ribs, pouring forward along the frame without leaving it, like a flame streaming back from a torch; the head is a smooth blunt pale prow the size of a house with no eyes and no mouth, and a panel that slides open like an eyelid; inside, the gallery is a flooded still hall with walls of bound water",
+   "Slick eel": "eyeless eel as thick as a man's body and as long as a needle, coated in black slime, pale sores where the slime has rubbed away, jaws opening like a split hose",
+   "White whales": "six white, vast, blunt-headed whales, each as long as a ship, small wise eyes; the calf is no bigger than a fishing boat; old scars on the mother's flank"
   },
   "places": {
    "Low Anthem dome": "hill-sized dome of pale smooth curved panes held by seamless white metal ribs; lit on one half, dark on the other with strings of glowing yellow-green lampweed; kelp trained up one side; stone-walled terraces and raked kelp rows round it; the hold is UNDER the sea",
    "Kelp forest": "brass-coloured trunks thick as a man's waist, no branches, golden blades far above leaning one way, green at the edges and gold in the middle",
-   "Barge": "rusty steel cargo barge about forty metres long; crew wear black sailor uniforms; Halcyon boats carry a blue shield-shaped crest on the bow (design is a choice)"
+   "Barge": "rusty steel cargo barge about forty metres long; crew wear black sailor uniforms; Halcyon boats carry a blue shield-shaped crest on the bow (design is a choice)",
+   "The Tangle": "wild kelp so thick the stems rub and groan, light failing a few metres in; wrecks of agravar warships two hundred years old lying on their sides, furred with weed, fish in the gun-ports, a skull in a rusted helmet",
+   "Sounding (ruin)": "a broken hold, a dome three times the size of Low Anthem's broken open like an egg, half standing; pale ribs curving up into the dark, silt floor, stumps of walls, a stair of six steps going up to nothing; a ring of bare sand all round with no weed",
+   "The Slick edge": "the kelp stops at a line as sharp as a shoreline; rows of dead black bitterwrack a hundred metres deep; beyond, water the colour of strong tea with shreds hanging in it",
+   "Greywatch Stone": "bare rise above the forest where kelp will not grow and the current runs cold and strong; a six-sided pillar of pale Maker stuff twice a man's height, nothing on it; a ring of stone benches and the paving scratched with thousands of worn names in looping script (never readable); a small camp of nets and a cooking-stone in a lee hollow",
+   "Dragon gallery": "flooded warm hall a kilometre long, ribs arching to a point of light, no walls, only bound water pouring past; hammock-nets, cooking stones, a rack of dried fish, a band of scratched names along the floor; cradles shaped to needles low in the belly, each with a name, one empty with silt; closed hull, no outside view of sky or land",
+   "Rime": "a Maker dome hung upside down from the underside of an ice shelf, glowing amber, little lights moving beneath it"
   }
  }
 }

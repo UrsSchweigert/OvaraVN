@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: illustration
+refs: art/refs/ch01/portraits/wrack_tunic_frightened.png
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, no text, no letters. Reference 1 is Wrack, a lean man with short BLACK hair in a grey-green tunic. Murky tea-brown water at the edge of a poisoned zone. A huge eyeless eel as thick as a man's body and as long as a boat, coated in black slime, its pale skin sore where the slime has rubbed away, turns toward Wrack with its jaws opening wide like a split hose. Wrack floats alone in the foreground, frozen, afraid, with nothing in his hands. Dead black plants in the background. Exactly one person.

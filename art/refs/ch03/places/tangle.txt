@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text, no letters. A thick wild kelp thicket under the sea, the stems rubbing together so densely that the light fails a few metres in, dim and eerie. Between the stems lie the wrecks of ancient warships from wars two hundred years gone, on their sides, furred with weed, fish going in and out of the gun-ports, a rusted helmet on the sand. A pale soft glow ahead among the stems like a held lamp.

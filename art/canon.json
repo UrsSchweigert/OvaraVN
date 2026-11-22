@@ -12,53 +12,110 @@
  ],
  "characters": {
   "Wrack": {
-   "also_called": ["Ilan Voss"],
+   "also_called": [
+    "Ilan Voss"
+   ],
    "fixed": "adult man, lean, short messy BLACK hair, light skin, dark brown eyes, calm face (age not stated; reads late thirties)",
    "outfits": {
     "jacket": "torn grey zip jacket over a grey t-shirt, grey trousers, heavy black surface boots, a blue shield-shaped crest on the jacket chest (crest design is a choice), raw red cable-tie marks on both wrists",
     "tunic": "plain loose grey-green sea-silk tunic, bare feet; worn from c01.s03.p023 on"
    },
-   "references": ["art/refs/ch01/portraits/wrack.png", "art/refs/ch01/portraits/wrack_tunic.png"],
+   "references": [
+    "art/refs/ch01/portraits/wrack.png",
+    "art/refs/ch01/portraits/wrack_tunic.png"
+   ],
    "note": "Use a head-and-shoulders crop of the tunic sheet as reference; the full sheet with red wrist marks is rejected by fal's filter."
   },
   "Sefa": {
    "fixed": "girl of about sixteen, thin, long arms and legs, dark hair tied up in a high ponytail with a shining silver-white strip, large nearly black eyes, light skin (choice)",
    "outfit": "short sleeveless grey-green sea-silk tunic, bare arms, bare legs, BARE FEET; harvesting hook = a long wooden pole with ONE smooth curved crescent metal blade (not a fork or rake)",
-   "references": ["art/refs/ch01/portraits/sefa.png"]
+   "references": [
+    "art/refs/ch01/portraits/sefa.png"
+   ]
   },
   "Bother": {
    "fixed": "tide hound: sleek grey seal body, broad flippers, blunt square head, whiskered grey muzzle, brown eyes set forward, small folded drooping ears (NOT pointed), collar of plaited cord",
-   "references": ["art/refs/ch01/portraits/bother.png"]
+   "references": [
+    "art/refs/ch01/portraits/bother.png"
+   ]
   },
   "Elder Oro": {
    "fixed": "very old man, bald warm brown (orange-brown) head with grey hair at the sides, warm brown skin, gentle slightly amused look; loose grey-green robe, carved wooden stick",
-   "references": ["art/refs/ch01/portraits/oro.png"]
+   "references": [
+    "art/refs/ch01/portraits/oro.png"
+   ]
   },
   "Ione": {
    "fixed": "sturdy middle-aged woman (Sefa's mother, the hold's healer), brown hair in a low bun, no ribbon, sleeves rolled to the elbow, both forearms ridged wrist to elbow with old pale healed shiny scars, calm; grey-green tunic with a belt. NOT heavy-set.",
-   "references": ["art/refs/ch01/portraits/ione.png"],
+   "references": [
+    "art/refs/ch01/portraits/ione.png"
+   ],
    "note": "Her full-body sheet is rejected by fal's filter (scars); use the head crop."
   },
   "Davin": {
    "fixed": "quiet big-handed man, short dark hair, slow smile, net-mender; grey-green tunic with frog fastenings, trousers",
-   "references": ["art/refs/ch01/portraits/davin.png"]
+   "references": [
+    "art/refs/ch01/portraits/davin.png"
+   ]
   },
   "Hesper": {
    "fixed": "the hold's Tidecaller, lean hard woman of about forty (reads older), strong tired face, dark hair pulled back, hands chapped white to the wrist; grey-green sea-silk tunic",
-   "references": ["art/refs/ch02/portraits/hesper.png"]
+   "references": [
+    "art/refs/ch02/portraits/hesper.png"
+   ]
   },
   "Okonta": {
    "fixed": "spare woman of about sixty, DARK BROWN skin, short GREY hair, close slate-grey high-collared suit, thin pale scars like pen lines from the temples down both sides of the neck under the collar (Threaded). The only person with dark skin and grey hair in a scene.",
-   "references": ["art/refs/ch02/portraits/okonta.png"]
+   "references": [
+    "art/refs/ch02/portraits/okonta.png"
+   ]
+  },
+  "Brask": {
+   "fixed": "huge young man, ice-diver of Rime (the hold at the top of the world), short red hair and short red beard, wide strong face, light skin; heavy coat of sealskin worn with the fur turned INSIDE (smooth dark leather outside, grey fur visible at the collar); voice like a slab dropped; carries a seal-spear (choice: red hair, beard length)",
+   "references": [
+    "art/refs/ch03/portraits/brask.png"
+   ]
+  },
+  "The woman from Fallow": {
+   "fixed": "woman of about thirty from Fallow (unnamed), tired flat capable face, long-limbed and dark-eyed, dark hair tied back plainly, weathered light skin, worn grey-green sea-silk tunic; towed her father eleven days on a sled of kelp-floats",
+   "references": [
+    "art/refs/ch03/portraits/fallow_woman.png"
+   ]
+  },
+  "The old man from Fallow": {
+   "fixed": "very old, frail, deeply wrinkled, hollow cheeks, thin white hair, dark eyes, worn grey-green cloth wrapped round the shoulders; breathes as though each breath has to be lifted (the woman's father)",
+   "references": [
+    "art/refs/ch03/portraits/fallow_man.png"
+   ],
+   "note": "Expression edits make him look younger; always say 'VERY OLD, DEEPLY WRINKLED, hollow cheeks'."
+  },
+  "The diver officer": {
+   "fixed": "woman of about forty, cropped dark hair, hard-eyed; Halcyon armoured diving suit in grey with a round-glass metal helmet (face visible through the glass), a coloured stripe over the helmet marks her rank, a lamp on the helmet's brow, a blue shield-shaped crest on the shoulder; carries a harpoon gun (c03.s03.p017.2)",
+   "references": [
+    "art/refs/ch03/portraits/officer.png"
+   ]
   }
  },
  "objects": {
   "Maker lamp": "pale ivory metal column as thick as a man's waist, a few ribbed collars, old bundled cables down one side, caged glass lens housing near the top, hairline seam at shoulder height polished by touch; dark when dead, lens blazes white when lit. Once lit it stays lit. Wall/dome lamps use the same design on a short post.",
-  "reference": ["art/refs/ch01/lamp/lamp_unlit.png"]
+  "reference": [
+   "art/refs/ch01/lamp/lamp_unlit.png"
+  ],
+  "Halcyon diving gear": "grey armoured diving suits, metal helmets with round glass faceplates, a stripe for officers, blue shield crest; they ride squat ugly grey sleds with caged screws and carry harpoon guns",
+  "The needle (Okonta's vehicle)": "a sliver of pale silver metal three times the length of a man, no thicker than a kelp stem, pointed at both ends, no rudder, no screw, no window; a soft light runs along its flank like the light on a fish; it is steered by the rider leaning, with nothing in the hands; two ride clinging on its back",
+  "The Dragon": "a river with a spine: a kilometre of pale metal ribs, each a hoop taller than a hold's dome, one behind another in a long sinuous line, with bright dense glowing water BOUND to the ribs, pouring forward along the frame without leaving it, like a flame streaming back from a torch; the head is a smooth blunt pale prow the size of a house with no eyes and no mouth, and a panel that slides open like an eyelid; inside, the gallery is a flooded still hall with walls of bound water",
+  "Slick eel": "eyeless eel as thick as a man's body and as long as a needle, coated in black slime, pale sores where the slime has rubbed away, jaws opening like a split hose",
+  "White whales": "six white, vast, blunt-headed whales, each as long as a ship, small wise eyes; the calf is no bigger than a fishing boat; old scars on the mother's flank"
  },
  "places": {
   "Low Anthem dome": "hill-sized dome of pale smooth curved panes held by seamless white metal ribs; lit on one half, dark on the other with strings of glowing yellow-green lampweed; kelp trained up one side; stone-walled terraces and raked kelp rows round it; the hold is UNDER the sea",
   "Kelp forest": "brass-coloured trunks thick as a man's waist, no branches, golden blades far above leaning one way, green at the edges and gold in the middle",
-  "Barge": "rusty steel cargo barge about forty metres long; crew wear black sailor uniforms; Halcyon boats carry a blue shield-shaped crest on the bow (design is a choice)"
+  "Barge": "rusty steel cargo barge about forty metres long; crew wear black sailor uniforms; Halcyon boats carry a blue shield-shaped crest on the bow (design is a choice)",
+  "The Tangle": "wild kelp so thick the stems rub and groan, light failing a few metres in; wrecks of agravar warships two hundred years old lying on their sides, furred with weed, fish in the gun-ports, a skull in a rusted helmet",
+  "Sounding (ruin)": "a broken hold, a dome three times the size of Low Anthem's broken open like an egg, half standing; pale ribs curving up into the dark, silt floor, stumps of walls, a stair of six steps going up to nothing; a ring of bare sand all round with no weed",
+  "The Slick edge": "the kelp stops at a line as sharp as a shoreline; rows of dead black bitterwrack a hundred metres deep; beyond, water the colour of strong tea with shreds hanging in it",
+  "Greywatch Stone": "bare rise above the forest where kelp will not grow and the current runs cold and strong; a six-sided pillar of pale Maker stuff twice a man's height, nothing on it; a ring of stone benches and the paving scratched with thousands of worn names in looping script (never readable); a small camp of nets and a cooking-stone in a lee hollow",
+  "Dragon gallery": "flooded warm hall a kilometre long, ribs arching to a point of light, no walls, only bound water pouring past; hammock-nets, cooking stones, a rack of dried fish, a band of scratched names along the floor; cradles shaped to needles low in the belly, each with a name, one empty with silt; closed hull, no outside view of sky or land",
+  "Rime": "a Maker dome hung upside down from the underside of an ice shelf, glowing amber, little lights moving beneath it"
  }
 }

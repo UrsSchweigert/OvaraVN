@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: sheet
+refs: 
+
+Anime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view turned toward the viewer's right, plain light grey background, no text. Both shoulders visible. The eyes are fully drawn with irises, pupils and highlights. A woman officer of about forty inside a grey armoured diving suit and a metal diving helmet with a round glass faceplate; her face is clearly visible through the glass: hard-eyed, composed, dark hair cropped. A coloured stripe across the top of the helmet, a small lamp on the helmet's brow, a blue shield-shaped crest on the shoulder of the suit.

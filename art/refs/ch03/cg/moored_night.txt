@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: illustration
+refs: art/refs/ch03/portraits/okonta_listening.png
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, no text, no letters. Reference 1 is Okonta, a spare older woman with dark brown skin and short grey hair in a slate-grey suit. Underwater at night in a golden kelp forest, dim blue-green moonlit water. Okonta floats on her back in the water with her eyes closed, listening, at ease. Beside her a slender pale needle-shaped vessel is moored to a kelp stem by a loop of cord, its faint light pulsing slowly along its flank like something asleep. From far above and far off, pale huge whale shapes drift in the dark and their song falls like pale light through the water. Exactly one person.

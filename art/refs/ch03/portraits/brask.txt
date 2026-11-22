@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: sheet
+refs: 
+
+Anime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view turned toward the viewer's right, plain light grey background, no text. Both shoulders visible. The eyes are fully drawn with irises, pupils and highlights. A huge, broad young man with a short red beard and short red hair, a wide strong face, watchful steady eyes, wearing a heavy coat of sealskin with the fur turned inside so the outside is smooth dark leather, a high collar. An ice-diver from the top of the world.
