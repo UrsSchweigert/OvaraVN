@@ -24,4 +24,10 @@ A visual novel shows the place and the people, so the text no longer has to. Cut
 
 ## What the owner has taught us
 
-Nothing yet. Chapter 1 has not been reviewed.
+Chapter 1 (reviewed 2026-11-22): the owner accepted all 16 suggestions (14 `shown`, 2 `condense`) and made no cuts or edits of their own. Accept rate 100%.
+
+- What worked: cutting sentences that only describe a person's build, hair, eyes or clothes, or what a place is made of, when the picture will carry them. Cuts were light: 7% of the words.
+- What worked: a `condense` that drops a "shown" clause and keeps the rest of the author's sentence word for word.
+- What the owner kept by not objecting: the first and last sentences, sounds, smells, taste, touch, speech, jokes, and every fact the plot uses.
+- One data point is not a pattern. Stay this light for chapters 2 and 3 and look for a first correction before going further.
+- Write suggestions only after reading the chapter's manifest (`work/manifest/chNN.json`): its `looks` ids show what the art will carry.
