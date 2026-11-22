@@ -10,6 +10,7 @@ The chapter's cuts must be approved by the owner in `./vn cutter` (`./vn status`
 
 1. **Cuts** (cutter, stage 4). Suggestions in `work/cuts/chNN.suggestions.json`; owner approves; `./vn apply` writes `work/cut/chNN.md`. After approval read `chNN.review.json` and update `work/cuts/guide.md`.
 2. **Manifest** (scene-analyst, stage 1): `work/manifest/chNN.json`, merged `cast.json` and `places.json`.
+0. **Before making any art for a chapter:** run `./vn art canon <name>` for every returning character (fixed features + the reference files to pass with `--ref`) and read `art/canon.json` `prompt_rules`. Browse what exists with `./vn art open` (gallery with prompts, models, costs and where each image is used).
 3. **Cast art.** For each new character: read the `looks` sentences in the manifest; write the look into `art/bible.md` (mark choices where the text is silent). Generate a base portrait, then 3 to 6 expression portraits (head and shoulders, drawn facing the viewer's right), named in `art/refs/chNN/portraits/`.
    - Base: `./vn image flux-2-t2i` (text to image), size 1024x1536 then crop, or 1024x1024. Expressions: `./vn image flux-2 --ref <base>` (edit mode, up to 4 refs) with "same character, only the expression changes".
    - Cut backgrounds out with `./vn image birefnet-heavy --ref in.png --out out.png --purpose sprite`; copy to `game/game/images/p_<character>_<emotion>.png`. Do NOT use `tools/cutout.py` on faces (it removed an eye white).
@@ -19,6 +20,7 @@ The chapter's cuts must be approved by the owner in `./vn cutter` (`./vn status`
 6. **Review every image at full size**, not as thumbnails. Check against the sentences it depicts: anatomy (legs, hands, eyes with pupils), no duplicated characters, props right (hook, boots), no stray figures. Redo at most 6 times; keep rejects in a `rejected/` folder beside the image. Fix the real cause in the prompt each time.
 7. **Script** (scriptwriter): `game/game/chNN.rpy`, text only from `work/cut/chNN.md`, word for word, in order. Name labels from speech tags. Portraits only during dialogue: Wrack left, the other speaker right (flipped), swap on speaker change; emotion chosen from the text; illustrations for the narrated passages; Bother in the corner when he acts. `python3 tools/check_script.py` must match.
 8. **Checks:** `<sdk>/renpy.sh game lint`, `python3 tools/check_script.py`, `./vn check`. Commit.
+8b. **Update the index:** `./vn art` (rewrites `art/index.json` and the gallery); add any new character or place to `art/canon.json`; `./vn check` runs `./vn art check` and fails on a missing file, an unregistered image used in a script, or a character without a canon entry.
 9. **Launch** for the owner with `./vn play` (or `./vn play N`): it closes every old game window, starts one, and checks the log for exceptions. Never capture the whole desktop; use `renpy.screenshot` from inside the game for frames.
 
 ## Jumping to a chapter
