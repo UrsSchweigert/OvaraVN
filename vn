@@ -12,9 +12,10 @@ HELP = """usage: ./vn <command>
   status             where every chapter and gate stands
   apply <n|all>      write the cut text for approved chapters (work/cut/)
   cutter [port]      the cutting review app (default port 8765)
+  check              is the project sound? (exits non-zero if not)
   gate               list gates;  gate <name> approve|reopen [note]  (owner only)
 
-Commands still to be built (docs/tools-spec.md): check, image, spend.
+Commands still to be built (docs/tools-spec.md): image, spend.
 """
 
 GATES = ["style", "cast", "slice", "release"]
@@ -106,7 +107,10 @@ def main():
     elif cmd == "cutter":
         import cutter
         cutter.serve(int(args[0]) if args else 8765)
-    elif cmd in ("check", "image", "spend"):
+    elif cmd == "check":
+        import check
+        sys.exit(check.main())
+    elif cmd in ("image", "spend"):
         sys.exit("./vn %s is not built yet. Its specification is in docs/tools-spec.md." % cmd)
     else:
         print(HELP)
