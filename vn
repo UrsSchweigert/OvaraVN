@@ -13,9 +13,9 @@ HELP = """usage: ./vn <command>
   apply <n|all>      write the cut text for approved chapters (work/cut/)
   cutter [port]      the cutting review app (default port 8765)
   check              is the project sound? (exits non-zero if not)
+  image <model> ...  make one image through fal.ai (logged, capped); see ./vn image -h
+  spend              what has been spent and what is left
   gate               list gates;  gate <name> approve|reopen [note]  (owner only)
-
-Commands still to be built (docs/tools-spec.md): image, spend.
 """
 
 GATES = ["style", "cast", "slice", "release"]
@@ -110,8 +110,12 @@ def main():
     elif cmd == "check":
         import check
         sys.exit(check.main())
-    elif cmd in ("image", "spend"):
-        sys.exit("./vn %s is not built yet. Its specification is in docs/tools-spec.md." % cmd)
+    elif cmd == "image":
+        import image
+        sys.exit(image.cmd_image(args))
+    elif cmd == "spend":
+        import image
+        image.cmd_spend()
     else:
         print(HELP)
 
