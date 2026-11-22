@@ -1,5 +1,5 @@
 model: fal-ai/flux-2/edit
 purpose: sheet
-refs: art/refs/ch04/portraits/jef_watching.png
+refs: art/refs/ch04/portraits/jef_grumbling.png
 
-Anime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face clearly turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same lighting; only the expression changes. A VERY OLD, deeply wrinkled, nearly bald man. The eyes are fully drawn, dark brown-black irises with round pupils and white highlights, eyes wide open and bright. Expression: fixed bright attention, intent and sharp, studying something closely, eyebrows slightly raised, mouth closed.
+Anime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same SMALL NARROW HEAVY-LIDDED dark eyes under LEVEL STRAIGHT heavy brows, same very old deeply wrinkled nearly bald head with a white tuft, same apron and jersey with a hole at the elbow. The eyes stay SMALL and NARROW: NOT large, NOT round, NOT wide open, no raised or sad eyebrows, nothing cartoonish. Restrained, realistic, hard to read. Expression: fixed, sharp attention, eyes narrowed and locked on something, mouth closed, very still.

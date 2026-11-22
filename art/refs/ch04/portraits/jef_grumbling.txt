@@ -1,5 +1,5 @@
-model: fal-ai/flux-2
+model: fal-ai/flux-2/edit
 purpose: sheet
-refs: 
+refs: /tmp/jef_old_base.png
 
-Anime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. Both shoulders visible. The eyes are fully drawn with irises, pupils and highlights. A restrained expression, no grin. A very small, very old man, deeply wrinkled skin like paper folded many times, only a few wisps of white hair on a nearly bald head, very bright, very dark, sharp eyes, a mouth set in a mild grumble. He wears a worn brown leather apron over a faded wool jersey that has a hole at the elbow. Expression: grumbling, put-upon but not angry.
+Anime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: the same very old, deeply wrinkled, nearly bald man with a tuft of white hair, the same brown leather apron over the same jersey with a hole at the elbow. ONE CHANGE TO THE FACE: the eyes are SMALL, NARROW and HEAVY-LIDDED, dark brown-black with only a tiny sharp highlight, set under LEVEL, STRAIGHT, heavy brows. NOT large, NOT round, NOT wide open, NO raised or sad eyebrows, NOT shiny, NOT puppy-like, nothing cartoonish. A stern, austere, realistic, hard-to-read old face. Expression: stern and grumbling, mouth set in a flat line, unimpressed.

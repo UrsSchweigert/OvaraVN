@@ -97,11 +97,11 @@
    ]
   },
   "Jef": {
-   "fixed": "a very small, VERY OLD man (about nine hundred years), deeply wrinkled skin like folded paper, nearly bald with a few wisps of white hair at the sides, very bright very dark eyes; worn brown leather apron over a faded wool jersey with a hole at the elbow (choice: pale skin, tuft of white hair over the ears); no gift, a mechanic; carries a small worn tool",
+   "fixed": "a very small, VERY OLD man (about nine hundred years), deeply wrinkled skin like folded paper, nearly bald with a few wisps of white hair at the sides, dark eyes (the text's 'very bright, very dark' is shown by a tiny sharp highlight, NOT by big shiny eyes); worn brown leather apron over a faded wool jersey with a hole at the elbow (choice: pale skin, tuft of white hair over the ears); no gift, a mechanic; carries a small worn tool",
    "references": [
     "art/refs/ch04/portraits/jef_grumbling.png"
    ],
-   "note": "Say 'VERY OLD, deeply wrinkled, nearly bald' on every edit; keep the eyes dark with highlights."
+   "note": "Say 'VERY OLD, deeply wrinkled, nearly bald' on every edit; keep the eyes dark with highlights. EYES: always SMALL, NARROW, HEAVY-LIDDED under LEVEL straight brows; never large, round, wide-open, shiny or puppy-like, no raised sad brows (the first set read as comical and was redone on 2026-11-22). Stern, austere, hard to read."
   },
   "Maelis": {
    "fixed": "Jef's wife of fifty-one years, in her seventies, tall and straight, grey hair pinned in a low bun, lined composed face, brown eyes; patched dark coat with full pockets (choice: coat colour dark charcoal, patches brown); a healer born in the Quiet, the rays' mouth",
