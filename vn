@@ -1,0 +1,112 @@
+#!/usr/bin/env python3
+"""The one command for the visual-novel pipeline. Run ./vn for help."""
+import sys
+from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent / "tools"))
+import vnlib as L  # noqa: E402
+
+HELP = """usage: ./vn <command>
+
+  split              cut the novel into chapters, scenes and sentences (work/units/)
+  status             where every chapter and gate stands
+  apply <n|all>      write the cut text for approved chapters (work/cut/)
+  gate               list gates;  gate <name> approve|reopen [note]  (owner only)
+
+Commands still to be built (docs/tools-spec.md): cutter, check, image, spend.
+"""
+
+GATES = ["style", "cast", "slice", "release"]
+
+
+def cmd_split():
+    text = L.SOURCE.read_text(encoding="utf-8")
+    sha = L.source_sha()
+    chapters = L.split_novel(text)
+    L.UNITS.mkdir(parents=True, exist_ok=True)
+    total = 0
+    for ch in chapters:
+        ch["source_sha"] = sha
+        L.write_json(L.units_path(ch["chapter"]), ch)
+        lines = ["Chapter %d. %s   (Part %s)" % (ch["chapter"], ch["title"], ch["part"]), ""]
+        for scene in ch["scenes"]:
+            lines += ["=== scene %s ===" % scene["id"], ""]
+            for para in scene["paras"]:
+                lines += ["[%s] %s" % (s["id"], s["text"]) for s in para["sents"]]
+                lines.append("")
+        (L.UNITS / ("ch%02d.txt" % ch["chapter"])).write_text("\n".join(lines), encoding="utf-8")
+        n = sum(L.words(s["text"]) for _, _, s in L.iter_sents(ch))
+        total += n
+        print("ch%02d  %-22s %2d scenes  %6d words" % (ch["chapter"], ch["title"], len(ch["scenes"]), n))
+    print("%d chapters, %d words, source %s" % (len(chapters), total, sha))
+
+
+def cmd_status():
+    state = L.read_json(L.STATE, {})
+    print("Gates")
+    for g in GATES:
+        info = state.get("gates", {}).get(g)
+        print("  %-8s %s" % (g, "approved %s %s" % (info["at"], info.get("note", "")) if info else "open"))
+    print("\nChapter  words  after   cut  suggestions  reviewed  manifest  state")
+    for n in L.chapter_numbers():
+        s = L.chapter_stats(n)
+        cut = 100 * (s["words"] - s["words_after"]) / max(1, s["words"])
+        st = "STALE" if s["stale"] else "approved" if s["approved"] else \
+            "awaiting owner" if s["has_suggestions"] else "no suggestions yet"
+        man = "yes" if (L.WORK / "manifest" / ("ch%02d.json" % n)).exists() else "-"
+        print("  ch%02d  %6d %6d  %3.0f%%  %11d  %8d  %8s  %s" % (
+            n, s["words"], s["words_after"], cut, s["suggestions"], s["reviewed"], man, st))
+
+
+def cmd_apply(args):
+    if not args:
+        sys.exit("usage: ./vn apply <chapter number|all>")
+    todo = L.chapter_numbers() if args[0] == "all" else [int(args[0])]
+    for n in todo:
+        s = L.chapter_stats(n)
+        if not s["approved"]:
+            print("ch%02d  skipped: not approved by the owner" % n)
+            continue
+        if s["stale"]:
+            print("ch%02d  skipped: the novel changed after approval; needs review again" % n)
+            continue
+        r = L.apply_chapter(n)
+        print("ch%02d  %d -> %d words, %s of %d suggestions accepted" % (
+            n, r["words"], r["words_after"], r["accepted"], r["suggested"]))
+
+
+def cmd_gate(args):
+    state = L.read_json(L.STATE, {})
+    gates = state.setdefault("gates", {})
+    if not args:
+        for g in GATES:
+            print("%-8s %s" % (g, "approved" if g in gates else "open"))
+        return
+    if len(args) < 2 or args[0] not in GATES or args[1] not in ("approve", "reopen"):
+        sys.exit("usage: ./vn gate <%s> approve|reopen [note]" % "|".join(GATES))
+    if args[1] == "approve":
+        gates[args[0]] = {"at": L.now(), "note": " ".join(args[2:])}
+    else:
+        gates.pop(args[0], None)
+    L.write_json(L.STATE, state)
+    print("gate %s: %s" % (args[0], "approved" if args[0] in gates else "open"))
+
+
+def main():
+    cmd, args = (sys.argv[1] if len(sys.argv) > 1 else ""), sys.argv[2:]
+    if cmd == "split":
+        cmd_split()
+    elif cmd == "status":
+        cmd_status()
+    elif cmd == "apply":
+        cmd_apply(args)
+    elif cmd == "gate":
+        cmd_gate(args)
+    elif cmd in ("cutter", "check", "image", "spend"):
+        sys.exit("./vn %s is not built yet. Its specification is in docs/tools-spec.md." % cmd)
+    else:
+        print(HELP)
+
+
+if __name__ == "__main__":
+    main()
