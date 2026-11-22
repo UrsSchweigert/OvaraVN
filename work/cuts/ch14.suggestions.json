@@ -1,0 +1,66 @@
+{
+ "chapter": 14,
+ "items": [
+  {
+   "id": "c14.s01.p002.2",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The lobby background shows the crowd looking up."
+  },
+  {
+   "id": "c14.s01.p018.2",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The islands are in the background; the next lines name them."
+  },
+  {
+   "id": "c14.s02.p001.2",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The Crown background shows the black slopes and ore veins."
+  },
+  {
+   "id": "c14.s02.p001.3",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The background shows the smoke."
+  },
+  {
+   "id": "c14.s02.p003.4",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The caldera background shows the haze and flares."
+  },
+  {
+   "id": "c14.s02.p003.9",
+   "action": "replace",
+   "kind": "condense",
+   "text": "It had clean air.",
+   "reason": "The gardens and white houses are in the picture; the clean air is not."
+  },
+  {
+   "id": "c14.s02.p003.12",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The background shows the ash on the roofs."
+  },
+  {
+   "id": "c14.s02.p006.4",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The wave picture shows the fish."
+  },
+  {
+   "id": "c14.s02.p019.6",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The sprites show their grey faces."
+  },
+  {
+   "id": "c14.s02.p024.2",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "Hesper's expression shows the red, wet eyes."
+  }
+ ]
+}

@@ -1,0 +1,115 @@
+{
+ "chapter": 8,
+ "items": [
+  {
+   "id": "c08.s01.p012.3",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The sky is in the background."
+  },
+  {
+   "id": "c08.s02.p002.3",
+   "action": "replace",
+   "kind": "condense",
+   "text": "You ran flat out through wind and black rain toward a patch of calm that you could not yet see.",
+   "reason": "The grey hills of sea are shown; the run toward the Eye stays."
+  },
+  {
+   "id": "c08.s02.p003.2",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The skate fish are drawn in the Belt background."
+  },
+  {
+   "id": "c08.s02.p006.4",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "Sefa's pale face and blanket are in her sprite."
+  },
+  {
+   "id": "c08.s03.p003.2",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The Saltgate background shows the black stacks."
+  },
+  {
+   "id": "c08.s03.p003.8",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The skyline shows the signs and their light."
+  },
+  {
+   "id": "c08.s03.p003.9",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The background carries the neon on rain and water."
+  },
+  {
+   "id": "c08.s03.p004.2",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "Sefa's lit-up face is in her expression art."
+  },
+  {
+   "id": "c08.s03.p007.2",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The lock background shows the rusted open gates."
+  },
+  {
+   "id": "c08.s03.p013.2",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The wall poster shows the younger face and crest."
+  },
+  {
+   "id": "c08.s04.p002.6",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The market background shows the hanging lamps."
+  },
+  {
+   "id": "c08.s04.p003.4",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The market is already full of goods in the line before."
+  },
+  {
+   "id": "c08.s04.p008.1",
+   "action": "replace",
+   "kind": "condense",
+   "text": "It was a back canal in the poor quarter, narrow and dim.",
+   "reason": "The tenements and washing are in the Sluice background."
+  },
+  {
+   "id": "c08.s05.p004.2",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The exterior background shows the fountain."
+  },
+  {
+   "id": "c08.s05.p020.1",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The tank-room background shows the cylinder and machines."
+  },
+  {
+   "id": "c08.s05.p020.4",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The tank-room art shows her hair in the water."
+  },
+  {
+   "id": "c08.s05.p024.8",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The stair background shows the water coming down."
+  },
+  {
+   "id": "c08.s07.p013.3",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "Marsh's sprite shows her age, build and hair."
+  }
+ ]
+}

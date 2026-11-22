@@ -1,0 +1,89 @@
+{
+ "chapter": 17,
+ "items": [
+  {
+   "id": "c17.s03.p007.4",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The pit background shows the grey, cracked mud."
+  },
+  {
+   "id": "c17.s03.p007.5",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The pit background shows the wrecks."
+  },
+  {
+   "id": "c17.s03.p007.6",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The pit background shows the whale bones."
+  },
+  {
+   "id": "c17.s03.p009.2",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The city background shows roofs, towers and streets."
+  },
+  {
+   "id": "c17.s03.p013.1",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The street background shows the lamp and its silt."
+  },
+  {
+   "id": "c17.s03.p017.2",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The soldiers' sprites show their number and grey."
+  },
+  {
+   "id": "c17.s04.p003.2",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The vault background shows the wheels."
+  },
+  {
+   "id": "c17.s04.p004.2",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "Rook's sprite shows him in his shirt."
+  },
+  {
+   "id": "c17.s04.p004.3",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "Rook's sprite shows the open collar and scars."
+  },
+  {
+   "id": "c17.s04.p043.2",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The picture on the wall shows the man."
+  },
+  {
+   "id": "c17.s06.p011.3",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The risen-city background shows the towers and lit windows."
+  },
+  {
+   "id": "c17.s06.p011.7",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The background shows the squares, stairs and arcades."
+  },
+  {
+   "id": "c17.s06.p011.8",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The background shows the domes and gardens."
+  },
+  {
+   "id": "c17.s06.p012.3",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The background shows the streets and canals."
+  }
+ ]
+}

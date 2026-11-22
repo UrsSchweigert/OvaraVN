@@ -1,0 +1,13 @@
+{
+ "chapter": 15,
+ "items": [
+  {"id": "c15.s01.p018.1", "action": "replace", "kind": "condense", "text": "It went out past the breakwater along the white road it had come by.", "reason": "The harbour picture carries the escort; the road stays."},
+  {"id": "c15.s02.p004.2", "action": "cut", "kind": "shown", "reason": "The schoolroom background shows the pushed-back desks."},
+  {"id": "c15.s02.p004.5", "action": "cut", "kind": "shown", "reason": "The window view of harbour and Stacks is in the background."},
+  {"id": "c15.s02.p017.6", "action": "cut", "kind": "shown", "reason": "Yeva's hard sprite expression shows it."},
+  {"id": "c15.s04.p003.1", "action": "cut", "kind": "shown", "reason": "Crane's sprite shows his build and grey coat."},
+  {"id": "c15.s04.p003.3", "action": "cut", "kind": "shown", "reason": "The staging shows him before the blackboard."},
+  {"id": "c15.s05.p005.2", "action": "cut", "kind": "shown", "reason": "The hands are in the picture, scar included."},
+  {"id": "c15.s05.p008.8", "action": "cut", "kind": "shown", "reason": "The drawing of the house is shown on screen."}
+ ]
+}

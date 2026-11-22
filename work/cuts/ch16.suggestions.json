@@ -1,0 +1,60 @@
+{
+ "chapter": 16,
+ "items": [
+  {
+   "id": "c16.s01.p003.2",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The tank background shows the concrete trough and the water."
+  },
+  {
+   "id": "c16.s02.p004.5",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The Saltgate background shows the boats in the mud."
+  },
+  {
+   "id": "c16.s02.p004.6",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The Wet Market background shows the dry planking."
+  },
+  {
+   "id": "c16.s02.p004.3",
+   "action": "replace",
+   "kind": "condense",
+   "text": "The lowest stilts of the city stood on them in the open air like the legs of a wading bird.",
+   "reason": "The background shows the green, dripping stack-bottoms; the wading bird stays."
+  },
+  {
+   "id": "c16.s04.p004.7",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The fleet background shows the ferries, yachts and barge."
+  },
+  {
+   "id": "c16.s04.p005.5",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The crowd of mariners in the picture shows the silk and sealskins."
+  },
+  {
+   "id": "c16.s04.p008.2",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The wall background shows it grey and still."
+  },
+  {
+   "id": "c16.s04.p008.4",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The wall background shows the mist along its top."
+  },
+  {
+   "id": "c16.s06.p012.2",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The night background shows the wall as a darker line."
+  }
+ ]
+}

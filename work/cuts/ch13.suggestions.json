@@ -1,0 +1,84 @@
+{
+ "chapter": 13,
+ "items": [
+  {
+   "id": "c13.s01.p004.2",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The village background shows the stone and turf."
+  },
+  {
+   "id": "c13.s01.p004.3",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The village background shows the crag and cove."
+  },
+  {
+   "id": "c13.s01.p004.4",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The village background shows the goats."
+  },
+  {
+   "id": "c13.s01.p006.1",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The shrine background shows the hollow."
+  },
+  {
+   "id": "c13.s01.p006.2",
+   "action": "cut",
+   "kind": "redundant",
+   "reason": "The next sentence lists the offerings."
+  },
+  {
+   "id": "c13.s02.p003.2",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The fish-loft background shows her at the table."
+  },
+  {
+   "id": "c13.s02.p011.3",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The card is in her hand on screen."
+  },
+  {
+   "id": "c13.s03.p002.6",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The street background shows the glass towers."
+  },
+  {
+   "id": "c13.s03.p005.3",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The Spire background shows the blue needle."
+  },
+  {
+   "id": "c13.s03.p005.5",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The Exchange background shows the grey wall and door."
+  },
+  {
+   "id": "c13.s03.p008.2",
+   "action": "replace",
+   "kind": "condense",
+   "reason": "His look is in his sprite; the voice is not.",
+   "text": "He had a beautiful voice, and he held Ilan's hand in both of his."
+  },
+  {
+   "id": "c13.s03.p016.2",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The Studio One background shows the desk, chairs and glass."
+  },
+  {
+   "id": "c13.s03.p055.2",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The captain sprite shows his age."
+  }
+ ]
+}

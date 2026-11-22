@@ -1,0 +1,59 @@
+{
+ "chapter": 7,
+ "items": [
+  {
+   "id": "c07.s01.p007.8",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The snow in the picture lies in drifts on the trench floor."
+  },
+  {
+   "id": "c07.s01.p012.3",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The background shows the pewter surface and lightning."
+  },
+  {
+   "id": "c07.s01.p016.3",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The Bright Shelves background shows the ribbed sand."
+  },
+  {
+   "id": "c07.s01.p016.4",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The background shows the cloud shadows on the sand."
+  },
+  {
+   "id": "c07.s02.p005.6",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The vents background shows the rust-coloured moss."
+  },
+  {
+   "id": "c07.s02.p007.3",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The Ember House background shows the walls and roof."
+  },
+  {
+   "id": "c07.s02.p007.6",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The background shows the still-room window and jars."
+  },
+  {
+   "id": "c07.s02.p014.2",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The dusk background shows the low sun and red road."
+  },
+  {
+   "id": "c07.s04.p002.4",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The Hush exterior shows a low, wide building."
+  }
+ ]
+}

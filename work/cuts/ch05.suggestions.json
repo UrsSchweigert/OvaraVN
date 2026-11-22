@@ -1,0 +1,75 @@
+{
+ "chapter": 5,
+ "items": [
+  {
+   "id": "c05.s02.p006.5",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The canyon background shows the cut and glazed galleries."
+  },
+  {
+   "id": "c05.s02.p006.6",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The background shows the tiers of lit windows."
+  },
+  {
+   "id": "c05.s02.p006.7",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The background shows the bridges and the people on them."
+  },
+  {
+   "id": "c05.s02.p006.8",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The background shows the hanging weed."
+  },
+  {
+   "id": "c05.s02.p012.3",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The high hall background shows the inlaid floor."
+  },
+  {
+   "id": "c05.s02.p012.7",
+   "action": "replace",
+   "kind": "condense",
+   "reason": "Vey's sprite shows the silver hair; her bearing stays.",
+   "text": "She sat like a person who has never in her life been seen to slump."
+  },
+  {
+   "id": "c05.s02.p018.3",
+   "action": "replace",
+   "kind": "condense",
+   "reason": "Sefa's sprite shows the tunic; the healer's band stays.",
+   "text": "She wore a healer's grey band on her upper arm now."
+  },
+  {
+   "id": "c05.s02.p021.3",
+   "action": "replace",
+   "kind": "condense",
+   "reason": "The tunnel background shows the pipes; the lamp-cleaners stay.",
+   "text": "Those were narrow tunnels behind the galleries, where the people who cleaned the lamps had gone to and fro for three thousand years."
+  },
+  {
+   "id": "c05.s02.p022.1",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The background shows the long low dry halls; the next line gives the people."
+  },
+  {
+   "id": "c05.s02.p029.1",
+   "action": "replace",
+   "kind": "condense",
+   "reason": "The heart-chamber background shows where it is; the sealed door stays.",
+   "text": "The heart-chambers were behind a door that had been sealed with wax and an elder's mark."
+  },
+  {
+   "id": "c05.s04.p007.7",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The crowded high hall background shows people lying everywhere."
+  }
+ ]
+}

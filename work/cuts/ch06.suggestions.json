@@ -1,0 +1,62 @@
+{
+ "chapter": 6,
+ "items": [
+  {
+   "id": "c06.s01.p003.4",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The gallery background shows the slack nets."
+  },
+  {
+   "id": "c06.s01.p004.7",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The sprites show their patched suits."
+  },
+  {
+   "id": "c06.s01.p011.5",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "Corin's sprite shows his beard and shoulders."
+  },
+  {
+   "id": "c06.s02.p004.2",
+   "action": "replace",
+   "kind": "condense",
+   "reason": "His suit and helmet are in Rook's sprite; the man stays.",
+   "text": "The man who had ridden it stood beside it."
+  },
+  {
+   "id": "c06.s03.p013.4",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The Slick background shows the hanging shreds."
+  },
+  {
+   "id": "c06.s03.p018.2",
+   "action": "replace",
+   "kind": "condense",
+   "reason": "The eel sprites show them blind, slimed and long; the count stays.",
+   "text": "There were five of them, six."
+  },
+  {
+   "id": "c06.s04.p002.1",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The sprite shows the blanket."
+  },
+  {
+   "id": "c06.s05.p013.2",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The picture shows the wheel's size and thinness."
+  },
+  {
+   "id": "c06.s05.p024.1",
+   "action": "replace",
+   "kind": "condense",
+   "reason": "The forest view is in the picture; Sefa and the hound stay.",
+   "text": "Sefa sat between them with her arms round Bother."
+  }
+ ]
+}
