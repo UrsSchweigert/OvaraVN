@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: illustration
+refs: art/refs/ch01/portraits/wrack.png, art/refs/ch01/portraits/sefa.png
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, no text. The people look exactly like the reference images, in the order given. Reference 1 is Wrack, reference 2 is Sefa. Wrack, a man in a torn grey jacket, rises out of a round pool set in the stone floor of a great ancient dome, water streaming off him, taking his first breath of air, hurting a little. Sefa stands at the pool's edge. Warm lamplight, a little smoke, a cooking fire; a great many mariner people in grey-green tunics stand around the pool looking at him.

@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: illustration
+refs: art/refs/ch01/portraits/wrack.png, art/refs/ch01/portraits/sefa.png, art/refs/ch01/portraits/bother.png
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, no text. The people look exactly like the reference images, in the order given. Reference 1 is Wrack, reference 2 is Sefa, reference 3 is Bother the tide hound. Underwater at the bottom of a forest of giant brass-coloured kelp, golden blades far overhead, light green at the edges and gold in the middle. Wrack, a man in a torn grey jacket, lies on his back on the sand with a kelp frond just lifted from his face, looking up in bewilderment. Above him hangs Sefa, a thin long-limbed girl of about sixteen with dark hair tied back with a shining strip, holding a harvesting hook, wary. A whiskered grey seal-like hound's muzzle is a hand's width from his nose.
