@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: sheet
+refs: 
+
+Anime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view turned toward the viewer's right (his or her face and nose point to the right edge of the picture), plain light grey background, no text. Both shoulders visible. The eyes are small, normal, realistic, fully drawn with irises, pupils and highlights, not large, not round, not shiny. Restrained realistic face. Thin pale scars like pen lines run from the temples down both sides of the neck. Wearing a close slate-grey high-collared suit. A girl of nineteen, olive-tan skin, black hair cut short at the jaw, thin face, dark eyes. Angry and stubborn: brows drawn together, mouth hard, restrained, no shouting.

@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: background
+refs: art/refs/ch03/places/gallery.png, art/refs/ch03/places/cradles.png
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text, no letters. The stern end of the same dim flooded hall as the first reference: pale metal ribs, thin film walls with dark open sea in gaps, at the far end the last needle-shaped cradle low in the floor, empty but for a little silt, with a small square name cut into the rib beside it. Evening dim, cold bluish light with one faint warm glow. Slack hammock-nets. Nobody there, no vessel in the cradle.

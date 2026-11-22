@@ -11,6 +11,9 @@ Setup copied from the DerSchweigert repo (`sites/lesen/ios/RELEASING.md`): team 
 Not in git (about 740 MB, gitignored): `ios/base/` (the packaged game), `ios/prebuilt/` and `ios/Frameworks/` (Ren'Py engine).
 `ios/ci_scripts/ci_post_clone.sh` downloads Ren'Py 8.6.1 and its iOS add-on and rebuilds those three folders. Run it by hand to build locally.
 
+## Images are WebP in the iOS build
+`ios/ci_scripts/ci_post_clone.sh` calls `tools/webp_game.py`. It copies `game/` to a temp folder, converts the PNGs under `game/images/` to WebP (quality 90, alpha lossless), and rewrites the `.png` paths in the copy. The PNG masters in git are untouched. Needs `cwebp` (the script installs it with Homebrew if missing). The `.ipa` went from 356 MB to 59 MB.
+
 ## Verified
 - Unsigned simulator build succeeds (`xcodebuild ... CODE_SIGNING_ALLOWED=NO build`).
 - `ci_post_clone.sh` runs to the end on this Mac and produces all three folders.

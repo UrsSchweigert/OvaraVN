@@ -16,7 +16,7 @@ ROOT = Path(__file__).resolve().parents[1]
 SPEAKERS = {"c_wrack": "Wrack", "c_sefa": "Sefa", "c_oro": "Elder Oro",
             "c_ione": "Ione", "c_davin": "Davin", "c_hesper": "Hesper",
             "c_okonta": "Okonta", "c_brask": "Brask",
-            "c_jef": "Jef", "c_maelis": "Maelis", "c_anselm": "Anselm", "c_vey": "Elder Vey", "c_aurel": "Aurel"}
+            "c_jef": "Jef", "c_maelis": "Maelis", "c_anselm": "Anselm", "c_vey": "Elder Vey", "c_aurel": "Aurel", "c_corin": "Corin"}
 
 # Speech tags that only name the speaker. These are the only text the script
 # may drop. Each is (text in the approved file, what is left).
@@ -87,6 +87,23 @@ ALLOWED_DROPS = {2: [
     ('"Two of the hearts you could not mend," Vey said.', '"Two of the hearts you could not mend,"'),
     ('Dragon," she said. "You', 'Dragon," "You'),
     ('"We\'ll see," said Wrack.', '"We\'ll see,"'),
+], 6: [
+    ('"Corin," Okonta said. Something', '"Corin," Something'),
+    ('"Nobody called you," Okonta said.', '"Nobody called you,"'),
+    ('"You said it," said Okonta. "I was', '"You said it," "I was'),
+    ('"I\'m told that somebody tried to scratch this out," he said. The voice', '"I\'m told that somebody tried to scratch this out," The voice'),
+    ('"You sent that dart," Wrack said.', '"You sent that dart,"'),
+    ('"I aimed at a machine," Anselm Rook said. "He', '"I aimed at a machine," "He'),
+    ('"I couldn\'t do anything," he said.', '"I couldn\'t do anything,"'),
+    ('"No," said Okonta.', '"No,"'),
+    ('"Again," she said.', '"Again,"'),
+    ('"He can stand now," Sefa said. "He', '"He can stand now," "He'),
+    ('"He had us carry for him as well," she said. "He', '"He had us carry for him as well," "He'),
+    ('"I\'m going to my mother," he said. He would', '"I\'m going to my mother," He would'),
+    ('"Then go and keep that water," Okonta said. "It\'s', '"Then go and keep that water," "It\'s'),
+    ('"He wanted it mended," he said.', '"He wanted it mended,"'),
+    ('"He held all this up," Wrack said. "One', '"He held all this up," "One'),
+    ('"Yes," said Okonta. She was', '"Yes," She was'),
 ], 3: [
     ('it," he said. "Like', 'it," "Like'),
     ('singers," Okonta said. "Whales', 'singers," "Whales'),

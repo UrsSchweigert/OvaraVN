@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: sheet
+refs: 
+
+Anime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view turned toward the viewer's right (his or her face and nose point to the right edge of the picture), plain light grey background, no text. Both shoulders visible. The eyes are small, normal, realistic, fully drawn with irises, pupils and highlights, not large, not round, not shiny. Restrained realistic face. Thin pale scars like pen lines run from the temples down both sides of the neck. Wearing a close slate-grey high-collared suit. A big broad-shouldered heavy-built man of about sixty-five, warm tan-brown skin, short curly dark hair going grey, broad weathered face, heavy brows, a short grey stubble. Grief held in, jaw tight, mouth closed, eyes steady and tired.

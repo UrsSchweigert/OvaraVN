@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: background
+refs: art/refs/ch03/places/gallery.png, art/refs/ch03/places/cradles.png
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text, no letters. The same long hall with pale metal ribs as the first reference in soft morning light: the bright bound-water walls between the ribs are thick and shining again, and the floor shows a single row of nineteen slender pale silver needle-shaped vessels lying flat in low cradles, the remaining cradles beyond them empty with a little silt. Slack hammock-nets. On one rib a single worn wheel hangs lashed by cord. Quiet, grieving, soft light. The whole scene is deep under the sea inside the vehicle: beyond the ribs there is only dark deep-blue water, no sky, no horizon, no clouds, no waves, no surface anywhere.
