@@ -123,19 +123,27 @@ label ch02:
     hide right
     hide bother
     with qd
+    scene cg c2_dumping
+    with dissolve
     "The belly of the barge opened and the sludge came down."
 
-    "It fell slowly, black and thick, spreading as it sank, like ink dropped in a glass. Where it touched the kelp the golden blades curled and went brown. Where it touched skin it burned. The Tenders of Low Anthem did what they had always done."
+    "It fell slowly, black and thick, spreading as it sank, like ink dropped in a glass. Where it touched the kelp the golden blades curled and went brown. Where it touched skin it burned."
+    scene cg c2_nets
+    with dissolve
+    "The Tenders of Low Anthem did what they had always done."
     "They spread the long nets under it, fine-meshed, weighted at the corners, and caught what could be caught. They folded it into bladders of cured hide and sealed them with wax for the carrying crews."
     "Behind them the old women went along the terrace edges with baskets, planting bitterwrack. It drinks poison, and turns black as it drinks, and when it is black all through it dies. They pushed the roots in with their thumbs and sang the tending song while they worked."
 
-    scene bg dome_crown
+    scene cg c2_hesper_trying
     with dissolve
     "Hesper was there. He saw now what Davin was proud of. She stood on the crown of the dome with her arms out and her head back. Above her the falling blackness bent."
+
+    scene cg c2_gift
+    with dissolve
     "A current had come up from nowhere, steady and strong, and it was carrying the worst of the fall aside from the nursery beds, where the young fish were."
     "She was holding a piece of the sea in her two hands and leaning it like a board. It was all one person could do. Against the size of the thing coming down, it was not much."
 
-    scene bg terraces_night
+    scene cg c2_preparing
     with dissolve
     "Wrack held his corner of the net. A gout of the stuff came past him and he saw Ione, at the next corner, take a splash of it across her forearm. She hissed between her teeth, and shook it off, and kept working."
     "He understood then where the scars had come from. She had not put her arms in a fire once. She had put them into this, year after year, since she was Sefa's age."
@@ -144,17 +152,22 @@ label ch02:
 
     "He did not know he could do it. He only looked up at the long shadow of the hull and wanted it {i}gone{/i}, with his whole body, the way you want air."
 
+    scene cg c2_lifting
+    with dissolve
     "And the sea heard him."
+
+    "Hesper said afterwards that it was like standing next to a bell when it is struck. The water under the barge stood up. It rose in a column the full width of the ship and lifted two thousand tonnes of steel clean out of the ocean."
 
     scene cg c2_barge
     with dissolve
-    "Hesper said afterwards that it was like standing next to a bell when it is struck. The water under the barge stood up. It rose in a column the full width of the ship and lifted two thousand tonnes of steel clean out of the ocean."
     "The barge hung in the moonlight on a pillar of sea as steady as stone, streaming, with its crew screaming on the deck. And the sludge rose too. Every drop of it peeled back up out of the kelp in long black threads and poured itself into the hold it had come from."
 
-    scene bg terraces_night
+    scene cg c2_carried
     with dissolve
     "Then the column walked. It carried the barge a full kilometre south and set it down pointing home."
 
+    scene cg c2_panic
+    with dissolve
     "Wrack did not see that part. The moment the sea answered him he lost his hold on it, and the whole terrace went with it. Water slammed sideways through the forest. Nets, hooks, harvesters and tide hounds went tumbling end over end into the kelp."
     "Sefa struck a terrace wall and hung limp. Two of the old women were dragged a hundred metres before Hesper caught them, and she caught them only because she let everything else go."
 
