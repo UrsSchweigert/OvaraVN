@@ -1,0 +1,23 @@
+{
+ "chapter": 5,
+ "written": "2026-11-22T17:36:21Z",
+ "note": "",
+ "accepted": 11,
+ "overruled": [],
+ "owner_cuts": [],
+ "owner_edits": [],
+ "by_kind": {
+  "shown": {
+   "suggested": 7,
+   "accepted": 7
+  },
+  "condense": {
+   "suggested": 4,
+   "accepted": 4
+  }
+ },
+ "words": 4074,
+ "words_after": 3940,
+ "suggested": 11,
+ "accept_rate": 1.0
+}
