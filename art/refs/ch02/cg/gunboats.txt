@@ -2,4 +2,4 @@ model: fal-ai/flux-2
 purpose: illustration
 refs: 
 
-Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, no text. The people look exactly like the reference images, in the order given. Seen from below through the water in daylight, three grey gunboats float on the sea surface high above a pale dome on the seabed, each with a blue shield-shaped crest on its bow. Shafts of light, menacing silhouettes, the hold small and quiet below.
+Anime-style illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text. A split-level over-and-under view in daylight, the camera exactly at the sea surface. The TOP half is ABOVE the water: pale sky, and the decks, guns and masts of three grey gunboats, each with a blue shield-shaped crest on its bow. The BOTTOM half is UNDERWATER: the wavy waterline cuts across the middle of each gunboat's hull, the lower half of each hull below the waves. The gunboats float ON the surface. Far below, small, a pale dome on the seabed. Menacing, quiet.
