@@ -27,6 +27,11 @@ The chapter's cuts must be approved by the owner in `./vn cutter` (`./vn status`
 - In the game, **Chapters** in the main menu and the in-game menu lists all 18 and starts any built one. Nothing to register: a new `label chNN:` makes its row clickable.
 - The mechanism is `game/game/dev.rpy` (environment variable `VN_START`, also handy for test labels) and `game/game/chapter_select.rpy`.
 
+## Testing rules
+
+- Test scripts must NEVER set `_preferences.*` (auto-forward, skip, volume, text speed): preferences are saved to the player's persistent file and survive restarts. On 2026-11-22 a test left auto-advance on at 0.02 s and the game ran through everything by itself. For skipping use `config.skipping` (not saved); for auto-advance in tests use a Python flag, or restore the old values and call `renpy.save_persistent()` before quitting.
+- Fast-skip runs skip transitions. For a real check run the chapter with transitions in real time (auto-forward by a test-only flag) and watch a progress counter file.
+
 ## Facts to remember
 
 - Cost: portraits about $0.024 each, backgrounds $0.024, illustrations $0.04 to $0.07, cutouts about $0.01. A chapter costs roughly $3 to $6. Check `./vn spend`.
