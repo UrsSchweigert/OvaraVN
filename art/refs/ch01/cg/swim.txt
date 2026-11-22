@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: illustration
+refs: art/refs/ch01/portraits/sefa.png, art/refs/ch01/portraits/wrack.png, art/refs/ch01/portraits/bother.png
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, no text. The people look exactly like the reference images, in the order given. Reference 1 is Sefa, reference 2 is Wrack, reference 3 is Bother. Underwater in a golden-green kelp forest, shafts of light from above. Sefa, a thin girl of sixteen in a short grey-green sleeveless tunic with bare arms, bare legs and BARE FEET, no boots, swims easily ahead through the water. Behind her Wrack, a man in a torn grey jacket and heavy black surface boots, struggles to swim, awkward and clumsy. Bother, a grey seal-like animal with a plaited cord collar, swims upright and level ahead of them, looking back. Brass-coloured kelp trunks all around.

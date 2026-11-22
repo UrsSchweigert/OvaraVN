@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: illustration
+refs: art/refs/ch01/portraits/oro.png, art/refs/ch01/portraits/wrack_tunic.png, art/refs/ch01/portraits/sefa.png
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, no text. The people look exactly like the reference images, in the order given. Reference 1 is Elder Oro, reference 2 is Wrack in a grey-green tunic, reference 3 is Sefa. A round high meeting hall flooded with white steady light pouring down from a smooth pale column in its centre that has just come on. People stand frozen where they are; a child shrieks; someone has dropped a basket and shellfish roll across the stone floor. Elder Oro, very old with a bald head and a carved stick, has sat down slowly on the floor and weeps. Wrack stands at the column, frightened and amazed. Sefa whispers beside him, wide-eyed.

@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: illustration
+refs: art/refs/ch01/portraits/wrack_tunic.png
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, no text. The people look exactly like the reference images, in the order given. Reference 1 is Wrack in a plain grey-green tunic. Seen from slightly behind: in a dim, round, high meeting hall, Wrack reaches up with both hands to a smooth pale column that rises from floor to roof, a wreath of fresh green weed hung on it. His fingers have found a seam nobody ever saw, and it is opening; a faint light glows from inside the seam. He is calm and entranced, as if his hands are acting alone.

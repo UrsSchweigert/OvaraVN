@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: illustration
+refs: art/refs/ch01/portraits/sefa.png, art/refs/ch01/portraits/wrack.png, art/refs/ch01/portraits/bother.png
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, no text. The people look exactly like the reference images, in the order given. Reference 1 is Sefa, reference 2 is Wrack, reference 3 is Bother the tide hound. Underwater in a golden-green kelp forest. Sefa swims easily ahead, a long-limbed girl strolling through the water with a flick of her feet. Wrack labours after her in heavy surface boots and a torn grey jacket, awkward. The seal-like grey hound swims ahead of them, turning back to check on them. Brass-coloured kelp trunks rise all around, light streaming down.

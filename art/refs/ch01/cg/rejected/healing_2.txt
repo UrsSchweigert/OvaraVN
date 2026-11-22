@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: illustration
+refs: art/refs/ch01/portraits/ione.png, art/refs/ch01/portraits/wrack.png, art/refs/ch01/portraits/oro.png
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, no text. The people look exactly like the reference images, in the order given. Reference 1 is Ione, reference 2 is Wrack, reference 3 is Elder Oro. Exactly three people in the picture and nobody else: no one in the background. A plain stone room lit by lamplight. Wrack, a man in a torn grey jacket, sits on the floor with his head bowed, eyes closed. Ione, a broad calm healer in her forties with brown hair in a low bun and no ribbon, sleeves rolled up, her forearms ridged with old pale healed scars, has lifted water out of a shallow bowl on the floor in her two hands; the water holds its shape as a glowing sphere, and she is laying it gently on his head. Elder Oro, very old, bald, with a carved stick, sits on a bench watching.
