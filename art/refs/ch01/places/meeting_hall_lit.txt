@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: background
+refs: art/refs/ch01/places/meeting_hall.png, art/refs/ch01/lamp/lamp_unlit.png
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, no text, no people. Reference 1 is a round meeting hall with a dead lamp in the centre. Reference 2 is the lamp. Show exactly the same hall from the same viewpoint, but now the lamp is lit: the glass lens at the top of the lamp from reference 2 blazes with bright, steady white light, and the light pours down over the whole hall, the floor and the walls, warm white and clear. The lamp itself is unchanged. The hall is empty.

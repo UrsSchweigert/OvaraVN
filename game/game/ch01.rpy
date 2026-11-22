@@ -452,7 +452,7 @@ label ch01:
 
     "Elder Oro had been crossing the hall with his stick. He stood looking up at the lamp. Then he sat down on the floor, quite slowly, and began to cry."
 
-    scene bg meeting_hall
+    scene bg meeting_hall_lit
     with dissolve
     show p wrack_tunic_lost as left at head_left
     show p sefa_amazed as right at head_right

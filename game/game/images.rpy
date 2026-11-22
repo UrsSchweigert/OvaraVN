@@ -5,6 +5,7 @@
 image bg dry_room = Transform("bg/dry_room.png", size=(1920, 1080))
 image bg kelp_forest = At(Transform("bg/kelp_forest.png", size=(1920, 1080)), water)
 image bg meeting_hall = Transform("bg/meeting_hall.png", size=(1920, 1080))
+image bg meeting_hall_lit = Transform("bg/meeting_hall_lit.png", size=(1920, 1080))
 image bg terraces_dome = At(Transform("bg/terraces_dome.png", size=(1920, 1080)), water)
 image bg sea_door = At(Transform("bg/sea_door.png", size=(1920, 1080)), water_soft)
 image bg terrace_work = At(Transform("bg/terrace_work.png", size=(1920, 1080)), water)
