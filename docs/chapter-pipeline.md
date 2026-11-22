@@ -19,7 +19,7 @@ The chapter's cuts must be approved by the owner in `./vn cutter` (`./vn status`
 6. **Review every image at full size**, not as thumbnails. Check against the sentences it depicts: anatomy (legs, hands, eyes with pupils), no duplicated characters, props right (hook, boots), no stray figures. Redo at most 6 times; keep rejects in a `rejected/` folder beside the image. Fix the real cause in the prompt each time.
 7. **Script** (scriptwriter): `game/game/chNN.rpy`, text only from `work/cut/chNN.md`, word for word, in order. Name labels from speech tags. Portraits only during dialogue: Wrack left, the other speaker right (flipped), swap on speaker change; emotion chosen from the text; illustrations for the narrated passages; Bother in the corner when he acts. `python3 tools/check_script.py` must match.
 8. **Checks:** `<sdk>/renpy.sh game lint`, `python3 tools/check_script.py`, `./vn check`. Commit.
-9. **Launch** for the owner: kill every old game window first (`pkill -9 -f "lib/py3-mac-universal/renpy game"`), start one, check the log for exceptions. Never capture the whole desktop; use `renpy.screenshot` from inside the game for frames.
+9. **Launch** for the owner with `./vn play` (or `./vn play N`): it closes every old game window, starts one, and checks the log for exceptions. Never capture the whole desktop; use `renpy.screenshot` from inside the game for frames.
 
 ## Jumping to a chapter
 
