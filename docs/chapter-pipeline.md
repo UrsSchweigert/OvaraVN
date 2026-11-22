@@ -21,6 +21,12 @@ The chapter's cuts must be approved by the owner in `./vn cutter` (`./vn status`
 8. **Checks:** `<sdk>/renpy.sh game lint`, `python3 tools/check_script.py`, `./vn check`. Commit.
 9. **Launch** for the owner: kill every old game window first (`pkill -9 -f "lib/py3-mac-universal/renpy game"`), start one, check the log for exceptions. Never capture the whole desktop; use `renpy.screenshot` from inside the game for frames.
 
+## Jumping to a chapter
+
+- `./vn play N` starts the game straight at chapter N (it closes old windows first); `./vn play` opens the main menu; `./vn play --list` shows which chapters are built. A chapter counts as built when `game/game/chNN.rpy` has `label chNN:`.
+- In the game, **Chapters** in the main menu and the in-game menu lists all 18 and starts any built one. Nothing to register: a new `label chNN:` makes its row clickable.
+- The mechanism is `game/game/dev.rpy` (environment variable `VN_START`, also handy for test labels) and `game/game/chapter_select.rpy`.
+
 ## Facts to remember
 
 - Cost: portraits about $0.024 each, backgrounds $0.024, illustrations $0.04 to $0.07, cutouts about $0.01. A chapter costs roughly $3 to $6. Check `./vn spend`.
