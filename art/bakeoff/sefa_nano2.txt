@@ -1,0 +1,5 @@
+model: fal-ai/nano-banana-2
+purpose: bakeoff
+refs: 
+
+Anime-style character reference illustration, clean line art, soft cel shading, gentle natural colours. Full body, standing, facing the viewer, plain light grey background, no text. A girl of about sixteen, thin and long in the arm and leg, dark hair tied back with a strip of something that shines, large nearly black eyes, a wary calm expression. She wears a close tunic of fine grey-green cloth that gleams like the inside of a shell, and she holds a long harvesting hook the way you hold something you are prepared to use.

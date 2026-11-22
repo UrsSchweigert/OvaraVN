@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: sheet
+refs: 
+
+Anime-style character reference illustration, clean line art, soft cel shading, gentle natural colours. Full body, standing, facing the viewer, plain light grey background, no text. A tide hound: an animal like a seal that was built by someone fond of dogs. A seal's sleek grey body and broad flippers, but the head is blunt and square with a whiskered grey muzzle, brown eyes set forward, and small folded ears. It wears a collar of plaited cord. Pleased with itself. Shown on all fours resting on its flippers, three-quarter view.

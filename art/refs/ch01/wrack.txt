@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: sheet
+refs: 
+
+Anime-style character reference illustration, clean line art, soft cel shading, gentle natural colours. Full body, standing, facing the viewer, plain light grey background, no text. A man, an adult, lean, short dark hair, a bewildered and troubled expression, as if he has lost his memory. He wears heavy surface boots, trousers, and a torn grey jacket with a corporate crest half ripped away. Around both wrists are raw red marks of a cable tie.

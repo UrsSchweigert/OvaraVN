@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: sheet
+refs: 
+
+Anime-style character reference illustration, clean line art, soft cel shading, gentle natural colours. Full body, standing, facing the viewer, plain light grey background, no text. A very old man with warm brown skin and a bald brown head, a gentle, slightly amused expression, leaning on a carved wooden stick. He wears a loose tunic of fine grey-green cloth that gleams like the inside of a shell.
