@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no animals, no text, no letters. Dry air, no water inside the room, nothing flooded. A narrow stone service tunnel behind the galleries of an undersea city: low rough-cut stone, old pale pipes running along the wall, a worn stair going down, dim light from a few failing pale lamps and a swag of weak greenish-yellow glowing weed hung along the pipes, worn smooth by three thousand years of lamp-cleaners' feet. No windows to the outside. Nobody present.

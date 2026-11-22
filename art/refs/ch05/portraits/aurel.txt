@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: sheet
+refs: 
+
+Anime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's RIGHT (his nose points to the right edge of the picture), plain light grey background, no text. Both shoulders visible. The eyes are fully drawn with irises, pupils and highlights. A quiet grey man of about fifty-five, close-cropped grey hair, weathered light-brown skin, calm lined face, tired steady eyes, closed mouth. He wears a plain loose grey-green sea-silk tunic. A healer-caller, quiet and unshowy.

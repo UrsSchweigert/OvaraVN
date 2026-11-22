@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no animals, no text, no letters. Interior of a low stone house: one long room seen from one end, a small iron stove at the far end, a long wooden table that has been mended many times with planks of different woods, shelves of glass jars along the wall, a box bed behind a half-drawn curtain, a small pale blue glowing jelly in a glass bowl on a windowsill, a ladder up to a loft, a warm oil lamp lit. Stone walls, warm lamplight, homely and lived-in. Nobody in the room.

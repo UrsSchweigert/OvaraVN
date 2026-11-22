@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: illustration
+refs: art/refs/ch04/portraits/anselm_helmed.png, art/refs/ch04/places/step_fog.png
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, restrained and quiet, no text, no letters. Reference 1 is Anselm, a broad white-haired man of about seventy-two with thin pale scars running down from his temples along his neck, in a dark close-fitting hard suit. Reference 2 is the setting. In thin fog on a dark stone landing beside black still water, exactly one man, Anselm, stands in his dark hard suit, lifting a clear glass helmet off his head with both hands, white hair, breathing the cold air with relief. Behind him in the water a short grey old needle-shaped vessel, scored with scratches. In the black water behind, huge dark stingray silhouettes hang still, all pointing the same way. Exactly one person.

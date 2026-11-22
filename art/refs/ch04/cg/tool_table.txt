@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: illustration
+refs: 
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, restrained and quiet, no text, no letters. A close view of a wooden table lit by a warm oil lamp, a half-empty stew bowl pushed aside, and in the middle lying alone a small worn hand tool of no describable shape: a smooth dull-metal implement with a thin curved working end and a grip rubbed to a glossy shine by many years of use, the polished grip catching the lamplight. Dark stone kitchen behind, out of focus. No hands, no people.

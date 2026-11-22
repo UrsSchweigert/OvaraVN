@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: illustration
+refs: 
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, no text, no letters. Entirely underwater, a golden kelp forest seen from above under green water. Lying across the top of the forest is a very long, pale, still line of metal ribs, each a hoop, one behind another, like a rope dropped on a carpet; the ribs are dim and dark, but along the frame about thirty small pale lights have just woken, scattered along its length, small and soft, drifting. A faint mist of bound water trails from its ribs. Quiet, hopeful, distant. No people, no ships.

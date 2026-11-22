@@ -1,7 +1,101 @@
 {
- "generated": "2026-11-22T17:02:31Z",
- "count": 116,
+ "generated": "2026-11-22T18:01:58Z",
+ "count": 181,
  "items": [
+  {
+   "kind": "portrait",
+   "id": "p anselm_calm",
+   "game_file": "game/game/images/p_anselm_calm.png",
+   "source": "art/refs/ch04/portraits/anselm_calm.png",
+   "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch04/portraits/anselm_calm.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same lighting, same skin colour; only the expression changes. Both shoulders visible. The eyes are fully drawn with irises, pupils and highlights. A moderate, restrained expression, no grin, no laughing. The glass helmet is OFF and not visible at all; only the dark suit collar shows. White hair, thin pale scars on temples and neck. Expression: calm and courteous, steady, a face that has been listened to for a long time.",
+   "model": "flux-2-t2i",
+   "cost": 0.012,
+   "chapters": {
+    "4": 4
+   },
+   "character": null,
+   "emotion": null
+  },
+  {
+   "kind": "portrait",
+   "id": "p anselm_cold",
+   "game_file": "game/game/images/p_anselm_cold.png",
+   "source": "art/refs/ch04/portraits/anselm_cold.png",
+   "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch04/portraits/anselm_calm.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same lighting, same skin colour; only the expression changes. Both shoulders visible. The eyes are fully drawn with irises, pupils and highlights. A moderate, restrained expression, no grin, no laughing. The glass helmet is OFF and not visible at all; only the dark suit collar shows. White hair, thin pale scars on temples and neck. Expression: cold, flat, closed, eyes level and unfeeling.",
+   "model": "flux-2",
+   "cost": 0.024,
+   "chapters": {
+    "4": 3
+   },
+   "character": null,
+   "emotion": null
+  },
+  {
+   "kind": "portrait",
+   "id": "p anselm_gentle",
+   "game_file": "game/game/images/p_anselm_gentle.png",
+   "source": "art/refs/ch04/portraits/anselm_gentle.png",
+   "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch04/portraits/anselm_calm.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same lighting, same skin colour; only the expression changes. Both shoulders visible. The eyes are fully drawn with irises, pupils and highlights. A moderate, restrained expression, no grin, no laughing. The glass helmet is OFF and not visible at all; only the dark suit collar shows. White hair, thin pale scars on temples and neck. Expression: gentle, soft-eyed, speaking kindly.",
+   "model": "flux-2",
+   "cost": 0.024,
+   "chapters": {
+    "4": 2
+   },
+   "character": null,
+   "emotion": null
+  },
+  {
+   "kind": "portrait",
+   "id": "p anselm_helmed",
+   "game_file": "game/game/images/p_anselm_helmed.png",
+   "source": "art/refs/ch04/portraits/anselm_helmed.png",
+   "prompt": "model: fal-ai/flux-2\npurpose: sheet\nrefs: \n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. Both shoulders visible. The eyes are fully drawn with irises, pupils and highlights. A restrained expression, no grin. A broad-shouldered, white-haired man of about seventy-two with a heavy, composed, well-kept face, thin pale scars running down from his temples along the sides of his neck above the collar. He wears a dark close-fitting hard suit with a clear glass helmet worn open and pushed back behind his head. Expression: calm, courteous, a face that has been listened to for a long time.",
+   "model": null,
+   "cost": null,
+   "chapters": {
+    "4": 1
+   },
+   "character": null,
+   "emotion": null
+  },
+  {
+   "kind": "portrait",
+   "id": "p anselm_smile",
+   "game_file": "game/game/images/p_anselm_smile.png",
+   "source": "art/refs/ch04/portraits/anselm_smile.png",
+   "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch04/portraits/anselm_calm.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same lighting, same skin colour; only the expression changes. Both shoulders visible. The eyes are fully drawn with irises, pupils and highlights. A moderate, restrained expression, no grin, no laughing. The glass helmet is OFF and not visible at all; only the dark suit collar shows. White hair, thin pale scars on temples and neck. Expression: a small smile, not unkind.",
+   "model": "flux-2",
+   "cost": 0.024,
+   "chapters": {
+    "4": 1
+   },
+   "character": null,
+   "emotion": null
+  },
+  {
+   "kind": "portrait",
+   "id": "p aurel_calm",
+   "game_file": "game/game/images/p_aurel_calm.png",
+   "source": "art/refs/ch05/portraits/aurel_calm.png",
+   "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch05/portraits/aurel.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same skin colour; only the expression changes. Both shoulders visible. The eyes are fully drawn with irises, pupils and highlights, looking open. A restrained realistic expression, moderate, no grin, no laughing, no tears streaming. Expression: calm and attentive, mouth closed, steady gaze.",
+   "model": "flux-2",
+   "cost": 0.024,
+   "chapters": {},
+   "character": null,
+   "emotion": null
+  },
+  {
+   "kind": "portrait",
+   "id": "p aurel_tired",
+   "game_file": "game/game/images/p_aurel_tired.png",
+   "source": "art/refs/ch05/portraits/aurel_tired.png",
+   "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch05/portraits/aurel.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same skin colour; only the expression changes. Both shoulders visible. The eyes are fully drawn with irises, pupils and highlights, looking open. A restrained realistic expression, moderate, no grin, no laughing, no tears streaming. Expression: very tired, heavy lids, mouth slightly slack, still steady.",
+   "model": "flux-2",
+   "cost": 0.024,
+   "chapters": {},
+   "character": null,
+   "emotion": null
+  },
   {
    "kind": "portrait",
    "id": "p bother_aggrieved",
@@ -25,10 +119,25 @@
    "model": "flux-2",
    "cost": 0.024,
    "chapters": {
-    "2": 1
+    "2": 1,
+    "5": 1
    },
    "character": "Bother",
    "emotion": "alert"
+  },
+  {
+   "kind": "portrait",
+   "id": "p bother_excited",
+   "game_file": "game/game/images/p_bother_excited.png",
+   "source": "art/refs/ch05/portraits/bother_excited.png",
+   "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch01/portraits/bother.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same skin colour; only the expression changes. Both shoulders visible. The eyes are fully drawn with irises, pupils and highlights, looking open. A restrained realistic expression, moderate, no grin, no laughing, no tears streaming. Expression: excited, eyes bright, mouth slightly open, whiskers forward, head lifted. A tide hound with a sleek grey seal body and blunt square head, small folded drooping ears.",
+   "model": "flux-2",
+   "cost": 0.024,
+   "chapters": {
+    "5": 1
+   },
+   "character": "Bother",
+   "emotion": "excited"
   },
   {
    "kind": "portrait",
@@ -374,6 +483,146 @@
   },
   {
    "kind": "portrait",
+   "id": "p jef_annoyed",
+   "game_file": "game/game/images/p_jef_annoyed.png",
+   "source": "art/refs/ch04/portraits/jef_annoyed.png",
+   "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch04/portraits/jef_grumbling.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same lighting, same skin colour; only the expression changes. Both shoulders visible. The eyes are fully drawn with irises, pupils and highlights. A moderate, restrained expression, no grin, no laughing. The man is VERY OLD, deeply wrinkled, nearly bald. Expression: detached annoyance, looking down and aside as at a machine that has failed him, one eyebrow slightly raised, lips pressed.",
+   "model": "flux-2",
+   "cost": 0.024,
+   "chapters": {
+    "4": 1
+   },
+   "character": null,
+   "emotion": null
+  },
+  {
+   "kind": "portrait",
+   "id": "p jef_attentive",
+   "game_file": "game/game/images/p_jef_attentive.png",
+   "source": "art/refs/ch04/portraits/jef_attentive.png",
+   "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch04/portraits/jef_watching.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face clearly turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same lighting; only the expression changes. A VERY OLD, deeply wrinkled, nearly bald man. The eyes are fully drawn, dark brown-black irises with round pupils and white highlights, eyes wide open and bright. Expression: fixed bright attention, intent and sharp, studying something closely, eyebrows slightly raised, mouth closed.",
+   "model": "flux-2",
+   "cost": 0.024,
+   "chapters": {
+    "4": 11
+   },
+   "character": null,
+   "emotion": null
+  },
+  {
+   "kind": "portrait",
+   "id": "p jef_grumbling",
+   "game_file": "game/game/images/p_jef_grumbling.png",
+   "source": "art/refs/ch04/portraits/jef_grumbling.png",
+   "prompt": "model: fal-ai/flux-2\npurpose: sheet\nrefs: \n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. Both shoulders visible. The eyes are fully drawn with irises, pupils and highlights. A restrained expression, no grin. A very small, very old man, deeply wrinkled skin like paper folded many times, only a few wisps of white hair on a nearly bald head, very bright, very dark, sharp eyes, a mouth set in a mild grumble. He wears a worn brown leather apron over a faded wool jersey that has a hole at the elbow. Expression: grumbling, put-upon but not angry.",
+   "model": "flux-2-t2i",
+   "cost": 0.012,
+   "chapters": {
+    "4": 9
+   },
+   "character": null,
+   "emotion": null
+  },
+  {
+   "kind": "portrait",
+   "id": "p jef_tired",
+   "game_file": "game/game/images/p_jef_tired.png",
+   "source": "art/refs/ch04/portraits/jef_tired.png",
+   "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch04/portraits/jef_grumbling.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same lighting, same skin colour; only the expression changes. Both shoulders visible. The eyes are fully drawn with irises, pupils and highlights. A moderate, restrained expression, no grin, no laughing. The man is VERY OLD, deeply wrinkled, nearly bald. Expression: very tired, eyelids heavy, but the dark eyes still bright, a faint weary calm; one hand rests flat on his chest, rubbing it absently, the hand clearly drawn with five fingers.",
+   "model": "flux-2",
+   "cost": 0.024,
+   "chapters": {
+    "4": 16
+   },
+   "character": null,
+   "emotion": null
+  },
+  {
+   "kind": "portrait",
+   "id": "p jef_watching",
+   "game_file": "game/game/images/p_jef_watching.png",
+   "source": "art/refs/ch04/portraits/jef_watching.png",
+   "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch04/portraits/jef_grumbling.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same lighting, same skin colour; only the expression changes. Both shoulders visible. The eyes are fully drawn with irises, pupils and highlights. A moderate, restrained expression, no grin, no laughing. The man is VERY OLD, deeply wrinkled, nearly bald. Expression: hard to read, a long quiet watchful look, neutral mouth, eyes steady, unreadable.",
+   "model": "flux-2",
+   "cost": 0.024,
+   "chapters": {
+    "4": 7
+   },
+   "character": null,
+   "emotion": null
+  },
+  {
+   "kind": "portrait",
+   "id": "p maelis_composed",
+   "game_file": "game/game/images/p_maelis_composed.png",
+   "source": "art/refs/ch04/portraits/maelis_composed.png",
+   "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch04/portraits/maelis_examining.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same lighting, same skin colour; only the expression changes. Both shoulders visible. The eyes are fully drawn with irises, pupils and highlights. A moderate, restrained expression, no grin, no laughing. The woman is in her seventies, lined face, grey hair pinned back. Expression: perfectly composed, level and calm, chin slightly raised, seeming taller and further away.",
+   "model": "flux-2",
+   "cost": 0.024,
+   "chapters": {
+    "4": 10
+   },
+   "character": null,
+   "emotion": null
+  },
+  {
+   "kind": "portrait",
+   "id": "p maelis_examining",
+   "game_file": "game/game/images/p_maelis_examining.png",
+   "source": "art/refs/ch04/portraits/maelis_examining.png",
+   "prompt": "model: fal-ai/flux-2\npurpose: sheet\nrefs: \n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. Both shoulders visible. The eyes are fully drawn with irises, pupils and highlights. A restrained expression, no grin. A tall, straight, grey-haired woman in her seventies with a lined, weathered, composed face, her grey hair pinned back, wearing a patched dark coat with full pockets. Expression: a steady, examining gaze, calm and level.",
+   "model": "flux-2-t2i",
+   "cost": 0.012,
+   "chapters": {
+    "4": 1
+   },
+   "character": null,
+   "emotion": null
+  },
+  {
+   "kind": "portrait",
+   "id": "p maelis_shut",
+   "game_file": "game/game/images/p_maelis_shut.png",
+   "source": "art/refs/ch04/portraits/maelis_shut.png",
+   "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch04/portraits/maelis_examining.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same lighting, same skin colour; only the expression changes. Both shoulders visible. The eyes are fully drawn with irises, pupils and highlights. A moderate, restrained expression, no grin, no laughing. The woman is in her seventies, lined face, grey hair pinned back. Expression: face shut like a house with the shutters put up, cold, blank and closed, eyes hard and level.",
+   "model": "flux-2",
+   "cost": 0.024,
+   "chapters": {
+    "4": 1
+   },
+   "character": null,
+   "emotion": null
+  },
+  {
+   "kind": "portrait",
+   "id": "p maelis_silent",
+   "game_file": "game/game/images/p_maelis_silent.png",
+   "source": "art/refs/ch04/portraits/maelis_silent.png",
+   "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch04/portraits/maelis_examining.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same lighting, same skin colour; only the expression changes. Both shoulders visible. The eyes are fully drawn with irises, pupils and highlights. A moderate, restrained expression, no grin, no laughing. The woman is in her seventies, lined face, grey hair pinned back. Expression: a long silence, her eyes lowered and fixed on nothing, mouth closed, grief held very still.",
+   "model": "flux-2",
+   "cost": 0.024,
+   "chapters": {
+    "4": 1
+   },
+   "character": null,
+   "emotion": null
+  },
+  {
+   "kind": "portrait",
+   "id": "p maelis_smile",
+   "game_file": "game/game/images/p_maelis_smile.png",
+   "source": "art/refs/ch04/portraits/maelis_smile.png",
+   "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch04/portraits/maelis_examining.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same lighting, same skin colour; only the expression changes. Both shoulders visible. The eyes are fully drawn with irises, pupils and highlights. A moderate, restrained expression, no grin, no laughing. The woman is in her seventies, lined face, grey hair pinned back, brown eyes. Expression: a small closed-mouth smile, only the corners of her lips lifting, eyes soft and warm, mouth closed, no teeth.",
+   "model": "flux-2",
+   "cost": 0.024,
+   "chapters": {
+    "4": 1
+   },
+   "character": null,
+   "emotion": null
+  },
+  {
+   "kind": "portrait",
    "id": "p officer_grim",
    "game_file": "game/game/images/p_officer_grim.png",
    "source": "art/refs/ch03/portraits/officer_grim.png",
@@ -414,6 +663,20 @@
   },
   {
    "kind": "portrait",
+   "id": "p okonta_frowning",
+   "game_file": "game/game/images/p_okonta_frowning.png",
+   "source": "art/refs/ch05/portraits/okonta_frowning.png",
+   "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch02/portraits/okonta.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same skin colour; only the expression changes. Both shoulders visible. The eyes are fully drawn with irises, pupils and highlights, looking open. A restrained realistic expression, moderate, no grin, no laughing, no tears streaming. Expression: frowning, brows drawn together, mouth pressed, worried and thinking hard. Dark brown skin and short grey hair, slate-grey high-collared suit.",
+   "model": "flux-2",
+   "cost": 0.024,
+   "chapters": {
+    "5": 1
+   },
+   "character": "Okonta",
+   "emotion": "frowning"
+  },
+  {
+   "kind": "portrait",
    "id": "p okonta_grave",
    "game_file": "game/game/images/p_okonta_grave.png",
    "source": "art/refs/ch02/portraits/okonta.png",
@@ -422,10 +685,26 @@
    "cost": 0.012,
    "chapters": {
     "2": 1,
-    "3": 14
+    "3": 14,
+    "4": 4,
+    "5": 2
    },
    "character": "Okonta",
    "emotion": "grave"
+  },
+  {
+   "kind": "portrait",
+   "id": "p okonta_grim",
+   "game_file": "game/game/images/p_okonta_grim.png",
+   "source": "art/refs/ch05/portraits/okonta_grim.png",
+   "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch02/portraits/okonta.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same skin colour; only the expression changes. Both shoulders visible. The eyes are fully drawn with irises, pupils and highlights, looking open. A restrained realistic expression, moderate, no grin, no laughing, no tears streaming. Expression: grim, jaw set, eyes hard and level, mouth a flat line. Dark brown skin and short grey hair, slate-grey high-collared suit.",
+   "model": "flux-2",
+   "cost": 0.024,
+   "chapters": {
+    "5": 4
+   },
+   "character": "Okonta",
+   "emotion": "grim"
   },
   {
    "kind": "portrait",
@@ -436,10 +715,25 @@
    "model": "flux-2",
    "cost": 0.024,
    "chapters": {
-    "3": 2
+    "3": 2,
+    "4": 1
    },
    "character": "Okonta",
    "emotion": "listening"
+  },
+  {
+   "kind": "portrait",
+   "id": "p okonta_smiling",
+   "game_file": "game/game/images/p_okonta_smiling.png",
+   "source": "art/refs/ch04/portraits/okonta_smiling.png",
+   "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch02/portraits/okonta_wry.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same lighting, same skin colour; only the expression changes. Both shoulders visible. The eyes are fully drawn with irises, pupils and highlights. A moderate, restrained expression, no grin, no laughing. Spare woman of about sixty, DARK BROWN skin, short grey hair as in the reference, slate-grey high-collared suit as in the reference, thin pale scars from the temples. Expression: a small private closed-mouth smile, eyes lowered and warm. No cup, no hands visible.",
+   "model": "flux-2",
+   "cost": 0.024,
+   "chapters": {
+    "4": 1
+   },
+   "character": "Okonta",
+   "emotion": "smiling"
   },
   {
    "kind": "portrait",
@@ -451,7 +745,9 @@
    "cost": 0.024,
    "chapters": {
     "2": 1,
-    "3": 2
+    "3": 2,
+    "4": 1,
+    "5": 2
    },
    "character": "Okonta",
    "emotion": "sorrow"
@@ -466,7 +762,9 @@
    "cost": 0.024,
    "chapters": {
     "2": 1,
-    "3": 4
+    "3": 4,
+    "4": 2,
+    "5": 2
    },
    "character": "Okonta",
    "emotion": "urgent"
@@ -481,7 +779,8 @@
    "cost": 0.024,
    "chapters": {
     "2": 1,
-    "3": 5
+    "3": 5,
+    "4": 2
    },
    "character": "Okonta",
    "emotion": "wry"
@@ -614,6 +913,20 @@
   },
   {
    "kind": "portrait",
+   "id": "p sefa_eyes_filling",
+   "game_file": "game/game/images/p_sefa_eyes_filling.png",
+   "source": "art/refs/ch05/portraits/sefa_eyes_filling.png",
+   "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch01/portraits/sefa.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same skin colour; only the expression changes. Both shoulders visible. The eyes are fully drawn with irises, pupils and highlights, looking open. A restrained realistic expression, moderate, no grin, no laughing, no tears streaming. Expression: eyes filling with tears, brimming and shining, lips pressed together trying not to cry. A plain grey cloth band tied round her upper arm. Large nearly black eyes, dark hair in a high ponytail with a silver-white strip.",
+   "model": "flux-2",
+   "cost": 0.024,
+   "chapters": {
+    "5": 1
+   },
+   "character": "Sefa",
+   "emotion": "eyes_filling"
+  },
+  {
+   "kind": "portrait",
    "id": "p sefa_fierce",
    "game_file": "game/game/images/p_sefa_fierce.png",
    "source": "art/refs/ch02/portraits/sefa_fierce.png",
@@ -621,10 +934,25 @@
    "model": "flux-2",
    "cost": 0.024,
    "chapters": {
-    "2": 1
+    "2": 1,
+    "5": 2
    },
    "character": "Sefa",
    "emotion": "fierce"
+  },
+  {
+   "kind": "portrait",
+   "id": "p sefa_hard",
+   "game_file": "game/game/images/p_sefa_hard.png",
+   "source": "art/refs/ch05/portraits/sefa_hard.png",
+   "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch01/portraits/sefa.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same skin colour; only the expression changes. Both shoulders visible. The eyes are fully drawn with irises, pupils and highlights, looking open. A restrained realistic expression, moderate, no grin, no laughing, no tears streaming. Expression: hard and quiet, mouth set flat, eyes level and cold, face older than sixteen. A plain grey cloth band tied round her upper arm. Large nearly black eyes, dark hair in a high ponytail with a silver-white strip.",
+   "model": "flux-2",
+   "cost": 0.024,
+   "chapters": {
+    "5": 1
+   },
+   "character": "Sefa",
+   "emotion": "hard"
   },
   {
    "kind": "portrait",
@@ -671,6 +999,20 @@
   },
   {
    "kind": "portrait",
+   "id": "p sefa_tired",
+   "game_file": "game/game/images/p_sefa_tired.png",
+   "source": "art/refs/ch05/portraits/sefa_tired.png",
+   "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch01/portraits/sefa.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same skin colour; only the expression changes. Both shoulders visible. The eyes are fully drawn with irises, pupils and highlights, looking open. A restrained realistic expression, moderate, no grin, no laughing, no tears streaming. Expression: tired, heavy lids, face drawn and thinner, mouth slightly slack. A plain grey cloth band tied round her upper arm. Large nearly black eyes, dark hair in a high ponytail with a silver-white strip.",
+   "model": "flux-2",
+   "cost": 0.024,
+   "chapters": {
+    "5": 5
+   },
+   "character": "Sefa",
+   "emotion": "tired"
+  },
+  {
+   "kind": "portrait",
    "id": "p sefa_wary",
    "game_file": "game/game/images/p_sefa_wary.png",
    "source": "art/refs/ch01/portraits/sefa.png",
@@ -682,6 +1024,48 @@
    },
    "character": "Sefa",
    "emotion": "wary"
+  },
+  {
+   "kind": "portrait",
+   "id": "p vey_cold",
+   "game_file": "game/game/images/p_vey_cold.png",
+   "source": "art/refs/ch05/portraits/vey_cold.png",
+   "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch05/portraits/vey.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same skin colour; only the expression changes. Both shoulders visible. The eyes are fully drawn with irises, pupils and highlights, looking open. A restrained realistic expression, moderate, no grin, no laughing, no tears streaming. Expression: cold and composed, chin level, thin closed mouth, eyes steady and without warmth. She must look SEVENTY YEARS OLD: deep lines across the forehead, crow's feet, creased cheeks, loose skin at the jaw.",
+   "model": "flux-2",
+   "cost": 0.024,
+   "chapters": {
+    "5": 1
+   },
+   "character": null,
+   "emotion": null
+  },
+  {
+   "kind": "portrait",
+   "id": "p vey_shaken",
+   "game_file": "game/game/images/p_vey_shaken.png",
+   "source": "art/refs/ch05/portraits/vey_shaken.png",
+   "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch05/portraits/vey.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same skin colour; only the expression changes. Both shoulders visible. The eyes are fully drawn with irises, pupils and highlights, looking open. A restrained realistic expression, moderate, no grin, no laughing, no tears streaming. Expression: shaken and older, head slightly lowered and tilted, shoulders not straight, eyes tired and a little unfocused, lips pressed together.",
+   "model": "flux-2",
+   "cost": 0.024,
+   "chapters": {
+    "5": 3
+   },
+   "character": null,
+   "emotion": null
+  },
+  {
+   "kind": "portrait",
+   "id": "p vey_tight",
+   "game_file": "game/game/images/p_vey_tight.png",
+   "source": "art/refs/ch05/portraits/vey_tight.png",
+   "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch05/portraits/vey.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same skin colour; only the expression changes. Both shoulders visible. The eyes are fully drawn with irises, pupils and highlights, looking open. A restrained realistic expression, moderate, no grin, no laughing, no tears streaming. Expression: tight-mouthed, lips pressed into a thin tense line, jaw set, a small tension at the brow. She must look SEVENTY YEARS OLD: deep lines across the forehead, crow's feet, creased cheeks, loose skin at the jaw.",
+   "model": "flux-2",
+   "cost": 0.024,
+   "chapters": {
+    "5": 2
+   },
+   "character": null,
+   "emotion": null
   },
   {
    "kind": "portrait",
@@ -749,7 +1133,9 @@
    "cost": 0.024,
    "chapters": {
     "2": 6,
-    "3": 13
+    "3": 13,
+    "4": 20,
+    "5": 3
    },
    "character": "Wrack",
    "emotion": "attentive"
@@ -763,7 +1149,8 @@
    "model": "flux-2",
    "cost": 0.024,
    "chapters": {
-    "3": 3
+    "3": 3,
+    "4": 2
    },
    "character": "Wrack",
    "emotion": "awed"
@@ -778,7 +1165,8 @@
    "cost": 0.024,
    "chapters": {
     "2": 1,
-    "3": 1
+    "3": 1,
+    "4": 1
    },
    "character": "Wrack",
    "emotion": "baffled"
@@ -793,10 +1181,26 @@
    "cost": 0.024,
    "chapters": {
     "2": 1,
-    "3": 1
+    "3": 1,
+    "4": 1,
+    "5": 1
    },
    "character": "Wrack",
    "emotion": "calm"
+  },
+  {
+   "kind": "portrait",
+   "id": "p wrack_tunic_dazed",
+   "game_file": "game/game/images/p_wrack_tunic_dazed.png",
+   "source": "art/refs/ch05/portraits/wrack_tunic_dazed.png",
+   "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch01/portraits/wrack_tunic.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same skin colour; only the expression changes. Both shoulders visible. The eyes are fully drawn with irises, pupils and highlights, looking open. A restrained realistic expression, moderate, no grin, no laughing, no tears streaming. Expression: dazed, eyes wide but unfocused, brows slightly raised, mouth a little open, lost.",
+   "model": "flux-2",
+   "cost": 0.024,
+   "chapters": {
+    "5": 1
+   },
+   "character": "Wrack",
+   "emotion": "dazed"
   },
   {
    "kind": "portrait",
@@ -811,6 +1215,34 @@
    },
    "character": "Wrack",
    "emotion": "despair"
+  },
+  {
+   "kind": "portrait",
+   "id": "p wrack_tunic_exhausted",
+   "game_file": "game/game/images/p_wrack_tunic_exhausted.png",
+   "source": "art/refs/ch05/portraits/wrack_tunic_exhausted.png",
+   "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch01/portraits/wrack_tunic.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same skin colour; only the expression changes. Both shoulders visible. The eyes are fully drawn with irises, pupils and highlights, looking open. A restrained realistic expression, moderate, no grin, no laughing, no tears streaming. Expression: exhausted, heavy half-lowered lids, faint soft shadows under the eyes, drawn pale face, mouth slack, head slightly bowed. No bruises, no dark patches.",
+   "model": "flux-2",
+   "cost": 0.024,
+   "chapters": {
+    "5": 1
+   },
+   "character": "Wrack",
+   "emotion": "exhausted"
+  },
+  {
+   "kind": "portrait",
+   "id": "p wrack_tunic_fading",
+   "game_file": "game/game/images/p_wrack_tunic_fading.png",
+   "source": "art/refs/ch05/portraits/wrack_tunic_fading.png",
+   "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch01/portraits/wrack_tunic.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same skin colour; only the expression changes. Both shoulders visible. The eyes are fully drawn with irises, pupils and highlights, looking open. A restrained realistic expression, moderate, no grin, no laughing, no tears streaming. Expression: fading, going grey: his skin drained to a grey pallor, eyes unfocused and distant, mouth slightly open, slack and empty.",
+   "model": "flux-2",
+   "cost": 0.024,
+   "chapters": {
+    "5": 1
+   },
+   "character": "Wrack",
+   "emotion": "fading"
   },
   {
    "kind": "portrait",
@@ -838,10 +1270,27 @@
    "chapters": {
     "1": 1,
     "2": 2,
-    "3": 1
+    "3": 1,
+    "4": 5,
+    "5": 1
    },
    "character": "Wrack",
    "emotion": "frightened"
+  },
+  {
+   "kind": "portrait",
+   "id": "p wrack_tunic_grieving",
+   "game_file": "game/game/images/p_wrack_tunic_grieving.png",
+   "source": "art/refs/ch04/portraits/wrack_tunic_grieving.png",
+   "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch02/portraits/wrack_tunic_calm.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same lighting, same skin colour; only the expression changes. Both shoulders visible. The eyes are fully drawn with irises, pupils and highlights. A moderate, restrained expression, no grin, no laughing. Lean man, short messy black hair, light skin, dark brown eyes, plain grey-green tunic. Expression: grieving and silent, eyes lowered and a little wet, brows drawn together, mouth pressed shut; no tears running down the face.",
+   "model": "flux-2",
+   "cost": 0.024,
+   "chapters": {
+    "4": 2,
+    "5": 1
+   },
+   "character": "Wrack",
+   "emotion": "grieving"
   },
   {
    "kind": "portrait",
@@ -853,7 +1302,8 @@
    "cost": 0.024,
    "chapters": {
     "1": 3,
-    "2": 1
+    "2": 1,
+    "4": 3
    },
    "character": "Wrack",
    "emotion": "lost"
@@ -867,7 +1317,9 @@
    "model": "flux-2",
    "cost": 0.024,
    "chapters": {
-    "2": 2
+    "2": 2,
+    "4": 2,
+    "5": 3
    },
    "character": "Wrack",
    "emotion": "resolved"
@@ -882,7 +1334,8 @@
    "cost": 0.024,
    "chapters": {
     "2": 3,
-    "3": 1
+    "3": 1,
+    "4": 4
    },
    "character": "Wrack",
    "emotion": "shaken"
@@ -911,10 +1364,25 @@
    "cost": 0.024,
    "chapters": {
     "2": 2,
-    "3": 1
+    "3": 1,
+    "4": 1
    },
    "character": "Wrack",
    "emotion": "soft"
+  },
+  {
+   "kind": "portrait",
+   "id": "p wrack_tunic_stunned",
+   "game_file": "game/game/images/p_wrack_tunic_stunned.png",
+   "source": "art/refs/ch05/portraits/wrack_tunic_stunned.png",
+   "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch01/portraits/wrack_tunic.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same skin colour; only the expression changes. Both shoulders visible. The eyes are fully drawn with irises, pupils and highlights, looking open. A restrained realistic expression, moderate, no grin, no laughing, no tears streaming. Expression: stunned, eyes wide with small pupils, brows raised, lips parted, frozen.",
+   "model": "flux-2",
+   "cost": 0.024,
+   "chapters": {
+    "5": 3
+   },
+   "character": "Wrack",
+   "emotion": "stunned"
   },
   {
    "kind": "portrait",
@@ -927,7 +1395,9 @@
    "chapters": {
     "1": 3,
     "2": 2,
-    "3": 3
+    "3": 3,
+    "4": 4,
+    "5": 7
    },
    "character": "Wrack",
    "emotion": "troubled"
@@ -955,6 +1425,110 @@
    "cost": 0.024,
    "chapters": {
     "3": 1
+   },
+   "character": null
+  },
+  {
+   "kind": "background",
+   "id": "bg dark_hall",
+   "game_file": "game/game/images/bg/dark_hall.png",
+   "source": "art/refs/ch04/places/dark_hall.png",
+   "prompt": "model: fal-ai/flux-2\npurpose: background\nrefs: \n\nAnime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no animals, no text, no letters. A vast high hall of milk-pale glass that is dark and unlit, deep underwater: the round pools on the floor are dry, empty pale basins with dust in them. The tall windows show only black deep water outside with a few drifting specks, no trees, no land, no sky. Cold dim blue-grey light, a tall archway in front leading to a second dark hall. Cold, silent, abandoned, no water in the pools. Nobody in the hall.",
+   "model": "flux-2-t2i",
+   "cost": 0.024,
+   "chapters": {
+    "4": 3
+   },
+   "character": null
+  },
+  {
+   "kind": "background",
+   "id": "bg dc_canyon_above",
+   "game_file": "game/game/images/bg/dc_canyon_above.png",
+   "source": "art/refs/ch05/places/dc_canyon_above.png",
+   "prompt": "model: fal-ai/flux-2\npurpose: background\nrefs: \n\nAnime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no animals, no text, no letters. Entirely underwater, no sky, no horizon, no grass, no surface. Looking down from above the rim into a vast canyon under the sea: a crack in the floor of the world, a gulf a kilometre wide and so deep that the bottom is lost in blue. On both sides a golden kelp forest runs to the rim and stops. Down both walls, from the rim as far as the eye can see, run tiers of long lit galleries cut from the living rock and faced with pale glass, hundreds of them, tier below tier. Slender bridges cross the gulf from wall to wall one above another, and hanging gardens of weed trail from every ledge. Near the top the galleries shine white, lower down they turn dark with long swags of weak greenish-yellow glowing weed. A city built like the inside of a throat. Tiny figures crossing the bridges are allowed but only as specks.",
+   "model": "flux-2-t2i",
+   "cost": 0.024,
+   "chapters": {
+    "5": 2
+   },
+   "character": null
+  },
+  {
+   "kind": "background",
+   "id": "bg dc_canyon_lit60",
+   "game_file": "game/game/images/bg/dc_canyon_lit60.png",
+   "source": "art/refs/ch05/places/dc_canyon_lit60.png",
+   "prompt": "model: fal-ai/flux-2\npurpose: background\nrefs: \n\nAnime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no animals, no text, no letters. Entirely underwater, no sky, no horizon, no grass, no surface. A vast undersea canyon seen from its middle, looking along a gulf a kilometre wide with galleries cut down both walls. The upper three fifths of the tiers of long glass-faced galleries are lit with warm white lamplight, glowing in rows down both walls and across slender bridges. Then at one sharp level the light stops, and the lower two fifths of the tiers below are completely dark, black windows fading into deep blue. Hanging gardens of weed trail from the ledges. Calm, tired, hard-won, a hold half alive. Nobody visible.",
+   "model": "flux-2-t2i",
+   "cost": 0.024,
+   "chapters": {
+    "5": 1
+   },
+   "character": null
+  },
+  {
+   "kind": "background",
+   "id": "bg dc_heart_chamber",
+   "game_file": "game/game/images/bg/dc_heart_chamber.png",
+   "source": "art/refs/ch05/places/dc_heart_chamber.png",
+   "prompt": "model: fal-ai/flux-2\npurpose: background\nrefs: \n\nAnime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no animals, no text, no letters. Dry air, no water inside the room, nothing flooded. A vast dim stone vault as big as a meeting hall, deep inside an undersea city, no windows to the outside. In the centre an enormous pale ribbed air-heart the size of a house, like a great closed shell standing on its hinge, furred with a fine grey dust, cold and still. Round it run channels as thick as a man's body, bringing the sea in on one side and carrying it away on the other, water moving slowly inside them. A broken wax seal on a door at the side. Dim low light, a strand of weak greenish-yellow glowing weed. Nobody present.",
+   "model": "flux-2-t2i",
+   "cost": 0.024,
+   "chapters": {
+    "5": 3
+   },
+   "character": null
+  },
+  {
+   "kind": "background",
+   "id": "bg dc_high_hall",
+   "game_file": "game/game/images/bg/dc_high_hall.png",
+   "source": "art/refs/ch05/places/dc_high_hall.png",
+   "prompt": "model: fal-ai/flux-2\npurpose: background\nrefs: \n\nAnime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no animals, no text, no letters. Dry air, no water inside the room, nothing flooded. Inside the grandest council hall of an undersea city, on the third tier. The roof is a vault of clear pale glass, and beyond it the upper waters of a canyon moving like a green sky. The floor is perfectly flat and solid, pale stone inlaid with shell in a pattern of waves, no pool, no hole, no water on the floor. Seven tall plain stone seats stand in a shallow arc, all empty, under good white lamps on short ivory posts. Cool, formal, echoing. Nobody in the room.",
+   "model": "flux-2-t2i",
+   "cost": 0.024,
+   "chapters": {
+    "5": 2
+   },
+   "character": null
+  },
+  {
+   "kind": "background",
+   "id": "bg dc_lowest_halls",
+   "game_file": "game/game/images/bg/dc_lowest_halls.png",
+   "source": "art/refs/ch05/places/dc_lowest_halls.png",
+   "prompt": "model: fal-ai/flux-2\npurpose: background\nrefs: \n\nAnime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no animals, no text, no letters. Dry air, no water inside the room, nothing flooded. A long, low dry hall in the bottom of an undersea city, no windows to the outside, lit only by a dim green gloom and swags of weak greenish-yellow glowing weed hung from the ceiling. Close rows of blankets and bundles laid on the floor edge to edge where people have been sleeping, the blankets empty and no people visible, stale warm thick air, everything worn and still. Oppressive and sad.",
+   "model": "flux-2-t2i",
+   "cost": 0.024,
+   "chapters": {
+    "5": 1
+   },
+   "character": null
+  },
+  {
+   "kind": "background",
+   "id": "bg dc_sea_door",
+   "game_file": "game/game/images/bg/dc_sea_door.png",
+   "source": "art/refs/ch05/places/dc_sea_door.png",
+   "prompt": "model: fal-ai/flux-2\npurpose: background\nrefs: \n\nAnime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no animals, no vessels, no text, no letters. A dry stone chamber on the rim of an undersea canyon city, quiet and bare. In the floor a round pool of still seawater, the sea-door, with a ring of worn stone around it. Beyond it a wide archway of pale glass looks out on open water: a golden kelp forest rolling away under green water, nothing else in the water, a plain empty view. Dry air inside the chamber; the glass keeps the sea out. Cool morning light, nobody present.",
+   "model": "flux-2-t2i",
+   "cost": 0.024,
+   "chapters": {
+    "5": 1
+   },
+   "character": null
+  },
+  {
+   "kind": "background",
+   "id": "bg dc_service_tunnels",
+   "game_file": "game/game/images/bg/dc_service_tunnels.png",
+   "source": "art/refs/ch05/places/dc_service_tunnels.png",
+   "prompt": "model: fal-ai/flux-2\npurpose: background\nrefs: \n\nAnime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no animals, no text, no letters. Dry air, no water inside the room, nothing flooded. A narrow stone service tunnel behind the galleries of an undersea city: low rough-cut stone, old pale pipes running along the wall, a worn stair going down, dim light from a few failing pale lamps and a swag of weak greenish-yellow glowing weed hung along the pipes, worn smooth by three thousand years of lamp-cleaners' feet. No windows to the outside. Nobody present.",
+   "model": "flux-2-t2i",
+   "cost": 0.024,
+   "chapters": {
+    "5": 1
    },
    "character": null
   },
@@ -1051,6 +1625,19 @@
   },
   {
    "kind": "background",
+   "id": "bg jef_workshop",
+   "game_file": "game/game/images/bg/jef_workshop.png",
+   "source": "art/refs/ch05/places/jef_workshop.png",
+   "prompt": "model: fal-ai/flux-2\npurpose: background\nrefs: \n\nAnime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no animals, no text, no letters. Interior of an untidy workshop in a stone house, still and grieved. Dry air, no water inside the room, nothing flooded. Workbenches heaped with lamps in pieces and coils of wire. On the nearest bench a dead barrel-sized pale ribbed air-heart laid out in separate pieces beside a half-opened dark oval warm-stone, and beside them a plain white mug seen from the side, low angle so its inside cannot be seen, a faint dry brown stain down its side. Many small worn tools hang on the stone wall, a stool. All lamps are unlit; the light is grey and low through a small window, dusty, quiet. Nobody in the room.",
+   "model": "flux-2-t2i",
+   "cost": 0.024,
+   "chapters": {
+    "5": 1
+   },
+   "character": null
+  },
+  {
+   "kind": "background",
    "id": "bg kelp_forest",
    "game_file": "game/game/images/bg/kelp_forest.png",
    "source": "art/refs/ch01/places/kelp_forest.png",
@@ -1073,6 +1660,82 @@
    "cost": 0.024,
    "chapters": {
     "3": 1
+   },
+   "character": null
+  },
+  {
+   "kind": "background",
+   "id": "bg kettle_house",
+   "game_file": "game/game/images/bg/kettle_house.png",
+   "source": "art/refs/ch04/places/kettle_house.png",
+   "prompt": "model: fal-ai/flux-2\npurpose: background\nrefs: \n\nAnime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no animals, no text, no letters. A low stone house half in the water and half out, standing on a shelf of smooth dark rock where the rock breaks the surface of black still water, under a sky the colour of a pigeon's breast, soft grey and pink and lilac, with a low red sun rolling along the rim of the world. A line of washing stiff with frost. A seaweed garden edged in shells beside the house. At one end a workshop with its wooden door standing open on a clutter of half-mended things. A kettle sits on the stone step. No fence, no gate. A few great soft bells of pale blue glowing fire, lantern jellies, drift over the black water; plain translucent bells with trailing veils, no faces, no eyes. Cold, quiet, homely.",
+   "model": "flux-2-t2i",
+   "cost": 0.024,
+   "chapters": {
+    "4": 5
+   },
+   "character": null
+  },
+  {
+   "kind": "background",
+   "id": "bg kettle_interior",
+   "game_file": "game/game/images/bg/kettle_interior.png",
+   "source": "art/refs/ch04/places/kettle_interior.png",
+   "prompt": "model: fal-ai/flux-2\npurpose: background\nrefs: \n\nAnime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no animals, no text, no letters. Interior of a low stone house at night: one long room seen from one end, a small iron stove at the far end with a glow, a long wooden table that has been mended many times with planks of different woods, shelves of glass jars along the wall, a box bed behind a half-drawn curtain, a ladder up to a loft, a warm oil lamp lit on the table. A small window on the left shows only black night water outside with a few pale blue glowing jellies drifting past, no trees, no land. On the windowsill a small glass bowl holding a fist-sized plain translucent pale blue glowing bell with no face. Stone walls, warm lamplight, homely and lived-in. Nobody in the room.",
+   "model": "flux-2-t2i",
+   "cost": 0.024,
+   "chapters": {
+    "4": 6
+   },
+   "character": null
+  },
+  {
+   "kind": "background",
+   "id": "bg landing_dusk",
+   "game_file": "game/game/images/bg/landing_dusk.png",
+   "source": "art/refs/ch04/places/landing_dusk.png",
+   "prompt": "model: fal-ai/flux-2\npurpose: background\nrefs: \n\nAnime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no animals, no text, no letters. Dusk at the top of the world. A landing of smooth dark stone with wide steps going down into black still water, under a sky the colour of a pigeon's breast with a low red sun on the rim, a long red twilight on the water and on the ice. Far out over the black gulf a very long, slender line of pale glowing hoop-shaped ribs of an immense river-like machine passes slowly, small and distant, a smooth blunt pale prow at its front, no ship, no mast, no deck, its light flickering. Grave, quiet, farewell.",
+   "model": "flux-2-t2i",
+   "cost": 0.024,
+   "chapters": {
+    "4": 1
+   },
+   "character": null
+  },
+  {
+   "kind": "background",
+   "id": "bg landing_evening",
+   "game_file": "game/game/images/bg/landing_evening.png",
+   "source": "art/refs/ch05/places/landing_evening.png",
+   "prompt": "model: fal-ai/flux-2\npurpose: background\nrefs: \n\nAnime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no animals, no text, no letters. A landing of smooth dark stone at the top of the world in the evening: wide steps going down into black still water, a low stone wall along one side, patches of pale snow and ice on the stone, a deep blue dusk sky with a faint last light on the horizon over the dark sea. Calm, cold, waiting. Empty: no boats, no vessels, no statues, no people.",
+   "model": "flux-2-t2i",
+   "cost": 0.024,
+   "chapters": {
+    "5": 1
+   },
+   "character": null
+  },
+  {
+   "kind": "background",
+   "id": "bg lantern_exterior",
+   "game_file": "game/game/images/bg/lantern_exterior.png",
+   "source": "art/refs/ch04/places/lantern_exterior.png",
+   "prompt": "model: fal-ai/flux-2\npurpose: background\nrefs: \n\nAnime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no animals, no text, no letters. ENTIRELY UNDERWATER at the bottom of a deep black shaft, no sky, no horizon, no surface. A ring of nine great domed halls of milk-white glass seen from the side, counted left to right: nine domes in a long curved row like a crown, each joined to the next by a short covered glass way, each glowing from within, standing in black water like a crown of nine lamps. White fans and small pale flowers grow around them. Black rock walls of the shaft far behind. Vast, cold outside and warm within.",
+   "model": "flux-2-t2i",
+   "cost": 0.024,
+   "chapters": {},
+   "character": null
+  },
+  {
+   "kind": "background",
+   "id": "bg lantern_hall",
+   "game_file": "game/game/images/bg/lantern_hall.png",
+   "source": "art/refs/ch04/places/lantern_hall.png",
+   "prompt": "model: fal-ai/flux-2\npurpose: background\nrefs: \n\nAnime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no animals, no text, no letters. Inside a vast high hall of milk-white glass, warm, bright and very quiet: a high curved glass ceiling, and on the floor many round pools with low pale stone rims, each full of water that glows faintly gold. Empty stools at the edge of the pools. Tall archway openings at the sides. A soft gold glow. Nobody in the hall.",
+   "model": "flux-2-t2i",
+   "cost": 0.024,
+   "chapters": {
+    "4": 2
    },
    "character": null
   },
@@ -1169,6 +1832,45 @@
   },
   {
    "kind": "background",
+   "id": "bg south_sea_ice",
+   "game_file": "game/game/images/bg/south_sea_ice.png",
+   "source": "art/refs/ch05/places/south_sea_ice.png",
+   "prompt": "model: fal-ai/flux-2\npurpose: background\nrefs: \n\nAnime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no animals, no text, no letters. Entirely underwater, no sky, no horizon, no grass, no surface. Open cold sea far in the north, deep clear blue water, a vast ice shelf seen from below as an upside-down country of pale blue ridges and hanging valleys filling the upper half of the picture, light coming down through gaps in the ice in long pale shafts, a few pale singers (slender luminous fish) far off, a sense of vast distance and a long road ahead. Empty water, no buildings, no vessels.",
+   "model": "flux-2-t2i",
+   "cost": 0.024,
+   "chapters": {
+    "5": 2
+   },
+   "character": null
+  },
+  {
+   "kind": "background",
+   "id": "bg step_fog",
+   "game_file": "game/game/images/bg/step_fog.png",
+   "source": "art/refs/ch04/places/step_fog.png",
+   "prompt": "model: fal-ai/flux-2\npurpose: background\nrefs: \n\nAnime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no animals, no text, no letters. A day of thin fog at the top of the world. The stone step of a low stone house with an iron kettle on it, beside a landing of dark stone steps going down to black still water. Pale grey fog everywhere, no trees, no land. In the black water beyond, six huge dark stingray silhouettes the size of ships hang motionless in a neat row, every one of them heading the same way, noses all pointing to the left of the picture and tails to the right, parallel, like weathervanes in a wind. Cold, still, dread.",
+   "model": "flux-2-t2i",
+   "cost": 0.024,
+   "chapters": {
+    "4": 2
+   },
+   "character": null
+  },
+  {
+   "kind": "background",
+   "id": "bg step_night",
+   "game_file": "game/game/images/bg/step_night.png",
+   "source": "art/refs/ch04/places/step_night.png",
+   "prompt": "model: fal-ai/flux-2\npurpose: background\nrefs: \n\nAnime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no animals, no text, no letters. Night at the top of the world. The dark stone step of a low STONE house at the edge of black still water, an iron kettle on the step and an empty wooden chair with a folded rug on it. A low red sun on the rim of the world turning, laying a moving red light across a great white plain of ice above the house and across the black water. A few great soft bells of pale blue glowing fire, lantern jellies, drift over the water: plain translucent bells with trailing veils, no faces, no eyes. Quiet and gentle.",
+   "model": "flux-2-t2i",
+   "cost": 0.024,
+   "chapters": {
+    "4": 4
+   },
+   "character": null
+  },
+  {
+   "kind": "background",
    "id": "bg tangle",
    "game_file": "game/game/images/bg/tangle.png",
    "source": "art/refs/ch03/places/tangle.png",
@@ -1242,6 +1944,32 @@
    "cost": 0.024,
    "chapters": {
     "2": 1
+   },
+   "character": null
+  },
+  {
+   "kind": "background",
+   "id": "bg well_lip",
+   "game_file": "game/game/images/bg/well_lip.png",
+   "source": "art/refs/ch04/places/well_lip.png",
+   "prompt": "model: fal-ai/flux-2\npurpose: background\nrefs: \n\nAnime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no animals, no text, no letters. The edge of a vast round hole in the sea at the top of the world. In the foreground a curved shelf of smooth dark rock with soft pale green glowing weed along its edge. Beyond the edge is nothing: black, perfectly still water, a gulf of great depth. Great soft bells of pale blue glowing fire the size of houses, lantern jellies, drift over the gulf trailing glimmering veils, reflected in the still water. A dim blue-black dusk sky above. Silent, still, as if holding its breath.",
+   "model": "flux-2-t2i",
+   "cost": 0.024,
+   "chapters": {
+    "4": 7
+   },
+   "character": null
+  },
+  {
+   "kind": "background",
+   "id": "bg workshop",
+   "game_file": "game/game/images/bg/workshop.png",
+   "source": "art/refs/ch04/places/workshop.png",
+   "prompt": "model: fal-ai/flux-2\npurpose: background\nrefs: \n\nAnime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no animals, no text, no letters. Interior of an untidy workshop in a stone house, the largest room of the house: workbenches heaped with lamps in pieces, a machine like a lamp's heart laid open, coils of pale wire that glows faintly warm, a work lamp, a stool, a mug on a bench. On one stone wall hang many small tools, each small and of no particular shape, smooth worn lumps and thin curved implements polished until they shine, not wrenches, not spoons. A small window shows only black night water outside, no trees, no land. Warm lamp light, cluttered, deeply used. Nobody in the room.",
+   "model": "flux-2-t2i",
+   "cost": 0.024,
+   "chapters": {
+    "4": 2
    },
    "character": null
   },
@@ -1507,6 +2235,175 @@
   },
   {
    "kind": "illustration",
+   "id": "cg c4_anselm_unhelm",
+   "game_file": "game/game/images/cg/c4_anselm_unhelm.png",
+   "source": null,
+   "prompt": "",
+   "model": null,
+   "cost": null,
+   "chapters": {
+    "4": 1
+   },
+   "character": null
+  },
+  {
+   "kind": "illustration",
+   "id": "cg c4_dragon_departs",
+   "game_file": "game/game/images/cg/c4_dragon_departs.png",
+   "source": null,
+   "prompt": "",
+   "model": null,
+   "cost": null,
+   "chapters": {
+    "4": 1
+   },
+   "character": null
+  },
+  {
+   "kind": "illustration",
+   "id": "cg c4_hands_lamp",
+   "game_file": "game/game/images/cg/c4_hands_lamp.png",
+   "source": null,
+   "prompt": "",
+   "model": null,
+   "cost": null,
+   "chapters": {
+    "4": 1
+   },
+   "character": null
+  },
+  {
+   "kind": "illustration",
+   "id": "cg c4_jef_under_heart",
+   "game_file": "game/game/images/cg/c4_jef_under_heart.png",
+   "source": null,
+   "prompt": "",
+   "model": null,
+   "cost": null,
+   "chapters": {
+    "4": 1
+   },
+   "character": null
+  },
+  {
+   "kind": "illustration",
+   "id": "cg c4_lantern_crown",
+   "game_file": "game/game/images/cg/c4_lantern_crown.png",
+   "source": null,
+   "prompt": "",
+   "model": null,
+   "cost": null,
+   "chapters": {
+    "4": 1
+   },
+   "character": null
+  },
+  {
+   "kind": "illustration",
+   "id": "cg c4_sphere",
+   "game_file": "game/game/images/cg/c4_sphere.png",
+   "source": null,
+   "prompt": "",
+   "model": null,
+   "cost": null,
+   "chapters": {
+    "4": 1
+   },
+   "character": null
+  },
+  {
+   "kind": "illustration",
+   "id": "cg c4_tool_table",
+   "game_file": "game/game/images/cg/c4_tool_table.png",
+   "source": null,
+   "prompt": "",
+   "model": null,
+   "cost": null,
+   "chapters": {
+    "4": 1
+   },
+   "character": null
+  },
+  {
+   "kind": "illustration",
+   "id": "cg c4_well_star",
+   "game_file": "game/game/images/cg/c4_well_star.png",
+   "source": null,
+   "prompt": "",
+   "model": null,
+   "cost": null,
+   "chapters": {
+    "4": 1
+   },
+   "character": null
+  },
+  {
+   "kind": "illustration",
+   "id": "cg c5_canyon",
+   "game_file": "game/game/images/cg/c5_canyon.png",
+   "source": null,
+   "prompt": "",
+   "model": null,
+   "cost": null,
+   "chapters": {
+    "5": 1
+   },
+   "character": null
+  },
+  {
+   "kind": "illustration",
+   "id": "cg c5_dragon_lights",
+   "game_file": "game/game/images/cg/c5_dragon_lights.png",
+   "source": null,
+   "prompt": "",
+   "model": null,
+   "cost": null,
+   "chapters": {
+    "5": 1
+   },
+   "character": null
+  },
+  {
+   "kind": "illustration",
+   "id": "cg c5_lamps_down",
+   "game_file": "game/game/images/cg/c5_lamps_down.png",
+   "source": null,
+   "prompt": "",
+   "model": null,
+   "cost": null,
+   "chapters": {
+    "5": 1
+   },
+   "character": null
+  },
+  {
+   "kind": "illustration",
+   "id": "cg c5_needle_ride",
+   "game_file": "game/game/images/cg/c5_needle_ride.png",
+   "source": null,
+   "prompt": "",
+   "model": null,
+   "cost": null,
+   "chapters": {
+    "5": 1
+   },
+   "character": null
+  },
+  {
+   "kind": "illustration",
+   "id": "cg c5_sefa_grips",
+   "game_file": "game/game/images/cg/c5_sefa_grips.png",
+   "source": null,
+   "prompt": "",
+   "model": null,
+   "cost": null,
+   "chapters": {
+    "5": 1
+   },
+   "character": null
+  },
+  {
+   "kind": "illustration",
    "id": "cg healing",
    "game_file": "game/game/images/cg/healing.png",
    "source": "art/refs/ch01/cg/healing.png",
@@ -1681,6 +2578,41 @@
     "references": [
      "art/refs/ch03/portraits/officer.png"
     ]
+   },
+   "Jef": {
+    "fixed": "a very small, VERY OLD man (about nine hundred years), deeply wrinkled skin like folded paper, nearly bald with a few wisps of white hair at the sides, very bright very dark eyes; worn brown leather apron over a faded wool jersey with a hole at the elbow (choice: pale skin, tuft of white hair over the ears); no gift, a mechanic; carries a small worn tool",
+    "references": [
+     "art/refs/ch04/portraits/jef_grumbling.png"
+    ],
+    "note": "Say 'VERY OLD, deeply wrinkled, nearly bald' on every edit; keep the eyes dark with highlights."
+   },
+   "Maelis": {
+    "fixed": "Jef's wife of fifty-one years, in her seventies, tall and straight, grey hair pinned in a low bun, lined composed face, brown eyes; patched dark coat with full pockets (choice: coat colour dark charcoal, patches brown); a healer born in the Quiet, the rays' mouth",
+    "references": [
+     "art/refs/ch04/portraits/maelis_examining.png"
+    ]
+   },
+   "Anselm Rook": {
+    "fixed": "broad-shouldered white-haired man of about seventy-two, courteous heavy face, grey-blue eyes, thin pale scars from the temples down the sides of the neck (the Thread); dark close-fitting surface hard suit with a clear glass helmet (portraits show the suit's high dark collar; p_anselm_helmed shows the helmet)",
+    "references": [
+     "art/refs/ch04/portraits/anselm_calm.png",
+     "art/refs/ch04/portraits/anselm_helmed.png"
+    ],
+    "note": "The helmed portrait has a faint glass ring in its cut-out."
+   },
+   "Elder Vey": {
+    "fixed": "tall, exact woman of seventy, light skin, deep lines at forehead and eyes, silver hair bound close to her head, perfectly upright posture (never seen to slump), cold composed face; formal high-collared deep sea-green robe with a pale shell-white band at the collar (colour is a choice)",
+    "references": [
+     "art/refs/ch05/portraits/vey_cold.png"
+    ],
+    "note": "Expression edits make her look younger; always say 'SEVENTY YEARS OLD, deep lines, creased cheeks'. Expressions: vey_cold, vey_shaken (older, not straight), vey_tight."
+   },
+   "Aurel": {
+    "fixed": "quiet grey man of about fifty-five, close-cropped grey hair, weathered tan-brown skin, lined calm face, steady tired eyes; plain loose grey-green sea-silk tunic. The Mighty of Deep Chorus.",
+    "references": [
+     "art/refs/ch05/portraits/aurel.png"
+    ],
+    "note": "Look is a choice apart from 'quiet grey man' (c05.s04.p008.2). Expressions: aurel_calm, aurel_tired."
    }
   },
   "objects": {
@@ -1703,7 +2635,22 @@
    "The Slick edge": "the kelp stops at a line as sharp as a shoreline; rows of dead black bitterwrack a hundred metres deep; beyond, water the colour of strong tea with shreds hanging in it",
    "Greywatch Stone": "bare rise above the forest where kelp will not grow and the current runs cold and strong; a six-sided pillar of pale Maker stuff twice a man's height, nothing on it; a ring of stone benches and the paving scratched with thousands of worn names in looping script (never readable); a small camp of nets and a cooking-stone in a lee hollow",
    "Dragon gallery": "flooded warm hall a kilometre long, ribs arching to a point of light, no walls, only bound water pouring past; hammock-nets, cooking stones, a rack of dried fish, a band of scratched names along the floor; cradles shaped to needles low in the belly, each with a name, one empty with silt; closed hull, no outside view of sky or land",
-   "Rime": "a Maker dome hung upside down from the underside of an ice shelf, glowing amber, little lights moving beneath it"
+   "Rime": "a Maker dome hung upside down from the underside of an ice shelf, glowing amber, little lights moving beneath it",
+   "The Well lip": "curved shelf of smooth dark rock at the edge of a vast round black shaft of perfectly still water, soft glowing pale green weed along the rim, pale blue lantern jellies as big as houses drifting over the gulf; at the bottom a single white star (the Lantern)",
+   "Kettle House": "low stone house half in water and half out on a rock shelf, pigeon-breast sky with a low red sun, washing line stiff with frost, shell-edged weed garden, workshop with its door open, kettle on the step; no fence or gate",
+   "Kettle House interior": "one long stone room, iron stove at one end, long mended table of mixed planks, jar shelves, box bed behind a curtain, loft ladder, window onto black water and jellies, fist-sized pale jelly in a glass bowl",
+   "Workshop": "untidy stone room, benches heaped with lamps in pieces, a lamp's heart laid open, coils of warm pale wire, small worn tools on one wall, a stool and a mug",
+   "The Lantern": "nine milk-white glass domed halls in a ring joined by covered ways, lit from within, standing at the bottom of a black rock shaft like a crown of lamps; white fans and pale flowers; inside, halls with round pools of faintly gold water and stools; four halls dark and dry",
+   "Jef's workshop (after his death)": "untidy stone-walled workshop, benches heaped with lamps in pieces and coils of wire, a dead barrel-sized pale ribbed air-heart laid out in pieces beside a dark oval warm-stone, a white mug with a dried tea stain left untouched, grey window light, nothing lit",
+   "The landing (evening)": "smooth dark stone landing with wide steps into black still water, low stone wall, patches of snow and ice, deep blue dusk sky with a last faint light",
+   "Open sea with ice shelf (the ride south)": "cold deep-blue open sea, the underside of an ice shelf like an upside-down country of pale ridges and hanging valleys, shafts of light, a few luminous pale singers; entirely underwater",
+   "Deep Chorus canyon": "a gulf a kilometre wide cut into the golden kelp forest floor, tiers of long pale-glass galleries down both walls, slender bridges wall to wall, hanging weed gardens; white light above the twentieth tier, dark below with greenish-yellow lampweed; entirely underwater",
+   "Deep Chorus canyon, lit to the sixtieth tier": "same canyon, warm white lamps lit down both walls to one tier, black dark windows below, bottom lost in blue; entirely underwater",
+   "Deep Chorus high hall": "third tier council hall, vault of clear glass with green canyon water beyond, pale shell-inlaid floor in a wave pattern, seven plain stone seats in an arc, white lamps on short ivory posts; dry",
+   "Deep Chorus service tunnels": "narrow rough stone tunnels behind the galleries, old pipes, a worn stair, failing lamps, swags of weak yellow-green lampweed; dry",
+   "Deep Chorus lowest dry halls": "long low dry halls in the green dimness, swags of glowing lampweed on the ceiling, rows of sleepers on mats and blankets; dry, stale",
+   "Deep Chorus heart-chamber": "vast dim stone vault, a house-sized pale ribbed air-heart like a great closed shell furred with grey dust, thick water channels on both sides, a door with a broken wax seal; dry",
+   "Deep Chorus sea-door on the rim": "bare dry stone chamber with a round sea-door pool in the floor and a wide arch of glass onto the golden kelp forest beyond; dry"
   }
  }
 }

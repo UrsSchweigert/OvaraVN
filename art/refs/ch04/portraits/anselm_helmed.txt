@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: sheet
+refs: 
+
+Anime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. Both shoulders visible. The eyes are fully drawn with irises, pupils and highlights. A restrained expression, no grin. A broad-shouldered, white-haired man of about seventy-two with a heavy, composed, well-kept face, thin pale scars running down from his temples along the sides of his neck above the collar. He wears a dark close-fitting hard suit with a clear glass helmet worn open and pushed back behind his head. Expression: calm, courteous, a face that has been listened to for a long time.

@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no animals, no text, no letters. Entirely underwater, no sky, no horizon, no grass, no surface. A vast undersea canyon seen from its middle, looking along a gulf a kilometre wide with galleries cut down both walls. The upper three fifths of the tiers of long glass-faced galleries are lit with warm white lamplight, glowing in rows down both walls and across slender bridges. Then at one sharp level the light stops, and the lower two fifths of the tiers below are completely dark, black windows fading into deep blue. Hanging gardens of weed trail from the ledges. Calm, tired, hard-won, a hold half alive. Nobody visible.

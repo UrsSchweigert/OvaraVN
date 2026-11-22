@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: sheet
+refs: art/refs/ch05/portraits/vey.png
+
+Anime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same skin colour; only the expression changes. Both shoulders visible. The eyes are fully drawn with irises, pupils and highlights, looking open. A restrained realistic expression, moderate, no grin, no laughing, no tears streaming. Expression: cold and composed, chin level, thin closed mouth, eyes steady and without warmth. She must look SEVENTY YEARS OLD: deep lines across the forehead, crow's feet, creased cheeks, loose skin at the jaw.

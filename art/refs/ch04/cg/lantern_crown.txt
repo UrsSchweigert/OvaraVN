@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: illustration
+refs: art/refs/ch04/places/lantern_exterior.png
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, restrained and quiet, no text, no letters. The reference shows the nine milk-glass halls of a hospital standing in a curved row at the bottom of a black water shaft. Keep exactly the same nine glass domes, same count (nine), same glass, same white flowers, same dark rock walls, entirely underwater, no sky, no surface; only pull the camera back and higher so the whole ring of nine lit halls is seen like a crown of lamps in the black water. No people.

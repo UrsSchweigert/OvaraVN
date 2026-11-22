@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: illustration
+refs: art/refs/ch04/portraits/maelis_composed.png, art/refs/ch04/portraits/jef_grumbling.png, art/refs/ch04/places/landing_dusk.png
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, restrained and quiet, no text, no letters. Reference 1 is Maelis, a tall straight grey-haired woman in a patched dark coat. Reference 2 is Jef, a very small old bald man in a leather apron. Dusk at the top of the world, red twilight, black still water, snow and ice. Exactly two people: on a dark stone landing Maelis stands holding the small old man Jef in her arms, his head against her shoulder, his body limp and peaceful, her face composed. Beside the landing the pale blunt prow of a vast river-like machine of pale ribs slowly passes. Over the water beside it huge stingrays rise and fly through the air, wing beside wing, like an escort of dark sails. Grief held quietly.

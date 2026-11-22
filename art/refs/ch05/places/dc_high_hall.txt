@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no animals, no text, no letters. Dry air, no water inside the room, nothing flooded. Inside the grandest council hall of an undersea city, on the third tier. The roof is a vault of clear pale glass, and beyond it the upper waters of a canyon moving like a green sky. The floor is perfectly flat and solid, pale stone inlaid with shell in a pattern of waves, no pool, no hole, no water on the floor. Seven tall plain stone seats stand in a shallow arc, all empty, under good white lamps on short ivory posts. Cool, formal, echoing. Nobody in the room.

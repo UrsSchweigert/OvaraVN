@@ -36,6 +36,9 @@ The chapter's cuts must be approved by the owner in `./vn cutter` (`./vn status`
 - Safe real-time test (no saved settings touched): a throw-away `zz_run.rpy` with `config.periodic_callbacks.append(lambda: renpy.queue_event('dismiss'))` (only when an env var is set), a `config.all_character_callbacks` counter writing a progress file, then `label zz_run: call chNN` and `renpy.quit()`; start with `VN_START=zz_run`. Run it as a background job and read the marker file. Delete the test file afterwards.
 - Fast-skip runs skip transitions. For a real check run the chapter with transitions in real time (auto-forward by a test-only flag) and watch a progress counter file.
 
+- Run at most 3 to 6 `./vn image` calls in parallel. A batch of 11 failed with network errors and each failure was still booked at its estimated cost ($0.26 lost). A failure that is not an HTTP 4xx rejection is booked as billed.
+- Two art directors can work on two chapters at once if each writes only its own files and leaves merges (effects.rpy lighting table, art/canon.json, art/bible.md) to the lead; two script writers must NOT run at once (shared tools/check_script.py).
+
 ## Facts to remember
 
 - Cost: portraits about $0.024 each, backgrounds $0.024, illustrations $0.04 to $0.07, cutouts about $0.01. A chapter costs roughly $3 to $6. Check `./vn spend`.

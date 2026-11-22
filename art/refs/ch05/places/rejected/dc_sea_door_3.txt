@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no animals, no text, no letters. A dry stone chamber on the rim of an undersea canyon city, quiet and bare. In the floor a round pool of still seawater, the sea-door, with a ring of worn stone around it. Beyond it a wide archway of pale glass looks out on open water: a golden kelp forest rolling away under green water, and far off a long thin pale line lying flat and horizontal on top of the distant kelp, tiny, with small pale pinpoint lights along it. Dry air inside the chamber; the glass keeps the sea out. Cool morning light, nobody present.

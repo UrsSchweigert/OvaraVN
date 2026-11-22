@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no animals, no text, no letters. Dry air, no water inside the room, nothing flooded. A vast dim stone vault as big as a meeting hall, deep inside an undersea city, no windows to the outside. In the centre an enormous pale ribbed air-heart the size of a house, like a great closed shell standing on its hinge, furred with a fine grey dust, cold and still. Round it run channels as thick as a man's body, bringing the sea in on one side and carrying it away on the other, water moving slowly inside them. A broken wax seal on a door at the side. Dim low light, a strand of weak greenish-yellow glowing weed. Nobody present.

@@ -1,0 +1,5 @@
+model: fal-ai/flux-2-t2i
+purpose: background
+refs: 
+
+Copy of art/refs/ch05/places/dc_canyon_above.png (see its .txt for the prompt). Used as the illustration for the canyon key moment (c05.s02.p006.2-p006.9), which has no people. Four attempts at a version with Wrack and Okonta riding down put Okonta and Wrack with swapped skin tones or odd figures, so it was dropped.

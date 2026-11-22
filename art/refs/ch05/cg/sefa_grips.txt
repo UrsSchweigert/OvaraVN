@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: illustration
+refs: art/refs/ch01/portraits/sefa.png, art/refs/ch01/portraits/wrack_tunic.png, art/refs/ch05/places/dc_heart_chamber.png
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, no text, no letters. Reference 1 is Sefa, a thin girl of sixteen with PALE light skin, black hair in a high ponytail with a silver-white strip, nearly black eyes, a short sleeveless grey-green tunic with a grey cloth band on her upper arm. Reference 2 is Wrack, a lean man with PALE light skin and short messy BLACK hair in a plain grey-green tunic. Reference 3 is a dim stone vault with a huge pale ribbed air-heart. Inside the vault, dry air, dim cold light. Wrack sits on the stone floor, his skin gone grey and drained, eyes unfocused and slipping away, as if going under. Sefa kneels in front of him, gripping the collar of his tunic with both hands and shaking him, her face only a hand's width from his, her mouth open as she shouts at him, eyes blazing and wet, fierce. Exactly two people, nobody else.

@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no animals, no text, no letters. A day of thin fog at the top of the world. The stone step of a low house with an iron kettle on it, beside a landing of dark stone steps that go down to black still water; pale grey fog over everything, the far shelf barely visible. In the black water beyond, huge dark shapes of stingrays the size of ships hang motionless, all pointing the same way like weathervanes, only dim silhouettes. Cold, still, dread.

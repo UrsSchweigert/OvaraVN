@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: illustration
+refs: 
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, no text, no letters. Entirely underwater, a vast undersea canyon seen looking steeply down along its two walls: tier below tier of long glass-faced galleries cut into both walls, slender bridges crossing the gulf. The upper tiers on both walls glow with warm white lamplight, and the lamplight ends at one clear tier. Every tier below that is completely dark, black windows, the same architecture continuing down into deep blue gloom, the bottom of the gulf lost in blue. No waterline, no waves, no surface line anywhere, the whole picture is under water. A few tiny figures stand on the bridges as specks. Hope and sorrow together, quiet.

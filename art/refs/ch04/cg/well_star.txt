@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: illustration
+refs: 
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, restrained and quiet, no text, no letters. Looking straight down from a shelf of smooth dark rock into a vast round shaft of perfectly still black water. Far, far below at the very bottom there is a single small white star of light. Pale blue glowing lantern jellies the size of houses drift slowly over the gulf with trailing veils, plain translucent bells with no faces. In the foreground at the rock lip, seen from behind and small, exactly one man with short black hair in a plain grey-green tunic stands at the edge looking down. Exactly one person. Awe, depth, stillness.

@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no animals, no text, no letters. Entirely underwater, no sky, no horizon, no grass, no surface. Looking down from above the rim into a vast canyon under the sea: a crack in the floor of the world, a gulf a kilometre wide and so deep that the bottom is lost in blue. On both sides a golden kelp forest runs to the rim and stops. Down both walls, from the rim as far as the eye can see, run tiers of long lit galleries cut from the living rock and faced with pale glass, hundreds of them, tier below tier. Slender bridges cross the gulf from wall to wall one above another, and hanging gardens of weed trail from every ledge. Near the top the galleries shine white, lower down they turn dark with long swags of weak greenish-yellow glowing weed. A city built like the inside of a throat. Tiny figures crossing the bridges are allowed but only as specks.

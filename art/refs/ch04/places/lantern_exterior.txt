@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no animals, no text, no letters. ENTIRELY UNDERWATER at the bottom of a deep black shaft, no sky, no horizon, no surface. A ring of nine great domed halls of milk-white glass seen from the side, counted left to right: nine domes in a long curved row like a crown, each joined to the next by a short covered glass way, each glowing from within, standing in black water like a crown of nine lamps. White fans and small pale flowers grow around them. Black rock walls of the shaft far behind. Vast, cold outside and warm within.
