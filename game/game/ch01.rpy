@@ -18,7 +18,7 @@ transform bother_corner:
 label ch01:
 
     # c01.s01
-    scene bg kelp_forest
+    scene cg wake
     with fade
     "He woke on the seabed with a kelp frond across his face and no idea who he was."
 
@@ -30,17 +30,15 @@ label ch01:
     "Every stem was humming in the current, each on its own low note, and the notes ran together into a chord that had no beginning and did not seem to need an end."
     "He felt it in his teeth."
 
-    show p bother_alert as bother at bother_corner
-    with qd
     "Something bumped his ribs."
 
     "He turned his head and found a whiskered grey muzzle a hand's width from his nose. It belonged to an animal like a seal that had been built by someone fond of dogs."
     "It wore a collar of plaited cord. It snuffled his neck, sneezed a stream of bubbles into his face, and looked up, very pleased with itself, for someone to tell about it."
 
-    hide bother
-    with qd
     "A girl of about sixteen hung in the water above him. She was holding a harvesting hook the way you hold something you are prepared to use."
 
+    scene bg kelp_forest
+    with dissolve
     show p wrack_bewildered as left at head_left
     show p sefa_wary as right at head_right
     with qd
@@ -76,18 +74,15 @@ label ch01:
     with qd
     c_sefa "It's what we call what the tide brings in. I'm Sefa. Can you swim, or do I tow you?"
 
-    hide left
-    hide right
-    hide bother
-    with qd
+    scene cg swim
+    with dissolve
     "He could swim, it turned out, though not as she did. She went through the water without seeming to do anything, a flick of the feet now and then, like a person strolling."
-    show p bother_pleased as bother at bother_corner
-    with qd
     "He laboured after her in his boots. The hound went ahead and came back, ahead and back, to make sure that nobody was lost."
 
+    scene bg kelp_forest
+    with dissolve
     show p wrack_puzzled as left at head_left
     show p sefa_wary as right at head_right
-    hide bother
     with qd
     c_sefa "Don't touch anything,"
     "Sefa said over her shoulder."
@@ -162,16 +157,14 @@ label ch01:
     with qd
     c_sefa "Come on. In at the sea-door, and mind your head."
 
-    hide left
-    hide right
-    hide bother
-    with qd
-    scene bg sea_door
+    scene cg sea_door
     with fade
     "The sea-door was a round pool in the floor of the dome, twenty paces across, with the sea on one side of its surface and air on the other."
     "He came up through it into warmth and lamplight and the smell of smoke and frying fish, and stood dripping on a stone floor."
     "Then, because his body had apparently always known how, he breathed out the water and breathed in the air. It hurt a little, like a first breath on a cold morning."
 
+    scene bg sea_door
+    with dissolve
     "A great many people were looking at him."
 
     # c01.s03
@@ -249,17 +242,18 @@ label ch01:
     with qd
     c_oro "No. Well. It'll come or it won't. In the meantime Ione will look at you."
 
-    hide left
-    hide right
-    hide bother
-    with qd
     "Ione was Sefa's mother, and the hold's healer."
     "She was a broad calm woman with her sleeves rolled, and her forearms were ridged from wrist to elbow with old shiny scars, as though she had once put both arms into a fire."
-    "She did not explain them. She filled a shallow bowl from the sea-door and set it on the floor between them."
+    "She did not explain them."
+    scene cg healing
+    with dissolve
+    "She filled a shallow bowl from the sea-door and set it on the floor between them."
     "Then she held her hands over it without touching it, and went very still."
 
     "Wrack felt the room change. It was the way a room changes when someone starts to sing quietly in the corner."
 
+    scene bg dry_room
+    with dissolve
     show p wrack_puzzled as left at head_left
     show p sefa_sharp as right at head_right
     with qd
@@ -282,16 +276,16 @@ label ch01:
     "She hesitated."
     c_sefa "I can do cuts. The other way is calling, when you ask it to move. I can't do that at all. Hold still. It doesn't hurt."
 
-    hide left
-    hide right
-    hide bother
-    with qd
+    scene cg healing
+    with dissolve
     "Ione lifted the water out of the bowl in her two hands. It held its shape, a little, as water should not. She laid it on his head."
 
     "It was warm, and it went on being warm inside his skull. It moved gently from place to place, like someone walking through a house and trying the doors."
 
     "After a long time she took her hands away."
 
+    scene bg dry_room
+    with dissolve
     show p wrack_puzzled as left at head_left
     show p ione_calm as right at head_right
     with qd
@@ -437,6 +431,8 @@ label ch01:
     with fade
     "On the ninth day he walked through the meeting hall on his way to the terraces."
 
+    scene cg lamp_seam
+    with dissolve
     "It was the heart of the dome, a round high room where the whole hold could sit. At its centre stood a Maker lamp. It had been dark since Sefa's grandmother was a child."
     "People touched it as they passed, for luck, so that at shoulder height it was polished to a shine. It was dusted every morning and sung to at every festival."
     "A wreath of fresh weed hung on it. Nobody had the least idea how it worked."
@@ -447,6 +443,8 @@ label ch01:
     "Inside was a shape he could not have named. He knew that it was wrong, as you know a word is misspelled before you can say how. It was seated badly."
     "It was clogged, and tired. He moved three things. He closed the seam."
 
+    scene cg lamp_on
+    with dissolve
     "The lamp came on."
 
     "Light poured down the hall, white and steady. People stopped where they stood. A child shrieked."
@@ -454,6 +452,8 @@ label ch01:
 
     "Elder Oro had been crossing the hall with his stick. He stood looking up at the lamp. Then he sat down on the floor, quite slowly, and began to cry."
 
+    scene bg meeting_hall
+    with dissolve
     show p wrack_tunic_lost as left at head_left
     show p sefa_amazed as right at head_right
     with qd
