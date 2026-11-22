@@ -428,4 +428,4 @@ label ch05:
     with dissolve
     "He looked where she was looking. There were lights along the Dragon that had not been there five days before. They were small and pale, and they moved. He counted thirty of them before he stopped."
 
-    return
+    jump ch06

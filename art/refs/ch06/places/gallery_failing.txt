@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: background
+refs: art/refs/ch03/places/gallery.png, art/refs/ch03/places/cradles.png
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text, no letters. The same long hall with pale metal ribs as the first reference, but dim and failing. The bright waterfall walls between the ribs are gone to a thin faint film, like a pale translucent veil, and between many ribs there is no wall at all, only dark deep-blue open sea showing through the gap. Slack empty hammock-nets between the ribs. Along the floor on both sides, row on row, lie many slender pale silver needle-shaped vessels flat in low cradles, each with a faint glow, like a stable of sleeping horses. Dim, cold, tired blue-grey light, hush. The whole scene is deep under the sea inside the vehicle: beyond the ribs there is only dark deep-blue water, no sky, no horizon, no clouds, no waves, no surface anywhere.

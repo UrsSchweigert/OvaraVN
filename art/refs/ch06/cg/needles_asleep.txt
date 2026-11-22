@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: illustration
+refs: art/refs/ch06/places/gallery_failing.png, art/refs/ch06/portraits/claywoman_dry.png
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, no text, no letters. Reference 1 is a long dim hall with needle-shaped vessels in cradles. Reference 2 is an old woman of eighty with a deeply wrinkled brown-tan face and white hair in a bun. Use reference 1 for the whole hall, wide, looking along its length: dim, cold, thin pale film walls with dark open sea in the gaps between the ribs, slack hammock-nets, and a very long double row of dozens of slender pale silver needle-shaped vessels asleep in cradles all along the floor, each with a faint glow, like a stable of sleeping horses. Small in the left foreground, one old woman in a slate-grey high-collared suit sits cross-legged in a slack hammock-net beside a rib, a thin slim clay pipe at her lips with a thread of smoke, waiting, her face dry and tired. Exactly one person, nobody else. Hushed. No sky, no horizon.

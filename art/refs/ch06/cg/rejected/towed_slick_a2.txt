@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: illustration
+refs: art/refs/ch05/portraits/wrack_tunic_resolved.png, art/refs/ch06/places/slick_inside.png
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, no text, no letters. Reference 1 is Wrack, a lean man with pale light skin and short messy black hair in a plain grey-green tunic. Reference 2 is murky tea-brown water with ragged shreds hanging in it. ENTIRELY UNDERWATER in strong-tea brown murky water, no sky, no surface, no horizon. Wrack is wrapped from the shoulders to the knees in a fine steel wire net like a fishing net, and is pulled face down through the water by a taut line from a slender pale silver needle-shaped vessel far ahead, his hair streaming back, his face tense and ashamed. Streams of bubbles trail behind him. Far below on the silt, a few small dark eyeless eels are rising out of the silt, shreds drifting in the water. Exactly one person, nobody else, no rider visible. Quiet and sombre.

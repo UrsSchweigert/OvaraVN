@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: illustration
+refs: art/refs/ch06/places/gallery_stern.png, art/refs/ch04/portraits/anselm_helmed.png
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, no text, no letters. Reference 1 is a dim hall end with an empty needle-shaped cradle and a square name cut in the rib beside it. Reference 2 is Anselm Rook, a broad-shouldered white-haired man of seventy-two in a dark close-fitting suit with a clear glass helmet. In the dim hall he stands easily and relaxed, full figure, beside his slender grey needle-shaped vessel lying in the last cradle, one gloved hand resting on the rib where the small square name is cut, as if waiting for a lift. He wears the dark suit and the clear glass helmet with his white-haired face visible inside it, a small grille at his throat. Cold dim evening light, one faint warm glow. Exactly one person, nobody else. Entirely underwater setting, no sky, no horizon.

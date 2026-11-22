@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: illustration
+refs: art/refs/ch06/places/gallery_failing.png, art/refs/ch06/places/heart_under.png
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, no text, no letters. Reference 1 is a dim hall with ribs, nets and open sea in the gaps. Reference 2 is a huge old patched wheel machine. On the floor of the hall in the centre, laid out in neat order in a long row, lie the dismantled pieces of a great worn machine: several large worn metal wheels and rings with fine channels, rods, plates and couplings, each piece set in its place on the floor. Around them, in a wide ring, stand twenty-seven people in slate-grey high-collared suits, small and dark, seen from a distance, heads bowed, perfectly still and silent, like mourners at a graveside. Soft dim light from the thin walls. Solemn, grieving, no movement. Entirely underwater setting, no sky, no horizon.
