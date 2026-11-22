@@ -2,4 +2,4 @@ model: fal-ai/flux-2/edit
 purpose: sheet
 refs: art/refs/ch01/wrack.png
 
-Anime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders only, the head and upper chest filling the frame, three-quarter view turned to face the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes. A man, bewildered, in the torn grey jacket with the half-ripped crest.
+Anime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes. Both shoulders and both sleeves fully visible and symmetrical, nothing cut off. A man with a bewildered, troubled expression, wearing a grey zip jacket with a small shield-shaped crest on the chest, a little torn at the sleeves but both arms intact.

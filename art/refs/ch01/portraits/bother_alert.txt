@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: sheet
+refs: art/refs/ch01/portraits/bother_aggrieved.png
+
+Anime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face and eyes clearly turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same lighting; only the expression changes. Both shoulders visible. Expression: alert, bright eyes, looking toward the right with interest. Keep the small folded ears that droop at the tips, as on a seal; the ears are NOT pointed.
