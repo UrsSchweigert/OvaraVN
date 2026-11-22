@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: illustration
+refs: art/refs/ch01/portraits/oro.png, art/refs/ch01/portraits/wrack_tunic.png, art/refs/ch01/lamp/lamp_unlit.png
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, no text. Reference 1 is Elder Oro, a very old bald man with a gentle face. Reference 2 is Wrack, a young-looking man with short BLACK hair in a grey-green tunic. Reference 3 is the lamp design. Inside the dark half of a great ancient dome, quiet and dim. On the left sits Elder Oro cross-legged on the floor with a small contented smile, serene. On the right stands Wrack beside one lamp of exactly the design in reference 3 (pale post, caged glass lens), his two hands resting on its post, calm and attentive, mouth closed, quietly wondering; the lens of that lamp has just lit and glows softly warm. A few other identical lamps stand dark along the curved white ribs behind them. There are exactly TWO people in the whole picture: Oro and Wrack, each shown once. Soft subdued mood.

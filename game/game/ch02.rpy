@@ -12,8 +12,8 @@ label ch02:
 
     "Wrack had not known it could. He stood on the crown of the dome that evening with most of the hold. A woman faced the open forest and sang four long phrases, very loud and very simple. Far off through the kelp, small with distance, another voice took them up."
 
-    show p wrack_tunic_curious as left at head_left
-    show p sefa_grin as right at head_right
+    show p wrack_tunic_attentive as left at head_left
+    show p sefa_easy as right at head_right
     with qd
     c_sefa "That's Fallow, the next hold,"
     c_sefa "They'll pass it to Deep Chorus, and Deep Chorus has choirs. It'll be at Greywatch Stone in three days. Any Threaded who goes by will hear it."
@@ -31,16 +31,16 @@ label ch02:
     "Nobody was unkind to him. But the night crew no longer laughed when he got the words wrong. Old people stopped him in the passages to touch his sleeve, as they had touched the lamp. A woman brought her baby to be looked at by him, he did not know what for."
     "He found a dish of sea-grapes left beside his hammock, and then, the next night, a carved shell."
 
-    show p wrack_tunic_warm as left at head_left
+    show p wrack_tunic_calm as left at head_left
     show p oro_gentle as right at head_right
     with qd
     c_oro "They did the same to Jef,"
     "Elder Oro said, when Wrack took the shell to him, at a loss. He sat there most of the day now, with his face turned up."
     c_oro "He complained of it for nine centuries, I'm told. I shouldn't worry. You'll let a net of fish out tomorrow and they'll remember what you are."
-    show p wrack_tunic_curious as left at head_left
+    show p wrack_tunic_attentive as left at head_left
     with qd
     "He turned the shell over in his fingers."
-    show p oro_twinkle as right at head_right
+    show p oro_content as right at head_right
     with qd
     c_oro "Though I'd like to know what that is, before I die. Go and see the dark side with me. Humour an old man."
 
@@ -53,12 +53,12 @@ label ch02:
     scene bg dome_dark_half
     with dissolve
     show p wrack_tunic_baffled as left at head_left
-    show p oro_delighted as right at head_right
+    show p oro_content as right at head_right
     with qd
     c_oro "Two,"
     "He was not disappointed. He looked like a man who has been given a second helping."
-    show p wrack_tunic_amused as left at head_left
-    show p oro_twinkle as right at head_right
+    show p wrack_tunic_soft as left at head_left
+    show p oro_content as right at head_right
     with qd
     c_oro "Two in a fortnight, after sixty years of none. I shall be unbearable at the next Moot."
 
@@ -66,15 +66,15 @@ label ch02:
     with dissolve
     "On most of those evenings Wrack sat with Davin at the net-racks, because Davin did not touch his sleeve. The big man mended nets with a bone needle and talked, when he talked, about the hold."
 
-    show p wrack_tunic_warm as left at head_left
-    show p davin_smile as right at head_right
+    show p wrack_tunic_soft as left at head_left
+    show p davin_patient as right at head_right
     with qd
     c_davin "You've come at the turn of the year,"
     c_davin "Barge season. They come more when the storms are bad up on the Girdle; I suppose they can't get rid of it down there."
     "He pulled a knot tight with his teeth."
     c_davin "You'll see. It's not much to see. You hold your corner and you sing."
 
-    show p wrack_tunic_curious as left at head_left
+    show p wrack_tunic_attentive as left at head_left
     with qd
     c_wrack "What barges?"
 
@@ -85,7 +85,7 @@ label ch02:
     "He said it without heat."
     c_davin "It's been going on two hundred years. It's worse than it was. There's stuff in it now that burns. We net it, and bag it, and the carrying crews take it out to the dead ground and leave it. Then we plant bitterwrack to drink what we missed. That's being a Tender. Most of us here are Tenders."
 
-    show p wrack_tunic_eager as left at head_left
+    show p wrack_tunic_attentive as left at head_left
     with qd
     c_wrack "What else is there to be?"
 
@@ -95,7 +95,7 @@ label ch02:
     "He threaded the needle again."
     c_davin "Hesper could sink a barge. She's never said she wants to. But I know what she thinks about when she's netting. I've been married to her nineteen years."
 
-    show p wrack_tunic_curious as left at head_left
+    show p wrack_tunic_attentive as left at head_left
     with qd
     c_wrack "And you?"
 
@@ -215,7 +215,7 @@ label ch02:
     "She tipped her head toward the wall, and the forest beyond it."
     c_hesper "The sea's alive. I don't mean the fish. I mean her. She hears some of us. Nobody knows why those and not others. When I turn a current I'm not pushing water. I couldn't push a bucket of it. I'm asking. She does the pushing."
 
-    show p wrack_tunic_curious as left at head_left
+    show p wrack_tunic_attentive as left at head_left
     with qd
     c_wrack "What do you ask with?"
 
