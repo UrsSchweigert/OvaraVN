@@ -67,6 +67,49 @@ def write_png(path, w, h, rgba_rows):
                 + chunk(b"IDAT", zlib.compress(raw, 9)) + chunk(b"IEND", b""))
 
 
+def _clear_enclosed_gaps(px, gone, w, h, tol):
+    """Also clear background seen through gaps (between hair strands, inside nets).
+
+    A gap counts only if its mean colour matches the real background and is grey
+    (eye whites are brighter, skin highlights are warm), so faces keep their eyes.
+    """
+    n = sr = sg = sb = 0
+    for y in range(0, h, 4):
+        for x in range(0, w, 4):
+            if gone[y][x]:
+                r, g, b = px[y][x]
+                n, sr, sg, sb = n + 1, sr + r, sg + g, sb + b
+    if not n:
+        return
+    bg = (sr / n, sg / n, sb / n)
+
+    def near(c):
+        return max(abs(c[0] - bg[0]), abs(c[1] - bg[1]), abs(c[2] - bg[2])) <= 14
+    seen = [[False] * w for _ in range(h)]
+    for y0 in range(h):
+        for x0 in range(w):
+            if gone[y0][x0] or seen[y0][x0] or not near(px[y0][x0]):
+                continue
+            q, pts = deque([(x0, y0)]), []
+            seen[y0][x0] = True
+            while q:
+                x, y = q.popleft()
+                pts.append((x, y))
+                for dx, dy in ((1, 0), (-1, 0), (0, 1), (0, -1)):
+                    u, v = x + dx, y + dy
+                    if 0 <= u < w and 0 <= v < h and not seen[v][u] and not gone[v][u] and near(px[v][u]):
+                        seen[v][u] = True
+                        q.append((u, v))
+            if len(pts) < 6:
+                continue
+            m = [sum(px[y][x][i] for x, y in pts) / len(pts) for i in range(3)]
+            grey = max(m) - min(m) <= 6
+            close = max(abs(m[i] - bg[i]) for i in range(3)) <= 8
+            if grey and close:
+                for x, y in pts:
+                    gone[y][x] = True
+
+
 def cutout(src, dst, tol=28):
     w, h, px = read_png(src)
     border = [px[0][0], px[0][w - 1], px[0][w // 2], px[h // 2][0], px[h // 2][w - 1]]
@@ -85,6 +128,7 @@ def cutout(src, dst, tol=28):
         if 0 <= x < w and 0 <= y < h and not gone[y][x] and near(px[y][x]):
             gone[y][x] = True
             q += [(x + 1, y), (x - 1, y), (x, y + 1), (x, y - 1)]
+    _clear_enclosed_gaps(px, gone, w, h, tol)
     out = []
     for y in range(h):
         row = bytearray()
