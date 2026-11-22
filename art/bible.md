@@ -63,8 +63,8 @@ New characters (head-and-shoulders portraits, `art/refs/ch02/portraits/`, cut-ou
 
 New emotions for existing characters: Wrack (tunic) baffled, shaken, shivering, despair, resolved; Sefa fierce; Oro delighted; Ione pain.
 
-Places: `places/dome_crown` (underwater at night, platform on the dome's crown), `dome_dark_half` (eleven dead lamps of the approved lamp design along the ribs), `net_racks`, `terraces_night` (barge hull overhead, forty metres up), `terrace_wrecked` (also `terrace_dusk`, the same picture darkened, for c02.s05), `hall_day` (no windows: the hold is under the sea), `burial_kelp` (carved marks on the stems, deliberately not readable letters).
+Places: `places/dome_crown` (underwater at night, platform on the dome's crown), `dome_dark_half` (eleven dead lamps of the approved lamp design along the ribs), `net_racks`, `terraces_night` (a split over-and-under view: the barge floats ON the surface, upper hull above the waves, lower hull below, the dome far below), `terrace_wrecked` (also `terrace_dusk`, the same picture darkened, for c02.s05), `hall_day` (no windows: the hold is under the sea), `burial_kelp` (carved marks on the stems, deliberately not readable letters).
 
-Illustrations (`art/refs/ch02/cg/`): `lamps`, `barge`, `gunboats` (blue shield crest on the bows, the same crest I drew on Wrack's jacket in chapter 1: the text says "the Halcyon crest" without describing it), `burial`, `needle` (Okonta alone stepping off the pale needle; earlier tries with Wrack and Sefa kept duplicating Wrack).
+Illustrations (`art/refs/ch02/cg/`): `lamps`, `barge`, `gunboats` (three gunboats floating on the surface, waterline across their hulls; blue shield crest on the bows, the same crest I drew on Wrack's jacket in chapter 1: the text says "the Halcyon crest" without describing it), `burial`, `needle` (Okonta alone stepping off the pale needle; earlier tries with Wrack and Sefa kept duplicating Wrack).
 
 Not shown in any image: the sludge's source ship details, the unnamed crew faces (rough).
