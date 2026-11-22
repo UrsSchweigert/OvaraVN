@@ -1,0 +1,23 @@
+{
+ "_note": "From the fal model pages and their llms.txt files, read 2026-11-22. Prices change: recheck before a big run. 'size' says how the model takes its picture size.",
+ "nano-banana": {
+  "id": "fal-ai/nano-banana/edit", "price": {"per_image": 0.0398},
+  "refs_field": "image_urls", "max_refs": 10, "size": "aspect_ratio",
+  "extra": {"num_images": 1, "output_format": "png"}},
+ "nano-banana-2": {
+  "id": "fal-ai/nano-banana-2/edit", "price": {"per_image": 0.08},
+  "refs_field": "image_urls", "max_refs": 14, "size": "aspect_ratio",
+  "extra": {"num_images": 1, "output_format": "png", "resolution": "1K"}},
+ "seedream-4.5": {
+  "id": "fal-ai/bytedance/seedream/v4.5/edit", "price": {"per_image": 0.04},
+  "refs_field": "image_urls", "max_refs": 10, "size": "image_size", "min_pixels": 3686400,
+  "extra": {"num_images": 1, "max_images": 1}},
+ "flux-2": {
+  "id": "fal-ai/flux-2/edit", "price": {"per_megapixel": 0.012},
+  "refs_field": "image_urls", "max_refs": 4, "size": "image_size",
+  "extra": {"num_images": 1, "output_format": "png"}},
+ "flux-2-flash": {
+  "id": "fal-ai/flux-2/flash/edit", "price": {"per_megapixel": 0.005},
+  "refs_field": "image_urls", "max_refs": 4, "size": "image_size",
+  "extra": {"num_images": 1, "output_format": "png"}}
+}
