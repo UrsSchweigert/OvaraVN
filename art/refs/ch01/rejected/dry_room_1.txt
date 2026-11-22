@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no animals, no text. The inside of a small plain stone room in an underwater settlement, lit by warm lamplight, with a stone floor, a plain bench, a hammock, and a doorway. Quiet and dry.

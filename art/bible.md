@@ -21,12 +21,28 @@ Fixed features come from the text (sentence ids from `work/units/ch01.txt`). Cho
 | Ione | broad, calm, sleeves rolled, forearms ridged wrist to elbow with old shiny scars (c01.s03.p012.2) | brown hair, age middle | `art/refs/ch01/ione.png` |
 | Davin | quiet, big-handed, slow smile, net-mender (c01.s02, c01.s04.p002.3) | short dark hair, tunic with trousers, a net in hand | `art/refs/ch01/davin.png` |
 
+## Places (chapter 1)
+
+Wide 16:9, same style, no people. From the text (sentence ids from `work/units/ch01.txt`); **choice** where the text is silent.
+
+| Place | From the text | Choices | File |
+|---|---|---|---|
+| Kelp forest | trunks thick as a man's waist, colour of old brass, no branch; golden blades leaning one way; light green at the edges, gold in the middle (c01.s01.p003.3-5) | sandy bed, a few rocks | `art/refs/ch01/places/kelp_forest.png` |
+| Terraces and dome | kelp in rows, raked sand, stone-walled terraces; hill-sized dome of pale smooth panes with seamless white ribs, kelp up one side, worn lower panes, lit on one side only, glowing yellow-green weed on the dark half (c01.s02.p001-006) | the dome reads as translucent pitted panes | `art/refs/ch01/places/terraces_dome.png` |
+| Dry room | a room, stone floor, a bench (c01.s03.p001, p008.4) | lamp, plain wooden bench, wooden door; the text gives nothing else | `art/refs/ch01/places/dry_room.png` |
+| Meeting hall | round, high; a pale smooth column floor to roof as thick as a kelp stem, no mark, polished at shoulder height, a wreath of fresh weed (c01.s04.p019) | stone floor, panelled walls, a skylight | `art/refs/ch01/places/meeting_hall.png` |
+
+Wrack's second outfit, the sea-silk tunic (c01.s03.p023.3): `art/refs/ch01/wrack_tunic.png`. Made from his first sheet with the edit model; the face matches, the cloth does not shimmer.
+
 ## Known weaknesses
 
 - Wrack's crest is whole, not half ripped away, and its lettering is garbled. Fix before it appears large.
 - Skin tone is unstated for everyone but Oro. The model's default is pale for the others.
-- Wrack's sea-silk tunic outfit and the expressions (see the manifest `needs`) are not made yet.
+- The meeting-hall column is lit white by a skylight. In the scene it is dark until Wrack opens it (c01.s04.p022), so a dark version is needed before that scene.
+- The dome's panes look a little like glass. The text says "neither glass nor stone".
+- The dry room has no hammock or fire; the text gives none.
+- Expressions (see the manifest `needs`) are not made yet.
 
 ## Rejected attempts
 
-`art/refs/ch01/rejected/`: Oro (pale skin although the text says brown) and Ione (scars drew as open wounds).
+`art/refs/ch01/rejected/`: Oro (pale skin although the text says brown), Ione (scars drew as open wounds), and first tries of the dome (a glass greenhouse on a grass mound), the dry room (bubbles in dry air) and the meeting hall (a crowd and a black column).

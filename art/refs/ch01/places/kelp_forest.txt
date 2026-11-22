@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no animals, no text. The bottom of an underwater forest of giant kelp. The trunks are as thick as a man's waist and the colour of old brass, and rise straight up without a branch, further than the eye can follow. High overhead they open into long golden blades that lean all one way, like grass in a wind. Light comes down green at the edges and gold in the middle, and falls slowly across a sandy seabed.

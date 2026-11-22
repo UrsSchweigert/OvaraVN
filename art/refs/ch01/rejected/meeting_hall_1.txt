@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no animals, no text. The inside of a round, high meeting hall of an ancient dome, with a stone floor where a whole village can sit. At its centre a smooth pale Maker lamp column stands from floor to roof, as thick as a kelp stem and without a mark on it, polished to a shine at shoulder height, a wreath of fresh green weed hung on it. The hall is dim; the column is dark.
