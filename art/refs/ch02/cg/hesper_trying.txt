@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: illustration
+refs: art/refs/ch02/portraits/hesper.png
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, no text, no letters. Reference 1 is Hesper, a lean hard woman with dark hair pulled back. Underwater at night. Hesper stands alone on the flat crown of a pale dome with her arms spread wide and her head thrown back, straining, her grey-green tunic streaming. Above her a vast curtain of falling black sludge bends sideways, pushed aside by an invisible strong current. She is small beneath an enormous falling blackness. Exactly one person.

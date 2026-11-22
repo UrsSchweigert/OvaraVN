@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: illustration
+refs: art/refs/ch01/portraits/sefa.png, art/refs/ch02/portraits/hesper.png
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, no text, no letters. Reference 1 is Sefa, a thin girl with dark hair tied back, reference 2 is Hesper, a lean woman with dark hair pulled back. Underwater at night, a sudden powerful surge of water sweeps sideways through the kelp terraces: nets, hooks and baskets whirl through the water, mariner Tenders in grey-green tunics and seal-like grey tide hounds with collars tumble in the current, frightened, scrambling. In the foreground Sefa is thrown against a stone terrace wall, stunned, her eyes shut. Behind her Hesper swims hard, reaching out a hand toward two old women being carried along by the current. Panic and chaos, dark blue water.

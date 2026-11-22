@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: illustration
+refs: 
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, no text, no letters. A moonlit night at sea, wide view. A great pillar of sea water, steady as stone, is walking across the ocean carrying a rusty cargo barge high on its top away into the distance, leaving a long wake of churned white water behind it. The tiny barge is silhouetted against the huge moon, small black figures of its crew clinging to it. Far behind, small, the dark swell of the sea above a hidden hold. Eerie, vast and quiet.
