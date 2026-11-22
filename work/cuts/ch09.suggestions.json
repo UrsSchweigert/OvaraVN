@@ -1,0 +1,89 @@
+{
+ "chapter": 9,
+ "items": [
+  {
+   "id": "c09.s01.p008.3",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The background shows the plain of steel."
+  },
+  {
+   "id": "c09.s01.p008.4",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The background shows the slipways."
+  },
+  {
+   "id": "c09.s01.p008.5",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The background shows the cranes."
+  },
+  {
+   "id": "c09.s01.p008.6",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The background shows the sparks and lit smoke."
+  },
+  {
+   "id": "c09.s01.p014.3",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The wharf background shows the floodlights."
+  },
+  {
+   "id": "c09.s01.p014.5",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The background shows the square well and girders."
+  },
+  {
+   "id": "c09.s02.p002.1",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The sprite shows her size, grey hair and inked cuffs."
+  },
+  {
+   "id": "c09.s02.p003.2",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The loft background shows the tables and lamps."
+  },
+  {
+   "id": "c09.s04.p002.5",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The crowd on the stage shows the children and the birdcage."
+  },
+  {
+   "id": "c09.s05.p002.5",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The Lashing background shows the barges and houseboats."
+  },
+  {
+   "id": "c09.s05.p002.7",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The background shows the planking and rope bridges."
+  },
+  {
+   "id": "c09.s05.p002.8",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The background shows the gardens and goats."
+  },
+  {
+   "id": "c09.s05.p002.9",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The background shows the smoke."
+  },
+  {
+   "id": "c09.s05.p006.2",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The barge background shows the lanterns."
+  }
+ ]
+}

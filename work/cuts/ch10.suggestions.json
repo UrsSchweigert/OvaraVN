@@ -1,0 +1,85 @@
+{
+ "chapter": 10,
+ "items": [
+  {
+   "id": "c10.s01.p002.3",
+   "action": "replace",
+   "kind": "condense",
+   "text": "He stood on the planking and explained it to them twice.",
+   "reason": "Odo's sprite shows the jersey and his stomach."
+  },
+  {
+   "id": "c10.s01.p009.2",
+   "action": "replace",
+   "kind": "condense",
+   "text": "She was in the water beside the barge, and she had gone very quiet.",
+   "reason": "Her sprite shows her holding the planking."
+  },
+  {
+   "id": "c10.s02.p002.1",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The background shows the grey hull and the market deck."
+  },
+  {
+   "id": "c10.s02.p002.3",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The background shows the cleared deck and the table."
+  },
+  {
+   "id": "c10.s02.p002.4",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The background shows the two chairs and the lantern."
+  },
+  {
+   "id": "c10.s02.p003.2",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "Rook's sprite shows the dark high-collared coat."
+  },
+  {
+   "id": "c10.s03.p002.4",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The chart is in the picture."
+  },
+  {
+   "id": "c10.s03.p005.5",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "Rook's hand on the chart is in the picture."
+  },
+  {
+   "id": "c10.s03.p009.1",
+   "action": "cut",
+   "kind": "redundant",
+   "reason": "His words in the next lines show the pleasure."
+  },
+  {
+   "id": "c10.s03.p042.4",
+   "action": "cut",
+   "kind": "pace",
+   "reason": "Rook is already speaking to him across the table."
+  },
+  {
+   "id": "c10.s03.p042.11",
+   "action": "cut",
+   "kind": "pace",
+   "reason": "A small gesture; the speech runs on without it."
+  },
+  {
+   "id": "c10.s04.p006.2",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "Okonta's grey expression is on her sprite."
+  },
+  {
+   "id": "c10.s04.p017.2",
+   "action": "cut",
+   "kind": "redundant",
+   "reason": "Her next line already shows she has read his face."
+  }
+ ]
+}

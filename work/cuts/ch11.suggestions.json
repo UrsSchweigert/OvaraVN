@@ -1,0 +1,87 @@
+{
+ "chapter": 11,
+ "items": [
+  {
+   "id": "c11.s01.p002.2",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The Fallow youth's sprite shows his grey lips."
+  },
+  {
+   "id": "c11.s01.p012.1",
+   "action": "replace",
+   "kind": "condense",
+   "text": "Sefa was already on the needle behind him, with the grey band on her arm.",
+   "reason": "Her pose is drawn; the grey band stays."
+  },
+  {
+   "id": "c11.s02.p004.3",
+   "action": "replace",
+   "kind": "condense",
+   "text": "They had sleds of kelp-floats.",
+   "reason": "The valley picture shows the lashings and bundles; the sleds stay."
+  },
+  {
+   "id": "c11.s02.p004.7",
+   "action": "replace",
+   "kind": "condense",
+   "text": "Near the front he saw a woman he knew, hauling at a sled rope.",
+   "reason": "Her face is in her sprite; the rope stays."
+  },
+  {
+   "id": "c11.s02.p013.1",
+   "action": "replace",
+   "kind": "condense",
+   "text": "They were trawl nets, the great ones.",
+   "reason": "The picture shows how wide the mouths are."
+  },
+  {
+   "id": "c11.s02.p014.3",
+   "action": "replace",
+   "kind": "condense",
+   "text": "There were forty people in it, and it went up toward the stern ramp of a white-painted transport.",
+   "reason": "The picture shows them packed in the mesh."
+  },
+  {
+   "id": "c11.s02.p038.1",
+   "action": "replace",
+   "kind": "condense",
+   "text": "It stood all round him, leaning in the current as it had always leaned.",
+   "reason": "The silent valley background shows the gold kelp."
+  },
+  {
+   "id": "c11.s03.p007.4",
+   "action": "replace",
+   "kind": "condense",
+   "text": "The boy looked up at her, in terror, and she did not seem to see him.",
+   "reason": "Her eyes are in her sprite; the boy's terror stays."
+  },
+  {
+   "id": "c11.s04.p004.1",
+   "action": "replace",
+   "kind": "condense",
+   "text": "Corin hung in the water twenty metres off.",
+   "reason": "His sprite shows the open hands."
+  },
+  {
+   "id": "c11.s04.p004.2",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "Corin's older, sorrowful sprite shows it."
+  },
+  {
+   "id": "c11.s05.p003.2",
+   "action": "replace",
+   "kind": "condense",
+   "text": "She was thinner, and the cord was on her wrist.",
+   "reason": "Her sprite shows the burned skin; the cord stays."
+  },
+  {
+   "id": "c11.s05.p003.4",
+   "action": "replace",
+   "kind": "condense",
+   "text": "She looked at the wrecks of twelve ships, and then she looked at him.",
+   "reason": "The background shows the kelp stems."
+  }
+ ]
+}

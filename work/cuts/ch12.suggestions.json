@@ -1,0 +1,73 @@
+{
+ "chapter": 12,
+ "items": [
+  {
+   "id": "c12.s01.p004.5",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The background shows the tug's shadow on the sand."
+  },
+  {
+   "id": "c12.s01.p004.6",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The background shows the white sand."
+  },
+  {
+   "id": "c12.s01.p008.4",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The background shows the galleries on the towers."
+  },
+  {
+   "id": "c12.s01.p009.4",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The mariners' sprites and background show the knives."
+  },
+  {
+   "id": "c12.s01.p011.3",
+   "action": "replace",
+   "kind": "condense",
+   "text": "She had the air of a person with a great many lists.",
+   "reason": "Odile's sprite shows the spectacles; the lists stay."
+  },
+  {
+   "id": "c12.s01.p015.3",
+   "action": "replace",
+   "kind": "condense",
+   "text": "He was plainly dying to ask about the Dragon.",
+   "reason": "The guard's look is drawn; his wish to ask stays."
+  },
+  {
+   "id": "c12.s02.p003.4",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The Tidehall background shows the light on the tiers."
+  },
+  {
+   "id": "c12.s02.p023.2",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "Hesper's sprite shows how she has changed."
+  },
+  {
+   "id": "c12.s02.p041.2",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "Sefa's sprite shows how small she is."
+  },
+  {
+   "id": "c12.s04.p007.2",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "Ione's sprite shows her folded, scarred arms."
+  },
+  {
+   "id": "c12.s04.p014.2",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "Okonta's grey-faced expression shows it."
+  }
+ ]
+}

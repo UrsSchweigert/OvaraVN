@@ -1,0 +1,107 @@
+{
+ "chapter": 4,
+ "items": [
+  {
+   "id": "c04.s01.p002.2",
+   "action": "cut",
+   "kind": "redundant",
+   "reason": "It only says again that the Dragon is slow to pass."
+  },
+  {
+   "id": "c04.s01.p005.3",
+   "action": "cut",
+   "kind": "redundant",
+   "reason": "The next lines already say that nothing moves fast."
+  },
+  {
+   "id": "c04.s01.p005.4",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The Well background shows the many jellies."
+  },
+  {
+   "id": "c04.s01.p005.5",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The background shows the glowing weed."
+  },
+  {
+   "id": "c04.s01.p005.6",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The background shows the small lantern fish."
+  },
+  {
+   "id": "c04.s01.p008.2",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The house exterior shows the dark stone and slab roof."
+  },
+  {
+   "id": "c04.s01.p008.3",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The house exterior shows the weed garden and shells."
+  },
+  {
+   "id": "c04.s01.p018.3",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "Jef's sprite shows his hair, eyes, apron and jersey."
+  },
+  {
+   "id": "c04.s01.p025.2",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "Maelis's sprite shows her face."
+  },
+  {
+   "id": "c04.s01.p025.4",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The ray silhouettes show their shape and wings."
+  },
+  {
+   "id": "c04.s02.p010.2",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The picture shows the old hands holding the young ones."
+  },
+  {
+   "id": "c04.s03.p002.2",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The workshop background shows the heaped benches."
+  },
+  {
+   "id": "c04.s04.p004.3",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The squid sprite shows the arm and suckers."
+  },
+  {
+   "id": "c04.s04.p007.4",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The Lantern exterior shows the healers in the covered ways."
+  },
+  {
+   "id": "c04.s04.p008.2",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The hall background shows the high room and pools."
+  },
+  {
+   "id": "c04.s07.p008.3",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "Anselm's sprite shows his build and white hair."
+  },
+  {
+   "id": "c04.s07.p008.4",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "Anselm's sprite shows his face."
+  }
+ ]
+}

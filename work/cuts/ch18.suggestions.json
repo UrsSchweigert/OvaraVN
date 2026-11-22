@@ -1,0 +1,53 @@
+{
+ "chapter": 18,
+ "items": [
+  {
+   "id": "c18.s03.p004.2",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The Cracked dome background shows the crack."
+  },
+  {
+   "id": "c18.s04.p002.2",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "Maelis's sprite shows her hair."
+  },
+  {
+   "id": "c18.s04.p003.5",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The canal background shows the kelp."
+  },
+  {
+   "id": "c18.s04.p003.7",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The market streets are in the picture."
+  },
+  {
+   "id": "c18.s04.p003.9",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The stalls and sea-silk are in the picture."
+  },
+  {
+   "id": "c18.s04.p016.3",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The workshop background shows the benches."
+  },
+  {
+   "id": "c18.s04.p016.4",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The workshop background shows the tool racks."
+  },
+  {
+   "id": "c18.s04.p020.2",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The lit wall in the background shows the light on her."
+  }
+ ]
+}
