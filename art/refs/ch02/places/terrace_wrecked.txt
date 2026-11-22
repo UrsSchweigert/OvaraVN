@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text. Entirely underwater in daylight, everything seen through blue-green water, no sky, no clouds, no grass, no land above. Stone-walled kelp terraces wrecked, walls broken and stones scattered, kelp torn, black oily sludge staining the sand and turning the kelp brown and dead. Behind, a great pale dome with a long jagged crack running up its panes like a branch of lightning, sea water going in. Murky, grim.

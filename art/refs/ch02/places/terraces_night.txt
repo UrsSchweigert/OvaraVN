@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text. Underwater at night, looking up from the stone terraces of a kelp farm toward the sea surface, moonlit. High above, the long dark hull of a ship is a silhouette against the moon-silvered surface, forty metres up. Dark blue water, the kelp rows below, a pale dome on the hill behind. No people.

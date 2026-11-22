@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: illustration
+refs: art/refs/ch02/portraits/okonta.png
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, no text. Reference 1 is Okonta, a spare older woman with dark brown skin and short grey hair in a slate-grey high-collared suit. Entirely underwater at dusk, deep blue-green water everywhere, no sky, no horizon, drifting particles, dim blue light. Over wrecked stone terraces on the seabed a sliver of pale metal floats free in the water with nothing holding it: three times the length of a man, no thicker than a kelp stem, pointed at both ends, smooth, with no rudder, no screw and no window; a soft light runs along its flank like the light on a fish. Okonta is stepping off its side down onto the broken terrace, grave and composed. There is exactly ONE person in the picture: Okonta. No one else.

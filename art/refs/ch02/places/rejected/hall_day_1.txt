@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text. The inside of a long dry stone hall in daylight from lamps, a row of hammocks hung along both walls, plain stone floor, warm soft light, a doorway at the far end. Quiet. No people.

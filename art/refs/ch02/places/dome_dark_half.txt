@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: background
+refs: art/refs/ch01/lamp/lamp_unlit.png
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text. Reference 1 is a lamp design. The inside of the dark half of a great ancient dome, dim, looking up along curved white metal ribs. Eleven dead lamps of exactly the design in reference 1 (a short pale post topped by a caged glass lens housing, with a few ribbed collars and cables) are fixed in a row along the ribs, all dark. Long strings of faintly glowing yellow-green weed hang against the dark panes. Evening, quiet, nobody there.

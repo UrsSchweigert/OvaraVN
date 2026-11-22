@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text. Underwater at night, moonlight filtering down through the sea. The rounded crown at the very top of a hill-sized dome of pale smooth curved panes held by seamless white metal ribs, seen from just above, a flat place to stand. Below it terraces and a kelp forest fade into dark blue water.

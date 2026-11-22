@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: illustration
+refs: art/refs/ch02/portraits/okonta.png, art/refs/ch01/portraits/wrack_tunic.png, art/refs/ch01/portraits/sefa.png, art/refs/ch01/portraits/bother.png
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, no text. The people look exactly like the reference images, in the order given. Reference 1 is Okonta, reference 2 is Wrack in a grey-green tunic, reference 3 is Sefa, reference 4 is Bother. At dusk over wrecked stone terraces under the sea, a sliver of pale metal hangs in the water: three times the length of a man, no thicker than a kelp stem, pointed at both ends, smooth, with no rudder, no screw and no window; a soft light runs along its flank like the light on a fish. Okonta, a spare older woman with dark skin and short grey hair in a slate suit, is stepping off it, grave. Wrack, Sefa and the seal-like grey hound Bother watch from the terrace, Sefa with a sea-silk strapping round her ribs. Exactly four figures.
