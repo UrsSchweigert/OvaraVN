@@ -1,0 +1,103 @@
+{
+ "chapter": 1,
+ "items": [
+  {
+   "id": "c01.s01.p003.3",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The background shows the kelp trunks."
+  },
+  {
+   "id": "c01.s01.p003.4",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The background shows the canopy."
+  },
+  {
+   "id": "c01.s01.p005.3",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "Bother's sprite shows his body and head."
+  },
+  {
+   "id": "c01.s01.p005.4",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "Bother's sprite shows his ears."
+  },
+  {
+   "id": "c01.s01.p006.2",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "Sefa's sprite shows her build and hair."
+  },
+  {
+   "id": "c01.s01.p006.3",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "Sefa's sprite shows her eyes."
+  },
+  {
+   "id": "c01.s02.p001.3",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The terrace background shows the rows."
+  },
+  {
+   "id": "c01.s02.p002.1",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The sprites show the mariners' build and eyes."
+  },
+  {
+   "id": "c01.s02.p002.2",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The sprites show the sea-silk tunics; the cloth is named again in scene 3."
+  },
+  {
+   "id": "c01.s02.p002.4",
+   "action": "replace",
+   "kind": "condense",
+   "reason": "The fish are in the picture; the hounds and the wall stay.",
+   "text": "A shoal of fat silver fish grazed along the foot of a wall under the eye of two more hounds."
+  },
+  {
+   "id": "c01.s02.p006.3",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The dome illustration shows what it is made of."
+  },
+  {
+   "id": "c01.s02.p006.4",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The dome illustration shows the ribs."
+  },
+  {
+   "id": "c01.s02.p006.5",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The dome illustration shows the kelp."
+  },
+  {
+   "id": "c01.s02.p006.6",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The dome illustration shows the worn lower panes."
+  },
+  {
+   "id": "c01.s03.p008.3",
+   "action": "replace",
+   "kind": "condense",
+   "reason": "The carved stick and bald head are in his sprite; the manner of looking is not.",
+   "text": "He was a very old man with a gentle, slightly amused way of looking at things."
+  },
+  {
+   "id": "c01.s04.p019.3",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The meeting-hall background shows the lamp column."
+  }
+ ]
+}
