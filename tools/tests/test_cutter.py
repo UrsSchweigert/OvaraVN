@@ -34,6 +34,7 @@ class CutterTest(unittest.TestCase):
 
     def tearDown(self):
         self.srv.shutdown()
+        self.srv.server_close()
         L.SOURCE, L.WORK, L.UNITS, L.CUTS, L.CUT_TEXT = self.saved
 
     def call(self, path, body=None):
