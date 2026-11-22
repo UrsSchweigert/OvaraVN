@@ -130,6 +130,30 @@
     "art/refs/ch05/portraits/aurel.png"
    ],
    "note": "Look is a choice apart from 'quiet grey man' (c05.s04.p008.2). Expressions: aurel_calm, aurel_tired."
+  },
+  "Corin": {
+   "fixed": "big broad-shouldered heavy-built man of about sixty-five (a Threaded who trained Okonta), warm tan-brown skin, short curly dark hair going grey, short grey stubble beard, heavy brows, tired steady grief-held-in face; close slate-grey high-collared suit; thin pale scars from temple down the neck; broad hands. Expressions: corin_grief, corin_shouting (voice cracking), corin_staring.",
+   "references": [
+    "art/refs/ch06/portraits/corin_grief.png"
+   ]
+  },
+  "The woman with the clay tube": {
+   "fixed": "Threaded woman of eighty with a face like a walnut: deeply wrinkled brown-tan skin, thin white hair pulled back in a low bun, small sharp dark eyes, thin dry mouth; slate-grey high-collared suit; thin pale scars at the temple; smokes a clay tube (clove-water). Expressions: claywoman_dry, claywoman_wry.",
+   "references": [
+    "art/refs/ch06/portraits/claywoman_dry.png"
+   ]
+  },
+  "The girl with the harpoon": {
+   "fixed": "Threaded girl of about nineteen, olive-tan skin, black hair cut short at the jaw, thin stubborn face, dark eyes; slate-grey high-collared suit with a pale piping at the collar; thin pale scars at the temple; carries a harpoon. Expressions: harpoongirl_angry, harpoongirl_bitter.",
+   "references": [
+    "art/refs/ch06/portraits/harpoongirl_angry.png"
+   ]
+  },
+  "The young man from Fallow": {
+   "fixed": "Threaded young man of about twenty-four (the last Jef made before Wrack, six years ago), light skin, sandy-brown hair, lean face, scars at the temples hardly faded; plain grey-green tunic. Expressions: fallowyoung_ashamed, fallowyoung_sorry.",
+   "references": [
+    "art/refs/ch06/portraits/fallowyoung_ashamed.png"
+   ]
   }
  },
  "objects": {
@@ -167,6 +191,13 @@
   "Deep Chorus service tunnels": "narrow rough stone tunnels behind the galleries, old pipes, a worn stair, failing lamps, swags of weak yellow-green lampweed; dry",
   "Deep Chorus lowest dry halls": "long low dry halls in the green dimness, swags of glowing lampweed on the ceiling, rows of sleepers on mats and blankets; dry, stale",
   "Deep Chorus heart-chamber": "vast dim stone vault, a house-sized pale ribbed air-heart like a great closed shell furred with grey dust, thick water channels on both sides, a door with a broken wax seal; dry",
-  "Deep Chorus sea-door on the rim": "bare dry stone chamber with a round sea-door pool in the floor and a wide arch of glass onto the golden kelp forest beyond; dry"
+  "Deep Chorus sea-door on the rim": "bare dry stone chamber with a round sea-door pool in the floor and a wide arch of glass onto the golden kelp forest beyond; dry",
+  "Dragon gallery, failing (ch6)": "same hall as the Dragon gallery but dim: the bound-water walls thinned to a film with dark open sea in the gaps; slack hammock-nets; a double row of needle-shaped vessels asleep in cradles (bg c6_gallery_failing). Never any sky or horizon.",
+  "Dragon gallery, stern (ch6)": "dim evening end of the hall, the last cradle against the wall with a square name cut in the rib beside it (bg c6_gallery_stern).",
+  "Dragon gallery, nineteen needles (ch6)": "morning hall, nineteen needles in a row built for two hundred, one worn wheel lashed to a rib (bg c6_gallery_nineteen).",
+  "Dragon's heart under the floor": "cramped patched chamber under the gallery floor, a wheel within a wheel within a wheel covered in layers of patches, one lampweed strand hanging, silt on the floor (bg c6_heart_under).",
+  "Kelp, gold then black": "brass kelp lit gold on the left going to black on the right (bg c6_kelp_gold_black); underwater.",
+  "Inside the Slick": "strong-tea brown dead water, ragged shreds hanging motionless, silt floor with low mounds (bg c6_slick_inside); underwater.",
+  "Forest beneath the bound water": "golden kelp forest seen below a bright bound-water surface (bg c6_forest_beneath); underwater."
  }
 }

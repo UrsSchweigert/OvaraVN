@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text, no letters. Entirely underwater inside a poisoned zone: murky brown water the colour of strong tea, dead and still, with ragged brown shreds and rags hanging motionless in the water that neither sink nor rise, a silt floor far below with faint low mounds, no plants, no fish, no light source but a dim brown glow. Dread and silence. No sky, no horizon, no surface, no kelp.

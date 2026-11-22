@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text, no letters. Looking straight down through a floor of bright glowing bound water at a golden kelp forest sliding past far beneath: brass-coloured trunks and golden blades seen from above, streaked with motion, the bright water in the upper half of the picture, the forest dim and blurred below. Entirely underwater, no sky, no horizon, no surface.

@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: illustration
+refs: art/refs/ch06/places/gallery_stern.png, art/refs/ch04/portraits/anselm_helmed.png
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, no text, no letters. Reference 1 is a dim hall end. Reference 2 is Anselm Rook, an elderly white-haired man of seventy-two with a heavy courteous face. In the dim hall he stands easily and relaxed, full figure, an ordinary elderly man with normal broad shoulders, not muscular, in a plain close-fitting dark suit and a clear glass helmet with his white-haired face visible inside, a small grille at his throat. He stands at the end of the hall beside the last cradle, a slender grey needle-shaped vessel resting in it. He has one dark-gloved hand placed flat on the pale rib beside the cradle, where a small square name is cut, as if waiting for a lift. Cold dim evening light, one faint warm glow. Exactly one person, nobody else. No sky, no horizon.

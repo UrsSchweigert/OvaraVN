@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text, no letters. Beneath the floor of a great vehicle, a cramped workshop-like chamber inside the hull entirely full of a huge old machine: a wheel within a wheel within a wheel, each ringed with channels finer than hairs, worn pale metal covered all over with layers of neat patches, rivets, welded plates and mended joints. A strand of glowing lampweed lamp hanging. Dim, warm and cold light, dust-like silt in the water, silent. Closed metal hull, no windows, no sky.
