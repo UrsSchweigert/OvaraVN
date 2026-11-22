@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: sheet
+refs: 
+
+Anime-style object design sheet, clean line art, soft cel shading, gentle natural colours, plain light grey background, no text, no people. A tall ancient retro-futuristic lamp from a lost civilisation, standing on the floor and reaching a high ceiling: a smooth pale ivory-white metal column as thick as a man's waist, seamless, with a few polished ribbed collars, bundles of old thin cables running down one side, and at the upper part a large glass lamp housing with a round lens and a ribbed cage, worn and dull, the glass dark because the lamp is dead. A faint hairline seam in the metal at shoulder height, polished from years of being touched. A wreath of fresh green weed hangs on it. Old, dignified, slightly industrial, like a very old streetlamp made by a lost advanced people. Full length view of the whole lamp.

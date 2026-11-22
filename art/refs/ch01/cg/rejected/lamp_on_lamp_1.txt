@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: illustration
+refs: art/refs/ch01/portraits/oro.png, art/refs/ch01/portraits/wrack_tunic.png, art/refs/ch01/portraits/sefa.png, art/refs/ch01/lamp/lamp_unlit.png
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, no text. Reference 1 is Elder Oro, reference 2 is Wrack in a grey-green tunic, reference 3 is Sefa, reference 4 is the lamp. A round, high meeting hall flooded with white steady light pouring down from the glass lens of the lamp from reference 4, exactly as designed, standing in the centre of the hall; the lamp has just come on, blazing. People stand frozen where they are; a child shrieks; someone has dropped a basket and shellfish roll across the stone floor. Elder Oro, very old, bald, with a carved stick, has sat down slowly on the floor and weeps. Wrack stands near the lamp, frightened and amazed. Sefa stands beside him, wide-eyed.

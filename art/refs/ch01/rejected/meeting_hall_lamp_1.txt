@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: background
+refs: art/refs/ch01/lamp/lamp_unlit.png
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, no text. Reference 1 is the lamp. A wide view of the inside of a round, high, empty meeting hall with a stone floor and no people at all. The lamp from reference 1, exactly as designed, stands in the exact centre of the hall, rising from the floor to the high ceiling. The lamp is dead: its glass lens is dark. The hall is dim and quiet.
