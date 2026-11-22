@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: sheet
+refs: 
+
+Anime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view turned toward the viewer's right, plain light grey background, no text. Both shoulders visible. A spare woman of about sixty with dark brown skin and short grey hair, a grave, composed expression. She wears a close-fitting slate-grey suit with a high collar. Thin pale scars, as fine as pen lines, run from her temples down both sides of her neck and under her collar.

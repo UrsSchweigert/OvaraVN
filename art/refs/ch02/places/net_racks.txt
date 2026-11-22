@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text. Evening inside a warm lamplit stone dome: wooden racks hung with long fishing nets drying in rows, a stone floor, a bench with a net half mended, a bone needle lying on it. Warm and quiet, nobody there.

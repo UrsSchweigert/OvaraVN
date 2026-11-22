@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: sheet
+refs: 
+
+Anime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view turned toward the viewer's right, plain light grey background, no text. Both shoulders visible. A lean, hard woman of about forty with a strong, tired face, dark hair pulled back severely, weathered skin, calm and stern. She wears a plain tunic of fine grey-green cloth that gleams like the inside of a shell. She is a hold's Tidecaller, a person people make room for.

@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text. The inside of the dark half of a great ancient dome, dim, seen from the floor looking up along the curved white metal ribs. Along the ribs hang eleven dead lamps, each a pale ribbed lantern housing with a dark glass lens, in a row. Long strings of faintly glowing yellow-green weed hang against the dark panes. Quiet, evening, nobody there.

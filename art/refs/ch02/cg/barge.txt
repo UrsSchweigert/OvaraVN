@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: illustration
+refs: 
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, no text. The people look exactly like the reference images, in the order given. A moonlit night at sea, wide view. A rusty steel cargo barge forty metres long is lifted high above the ocean on a column of sea water as steady as stone, the water streaming off the hull, the crew screaming on the deck. From the barge's open hold, long black threads of sludge are pouring upward and back into it. Silver moonlight, dark sea, the base of the water column glowing. Dramatic and eerie.

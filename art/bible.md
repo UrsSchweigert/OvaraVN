@@ -50,3 +50,21 @@ The owner asked for a real, old lamp-like lamp, because mobile versions of it ap
 ## Rejected attempts
 
 `art/refs/ch01/rejected/`: Oro (pale skin although the text says brown), Ione (scars drew as open wounds), and first tries of the dome (a glass greenhouse on a grass mound), the dry room (bubbles in dry air) and the meeting hall (a crowd and a black column).
+
+
+## Chapter 2 additions
+
+New characters (head-and-shoulders portraits, `art/refs/ch02/portraits/`, cut-outs in `portraits_cut/`). Looks from the text (sentence ids from `work/units/ch02.txt`); **choice** where the text is silent.
+
+| Who | From the text | Choices |
+|---|---|---|
+| Hesper | the hold's Tidecaller, "a lean hard woman whom people made room for" (c01.s04.p002.8); up close "younger than he had thought, forty perhaps", "a strong tired face and a caller's hands, which are chapped white to the wrist" (c02.s03.p004.3-4); at the burial a bundle on her back and a length of knotted cord round her wrist (c02.s04.p009.2-3) | dark hair pulled back, grey-green sea-silk tunic; reads a little older than forty |
+| Okonta | "dark and grey-haired and spare, perhaps sixty, in a close suit the colour of slate. Thin pale scars ran from her temples down the sides of her neck and under her collar, as fine as if they had been drawn with a pen" (c02.s05.p003.3-4; the first sentence was cut because the picture shows it) | "dark" read as dark brown skin; short grey hair; high-collared slate suit |
+
+New emotions for existing characters: Wrack (tunic) baffled, shaken, shivering, despair, resolved; Sefa fierce; Oro delighted; Ione pain.
+
+Places: `places/dome_crown` (underwater at night, platform on the dome's crown), `dome_dark_half` (eleven dead lamps of the approved lamp design along the ribs), `net_racks`, `terraces_night` (barge hull overhead, forty metres up), `terrace_wrecked` (also `terrace_dusk`, the same picture darkened, for c02.s05), `hall_day` (no windows: the hold is under the sea), `burial_kelp` (carved marks on the stems, deliberately not readable letters).
+
+Illustrations (`art/refs/ch02/cg/`): `lamps`, `barge`, `gunboats` (blue shield crest on the bows, the same crest I drew on Wrack's jacket in chapter 1: the text says "the Halcyon crest" without describing it), `burial`, `needle` (Okonta alone stepping off the pale needle; earlier tries with Wrack and Sefa kept duplicating Wrack).
+
+Not shown in any image: the sludge's source ship details, the unnamed crew faces (rough).

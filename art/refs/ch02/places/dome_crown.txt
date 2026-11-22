@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text. Entirely underwater, deep under the sea at night, everything seen through blue-green water, no sky, no moon, no horizon, no land, no grass. The rounded crown at the top of a hill-sized dome of pale smooth curved panes held by seamless white metal ribs, with a flat circular platform at its very top where a person could stand. A faint silver shimmer of moonlight reaches down from the far-off surface. Below, stone terraces and kelp rows fade into dark blue water.

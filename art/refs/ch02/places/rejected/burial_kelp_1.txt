@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text. Underwater in a golden-green kelp forest, brass-coloured kelp trunks as thick as a man's waist. Names are carved into the trunks at head height, rows of old carved names, the oldest names climbing so high they are far above. At the foot of one trunk a small bundle wrapped in grey-green cloth rests weighted with a stone. No people.

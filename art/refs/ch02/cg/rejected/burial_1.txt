@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: illustration
+refs: art/refs/ch02/portraits/hesper_shut.png, art/refs/ch01/portraits/wrack_tunic.png
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, no text. The people look exactly like the reference images, in the order given. Reference 1 is Hesper, reference 2 is Wrack in a grey-green tunic. A quiet memorial under the sea in a golden-green kelp forest of tall brass-coloured kelp trunks, each carved at head height with rows of small worn marks like old inscriptions. At the foot of the trunks rest small wrapped bundles of grey-green cloth with stones on them. Hesper, a lean hard woman, stands silent and upright beside one trunk, her face closed like a shut door, a pack on her back and a length of knotted cord tied round her wrist. Wrack stands a little apart with his head bowed. Exactly two people, no others.
