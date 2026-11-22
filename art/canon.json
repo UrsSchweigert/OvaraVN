@@ -1,0 +1,64 @@
+{
+ "_note": "Fixed features of every recurring character and place, for prompts in later chapters. Looks come from the novel (sentence ids in art/bible.md); where the text is silent the choice is marked. Reference images are the files to pass with --ref so faces stay the same.",
+ "style": "Anime-style, clean dark line art, soft flat cel shading, gentle natural colours. Characters on a plain light grey background for portraits (head and shoulders, drawn turned toward the viewer's right, three-quarter view); wide 1920x1080 for backgrounds and illustrations; no text or letters in any image.",
+ "prompt_rules": [
+  "Say exactly who is present ('exactly one person', 'exactly two people'); with references the model otherwise duplicates characters.",
+  "Give skin and hair colour in words for every character in a multi-character image; references bleed features between people.",
+  "Underwater places: say 'entirely underwater, no sky, no horizon, no grass'. Surface views: the barge/ships float ON the surface, waterline across the hull.",
+  "No readable carvings or signs; ask for 'worn abstract marks'.",
+  "fal's content filter rejects references showing wounds or scars and prompts with 'violent'/'limp': crop references to head and shoulders, soften wording.",
+  "Pupils: always write 'eyes fully drawn with irises, pupils and highlights'; 'blank/empty' produced eyeless faces.",
+  "Check every result at full size against the sentence it depicts before using it."
+ ],
+ "characters": {
+  "Wrack": {
+   "also_called": ["Ilan Voss"],
+   "fixed": "adult man, lean, short messy BLACK hair, light skin, dark brown eyes, calm face (age not stated; reads late thirties)",
+   "outfits": {
+    "jacket": "torn grey zip jacket over a grey t-shirt, grey trousers, heavy black surface boots, a blue shield-shaped crest on the jacket chest (crest design is a choice), raw red cable-tie marks on both wrists",
+    "tunic": "plain loose grey-green sea-silk tunic, bare feet; worn from c01.s03.p023 on"
+   },
+   "references": ["art/refs/ch01/portraits/wrack.png", "art/refs/ch01/portraits/wrack_tunic.png"],
+   "note": "Use a head-and-shoulders crop of the tunic sheet as reference; the full sheet with red wrist marks is rejected by fal's filter."
+  },
+  "Sefa": {
+   "fixed": "girl of about sixteen, thin, long arms and legs, dark hair tied up in a high ponytail with a shining silver-white strip, large nearly black eyes, light skin (choice)",
+   "outfit": "short sleeveless grey-green sea-silk tunic, bare arms, bare legs, BARE FEET; harvesting hook = a long wooden pole with ONE smooth curved crescent metal blade (not a fork or rake)",
+   "references": ["art/refs/ch01/portraits/sefa.png"]
+  },
+  "Bother": {
+   "fixed": "tide hound: sleek grey seal body, broad flippers, blunt square head, whiskered grey muzzle, brown eyes set forward, small folded drooping ears (NOT pointed), collar of plaited cord",
+   "references": ["art/refs/ch01/portraits/bother.png"]
+  },
+  "Elder Oro": {
+   "fixed": "very old man, bald warm brown (orange-brown) head with grey hair at the sides, warm brown skin, gentle slightly amused look; loose grey-green robe, carved wooden stick",
+   "references": ["art/refs/ch01/portraits/oro.png"]
+  },
+  "Ione": {
+   "fixed": "sturdy middle-aged woman (Sefa's mother, the hold's healer), brown hair in a low bun, no ribbon, sleeves rolled to the elbow, both forearms ridged wrist to elbow with old pale healed shiny scars, calm; grey-green tunic with a belt. NOT heavy-set.",
+   "references": ["art/refs/ch01/portraits/ione.png"],
+   "note": "Her full-body sheet is rejected by fal's filter (scars); use the head crop."
+  },
+  "Davin": {
+   "fixed": "quiet big-handed man, short dark hair, slow smile, net-mender; grey-green tunic with frog fastenings, trousers",
+   "references": ["art/refs/ch01/portraits/davin.png"]
+  },
+  "Hesper": {
+   "fixed": "the hold's Tidecaller, lean hard woman of about forty (reads older), strong tired face, dark hair pulled back, hands chapped white to the wrist; grey-green sea-silk tunic",
+   "references": ["art/refs/ch02/portraits/hesper.png"]
+  },
+  "Okonta": {
+   "fixed": "spare woman of about sixty, DARK BROWN skin, short GREY hair, close slate-grey high-collared suit, thin pale scars like pen lines from the temples down both sides of the neck under the collar (Threaded). The only person with dark skin and grey hair in a scene.",
+   "references": ["art/refs/ch02/portraits/okonta.png"]
+  }
+ },
+ "objects": {
+  "Maker lamp": "pale ivory metal column as thick as a man's waist, a few ribbed collars, old bundled cables down one side, caged glass lens housing near the top, hairline seam at shoulder height polished by touch; dark when dead, lens blazes white when lit. Once lit it stays lit. Wall/dome lamps use the same design on a short post.",
+  "reference": ["art/refs/ch01/lamp/lamp_unlit.png"]
+ },
+ "places": {
+  "Low Anthem dome": "hill-sized dome of pale smooth curved panes held by seamless white metal ribs; lit on one half, dark on the other with strings of glowing yellow-green lampweed; kelp trained up one side; stone-walled terraces and raked kelp rows round it; the hold is UNDER the sea",
+  "Kelp forest": "brass-coloured trunks thick as a man's waist, no branches, golden blades far above leaning one way, green at the edges and gold in the middle",
+  "Barge": "rusty steel cargo barge about forty metres long; crew wear black sailor uniforms; Halcyon boats carry a blue shield-shaped crest on the bow (design is a choice)"
+ }
+}

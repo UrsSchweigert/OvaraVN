@@ -12,6 +12,7 @@ HELP = """usage: ./vn <command>
   status             where every chapter and gate stands
   apply <n|all>      write the cut text for approved chapters (work/cut/)
   cutter [port]      the cutting review app (default port 8765)
+  art [open|check|canon NAME]  index of all art, gallery, consistency check, fixed features
   play [n]           start the game, at chapter n if given (./vn play --list shows built chapters)
   check              is the project sound? (exits non-zero if not)
   image <model> ...  make one image through fal.ai (logged, capped); see ./vn image -h
@@ -108,6 +109,9 @@ def main():
     elif cmd == "cutter":
         import cutter
         cutter.serve(int(args[0]) if args else 8765)
+    elif cmd == "art":
+        import art
+        sys.exit(art.main(args))
     elif cmd == "play":
         import play
         sys.exit(play.main(args))

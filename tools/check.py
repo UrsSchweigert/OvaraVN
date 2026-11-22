@@ -101,6 +101,15 @@ def check_ledger(errs):
         errs.append("work/ledger.jsonl: spent %.2f, over the cap of %s" % (total, cap))
 
 
+def check_art(errs):
+    try:
+        import art
+        idx = art.build_index()
+        errs += ["art: " + e for e in art.check(idx)]
+    except Exception as e:  # a broken index tool must fail the check, not hide
+        errs.append("art: index could not be built: %s" % e)
+
+
 def run_tests(errs):
     r = subprocess.run([sys.executable, "-m", "unittest", "discover", "-s", str(L.ROOT / "tools" / "tests")],
                        capture_output=True, text=True)
@@ -114,11 +123,12 @@ def main():
     check_cuts(errs)
     check_manifests(errs)
     check_ledger(errs)
+    check_art(errs)
     run_tests(errs)
     if errs:
         print("CHECK FAILED")
         for e in errs:
             print(" -", e)
         return 1
-    print("check ok: split matches, suggestions load, manifests complete, ledger within cap, tests pass")
+    print("check ok: split matches, suggestions load, manifests complete, ledger within cap, art index consistent, tests pass")
     return 0
