@@ -1,0 +1,55 @@
+{
+ "chapter": 2,
+ "items": [
+  {
+   "id": "c02.s01.p002.3",
+   "action": "replace",
+   "kind": "condense",
+   "text": "A woman faced the open forest and sang four long phrases, very loud and very simple.",
+   "reason": "Her build is drawn in the sprite; the singing stays."
+  },
+  {
+   "id": "c02.s01.p006.2",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The background shows him under the lamp."
+  },
+  {
+   "id": "c02.s02.p005.8",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The weed is drawn; its work is told in the next sentence."
+  },
+  {
+   "id": "c02.s03.p004.4",
+   "action": "replace",
+   "kind": "condense",
+   "text": "She had a strong tired face and a caller's hands.",
+   "reason": "Her sprite shows the face; the hands are named again later."
+  },
+  {
+   "id": "c02.s04.p009.2",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "Hesper's sprite shows the bundle."
+  },
+  {
+   "id": "c02.s05.p002.5",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The vehicle is drawn; the next sentence keeps the uncanny point."
+  },
+  {
+   "id": "c02.s05.p003.3",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "Okonta's sprite shows her age, hair and suit."
+  },
+  {
+   "id": "c02.s05.p010.2",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "Sefa's sprite shows the sea-silk strapping."
+  }
+ ]
+}

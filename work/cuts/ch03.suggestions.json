@@ -1,0 +1,107 @@
+{
+ "chapter": 3,
+ "items": [
+  {
+   "id": "c03.s02.p012.4",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The Sounding background shows the ribs."
+  },
+  {
+   "id": "c03.s02.p012.5",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The Sounding background shows the silt, walls and stair."
+  },
+  {
+   "id": "c03.s02.p012.6",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The background shows the bare ruin."
+  },
+  {
+   "id": "c03.s02.p019.6",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The Slick background shows the black stems."
+  },
+  {
+   "id": "c03.s02.p022.3",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The eel sprite shows it has no eyes."
+  },
+  {
+   "id": "c03.s02.p022.4",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The eel sprite shows the slime and ulcers."
+  },
+  {
+   "id": "c03.s03.p002.1",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The Greywatch background shows the pillar."
+  },
+  {
+   "id": "c03.s03.p002.2",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The background shows the ring of benches."
+  },
+  {
+   "id": "c03.s03.p006.2",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The background shows the camp in the hollow."
+  },
+  {
+   "id": "c03.s03.p009.2",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "Brask's sprite shows his size, beard and coat."
+  },
+  {
+   "id": "c03.s03.p029.6",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The Dragon's prow is in the picture."
+  },
+  {
+   "id": "c03.s04.p002.4",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The gallery background shows the arching ribs."
+  },
+  {
+   "id": "c03.s04.p002.5",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The background shows the walls of bound water."
+  },
+  {
+   "id": "c03.s04.p003.2",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The gallery background shows the hammock-nets."
+  },
+  {
+   "id": "c03.s04.p003.3",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The background shows the cooking-stones and fish rack."
+  },
+  {
+   "id": "c03.s04.p010.4",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The whales are in the picture."
+  },
+  {
+   "id": "c03.s04.p018.4",
+   "action": "cut",
+   "kind": "shown",
+   "reason": "The ice background shows the underside of the shelf."
+  }
+ ]
+}
