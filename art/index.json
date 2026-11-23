@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-23T06:41:27Z",
+ "generated": "2026-11-23T06:45:36Z",
  "count": 234,
  "items": [
   {
@@ -671,7 +671,7 @@
    "id": "p jef_tired",
    "game_file": "game/game/images/p_jef_tired.png",
    "source": "art/refs/ch04/portraits/jef_tired.png",
-   "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch04/portraits/jef_grumbling.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same SMALL NARROW HEAVY-LIDDED dark eyes under LEVEL STRAIGHT heavy brows, same very old deeply wrinkled nearly bald head with a white tuft, same apron and jersey with a hole at the elbow. The eyes stay SMALL and NARROW: NOT large, NOT round, NOT wide open, no raised or sad eyebrows, nothing cartoonish. Restrained, realistic, hard to read. Expression: tired, eyes lowered and heavy, one hand rubbing his chest, drained.",
+   "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch04/portraits/jef_tired.png, art/refs/ch04/portraits/jef_grumbling.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same very old deeply wrinkled nearly bald head with a white tuft over the ear, same level heavy brows, same apron and jersey with a hole at the elbow, one hand rubbing his chest. Expression: tired, drained, EYES CLOSED. The closed eyes are drawn as simple thin lids: a single fine curved lash line on each eye over smooth pale skin, with soft light wrinkles around them. NO dark shadow, NO black or dark purple eye sockets, NO dark rings or bags under the eyes, NO heavy shading around the eyes: the skin around the eyes is the same pale colour as the rest of the face. Restrained, realistic, quiet.",
    "model": "flux-2",
    "cost": 0.024,
    "chapters": {
@@ -3202,7 +3202,11 @@
    "fal's content filter rejects references showing wounds or scars and prompts with 'violent'/'limp': crop references to head and shoulders, soften wording.",
    "Pupils: always write 'eyes fully drawn with irises, pupils and highlights'; 'blank/empty' produced eyeless faces.",
    "Check every result at full size against the sentence it depicts before using it.",
-   "Portrait facing: every portrait must face the viewer's RIGHT. Text-to-image bases often face left; check each result and mirror left-facing ones (grey reference and cut-out) before using it. Okonta, Brask and the diver officer were mirrored for this reason on 2026-11-22."
+   "Portrait facing: every portrait must face the viewer's RIGHT. Text-to-image bases often face left; check each result and mirror left-facing ones (grey reference and cut-out) before using it. Okonta, Brask and the diver officer were mirrored for this reason on 2026-11-22.",
+   "Wrack after the Thread (chapter 4 night, c04.s08-s09 on): use the p_wrack_thread_* portraits (art/refs/ch04/threaded/); a single thin pale line from the temple down the side of the neck, smaller than Okonta's scars. Never the p_wrack_tunic_* set after that point. Any new illustration with his neck visible shows the line.",
+   "Air-hearts (owner's direction 2026-11-23): an ornate perfectly ROUND sphere the size of a house, overlapping white pearl plates, silver bands, gold filigree and a gold hinge seam; never ribbed or heart-shaped. Reference: art/refs/ch05/airheart/heart_ref.png.",
+   "Okonta is about sixty, deeply lined, with the pale Thread lines at the temple on every portrait; check new expressions against p_okonta_grave. Anselm and the clay-tube woman have white or grey hair: after cut-out, view on a red background and fill any holes from the uncut source (hair was found transparent on 2026-11-23).",
+   "The thirty lights along the Dragon (c05.s04) are thirty small needles, each with a pale light on its flank; the Dragon itself is dark."
   ],
   "characters": {
    "Wrack": {
