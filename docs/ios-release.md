@@ -11,8 +11,12 @@ Setup copied from the DerSchweigert repo (`sites/lesen/ios/RELEASING.md`): team 
 Not in git (about 740 MB, gitignored): `ios/base/` (the packaged game), `ios/prebuilt/` and `ios/Frameworks/` (Ren'Py engine).
 `ios/ci_scripts/ci_post_clone.sh` downloads Ren'Py 8.6.1 and its iOS add-on and rebuilds those three folders. Run it by hand to build locally.
 
-## Images are WebP in the iOS build
-`ios/ci_scripts/ci_post_clone.sh` calls `tools/webp_game.py`. It copies `game/` to a temp folder, converts the PNGs under `game/images/` to WebP (quality 90, alpha lossless), and rewrites the `.png` paths in the copy. The PNG masters in git are untouched. Needs `cwebp` (the script installs it with Homebrew if missing). The `.ipa` went from 356 MB to 59 MB.
+## Size of the iOS build
+`ios/ci_scripts/ci_post_clone.sh` keeps the app small:
+- It calls `tools/webp_game.py`. That copies `game/` to a temp folder, converts the PNGs under `game/images/` to WebP (quality 80, alpha lossless), shrinks images of 800 px or more to 75% size, and rewrites the `.png` paths in the copy. A shrunk file is named `name@0.7500.webp`; Ren'Py reads the `@` factor and still draws it at full size (checked: every tested image renders at its original size). The PNG masters in git are untouched. Needs `cwebp` (installed with Homebrew if missing).
+- It removes the unused 32-bit armv7 slice from MetalANGLE (about 8 MB).
+
+Measured on 2026-11-23 (chapters 1 to 6): installed app 96 MB to 75 MB, `.ipa` (download) 59 MB to 42 MB, art 25 MB to 11 MB. The engine is about 60 MB of the rest and cannot shrink without rebuilding Ren'Py from source. Art is the part that grows with each chapter.
 
 ## Verified
 - Unsigned simulator build succeeds (`xcodebuild ... CODE_SIGNING_ALLOWED=NO build`).
