@@ -1,0 +1,17 @@
+model: fal-ai/flux-2/edit
+purpose: illustration
+refs: game/game/images/p_anselm_calm.png, art/refs/ch10/places/frigate_deck.png
+
+model: fal-ai/flux-2/edit
+purpose: illustration
+refs: game/game/images/p_anselm_smile.png, art/refs/ch10/places/frigate_deck.png
+
+model: fal-ai/flux-2/edit
+purpose: illustration
+refs: game/game/images/p_anselm_smile.png, art/refs/ch10/places/frigate_deck.png
+
+model: fal-ai/flux-2/edit
+purpose: illustration
+refs: game/game/images/p_anselm_smile.png, art/refs/ch10/places/frigate_deck.png
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, no text, no letters, no readable marks. Eyes fully drawn with irises, pupils and highlights. Reference 1 is Anselm Rook, a broad-shouldered white-haired man of seventy-two with a heavy courteous face, wearing a dark high-collared coat. Reference 2 is an old frigate afterdeck at night with a lantern table and iron grating floor. Exactly one person: Rook stands at the ship's rail with his hands clasped behind his back, his head turned over his shoulder toward the viewer, looking glad and quietly moved, a soft gentle look with lips together and a faint warmth in the eyes, no smile showing teeth, lips closed, he stands right at the ship's rail with the sea behind him. Nobody else is on the deck. Warm lantern light on his face, deep blue night, lantern-lit raft-town far behind him.

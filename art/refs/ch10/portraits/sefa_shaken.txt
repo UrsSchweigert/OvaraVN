@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: sheet
+refs: art/refs/ch10/portraits/dace_angry.png, game/game/images/p_sefa_wary.png
+
+Anime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face and nose clearly turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same skin colour; only the expression changes. Small normal realistic eyes, fully drawn with irises, pupils and highlights, no cartoon eyes. A restrained realistic expression, moderate, no grin, no laughing, no tears. Expression: quiet, withdrawn and shaken, eyes cast down, lips pressed together, no tears, face pale. A young woman with black hair tied up with a pale ribbon, olive-grey sleeveless top; same as reference image 2.

@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: sheet
+refs: 
+
+Anime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view turned toward the viewer's right (the face and nose point to the right edge of the picture), plain light grey background, no text. Both shoulders visible. The eyes are small, normal, realistic, fully drawn with irises, pupils and highlights, not large, not round, not shiny. Restrained realistic face. A mariner of the hold of Kelder, an old man of about seventy, long-limbed and thin with a long narrow face, light brown skin, thin white hair, large dark brown eyes, deep tired lines, a mild defeated face, wearing a faded plain grey-green sea-silk tunic with a round collar. Expression: mild and defeated, mouth soft and level, eyes slightly lowered.

@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: illustration
+refs: game/game/images/p_wrack_thread_resolved.png, art/refs/ch14/places/harbour_water.png
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, no text, no letters, no readable marks. Eyes fully drawn with irises, pupils and highlights. Reference 1 is Ilan, a lean man with light skin and short messy black hair and a thin pale line on his neck, in a plain grey-green tunic. Reference 2 is the tea-brown oily harbour water at dusk. Exactly one person: Ilan kneels on the surface of the dirty harbour, seen from the side, head lowered, both hands pushed down into the brown water, quiet and intent. From his hands clean clear blue-green water spreads outward across the harbour in a widening circle like a stain running backward. Behind him, filth rises out of the water in long dark threads, ropes and skeins that gather high above the harbour into one large turning sphere as dark as a hole, dusk light. Nobody else, no boats.

@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: illustration
+refs: art/refs/ch11/portraits/sefa_puzzled.png, art/refs/ch11/places/valley_silent.png
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, no text, no letters, no readable marks. Reference 1 is Sefa, a thin girl of sixteen with light skin, large dark eyes and dark hair in a high ponytail with a silver strip, in a short sleeveless grey-green tunic, with a grey band on her upper arm. Reference 2 is a silent kelp valley. Underwater scene in the pale sand valley, no sky, no surface. Exactly two people: Sefa kneels beside a young sailor of about nineteen with short brown hair and a plain grey uniform jacket, who lies across a pale kelp float, coughing, his eyes wide and terrified, his hand on his chest. Sefa holds both of her open hands in the water beside him, palms toward him, a deep frown, puzzled, nothing happening. Quiet sombre light, wreckage in the background, nobody else.

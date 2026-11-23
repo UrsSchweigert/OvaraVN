@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text, no letters, no readable marks. Above the water: a wide straight channel of bright clear blue-green living water, as wide as a river, running dead straight away from the viewer toward the horizon between two flat plains of dull grey dead sea. Along both sides of the channel float long lines of dark flat barges and small rafts, riding ON the surface with the waterline across their hulls, no people visible. At the far end of the channel one unbroken, continuous sheer grey glass wall spans the whole horizon from edge to edge and rises into pale mist; the channel runs right up to the foot of the wall and ends there. Soft overcast daylight.

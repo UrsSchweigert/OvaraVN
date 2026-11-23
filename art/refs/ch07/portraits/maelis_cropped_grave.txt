@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: sheet
+refs: art/refs/ch04/portraits/maelis_examining.png
+
+Anime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same clothes, same skin colour, same lighting; only the expression changes. Both shoulders visible. Small normal realistic eyes, fully drawn with irises, pupils and highlights, no cartoon eyes, not large, not round, not shiny. A restrained realistic expression, moderate, no grin, no laughing, no tears streaming. The same woman in her seventies with a lined composed face and brown eyes in a patched dark charcoal coat, but her grey hair is now cut off very short, cropped close to the scalp, no bun, no long hair at all. Expression: grave and still, eyes level and steady, mouth closed, like a house with one room shut up.

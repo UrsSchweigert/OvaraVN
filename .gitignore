@@ -17,3 +17,6 @@ ios/prebuilt/
 ios/Frameworks/
 ios/build/
 xcuserdata/
+
+# Book files for Apple Books (carry the author name; rebuild with tools/make_epub.py)
+publish/

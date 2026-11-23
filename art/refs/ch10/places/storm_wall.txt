@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background painting, clean line art, soft cel shading, gentle natural colours, no people, no text. Night at the edge of a calm storm-eye over the sea: a colossal circular wall of black storm cloud rising all around the horizon with faint lightning inside it, the sea in the middle dark and calm, the last few lanterns of a raft-town small and far away at the bottom, big pale seabirds-like gale skates (flat ray-shaped creatures) gliding over the wall's top. Deep blue and slate colours. Wide composition.

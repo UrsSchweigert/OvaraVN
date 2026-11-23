@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: sprite
+refs: art/refs/ch06/portraits/corin_grief.png
+
+Same man, same face, hair, beard, skin, scars and clothes. Only the expression changes: grey with weariness, heavy-lidded eyes, tired face sagging, mouth closed and flat, looking ahead, quiet. Head and shoulders, three-quarter view turned toward the viewer's right, plain light grey background, no text. Eyes fully drawn with irises, pupils and highlights.

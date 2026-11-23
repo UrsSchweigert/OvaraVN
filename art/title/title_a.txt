@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: illustration
+refs: art/refs/ch01/portraits/wrack.png, art/refs/ch01/portraits/bother.png
+
+Anime-style illustration, clean dark line art, soft cel shading, gentle natural colours, cinematic composition, no text, no letters, no logo. Wide underwater scene at the bottom of a forest of giant brass-coloured kelp, trunks as thick as a man's waist, long golden blades leaning one way high above, green light at the edges and gold in the middle, sunlight rays falling from the surface far overhead. On the sandy seabed at the lower left stands Wrack, the man from reference 1, seen small from the side in his torn grey jacket and heavy black boots, looking up toward the light. Beside his knee sits Bother, the seal-like hound from reference 2. The upper right and centre of the picture is calm open golden-green water with soft light and no objects, left empty. Quiet, wistful, a little lonely.

@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: sprite
+refs: art/refs/ch11/portraits/fallowcaller_puzzled.png
+
+Anime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right (nose pointing to the right edge of the picture), plain light grey background, no text. Both shoulders visible. Small normal realistic eyes, fully drawn with irises, pupils and highlights, not large, not round, not shiny. A restrained realistic expression, moderate, no grin, no tears streaming. The same character as the reference image: same face, same hair, same clothes, same skin colour; only the expression changes. Thin old man of about seventy with white hair. Expression: his eyes are wet and shining with tears held in, brows slightly drawn together, mouth closed, bewildered grief, not angry.

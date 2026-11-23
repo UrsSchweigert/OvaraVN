@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: illustration
+refs: game/game/images/p_wrack_thread_resolved.png, art/refs/ch17/places/silt_street.png
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, no text, no letters, no readable marks. Eyes fully drawn with irises, pupils and highlights. Reference 1 is Ilan; reference 2 is the silted street with lamp-posts. Ilan is a lean man with light skin, a thin pale line on the side of his neck and short messy black hair, in a plain grey-green sea-silk tunic. Exactly one person: Ilan walks away from the viewer down the silted grey street, seen from behind and a little to the side, barefoot on the damp grey mud, a small tool in his tunic pocket, his bare feet leaving prints. As he passes each tall slender lamp-post it comes on with a steady white light, and lamps further down the street are already lit ahead of him in a line to the bright end of the street, the way lamps are lit before a guest. Low rounded grey mud-coated buildings on both sides. Quiet and uncanny.

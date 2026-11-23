@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: background
+refs: art/refs/ch12/places/apron.png
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no figures, no text, no letters, no readable marks. Reference 1 shows the Maker towers: keep exactly this tower design (slender white tapering spires with pointed tops, fluted, no capitals). A quiet wide street in the city of Meet at blue dusk, seen at ground level: broad pale stone paving with a thin sheen of seawater on it, plain pale stone buildings on both sides, and at the end of the street the slender white spires rising into a deep blue evening sky. Along both sides of the street stand many round glass street lamps on pale stone posts, every one of them lit with warm yellow light, and warm lit windows in the buildings, their glow reflected in the wet stone. The street is completely empty: nobody anywhere, no carts, no boats, nothing moving. Still, calm, a little lonely, restrained.

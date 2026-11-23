@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: sprite
+refs: art/refs/ch02/portraits/hesper_tired.png
+
+Anime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same skin colour, same lighting; only the expression changes. Both shoulders visible. Eyes fully drawn with irises, pupils and highlights. Restrained realistic expression, moderate, no grin, no laughing, no broad smile. Woman like the reference: lean woman of about forty who looks older, strong tired lined face, dark hair pulled back in a low knot, light-olive skin, grey-green eyes, grey-green tunic. Expression: gentle and warm, calm face, dry eyes (no tears at all) soft and looking ahead and slightly up, mouth closed with the faintest lift at one corner, brow relaxed, a quiet tenderness. Not a broad smile.

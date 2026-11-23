@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: illustration
+refs: art/refs/ch09/portraits/raske_steady.png, art/refs/ch12/places/apron.png
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, no text, no letters, no readable marks. Eyes fully drawn with irises, pupils and highlights. Reference 1 is Teodora Raske, a small slight woman of sixty with short grey bobbed hair, thin steel-rimmed spectacles, a plain dark work jacket over a white shirt. Reference 2 is the stone apron. Night, looking down from high above. Raske sits cross-legged on the pale stone apron at the tide line with one lamp glowing on the stone in front of her. Around her in a loose ring sit about forty full-grown adult mariners, men and women of all ages from thirty to seventy, each in long sea-silk robes, seen small from far above, craning to see the lamp. All are adults, no children. Dark blue night, the sea black beside the stone, a few tiny warm lamps, the white tower base at the edge of the frame.

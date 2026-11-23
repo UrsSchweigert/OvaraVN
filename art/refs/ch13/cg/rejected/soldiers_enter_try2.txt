@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: illustration
+refs: game/game/images/p_captain_hard.png, art/refs/ch13/places/studio_one.png
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, no text, no letters, no readable marks. Eyes fully drawn with irises, pupils and highlights. Reference 1 is the captain, a Meridian officer of forty-five with pale skin, short cropped brown hair grey at the sides, a grey high-collared uniform. Reference 2 is the studio. The studio door has been forced open on the left; exactly nine people in plain grey uniforms stream in and spread out in a line along the glass wall: the captain in front, and eight soldiers behind and beside him, all with pale faces and rifles held across the body. In the foreground edge of the picture a small hand-held camera with a glowing red light, held up by an unseen hand (only the hand and the camera visible). The glass wall with evening clouds behind, bright cold light. No one else in the picture.

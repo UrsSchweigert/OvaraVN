@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no figures, no text, no letters, no readable marks. A narrow stone canal in the city of Meet in morning light, pale stone walls and plain pale stone buildings on both sides with washing lines overhead. On the canal bank stands one long plain wooden table with exactly two round stone basins of clear water on it and a plain wooden bench beside, a rope barrier and a small hanging lantern, a worn grey woollen blanket folded on the bench; the canal beside it shallow and clear. Warm soft morning light. Nobody anywhere, no people, no figures, no animals.

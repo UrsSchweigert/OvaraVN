@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: sheet
+refs: art/refs/ch07/portraits/maelis_cropped_grave.png
+
+Anime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: exactly the same face with the same deep lines and wrinkles around the eyes, the same age in her seventies, same clothes, same skin colour; only the expression changes. Both shoulders visible. Small normal realistic eyes, fully drawn with irises, pupils and highlights, not large, not round, not shiny. A restrained realistic expression, moderate, no grin. The grey hair is cut off very short, cropped close to the scalp, patched dark coat. Expression: impassive, no softness in the face but no disgust either, eyes level and unmoving, mouth a calm straight line, mouth closed.

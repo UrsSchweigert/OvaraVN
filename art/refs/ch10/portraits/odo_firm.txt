@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: sheet
+refs: art/refs/ch10/portraits/odo_uneasy.png
+
+Anime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same skin colour; only the expression changes. Small normal realistic eyes, fully drawn with irises, pupils and highlights, no cartoon eyes. A restrained realistic expression, moderate, no grin, no laughing, no tears. Expression: firm and level, explaining a law, jaw set, mouth closed and steady, eyes straight ahead.

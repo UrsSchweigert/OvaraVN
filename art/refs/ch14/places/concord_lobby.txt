@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no figures, no text, no letters, no readable signs or marks. The lobby of a vast tower seen from inside at morning: floor, walls and tall columns of polished blue marble, a very high ceiling, wide glass doors at the far end showing white morning light, several large flat screens on the walls glowing with a plain green horizon line and a dark city shape, cool blue light, hushed and empty. Nobody anywhere.

@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: illustration
+refs: game/game/images/bg/c7_nine_spires.png
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, no text, no letters, no readable marks. Eyes fully drawn with irises, pupils and highlights. Reference 1 shows the nine white towers on the horizon; keep that tower design. A small dark working tug seen from the side and slightly above, apparently hanging in the air over a sea so clear and pale green that the white sand floor, dark seagrass meadows and its own sharp shadow on the sand are plainly visible far below. A line of about a dozen tiny figures in dark work smocks stand silently along the tug's rail. Glass coral reefs, clear and branching, glint on the sea floor and herds of silverback fish drift over the seagrass. Bright noon sun, clean sky, nine slender white towers rising ahead on the horizon.

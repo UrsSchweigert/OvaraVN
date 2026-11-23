@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: sprite
+refs: art/refs/ch17/portraits/rook_old_nearsmile.png
+
+Same very old man, same wrinkles, white hair, shirt and the same clearly visible pale pen-line scars on the temple, cheek and neck. Only the expression changes: eyes open and looking ahead, calm and softened, brow smoothed, the mouth relaxed with the lips slightly parted as if he has just let out a long breath, peaceful and tired. Head and shoulders, three-quarter view turned toward the viewer's right (the face and nose point to the right edge of the picture), plain light grey background, no text. Eyes fully drawn with irises, pupils and highlights.

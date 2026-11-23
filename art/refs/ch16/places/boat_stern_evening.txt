@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: background
+refs: game/game/images/bg/c16_boat_stern.png
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no figures, no text, no letters, no readable signs or marks. Same small old boat stern with patched red, yellow, blue and green planking and the same flat sea as the reference, but in the evening with low warm gold-pink light on the water, no rays visible now. The stern and gunwale in the foreground. In the distance the fleet of boats and rafts is arranged in wide rings on the water, hundreds of small boats and hanging lamps just being lit in circles, the pale flat grey wall faint on the western horizon in mist. Quiet, waiting. No people.

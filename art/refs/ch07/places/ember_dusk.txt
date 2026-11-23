@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: background
+refs: art/refs/ch07/places/ember_house.png
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text, no letters, no readable marks. The same islet, house, still-room, garden in the shallows, kettle on the step and cairn of black stones with a folded leather apron as in the reference, now at dusk with the fog gone: a low red sun at the horizon laying a long red road of light across black water straight toward the viewer, the sky deep orange and dusky violet, the house and cairn dark against it with a faint red glow on their edges. Nobody in the picture.

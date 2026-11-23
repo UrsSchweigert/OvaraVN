@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: sprite
+refs: art/refs/ch06/portraits/corin_grief.png
+
+Same man, same face, hair, skin, beard, thin pale scars and slate-grey high collar. Only the expression changes: calling a name out across the water, mouth open only a little, jaw set, brows level and steady, calm resolved eyes, not frightened, not shouting wildly. Head and shoulders, three-quarter view turned toward the viewer's right (the face and nose point to the right edge of the picture), plain light grey background, no text. Eyes fully drawn with irises, pupils and highlights.

@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: sheet
+refs: art/refs/ch01/portraits/oro.png
+
+Anime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same skin colour, same lighting; only the expression changes. Both shoulders visible. Small normal realistic eyes, fully drawn with irises, pupils and highlights, not large, not round, not shiny. Restrained realistic expression, moderate, no grin, no laughing. A VERY OLD man, deeply wrinkled, bald warm orange-brown head with grey hair at the sides, warm brown skin, loose grey-green robe, gentle slightly amused look; lines across the forehead, crow's feet, creased cheeks, as old as the reference. Expression: quietly contented, a small gentle smile, eyes soft and peaceful.

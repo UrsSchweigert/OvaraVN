@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: illustration
+refs: game/game/images/p_sefa_tired.png, game/game/images/bg/c16_boat_stern_evening.png
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, no text, no letters, no readable marks. Eyes fully drawn with irises, pupils and highlights. Reference 1 is Sefa, a thin girl of sixteen with dark hair in a high ponytail with a silver strip, light skin, a short sleeveless grey-green tunic, bare arms, bare feet. Reference 2 is the sea at evening with the old patchwork-painted boat. Exactly one person. Evening, a lantern lit. Sefa lies asleep curled on her side on the wooden planks in the bows of a small old boat painted in red, yellow, blue and green patches, her eyes closed, her face peaceful, one bare arm stretched over the low gunwale with her hand trailing in the sea. The sea around her fingers glows a faint warm gold in a small soft ring that spreads on the dark water. Warm low light, quiet, tender. Nobody else, no animals.

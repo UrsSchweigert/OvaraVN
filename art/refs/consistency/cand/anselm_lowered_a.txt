@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: sheet
+refs: art/refs/ch04/portraits/anselm_calm.png
+
+Anime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same skin colour, same lighting; only the expression changes. Both shoulders visible. Small normal realistic eyes, fully drawn with irises, pupils and highlights, not large, not round, not shiny. Restrained realistic expression, moderate, no grin, no laughing. Seventy-two-year-old man like the reference: broad-shouldered, white swept-back hair, grey-blue eyes, heavy courteous face, dark close-fitting high-collared suit. Thin pale Thread scars exactly as in the reference: fine pen-line scars from the temple branching down the cheek and the side of the neck, same pattern, clearly visible. Expression: lowered and private, eyes cast down and to the side, face quiet and heavy, mouth closed, a trace of sadness.

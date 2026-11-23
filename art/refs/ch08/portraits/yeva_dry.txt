@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: sheet
+refs: 
+
+Anime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view turned toward the viewer's right (the face and nose point to the right edge of the picture), plain light grey background, no text. Both shoulders visible. The eyes are small, normal, realistic, fully drawn with irises, pupils and highlights, not large, not round, not shiny. Restrained realistic face. A tall lean woman of about sixty-five with a long worn face, weathered olive-tan skin, long grey hair tied back loosely, dry composed manner, plain worn grey-green sea-silk tunic. Dry, level, faintly sardonic expression, mouth flat.

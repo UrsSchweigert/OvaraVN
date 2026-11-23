@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: sprite
+refs: art/refs/ch17/portraits/rook_old_tired.png
+
+Same character, same face, hair, skin, age and clothes. Only the expression changes: alert and guarded, the eyes suddenly sharp and attentive, brows slightly lowered, mouth closed and firm, still exhausted. Head and shoulders, three-quarter view turned toward the viewer's right (the face and nose point to the right edge of the picture), plain light grey background, no text. Eyes fully drawn with irises, pupils and highlights.

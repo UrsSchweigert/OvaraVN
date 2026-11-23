@@ -1,5 +1,5 @@
 model: fal-ai/flux-2/edit
 purpose: sheet
-refs: art/refs/ch01/portraits/wrack_tunic.png
+refs: art/refs/ch02/portraits/wrack_tunic_calm.png
 
-Anime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same lighting; only the expression changes. Both shoulders visible. The eyes are fully drawn with irises, pupils and highlights. Expression: despairing, eyes glistening, face crumpling.
+Anime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same short messy black hair, same plain grey-green tunic, same skin colour; only the expression changes. Both shoulders visible. Small normal realistic eyes with irises, pupils and highlights. A young smooth face exactly like the reference: NO wrinkles on the forehead, NO bags or lines under the eyes, NO lines beside the mouth or nose, no age lines at all, unlined skin everywhere. No marks or scars on the neck or face. Expression: despairing, eyes glistening with tears, brows drawn up in the middle, mouth trembling and turned down, the face crumpling only through the brows, eyes and mouth, never through skin lines.

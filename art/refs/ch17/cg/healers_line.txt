@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: illustration
+refs: 
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, no text, no letters, no readable marks. Eyes fully drawn with irises, pupils and highlights. Above the water: a very long straight line of healers seated side by side in the shallow water at the edge of a dead grey sea, seen from a low angle along the line so it recedes far into the distance and vanishes in haze. Each healer, men and women of many ages and skin tones, wears a plain grey-green tunic with a grey band on the upper arm, sits still with head bowed and both hands in the water to the wrist. Thin pale green clear water spreads out around the near healers. In front of the line the sea is flat dull grey and dead; behind the line, on the clear side, dark flat barges and boats float ON the surface in rows, with crowds as tiny dots on their decks. Pale overcast sky. Hushed, patient, hopeful.

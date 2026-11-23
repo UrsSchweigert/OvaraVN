@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text, no letters, no readable marks. Interior of a plain old fish-loft above a cove: a long low room under a steep timber roof, rough planks, hanging nets and coiled rope, barrels, a plank table with a lantern and a few stools, a ladder going down through a hatch, a small square window with grey rain light, rain hammering the roof, warm lantern glow, dim and cosy but poor.

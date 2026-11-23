@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: illustration
+refs: 
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, no text, no letters, no readable marks. Eyes fully drawn with irises, pupils and highlights. A tall white wall inside a white city, glowing with soft light, showing large moving pictures made of light: several large calm faces of ordinary people, a weathered old man, a mother with a child at her shoulder, a young woman, all with long slender limbs, large dark eyes, broad hands and weathered skin, mixed together in the same faces, people of one kind; around the pictures small glimpses of a market and a school. Seen from a white stair at its foot, white stone, pale blue sea light. Calm and moving. No one standing before the wall.

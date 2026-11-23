@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no figures, no text, no letters, no readable signs or marks. A vast flat grey sea under a plain pale grey overcast sky, seen from a boat's height at the edge of a deaf region of the ocean: thousands of boats packed across the water in the middle distance, dark gate barges, small tugs, fishing smacks with dull patched sails, many low raft islands with huts, a white hospital ship, tiny dark masts and rails to the horizon. Far across the sea to the west, one single very long straight pale grey wall seen exactly face-on stretches across the western horizon as a thin low band, a plain flat face with no corners, no ends visible and no gaps, about a tenth as tall as it is long, flat-topped like the edge of a table, standing a little higher than the sea in front of it, mist lying along its top, forty kilometres away so faint and soft. Calm, held breath, no people visible, no railings in the foreground, the water milky and warm-looking.

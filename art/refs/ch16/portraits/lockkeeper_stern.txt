@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: sheet
+refs: 
+
+Anime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view turned toward the viewer's right (the face and nose point to the right edge of the picture), plain light grey background, no text. Both shoulders visible. The eyes are small, normal, realistic, fully drawn with irises, pupils and highlights, not large, not round, not shiny. Restrained realistic face. A senior Lockkeeper of the free port, a woman of seventy, weathered tan skin, deep lines, white-grey hair pulled into a tight bun, dark eyes, a strong stern face, wearing a plain dark waxed canvas coat buttoned to the throat with a small brass badge on the chest worn smooth. Expression: stern, mouth set flat, eyes level and unyielding.

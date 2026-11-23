@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: sheet
+refs: 
+
+Anime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view turned toward the viewer's right (the face and nose point to the right edge of the picture), plain light grey background, no text. Both shoulders visible. The eyes are small, normal, realistic, fully drawn with irises, pupils and highlights, not large, not round, not shiny. Restrained realistic face. A Meridian Assurance soldier-captain of about fifty, a round plump soft-jawed face like a clerk, aged about forty-five, with perfectly smooth skin (no wrinkles, no lines, no scars anywhere on the cheeks), pale light skin, short cropped brown hair with grey at the sides, grey eyes, a grey high-collared military tunic with no insignia. Stern, impatient expression, mouth tight.

@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text, no letters, no readable marks. A small hollow cut into the rock at the top of a village path on a rain-swept island, seen from just outside: a rough low stone alcove with rain at its edge, at the back wall a very old carving worn nearly smooth, a long-limbed woman rising from a wave, her eyes very large, her face and body softened by age, only abstract worn grooves and no writing of any kind; on the stone floor before her small humble offerings left in a loose heap (rusty fish-hooks, shells, one small old worn child's leather shoe, a fish on a flat stone); soft grey wet light, damp dark stone, moss.

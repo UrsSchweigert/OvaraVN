@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text, no letters, no readable marks. A neat surveyor's office on the rim of a big industrial mining port: a large drafting table with a blank chart pinned on it, rolled charts in racks, a desk with a brass lamp, and a wide window looking out over a vast grey ash-coloured plain of dredged spoil and cranes under a smoky sky. Cool grey light. No people.

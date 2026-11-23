@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no figures, no text, no letters, no readable signs or marks. A wide avenue in a rich island capital at early morning, washed clean and wet, between tall glass towers of blue and white glass, huge building-sized screens glowing between the towers showing a dark city under a thin green line, guarded small trees in square planters, the avenue running straight toward a low stone seawall and the grey sea at the end, an empty small motor boat tied at the wall steps, a quiet cold morning. Nobody anywhere, the street is empty.

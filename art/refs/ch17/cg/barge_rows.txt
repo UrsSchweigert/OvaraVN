@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: illustration
+refs: 
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, no text, no letters, no readable marks. Eyes fully drawn with irises, pupils and highlights. Above the water on the bright clear living-water channel: the side of a dark flat barge. Along its gunwale sit a row of six healers in grey-green tunics with grey armbands and small brass tags on their wrists, side by side, each with both arms over the side and hands in the clear green water, eyes closed, calm and tired. At the stern two broad dock-workers with weathered tan skin stand at long oars, rowing the barge forward. A dock-worker's wife in a headscarf kneels beside the last tired healer and holds a small piece of bread up to that healer's lips, feeding her. The clear water of the channel is a soft pale sea-green (not neon). The far side is the flat dull grey dead sea, level with the water, no shore, no land, no branches; a grey wall far ahead in mist, overcast light. Exactly nine people: six healers, two rowers and the wife.

@@ -1,0 +1,5 @@
+model: flux-2-t2i
+purpose: sheet
+refs: 
+
+Anime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view turned toward the viewer's right (the face and nose point to the right edge of the picture), plain light grey background, no text. Both shoulders visible. The eyes are small, normal, realistic, fully drawn with irises, pupils and highlights, not large, not round, not shiny. Restrained realistic face. A heavy, quiet man of about forty-five, a television floor manager, round solid face, medium tan skin, short black hair, tired steady brown eyes, a heavy build; he wears a plain dark grey work shirt buttoned all the way up to a high stiff collar that hides his neck. Quiet, watchful, expressionless, mouth level.

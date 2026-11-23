@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text, no letters, no readable signs. A small patched wooden fishing boat with a deckhouse, painted in four colours in patches, seen from a low angle on a wild sea in black rain, steep grey sea hills, spray, dark sky, the boat floating ON the surface with the waterline across its hull, small in the frame, nobody visible on deck.

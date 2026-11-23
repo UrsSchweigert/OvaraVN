@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: background
+refs: art/refs/ch12/places/apron.png
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no figures, no text, no letters, no readable marks. Reference 1 shows the Maker towers: keep that tower design (slender white tapering spires). A morning market street in the city of Meet at the foot of the white spires, seen at ground level: wide pale stone street covered by a few centimetres of clear seawater at high tide, ankle deep, reflecting the sky; makeshift market stalls with canvas awnings, crates, baskets and hanging lanterns lined along both sides; one small noodle stall with a steaming pot and a lantern; colourful washing hung on lines from the balconies of the pale towers; strings of unlit lamps. Hazy warm morning light, frying smoke in the air. Completely empty of people: no figures anywhere, the stalls stand untended.

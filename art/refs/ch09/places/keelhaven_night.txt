@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text, no letters, no readable marks. A vast shipbuilding city at night seen from the sea: a hundred-kilometre plain of steel with comb-tooth slipways in rows, many tall cranes, gantries, showering orange welding sparks and smoke lit from below, the sky above glowing orange, dark water in the foreground with a breakwater. Industrial, awe-inspiring, orange and dark steel-blue.

@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: background
+refs: game/game/images/bg/c7_nine_spires.png
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text, no letters, no readable marks. Reference 1 shows the nine white towers on the horizon; keep that tower design (slender white tapering spires). View from the deck of a small dark tug: a bit of rail and wooden deck at the lower left corner only. The water is pale green and so clear that the white sand floor and dark seagrass meadows are plainly visible below, the tug's own sharp shadow on the sand, silverback fish herds over the meadows, a few reefs of clear branching glass coral, bright noon sun. Exactly nine towers in one tight cluster on the far horizon.

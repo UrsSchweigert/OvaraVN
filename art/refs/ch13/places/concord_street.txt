@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text, no letters, no readable marks. A wealthy clean city street on a neutral trading island at dusk: wide washed pale stone pavement, a few real trees in squares each with a small brass plate and a guard, glass towers on both sides, and between the towers enormous building-sized screens showing a burning freighter on a dark sea (abstract, no text), crowds small and distant looking up, calm orderly rich city, cool evening light.

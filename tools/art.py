@@ -155,6 +155,45 @@ def check(index, root=None):
     return errs
 
 
+NOTES_JS = """<script>
+(function(){
+  var KEY='vn-art-notes', notes={};
+  try{notes=JSON.parse(localStorage.getItem(KEY)||'{}')}catch(e){}
+  var areas=[].slice.call(document.querySelectorAll('textarea.n'));
+  function count(){var n=areas.filter(function(a){return notes[a.dataset.id]}).length;
+    document.getElementById('cnt').textContent=n+(n==1?' correction':' corrections');}
+  function save(){try{localStorage.setItem(KEY,JSON.stringify(notes))}catch(e){} count();}
+  areas.forEach(function(a){
+    var id=a.dataset.id;
+    if(notes[id]){a.value=notes[id];a.parentNode.classList.add('has');}
+    a.addEventListener('input',function(){
+      if(a.value.trim()){notes[id]=a.value;a.parentNode.classList.add('has');}
+      else{delete notes[id];a.parentNode.classList.remove('has');}
+      save();});});
+  function markdown(){
+    var out=[],n=0;
+    areas.forEach(function(a){var v=notes[a.dataset.id]; if(!v) return; n++;
+      out.push('- **'+a.dataset.id+'** ('+a.dataset.kind+'; used in: '+a.dataset.used+'; file: '+a.dataset.file+')\\n  '+v.trim().replace(/\\n/g,'\\n  '));});
+    return '# Art corrections ('+n+')\\n\\n'+out.join('\\n')+'\\n';}
+  document.getElementById('copy').onclick=function(){
+    var t=markdown(), b=this;
+    function done(){b.textContent='Copied';setTimeout(function(){b.textContent='Copy all corrections'},1500);}
+    if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(t).then(done,function(){fallback(t);done();});}
+    else{fallback(t);done();}};
+  function fallback(t){var x=document.createElement('textarea');x.value=t;document.body.appendChild(x);x.select();document.execCommand('copy');document.body.removeChild(x);}
+  document.getElementById('dl').onclick=function(){
+    var a=document.createElement('a');a.href=URL.createObjectURL(new Blob([markdown()],{type:'text/markdown'}));
+    a.download='art-corrections.md';document.body.appendChild(a);a.click();document.body.removeChild(a);};
+  document.getElementById('only').onclick=function(){document.body.classList.toggle('only');
+    this.textContent=document.body.classList.contains('only')?'Show all images':'Show only images with notes';};
+  document.getElementById('clr').onclick=function(){
+    if(!confirm('Delete ALL notes in this gallery?')) return;
+    notes={};areas.forEach(function(a){a.value='';a.parentNode.classList.remove('has');});save();};
+  count();
+})();
+</script>"""
+
+
 def gallery_html(index):
     esc = html.escape
     groups = {}
@@ -166,8 +205,17 @@ def gallery_html(index):
              "h2{margin:28px 0 8px;border-bottom:1px solid #444}.g{display:flex;flex-wrap:wrap;gap:12px}"
              ".c{width:220px;background:#1f2226;border-radius:6px;padding:6px}.c img{width:100%;background:#445}"
              ".bg img,.cg img{background:#223}small{color:#9a9;display:block}details{margin-top:4px;color:#aaa}"
-             "summary{cursor:pointer}pre{white-space:pre-wrap;font-size:11px}</style>",
-             "<h1>Art index</h1><p>%d images. Generated %s. Fixed features: art/canon.json.</p>" % (index["count"], index["generated"])]
+             "summary{cursor:pointer}pre{white-space:pre-wrap;font-size:11px}"
+             "#bar{position:sticky;top:0;z-index:5;background:#15171a;padding:8px 0;border-bottom:1px solid #444;display:flex;gap:10px;align-items:center;flex-wrap:wrap}"
+             "#bar button{font:13px system-ui;padding:5px 12px;border-radius:5px;border:1px solid #666;background:#2a2e34;color:#e8e6df;cursor:pointer}"
+             "#bar button:hover{background:#3a4048}#cnt{font-weight:600;color:#f0c36a}"
+             "textarea.n{width:100%;box-sizing:border-box;margin-top:6px;min-height:46px;font:12px system-ui;background:#101215;color:#e8e6df;border:1px solid #444;border-radius:4px;padding:4px;resize:vertical}"
+             ".c.has{outline:2px solid #f0c36a}body.only .c:not(.has){display:none}</style>",
+             "<h1>Art index</h1><p>%d images. Generated %s. Fixed features: art/canon.json.</p>" % (index["count"], index["generated"]),
+             "<div id=bar><span id=cnt>0 corrections</span>"
+             "<button id=copy>Copy all corrections</button><button id=dl>Download as .md</button>"
+             "<button id=only>Show only images with notes</button><button id=clr>Clear all notes</button>"
+             "<small style='display:inline'>Type under any image. Notes save in this browser as you type.</small></div>"]
     for key, items in groups.items():
         parts.append("<h2>%s <small>(%d)</small></h2><div class=g>" % (esc(key), len(items)))
         for it in items:
@@ -175,15 +223,19 @@ def gallery_html(index):
             cost = "$%.3f" % it["cost"] if it["cost"] is not None else ""
             parts.append(
                 "<div class='c %s'><img src='../%s' loading=lazy><b>%s</b>"
-                "<small>%s %s %s</small><small>used: %s</small><details><summary>prompt</summary><pre>%s</pre></details></div>"
+                "<small>%s %s %s</small><small>used: %s</small><details><summary>prompt</summary><pre>%s</pre></details>"
+                "<textarea class=n data-id='%s' data-kind='%s' data-file='%s' data-used='%s' "
+                "placeholder='Correction needed? Write it here (empty = fine)'></textarea></div>"
                 % (it["kind"][:2], esc(it["game_file"]), esc(it["id"]), esc(it.get("model") or ""), cost,
-                   esc(it["source"] or ""), esc(chs), esc(it["prompt"] or "(no prompt saved)")))
+                   esc(it["source"] or ""), esc(chs), esc(it["prompt"] or "(no prompt saved)"),
+                   esc(it["id"]), esc(it["kind"]), esc(it["game_file"]), esc(chs)))
         parts.append("</div>")
     canon = index.get("canon", {})
     if canon.get("characters"):
         parts.append("<h2>Fixed features (canon)</h2>")
         for n, d in canon["characters"].items():
             parts.append("<p><b>%s</b>: %s</p>" % (esc(n), esc(d.get("fixed", ""))))
+    parts.append(NOTES_JS)
     return "\n".join(parts)
 
 

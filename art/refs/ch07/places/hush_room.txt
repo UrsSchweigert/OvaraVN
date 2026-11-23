@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text, no letters, no readable marks. The inside of a small plain room of black stone blocks, entirely underwater in warm dark water, a low stone bench against the wall and a small shallow dish on the floor holding one single small ember of warm orange light, the only light in the room, casting a soft glow on the near stones. The rest is dark black and deep teal. Quiet, bare, no furniture besides the bench, no people. Entirely underwater, no sky, no horizon.

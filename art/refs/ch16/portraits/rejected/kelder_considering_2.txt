@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: sheet
+refs: art/refs/ch16/portraits/kelder_base.png
+
+Anime-style character portrait, clean line art, soft cel shading, gentle natural colours. Same character as the reference, same face, same age, same hair, same clothes, same head and shoulders framing facing the viewer's right, plain light grey background. Keep the large DARK BROWN eyes exactly as in the reference. Only the expression changes: considering, brows slightly drawn together, the eyes lifted and attentive, the mouth closed with the lips pressed thoughtfully, still tired and mild. Eyes fully drawn with irises, pupils and highlights. Restrained realistic face.

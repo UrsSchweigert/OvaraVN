@@ -1,0 +1,9 @@
+model: fal-ai/flux-2/edit
+purpose: illustration
+refs: art/refs/ch09/portraits/enginewoman_weeping.png, art/refs/ch09/places/net_loft.png
+
+model: fal-ai/flux-2/edit
+purpose: illustration
+refs: art/refs/ch09/portraits/enginewoman_weeping.png, art/refs/ch09/places/net_loft.png
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, no text, no letters, no readable marks. Reference 1 is the woman from engines, about forty-five, dark brown hair pinned back with loose strands, light olive skin, plain dark work smock with rolled sleeves. Reference 2 is a net loft at night. She stands beside a barrel and holds both hands, palms open, close above a smooth dark egg-shaped stone on top of the barrel that glows warm amber, as one holds hands to a fire. The backs of her hands carry a few subtle streaks of old healed skin, only slightly paler and shinier than the rest of her skin, same skin colour, no bright patches, no spots. Her face is crumpling, eyes closed, tears on her cheeks, lit warm amber. Exactly one person, nobody else. Hanging nets and a lantern behind her, hushed.

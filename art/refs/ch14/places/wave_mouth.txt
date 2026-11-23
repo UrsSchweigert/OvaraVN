@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no figures, no text, no letters, no readable signs or marks. The open sea outside a harbour mouth at sunset: a single immense wall of green water rising from a calm sea, two hundred metres high, as tall as a mountain, running across the whole width of the view like a straight cliff, with a white foaming lip along its top and the last orange light of the sun shining through the thin green water near the crest so it glows, the sea in front of it flat and dark, a low volcanic crater wall with a gap far behind the camera side. The wall is perfectly still. No ships, no people.

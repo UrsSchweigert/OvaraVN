@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text, no letters, no readable marks. A very large design loft hall at night, rows of empty slanted drawing tables with rolled plans and set squares, tall windows, each table lit by a green-shaded lamp, long shadows, a spiral stair, quiet and empty. Green lamplight, dark wood and steel, warm and cool.

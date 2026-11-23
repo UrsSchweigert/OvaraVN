@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: sheet
+refs: art/refs/ch01/portraits/sefa.png
+
+Same girl, same dark hair in a high ponytail with a shining silver-white strip, same large nearly black eyes, same grey-green sleeveless tunic, same art style, same three-quarter view facing the viewer's right, plain light grey background, head and shoulders. Only the expression changes. Eyes fully drawn with irises, pupils and highlights. Expression: shouting across a distance, mouth open wide in a shout, brows pulled down and together, frightened and urgent, no smile.

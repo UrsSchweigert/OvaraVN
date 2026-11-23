@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text, no letters, no readable marks. Interior of a plain round room high in a white stone tower at night, seen from inside: a large open window with no glass on the right showing a dark sea far below under a starry sky with a lit stone apron and tiny warm lamps down at the tide line, a narrow bed with a plain blanket, a small table and a stool, a closed wooden door on the left, pale fluted white stone walls, a single small lamp, soft blue night light with warm lamp glow. No people.

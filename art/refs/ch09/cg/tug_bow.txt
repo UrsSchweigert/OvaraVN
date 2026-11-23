@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: illustration
+refs: art/refs/ch05/portraits/wrack_tunic_resolved.png, art/refs/ch09/places/tug_storm.png
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, no text, no letters, no readable marks. Reference 1 is Ilan, a lean man with light skin and short messy black hair, in a plain grey-green tunic. Reference 2 is a view from a tug's bow in a black rain storm. He stands braced in the bow of a small tug at night in black pouring rain, one arm stretched out ahead of him with the hand open, his face tense and concentrating with his eyes fully drawn with irises, pupils and highlights. Huge grey sea hills with white foam rise either side of the tug and ahead of him a single narrow strip of calmer flatter water runs from the bow to a grey gap in the cloud. Exactly one person in the picture, nobody else on deck. Dark, wet, dramatic.

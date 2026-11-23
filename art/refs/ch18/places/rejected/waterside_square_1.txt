@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: background
+refs: art/refs/ch12/places/apron.png
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no figures, no text, no letters, no readable marks. Reference 1 shows the Maker towers: keep that tower design. A sunny open square by the water in the city of Meet: wide pale stone paving stepping down in broad low stairs into calm shallow clear green water, a covered stone arcade with plain pillars on one side, white spires rising behind, a few small wooden dinghies tied at the steps, towels and washing laid out in the sun on the stones. Bright mid-morning, cheerful and ordinary. No people, no figures anywhere.

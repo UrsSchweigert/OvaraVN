@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: illustration
+refs: game/game/images/bg/c17_city_risen.png
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, no text, no letters, no readable marks. Eyes fully drawn with irises, pupils and highlights. Reference 1 shows the white towers city design. Early morning at sea, seen from low on the water: dozens of tall pure white towers are breaking up through the surface of the flat pale sea and rising, streaming white cataracts of water down their sides and out of every door and stair, light pouring up from below the surface, boiling light on the water at their feet. In the foreground a crowd of small dark flat barges, tugs, smacks and rafts float ON the surface, packed together, with tiny dots of people on their decks looking up. Pink and gold morning sky, grand and serene.

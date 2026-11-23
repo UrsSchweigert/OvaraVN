@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: sprite
+refs: art/refs/ch13/portraits/marit_hard.png
+
+Same character, same face, hair, skin, oilskin coat, and the same silver eyeshadow shimmer on the upper eyelids (keep it clearly visible). Only the expression changes: the hardness has gone out of her; the lower lids and the skin around her eyes are slightly pink-red and tired, no tears, her eyes soft, her brows eased, her mouth soft and closed. Anime-style character portrait, clean line art, soft cel shading, gentle natural colours, flat drawn illustration (not photographic). Head and shoulders, three-quarter view turned toward the viewer's right (the face and nose point to the right edge of the picture), plain light grey background, no text. Both shoulders visible. The eyes are small, normal, realistic, fully drawn with irises, pupils and highlights, not large, not round, not shiny. Restrained realistic face.

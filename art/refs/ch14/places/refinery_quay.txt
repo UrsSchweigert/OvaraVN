@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no figures, no text, no letters, no readable signs or marks. A refinery quay on a harbour at dusk: a long concrete quay behind a low sea-wall, rows upon rows of long low tin-roofed sheds and low tanks, about two hundred of them, pipes running down from them into the water, tall chimney flares burning orange above them, a hazy dusky sky with falling grey ash, steel cranes dark against the sky, tea-coloured water in front. No people.

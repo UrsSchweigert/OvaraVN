@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no figures, no text, no letters, no readable signs or marks. A tank-town on the industrial waterline of a volcanic port city, by day, seen from the top of a concrete sea-wall looking along it: behind the wall long parallel rows of low rectangular concrete troughs full of still grey-green water, the rows running away in perspective, each row ending near the viewer in a low tin-roofed shed and at the far end in an iron sluice gate set in the sea-wall, every gate shut. Over every row hang plain electric lamps on wires strung between iron poles, hard flat white light, steady. A pale brown haze sky with soft grey ash drifting, a black volcanic crater wall far behind with grey tenement blocks. Bare, orderly, grim.

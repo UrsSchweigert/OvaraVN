@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: illustration
+refs: art/refs/ch09/portraits/raske_stern.png, art/refs/ch09/places/raske_office.png
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, no text, no letters, no readable marks. Reference 1 is Teodora Raske, a small woman of sixty with short grey hair, thin steel spectacles, light skin, a dark work jacket over a white shirt with ink-stained cuffs. Reference 2 is her night office with a green-shaded lamp. She sits at her desk, leaning slightly forward, her right hand held a few centimetres directly ABOVE a smooth dark egg-shaped stone on a small stand on the desk, palm down, trembling; the stone glows with a soft warm amber light from within, lighting her face and hand. Her mouth is closed, lips pressed tight, brown eyes fully drawn with irises, pupils and highlights, fixed on the stone, stunned and moved. Exactly one person, nobody else. Only one stone in the room, on the desk. Warm amber glow against cool green lamplight.

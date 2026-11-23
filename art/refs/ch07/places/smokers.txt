@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text, no letters, no readable marks. Deep clear black water over dark stone, seen from just under the water: fields of hundreds of crooked tall stone chimneys, each pouring a plume of black water that glows dull red at its root, like embers breathed on. At their feet gardens of blood-red tubes as thick as a man's leg and as tall as trees, swaying together, pale crabs and blind white fish among them. Dark, red glow, hushed. Entirely underwater, no sky, no horizon, no surface.

@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: sheet
+refs: 
+
+Anime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view turned toward the viewer's right (the face and nose point to the right edge of the picture), plain light grey background, no text. Both shoulders visible. The eyes are small, normal, realistic, fully drawn with irises, pupils and highlights, not large, not round, not shiny. Restrained realistic face. A big slow man of about forty, a dock porter, broad face with a broken nose, tan weathered skin, short dark hair, dark stubble, thick neck, coarse sleeveless work shirt with a rope sling on one shoulder. Wary, guarded, brows lowered, mouth closed.

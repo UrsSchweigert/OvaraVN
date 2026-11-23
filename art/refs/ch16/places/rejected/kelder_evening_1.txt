@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: background
+refs: game/game/images/bg/c16_kelder_day.png
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no figures, no text, no letters, no readable signs or marks. Same tank-town as the reference, same concrete troughs, same tin-roofed sheds, same hanging white electric lamps on wires, but in the evening with low rose-orange light, and now the troughs are empty: drained to bare wet concrete floors with a few shallow puddles. The iron sluice gates at the seaward end of every row hang wide open from one hinge, the sawn-off hinge ends bright, and through each open gateway the clean pale green harbour water shows. Quiet, empty, a sense of release.

@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text, no letters, no readable marks. Inside a cold bright television studio on a very high floor: a plain news desk with two chairs, a single camera on a tripod with a red light, bright lights on stands, one wall entirely glass looking out onto clouds and evening sky far above the ground, a glass control booth at the side, cables on the floor, no people.

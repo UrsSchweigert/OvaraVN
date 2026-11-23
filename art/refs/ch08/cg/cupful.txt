@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: illustration
+refs: art/refs/ch04/threaded/final/calm.png, art/refs/ch08/portraits/dace_pain.png, art/refs/ch08/places/under_market.png
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, no text, no letters. Reference 1 is Ilan, a lean man with short messy black hair and light skin, plain grey-green tunic, a thin pale line down his neck. Reference 2 is Dace, a weather-beaten tanned woman of fifty with a pipe and a string-tied hat. Reference 3 is the shadowy space under a wooden market. Ilan stands waist deep in a calm clean greenish canal under a wooden market, holding his two hands together cupped in front of his chest with a cupful of water between his palms; a soft warm golden glow rises from the water in his hands. At the edge of the planking beside him Dace sits smoking her pipe in her hat, one swollen bare foot hanging in the water. Exactly two people, nobody else. Ilan has black hair and light skin; Dace has grey-brown hair and tanned skin.

@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text, no letters, no readable marks. The deck of a big flat barge at night: bare worn planks, oil lanterns hung in the rigging and along the rail, a row of small lit lamps along the barge rail, an old mast, nets, oilskins hung up, with the dark sea and distant lantern-lit hulls beyond. Empty deck, no people. Warm lantern light in blue night.

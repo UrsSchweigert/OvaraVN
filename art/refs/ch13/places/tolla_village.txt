@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text, no letters, no readable marks. A small poor fishing village on a steep rocky island crag above a narrow cove, seen from across the cove in heavy driving rain: tiny stone and weathered timber houses stacked up the crag along a steep path, tiny terraces no wider than a table with green rice, fishing boats drawn up on a stony beach below, low grey cloud, rain streaks blowing sideways, grey-green sea, a small stone shrine at the very top where the path ends.

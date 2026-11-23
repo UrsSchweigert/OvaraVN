@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text, no letters, no readable signs. Looking up from a canal-side plaza at the front of a very tall thirty-storey white-tiled tower, rising out of the top of the picture, evening rain, soft warm light in its many windows, a small fountain on a clean plaza at its base, high on the facade a simple sign of a blue water drop and a smiling sun, no other signs. City sky only behind it, no trees. No people, no text.

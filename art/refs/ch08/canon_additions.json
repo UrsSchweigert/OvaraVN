@@ -1,0 +1,42 @@
+{
+ "characters": {
+  "Dace": {
+   "fixed": "Driftfolk woman of about fifty (out of Lashing), long weather-beaten tanned face with deep creases, grey-brown hair tied back, a clay pipe in her teeth, a soft hat tied on with string under the chin, worn patched olive canvas coat. Expressions: dace_cheerful (base), dace_dry, dace_pain. Ch09 adds dace_grave and dace_questioning from the same look.",
+   "references": ["art/refs/ch08/portraits/dace_cheerful.png"]
+  },
+  "Yeva": {
+   "fixed": "the Wellwalker, tall lean woman of about sixty-five with a long worn face, weathered olive-tan skin, long grey hair tied back loosely, dry manner; plain worn grey-green sea-silk tunic. Expressions: yeva_dry (base), yeva_stern, yeva_tired.",
+   "references": ["art/refs/ch08/portraits/yeva_dry.png"]
+  },
+  "Pell": {
+   "fixed": "thin nervous young man of about twenty-five, a filing clerk of the Clean Hands, pale light skin, neat short dark-brown hair, narrow face; pale-grey jacket over a shirt and dull tie. Expressions: pell_nervous, pell_earnest.",
+   "references": ["art/refs/ch08/portraits/pell_nervous.png"]
+  },
+  "Linnea Marsh": {
+   "fixed": "physician and chief of Brightwater, about sixty-five, light skin, short practical grey hair, fine lines, calm exact face; plain dark raincoat with the collar turned up. Expressions: marsh_flat, marsh_hesitant, marsh_humble.",
+   "references": ["art/refs/ch08/portraits/marsh_flat.png"]
+  },
+  "Garran": {
+   "fixed": "big slow dock porter of about forty with a broken nose, tan weathered skin, short dark hair, dark stubble, thick neck; coarse sleeveless olive work shirt with a rope over one shoulder. Expressions: garran_wary, garran_accepting.",
+   "references": ["art/refs/ch08/portraits/garran_wary.png"]
+  },
+  "Wrack (ch08 variants)": {
+   "fixed": "same Wrack with the Thread line on the neck. With hat (from c08.s01, Dace gives it): plain soft dark-grey short-brimmed hat, tunic: wrack_hat_guarded, wrack_hat_melancholy, wrack_hat_calm. In the Brightwater suit (c08.s05): dark charcoal business suit, white shirt, loosened tie, no hat: wrack_suit_cool, wrack_suit_sorrowful. Without hat: wrack_thread_wry, wrack_thread_straining.",
+   "references": ["art/refs/ch08/portraits/wrack_hat_calm.png"]
+  }
+ },
+ "places": {
+  "Belt, grey twilight (underwater)": "cold grey-green water looking up at a heaving surface with dim shafts of light (bg c8_belt_under); underwater.",
+  "Belt, rain walls": "open sea from a boat's bow under a bruised purple-grey sky with walls of rain (bg c8_belt_rain).",
+  "Eye of the storm": "the patched boat on pale sea-green glassy water under a round ring of blue sky inside a circular cloud wall (bg c8_eye_boat).",
+  "Boat in black rain": "the patched boat among steep grey sea hills in rain (bg c8_boat_storm).",
+  "Saltgate": "a hundred black sea-stacks built over with tiers of buildings, neon signs of abstract shapes, evening rain (bg c8_saltgate).",
+  "Saltgate lock": "open rusted iron gates between barnacled pilings, empty glass boxes above lit with neon (bg c8_lock).",
+  "Canal wall with the poster": "stone wall across a canal with a weathered poster showing a plain-faced black-haired man, no lettering (bg c8_poster_canal).",
+  "Wet Market": "roofed basin, three tiers of stalls, lowest a metre under water, lamps on chains (bg c8_wet_market); lowest tier with plank table and basins (bg c8_market_low).",
+  "The Sluice": "narrow back canal, leaning tenements, washing lines, noodle stall with a plain curtain, one lit fourth-floor window (bg c8_sluice).",
+  "Noodle shop window": "window sill, the tower across the canal with the blue drop and sun sign (bg c8_noodle_window).",
+  "Brightwater Wellness Centre": "thirty-storey white-tiled tower, fountain plaza, blue drop and smiling sun sign (bg c8_brightwater_ext); white lobby (c8_lobby); tank room with an empty glass cylinder (c8_tank_room); flooded emergency stair (c8_stair_flooded); loading dock on the canal at night (c8_loading_dock).",
+  "Under the Wet Market": "forest of barnacled pilings in calm blue-green tide water, plank ledge, lamp slits overhead (bg c8_under_market)."
+ }
+}

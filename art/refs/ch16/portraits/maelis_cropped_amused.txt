@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: sheet
+refs: art/refs/ch07/portraits/maelis_cropped_level.png
+
+Anime-style character portrait, clean line art, soft cel shading, gentle natural colours. Same character as the reference, same woman in her seventies, same short cropped grey hair just starting to grow, same lined face, same brown eyes, same patched dark coat, same head and shoulders framing facing the viewer's right, plain light grey background. Only the expression changes: quietly amused, one corner of the mouth lifted in a small dry smile, the eyes crinkled and warm, brows relaxed. Eyes fully drawn with irises, pupils and highlights. Restrained, not a broad smile.

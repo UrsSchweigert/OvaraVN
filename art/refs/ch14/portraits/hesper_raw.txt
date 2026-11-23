@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: sprite
+refs: art/refs/ch02/portraits/hesper_stern.png
+
+Same woman, same face, hair, skin and clothes. Only the expression changes: raw and exhausted, jaw tight, lips pressed and trembling, eyes red-rimmed and wet, looking straight ahead without turning her head, brows drawn together, restrained. Head and shoulders, three-quarter view turned toward the viewer's right, plain light grey background, no text. Eyes fully drawn with irises, pupils and highlights.

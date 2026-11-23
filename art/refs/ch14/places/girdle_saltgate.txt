@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no figures, no text, no letters, no readable signs or marks. A great free port seen from the sea in early morning light: a hundred tall black sea-stacks rising from the water, each built over with tiers of crowded buildings on stilts, girders and cables, with bridges between them, all the neon signs dark and unlit, the roofs and gantries and stilts crowded with tiny distant figures of people standing still, open lock gates in the foreground water, a pale cloudy sky, calm sea, everything quiet. Distant tiny onlookers only, as a dense crowd, no one near the camera.

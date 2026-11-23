@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: illustration
+refs: game/game/images/p_maelis_cropped_level.png, art/refs/ch17/portraits/rook_old_eased.png, art/refs/ch17/places/vault_lit.png
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, no text, no letters, no readable marks. Eyes fully drawn with irises, pupils and highlights. Reference 1 is Maelis, 2 is Rook, 3 is the lit vault. Exactly two people, seen from behind and slightly from one side from the foot of the stair: two very old people sit side by side on the stone at the rim of the huge metal ring in the floor, their feet over the edge, shoulders almost touching, like children on a dock. On the left Maelis, an old woman with very short grey hair, light skin, in a plain shirt (her dark patched coat lies neatly folded on the stone beside her). On the right Rook, an extremely old frail man with thin white hair, very pale skin, a pale open-collared shirt, his hands wrapped in stained rags; their hands are joined between them. The ring runs with bright clear water, and the curved walls of the vault glow with soft white light. Quiet, tender. Nobody else.

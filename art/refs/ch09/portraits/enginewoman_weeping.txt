@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: sheet
+refs: art/refs/ch09/portraits/enginewoman_guarded.png
+
+Same woman, same dark brown hair pinned back, same dark work smock with rolled sleeves, NO spectacles, same art style, same pose and three-quarter view facing the viewer's right, plain light grey background. Only the expression changes. Restrained realistic face, eyes brown. Expression: face crumpling into tears, eyes closed, brows drawn up in the middle, mouth trembling, one tear on the cheek, sincere, no smile.

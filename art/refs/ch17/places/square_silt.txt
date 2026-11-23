@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text, no letters, no readable marks. A broad round central square of an ancient grey city, paved in pale stone under a skin of drying grey mud with shallow puddles, ringed by low rounded grey buildings. At the exact centre a rusty old drilling platform stands on exactly six thick rusty legs, its square deck high above the square, looking absurdly out of place. Bright daylight sun on the mud, hazy pale sky, nobody there, no boats.

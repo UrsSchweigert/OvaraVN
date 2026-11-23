@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text, no letters, no readable signs. A white tiled laboratory room with pale cold light: a row of metal pipes and valves along the walls, and in the middle a tall empty glass cylinder tank as wide as a person, full of clear still water, with tubes and fittings at its top and base, sealed lid, a few steel tables. No people in the room, no readable text.

@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: illustration
+refs: art/refs/ch05/portraits/wrack_tunic_resolved.png, art/refs/ch09/places/barge_night.png
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, no text, no letters, no readable marks. Reference 1 is Ilan, a lean man with light skin and short messy black hair in a plain grey-green tunic. Reference 2 is a barge deck at night with lanterns. Seen from behind the audience: about a hundred and fifty engineers in borrowed yellow oilskins sit cross-legged on the planks in rows, small seen from behind, all DIFFERENT people: hair grey, white, brown, red, blond, bald, tied back, hats, men and women of many ages; each holds in their lap a small dead unlit pale lamp, a dull cracked dark stone or a length of pale rib. At the front, facing them, Ilan stands alone at the far end of the aisle, hands down, speaking, holding one small dull unlit pale lamp. Oil lanterns hang in the rigging and glow along the rail. Night sea beyond. Warm lantern light, a hushed lesson. Only Ilan has black hair.

@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: sprite
+refs: art/refs/ch13/portraits/marit_pleasant.png
+
+Same woman, same clothes, hair, skin colour and thin silver eyelid shimmer, same flat anime style. Only the expression changes: tense and alarmed but controlled, eyes steady and a little wide, brows drawn slightly together, lips pressed into a thin line, the skin only very slightly paler than before (normal skin colour, no white paint, no mask). Anime-style character portrait, clean line art, soft cel shading, gentle natural colours, flat drawn illustration (not photographic). Head and shoulders, three-quarter view turned toward the viewer's right (the face and nose point to the right edge of the picture), plain light grey background, no text. Both shoulders visible. The eyes are small, normal, realistic, fully drawn with irises, pupils and highlights, not large, not round, not shiny. Restrained realistic face.

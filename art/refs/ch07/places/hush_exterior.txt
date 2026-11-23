@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text, no letters, no readable marks. A low building of black stone blocks laid block on block, plain and windowless, with no lamps and no lights at all, standing on the floor of a deep warm sea, seen from outside, dark water around it, a few faint warm dim glows rising from the ground at its base, silt, tall dark rock walls of a deep shaft far behind. Very dark, quiet, black and deep teal blue colours. Entirely underwater, no sky, no horizon, no surface.

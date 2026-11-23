@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: illustration
+refs: art/refs/ch01/portraits/wrack.png
+
+Anime-style illustration, clean dark line art, soft cel shading, gentle natural colours, cinematic composition, no text, no letters, no logo. Square close portrait for an app icon. The face of Wrack, the man from reference 1, eyes open and calm, looking slightly upward, short dark hair, a long golden kelp frond crossing in front of his shoulder. Underwater, deep teal water at the edges and warm golden light behind his head. Large simple shapes, strong contrast, face centred and filling most of the square.

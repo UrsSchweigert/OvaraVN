@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: illustration
+refs: art/refs/ch04/threaded/wrack_thread_attentive.png, art/refs/ch07/places/hush_above.png
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, no text, no letters, no readable marks. Reference 1 is Wrack, a lean man with pale light skin and short messy black hair, dark brown eyes, in a plain grey-green sea-silk tunic, with a single thin pale line from the temple down the side of his neck. Reference 2 shows the rays: huge flat pale-bellied rays with long thin tails turning in a ring. Wrack floats alone at the exact centre of an enormous ring of hundreds of the huge pale-bellied rays turning slowly wing behind wing around him, like a stone in the middle of a pond, the ring so wide that its far side fades into the dark. Warm open dark water with no bottom, soft warm amber-teal light from below, awe and gravity. Wrack small in the middle, upright, eyes open. Exactly one person, nobody else. Entirely underwater, no sky, no horizon, no surface, no sea floor.

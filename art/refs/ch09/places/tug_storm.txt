@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text, no letters, no readable marks. View from the bow of a small tug at sea in black pouring rain and a violent storm: dark huge grey sea hills with white foam, the tug's wet bow rail and bollards in the foreground, a faint lit tug astern in the spray, a narrow strip of flatter grey water running ahead toward a grey gap in the clouds. Dark, wet, dramatic.

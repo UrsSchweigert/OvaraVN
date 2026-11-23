@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no figures, no text, no letters, no readable marks. Entirely underwater in a kelp forest valley: tall brass-coloured kelp trunks as thick as a man's waist, no branches, golden blades high above, a wide shallow valley of pale sand with a ridge in the far distance. No sky, no horizon, no surface, no grass. Dusk: the water has gone deep blue and violet with only a last thin gold at the top, broken hull plates and torn nets on the sand, distant yellow-green lights glowing faintly at the far edge of the forest, still and silent.

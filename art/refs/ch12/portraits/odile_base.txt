@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: sheet
+refs: 
+
+Anime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view turned toward the viewer's right (the face and nose point to the right edge of the picture), plain light grey background, no text. Both shoulders visible. The eyes are small, normal, realistic, fully drawn with irises, pupils and highlights, not large, not round, not shiny. Restrained realistic face. A brisk handsome woman of fifty, a hold's speaker, warm tan skin, dark brown hair with a few grey strands swept back and pinned neatly, strong clear features, wearing fine pale blue-green sea-silk in an island cut with a high soft collar. Brisk, capable, organised expression, mouth level.

@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: background
+refs: game/game/images/bg/c16_boat_stern.png
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no figures, no text, no letters, no readable signs or marks. Night on a wide plank raft among many others on a calm sea: wooden planking in the foreground lit by a few hanging lanterns, ropes and a coil of rope, a few stacked crates, other rafts and boats beyond with many warm lanterns lit across the water, and to the west a vast pale wall low on the horizon, faint and ghostly, with mist along its flat top lit softly blue by the sky, a field of stars. The sea is dark and flat. Quiet, held breath, no people.

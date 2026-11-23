@@ -1,0 +1,13 @@
+model: fal-ai/flux-2/edit
+purpose: illustration
+refs: art/refs/ch08/portraits/dace_cheerful.png, art/refs/ch10/places/frigate_deck.png
+
+model: fal-ai/flux-2/edit
+purpose: illustration
+refs: art/refs/ch08/portraits/dace_cheerful.png, art/refs/ch10/places/frigate_deck.png
+
+model: fal-ai/flux-2/edit
+purpose: illustration
+refs: art/refs/ch08/portraits/dace_cheerful.png, art/refs/ch10/places/frigate_deck.png
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, no text, no letters, no readable marks. Eyes fully drawn with irises, pupils and highlights. Reference 1 is Dace, a weather-beaten Driftfolk woman. Reference 2 is a night frigate afterdeck with iron grating floor. Exactly one person: Dace's aunt, a woman of about sixty-five, related to Dace but older and sterner, long weathered tanned face, grey hair under a faded headscarf, no hat, no pipe, mouth shut tight like a purse, in a patched canvas apron. She stands by the table holding a small blank pale paper slip, no marks, no numbers, no writing, no pictures, pinched in a pair of long iron kitchen tongs, held out over the iron grating floor and letting it fall through into the dark sea below; plates and an empty wine bottle on the table. Lantern light, night. Nobody else.

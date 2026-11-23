@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text, no letters, no readable signs. Entirely underwater, no sky, no horizon: looking up through cold grey-green water at a heaving, restless surface far above, grey twilight light coming down in dim wavering shafts, open empty sea water all around, darker below.

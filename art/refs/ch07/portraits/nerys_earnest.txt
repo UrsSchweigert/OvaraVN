@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: sheet
+refs: 
+
+Anime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view turned toward the viewer's right (the face and nose point to the right edge of the picture), plain light grey background, no text. Both shoulders visible. The eyes are small, normal, realistic, fully drawn with irises, pupils and highlights, not large, not round, not shiny. Restrained realistic face. A slender woman of about forty with long limbs, light pale skin slightly dry, black hair pinned up, large dark eyes, a high-collared plain dark dress with long sleeves buttoned to the wrists. Expression: earnest and fearful for her child, brows drawn together, mouth firm, eyes steady and anxious.

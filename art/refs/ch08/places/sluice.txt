@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text, no letters, no readable signs. A narrow dim back canal in a poor quarter at night in rain: leaning tenements on both sides with lines of washing hung between, a small noodle stall on the corner with a warm lamp and a plain blank cloth curtain, no writing anywhere, a towpath beside the dark water, one lit fourth-floor window with a curtain, puddles and wet reflections. No people.

@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: sheet
+refs: art/refs/ch03/portraits/brask.png
+
+Anime-style character portrait, clean line art, soft cel shading, gentle natural colours. Same character as the reference, same huge young man, same short red hair and short red beard, same sealskin coat with grey fur at the collar, same head and shoulders framing facing the viewer's right, plain light grey background. Only the expression changes: wry, one corner of the mouth drawn slightly up, one brow slightly raised, eyes looking sidelong with dry amusement. Eyes fully drawn with irises, pupils and highlights. Restrained realistic face, no broad smile.

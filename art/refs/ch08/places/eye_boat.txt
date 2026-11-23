@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text, no letters, no readable signs. A small patched wooden fishing boat with a deckhouse and a mast, painted in four colours in patches, turning slowly on flat pale translucent sea-green water like glass (soft grey-green, not bright), in the calm centre of a storm; a round ring of clear blue sky overhead, and all around the boat a towering circular wall of dark storm cloud and rain. The boat is small in the frame, nobody on deck, floating ON the surface with the waterline across its hull. A few gale skates (flat winged fish) gliding high.

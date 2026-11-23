@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text, no letters, no readable signs. A narrow city canal at evening in light rain, dark water, a wet stone wall rising across the water with a wooden landing stage at its foot; on the wall a weathered paper poster pasted at eye height showing the printed portrait of a man with short black hair, with a blank band at the top and bottom containing only worn abstract marks, no real letters. Coloured neon glow from above, reflections on the water. No people. Absolutely no words.

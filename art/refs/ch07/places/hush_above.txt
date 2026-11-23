@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text, no letters, no readable marks. Dark warm open water high above the sea floor: dozens of huge flat pale-bellied rays with long thin tails turn slowly in a wide ring, wing behind wing, soft large shapes against deep dark teal water. Far below on the sea floor only a very faint warm glow of a few dim embers, and a hint of a plain black windowless stone building with no lit windows at all. Very dark blue and teal, deep and quiet. Entirely underwater, no sky, no horizon.

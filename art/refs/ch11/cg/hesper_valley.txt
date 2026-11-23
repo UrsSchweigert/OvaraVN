@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: illustration
+refs: art/refs/ch11/places/valley_dusk.png, art/refs/ch02/portraits/hesper.png
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, no text, no letters, no readable marks. Reference 1 is a dusk kelp valley with wreckage. Reference 2 is Hesper, a lean hard woman of about forty with pale skin and dark hair pulled back, in a grey-green sea-silk tunic, thin in the face. ENTIRELY UNDERWATER, no sky. Exactly one person: Hesper, thin, comes down alone through the water into the valley, floating upright, a thin cord tied round her wrist, looking straight ahead with a cold quiet face. Broken grey ship hulls lie on the sand around her. Far behind her, a loose scatter of small yellow-green lights glow in the dark water. Nobody else in the picture.

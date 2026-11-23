@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: illustration
+refs: game/game/images/p_raske_steady.png, art/refs/ch13/places/studio_one.png
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, no text, no letters, no readable marks. Eyes fully drawn with irises, pupils and highlights. Reference 1 is Teodora Raske, a small slight woman of sixty with short grey bobbed hair, thin steel-rimmed spectacles, light skin with fine lines, a plain dark work jacket over a white shirt, and red lipstick. Reference 2 is the studio. Exactly one person: Raske stands beside the news desk in the bright cold studio, perfectly steady, one arm raised holding up a large flat sheet of paper toward the camera lens at the left edge, her other hand resting on the desk; the sheet shows a coastline chart with abstract red lines, no writing. An open plain document case lies on the desk beside her. Glass wall with clouds behind her. Nobody else in the picture.

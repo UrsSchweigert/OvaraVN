@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: background
+refs: art/refs/ch17/places/vault_grey.png
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text, no letters, no readable marks. Same round chamber with the ring in its floor, the two wheels in the steel frame at the centre, the three open doorways at the top of the stair, but now the curved stone walls have turned to soft pale glowing light from floor to roof, showing faint luminous moving pictures of tall white towers standing in a clear sea and small figures on steps, soft and unreadable like projected light. The glow fills the whole chamber with white and silver-blue light. The water in the ring runs grey. No people.

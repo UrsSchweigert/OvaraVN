@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: illustration
+refs: art/refs/ch11/places/valley_gold.png
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, no text, no letters, no readable marks. Reference 1 is a golden kelp forest valley. Underwater scene seen from the sand looking up at the sea surface far above. Twelve grey warships and white transport ships are being hammered down into the sea by a colossal invisible weight of water: they are broken in half and crushed flat, hulls folded like paper, masts snapping, thick cables parting in whips, wreckage plunging down through the water in a diagonal slanting rain, huge white bursts of bubbles. Two white transports split open along their keels like seed pods, and small figures in grey-green clothes spill out and drift down into the kelp, tiny in the distance. Dramatic, violent but silent, cold light cutting through, kelp bent aside. No close-up faces, no single hero figure.

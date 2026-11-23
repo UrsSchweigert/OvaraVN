@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: sprite
+refs: art/refs/ch04/threaded/final/calm.png
+
+Anime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right (nose pointing to the right edge of the picture), plain light grey background, no text. Both shoulders visible. Small normal realistic eyes, fully drawn with irises, pupils and highlights, not large, not round, not shiny. A restrained realistic expression, moderate, no grin, no tears streaming. The same character as the reference image: same face, same hair, same clothes, same skin colour; only the expression changes. Lean man, short messy black hair, light skin, grey-green tunic, a single thin pale Thread line down the side of the neck. Expression: cold and empty, face smooth and still like a man doing sums, eyes level and hard, mouth closed.

@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text, no letters, no readable marks. A quiet windowless private room in a rich neutral capital: dark polished wood panelling, a long table set for two with white cloth and a covered fish dish between them, a single tall lamp, a heavy chair at each end, deep silence, cool grey and gold tones, no windows at all, no people.

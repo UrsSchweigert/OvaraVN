@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text, no letters, no readable signs. A canal lock at the mouth of a canal between barnacled pilings in evening rain: open rusted iron gates, above them a row of empty small glass boxes on stilts with lamps lit inside and nobody in them, dim coloured neon glow, dark water, wet plank walkway. No people at all, no signs.

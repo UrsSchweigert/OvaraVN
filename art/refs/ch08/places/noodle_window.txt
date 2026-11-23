@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text, no letters, no readable signs. View from inside a small noodle shop, at evening: a steamy window with a wooden sill in the foreground, across a dark canal a thirty-storey white-tiled tower softly lit, with a sign of a blue water drop and a smiling sun at its top, evening rain, warm lamplight inside. No people, no readable text.

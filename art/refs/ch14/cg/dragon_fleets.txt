@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: illustration
+refs: art/refs/ch14/refs/dragon_ref.png
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, no text, no letters, no readable marks. Reference 1 shows the design of the Dragon and only that: a smooth blunt pale metal ship-bow-shaped head with no eyes, no mouth, no teeth, no horns, no face, and behind it a long straight row of tall upright hoop ribs along a spine. Early morning on the sea, clear gold light. In the foreground a fleet of about twenty small wooden fishing boats with nets hauled in, on the water, their crews standing at the rails watching, a few children held up on adults shoulders, all as small figures. Beyond them the surfaced Dragon floats ON the water and passes by: the smooth faceless pale hull-head ahead and behind it a long line of hoop ribs rising out of the swell, each trailing a mane of white spray, the water bound inside the ribs blazing white-gold. A tiny man lies flat on top of the hull-head. Awed, still, quiet.

@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text, no letters, no readable marks. A grand lobby of a skyscraper: polished deep blue marble floor and walls, high ceiling, a long curved reception desk, a bank of lift doors in brushed metal at the end, cool even light, tall plain pillars, very clean and quiet, no people.

@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: illustration
+refs: 
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, no text, no letters, no readable marks. A calm sea at sunset in front of a harbour mouth: the water lies almost perfectly flat and smooth like a sheet smoothed over a bed, with only one single long gentle low swell, no higher than a child, rolling in toward a low stone breakwater on the right; behind the breakwater a few small white fishing boats on their moorings lifting gently once on the swell; on the left a dark brown volcanic cliff with a natural stone arch; a soft last orange light on the calm water, the sky orange and violet, a few soft clouds, peaceful and relieved. Nothing tall, no big wave, no people.

@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: sprite
+refs: art/refs/ch09/portraits/raske_stern.png
+
+Same woman, same face, hair, spectacles, skin and clothes. Only the expression changes: fierce and determined, jaw set, mouth a hard thin line, eyes burning and level behind the spectacles, brows low. Head and shoulders, three-quarter view turned toward the viewer's right, plain light grey background, no text. Eyes fully drawn with irises, pupils and highlights.

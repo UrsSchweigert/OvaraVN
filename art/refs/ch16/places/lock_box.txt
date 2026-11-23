@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no figures, no text, no letters, no readable signs or marks. Interior of a small old wooden control box at the north gate of a free port's canal lock, seen from inside: wood panelled walls dark with age, a big window showing the huge iron lock gate and a bare mud bed below under a grey sky, a small iron stove with a dented kettle on it and one cup, a plain desk with a gigantic thick leather logbook the size of a paving stone lying open, shelves of identical old logbooks, and hanging down over the middle of the room a polished brass handle on a chain, worn bright by generations of hands. A warm oil lamp. Orderly, ancient, no one inside.

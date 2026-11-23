@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: background
+refs: art/refs/ch03/places/gallery.png
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text, no letters, no readable marks. The same long hall inside the Dragon as the reference, pale metal ribs, slack hammock-nets, a floor of dark silt, but the whole scene is dark and dim: beyond the bound-water wall the sea is a murky dark brown, like strong tea, with no surface, no foam, no waves, no brightness. Grey fine snow drifts slowly down through the brown water outside the wall: flakes and clots, and a few dim shapes among them, a bottle, a shoe, a sheet of paper. Dim brown gloom, a single faint warm lamp glow in the hall. Entirely underwater, no sky, no horizon.

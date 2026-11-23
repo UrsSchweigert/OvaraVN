@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text, no letters, no readable marks. The calm eye of a storm at dawn: a circle of blue-green sky overhead ringed by towering cloud walls, flat green glassy water, many small tugs lying side by side tied together in a cluster, pale gold light on the water, gale skates gliding high above.

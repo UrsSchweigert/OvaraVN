@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: sprite
+refs: art/refs/ch09/portraits/enginewoman_guarded.png
+
+Same woman, same face, hair, skin and clothes. Only the expression changes: whispering softly, eyes of normal size looking ahead and slightly aside, lips just parted, brows level, hushed and thoughtful, restrained, not wide-eyed. Head and shoulders, three-quarter view turned toward the viewer's right (the face and nose point to the right edge of the picture), plain light grey background, no text. Eyes fully drawn with irises, pupils and highlights.

@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: sprite
+refs: art/refs/ch12/portraits/odile_base.png
+
+Same woman, same face, hair, skin and clothes. Only the expression changes: cool, guarded, her eyes cooled and level, mouth closed and flat, a faint distance in the look. Head and shoulders, three-quarter view turned toward the viewer's right, plain light grey background, no text. Eyes fully drawn with irises, pupils and highlights.

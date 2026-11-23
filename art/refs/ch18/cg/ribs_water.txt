@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: illustration
+refs: art/refs/ch18/places/dragon_square.png
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, no text, no letters, no readable marks. Reference 1 is the square in Meet where the Dragon lies, a vast pale metal machine with a smooth blunt head and a long row of hoop-shaped ribs, lying in a stone-edged channel of clear water. Same square, same Dragon, same towers, now at the moment it wakes: bright luminous pale-blue water has come back into the Dragon's ribs and runs along inside the whole row of hoops from the head to the far end, glowing softly white-blue, spilling gentle light onto the pale paving and the water around it, the hoops now bright and alive instead of dull. Soft evening light. Nobody anywhere, no people, no figures, no boats.

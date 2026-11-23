@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: illustration
+refs: game/game/images/bg/c17_wall_face.png
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, no text, no letters, no readable marks. Eyes fully drawn with irises, pupils and highlights. Reference 1 is a colossal sheer wall of smooth grey glass rising from a grey sea. Seen from a distance at low angle against the wall: about eight slender pale silver leaf-shaped flying needles, each as long as a small boat, climb straight up the face of the wall one above another in a loose column, each tilted steeply nose-up at about sixty degrees, climbing diagonally up and to the left across the glass in a staggered line, close to the surface. Each needle carries exactly two adults lying flat one behind the other: in front a rider in a dark jacket, behind a person in a bulky grey hard suit with a round clear glass helmet, arms around the rider's waist. No loose or empty needles, nothing else in the air. The wall rises far above them into mist and the sea is far below, with a few tiny dark barges. Scale is dizzying and the figures are tiny. No other people.

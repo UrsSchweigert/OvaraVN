@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no figures, no text, no letters, no readable marks. Entirely underwater, no sky, no horizon: an empty floor of smooth white sand at the centre of an enormous round bowl a kilometre across, looking up and outward at huge terraced tiers of pale stone rising all round in concentric rings, hundreds of dark small square holds and doorways along the tiers, morning sunlight coming down through ten metres of clear green water and moving as nets of bright light on the pale stone, calm, grand, empty. Nobody anywhere, not a single figure.

@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text, no letters, no readable marks. The inside of a very dark hall built of black stone blocks, entirely underwater, long and low, a stone wall to the left with nothing on it, dark pools of still water in the floor, no lamps at all, only the faintest warm dim glow from the floor, almost black, deep teal and black colours. No windows, no furniture, no people. Entirely underwater, no sky, no horizon.

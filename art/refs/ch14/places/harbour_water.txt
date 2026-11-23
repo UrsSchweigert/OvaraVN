@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no figures, no text, no letters, no readable signs or marks. A close view of the surface of a polluted harbour at dusk: tea-brown water with a slick oily rainbow sheen sliding over it, scraps of drifting rubbish, old black pilings and the rust-streaked side of a quay wall, a dusky orange and violet sky reflected dimly, grey ash settling on the water. Empty, no people, no boats.

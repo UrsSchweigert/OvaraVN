@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: illustration
+refs: art/refs/ch01/portraits/wrack.png, art/refs/ch01/portraits/sefa.png
+
+Anime-style illustration, clean dark line art, soft cel shading, gentle natural colours, cinematic composition, no text, no letters, no logo. Wide underwater scene in a forest of giant brass-coloured kelp, golden blades and green water, bright rays of sunlight from the surface. Wrack, the man from reference 1 in his torn grey jacket, floats on his back in the middle of the water with his arms loose, eyes closed, kelp fronds drifting around him, as if the tide has carried him. Sefa, the thin girl from reference 2, with her long pole ending in a single curved hook, floats small and far off at the upper right looking down at him. The upper third of the picture is open bright water, left empty. Quiet and mysterious.
