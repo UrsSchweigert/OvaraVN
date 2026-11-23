@@ -40,4 +40,11 @@ for d in base prebuilt Frameworks; do
     rm -rf "$ROOT/ios/$d"
     cp -R "$WORK/ios/$d" "$ROOT/ios/$d"
 done
+# MetalANGLE ships a 32-bit armv7 slice that no supported iPhone uses. Drop it (saves about 8 MB).
+XCF="$ROOT/ios/Frameworks/MetalANGLE.xcframework"
+LIB="$XCF/ios-arm64_armv7/MetalANGLE.framework/MetalANGLE"
+if lipo -info "$LIB" 2>/dev/null | grep -q armv7; then
+    lipo -remove armv7 "$LIB" -output "$LIB"
+    /usr/libexec/PlistBuddy -c "Delete :AvailableLibraries:0:SupportedArchitectures:1" "$XCF/Info.plist" || true
+fi
 echo "Ren'Py $RENPY_VERSION payload ready in ios/."
