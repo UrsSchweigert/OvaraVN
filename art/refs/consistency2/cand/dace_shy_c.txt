@@ -1,0 +1,5 @@
+model: flux-2
+purpose: sheet
+refs: art/refs/ch08/portraits/dace_cheerful.png
+
+Anime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same skin colour, same lighting, same drawing style; only the expression changes. Both shoulders visible. Small normal realistic eyes, fully drawn with irises, pupils and highlights, not large, not round, not shiny. Restrained realistic expression, moderate, no grin, no laughing. Driftfolk woman of about fifty with a LONG NARROW weather-beaten face (not round, strong cheekbones, deep creases), grey-brown hair tied back, a clay pipe in her teeth, a soft hat tied on with string, worn patched olive canvas coat. Keep exactly the same stylised anime drawing style as the reference, not realistic, not photographic. Expression: shy, eyes lowered and turned aside, mouth closed on the pipe, a faintly embarrassed look.
