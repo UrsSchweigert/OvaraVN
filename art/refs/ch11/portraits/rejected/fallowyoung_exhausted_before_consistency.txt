@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: sprite
+refs: art/refs/ch06/portraits/fallowyoung_ashamed.png
+
+Anime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right (nose pointing to the right edge of the picture), plain light grey background, no text. Both shoulders visible. Small normal realistic eyes, fully drawn with irises, pupils and highlights, not large, not round, not shiny. A restrained realistic expression, moderate, no grin, no tears streaming. The same character as the reference image: same face, same hair, same clothes, same skin colour; only the expression changes. Young man of about twenty-four, light skin, sandy-brown hair, plain grey-green tunic. Expression: exhausted from days without sleep, grey pallor, lips pale and greyish, heavy-lidded eyes, looking ahead, mouth slightly open.

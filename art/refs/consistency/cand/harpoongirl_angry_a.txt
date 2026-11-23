@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: sheet
+refs: art/refs/ch06/portraits/harpoongirl_angry.png
+
+Anime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same skin colour, same lighting; only the expression changes. Both shoulders visible. Small normal realistic eyes, fully drawn with irises, pupils and highlights, not large, not round, not shiny. Restrained realistic expression, moderate, no grin, no laughing. Threaded girl of about nineteen: olive-tan skin, straight black hair cut short at the jaw with a straight fringe, thin stubborn face, dark eyes, slate-grey high-collared suit with pale piping at the collar. Thread scars: thin pale pen-line scars from the temple down the side of the face and the side of the neck under the collar, fine and straight like the lines of a pen; NO X-shaped scar, NO cut across the cheek. Expression: angry, brows drawn down, eyes hard, jaw set, lips pressed.

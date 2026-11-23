@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: sheet
+refs: art/refs/ch02/portraits/wrack_tunic_attentive.png
+
+Anime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same skin colour, same lighting; only the expression changes. Both shoulders visible. Small normal realistic eyes, fully drawn with irises, pupils and highlights, not large, not round, not shiny. Restrained realistic expression, moderate, no grin, no laughing. Man like the reference: lean adult man about thirty-five, short messy black hair of the same length and shape as the reference, light skin, dark brown eyes, a smooth young-looking face with NO wrinkles and NO age lines on the forehead or around the eyes. No marks, lines or scars anywhere on the neck or face. Plain loose grey-green tunic as in the reference. Expression: ebbed and shivering, drained, gaze unfocused but with pupils, lips pale; the skin stays smooth with no wrinkles.

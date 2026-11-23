@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: sheet
+refs: art/refs/ch05/portraits/vey.png
+
+Anime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same skin colour, same lighting; only the expression changes. Both shoulders visible. Small normal realistic eyes, fully drawn with irises, pupils and highlights, not large, not round, not shiny. Restrained realistic expression, moderate, no grin, no laughing. Tall exact woman of seventy with silver hair bound close to her head, light skin, formal high-collared deep sea-green robe with a pale band at the collar; the same age as the reference: lines across the forehead, crow's feet, creased cheeks, but NOT older and no sagging skin. Expression: tight-mouthed, lips pressed into a thin tense line, jaw set, a small tension at the brow.

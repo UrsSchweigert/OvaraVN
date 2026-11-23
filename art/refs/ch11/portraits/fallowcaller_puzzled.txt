@@ -1,5 +1,5 @@
-model: fal-ai/flux-2
-purpose: sprite
-refs: 
+model: fal-ai/flux-2/edit
+purpose: sheet
+refs: art/refs/ch11/portraits/fallowcaller_wet.png
 
-Anime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view turned toward the viewer's right (nose pointing to the right edge of the picture), plain light grey background, no text. Both shoulders visible. Small normal realistic eyes, fully drawn with irises, pupils and highlights. Restrained realistic face. Thin pale scars like pen lines run from the temples down both sides of the neck. A thin old man of about seventy, weathered tan skin, thin white hair cut short, white stubble, deep lines, plain grey-green sea-silk tunic with a high collar. Puzzled and tired, brows drawn slightly together, mouth closed, like a man who has come home and found the house moved.
+Anime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same skin colour, same lighting; only the expression changes. Both shoulders visible. Small normal realistic eyes, fully drawn with irises, pupils and highlights, not large, not round, not shiny. Restrained realistic expression, moderate, no grin, no laughing. Thin old man of about seventy, weathered tan skin, short white hair, short white goatee, deep lines, plain grey-green high-collared tunic. NO scars, NO marks or lines of any kind on the face or neck, clean skin apart from ordinary wrinkles. Expression: puzzled and tired, brows drawn slightly together, head a little tilted, mouth closed, eyes dry.

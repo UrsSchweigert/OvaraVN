@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: sheet
+refs: art/refs/ch02/portraits/hesper.png
+
+Anime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same skin colour, same lighting; only the expression changes. Both shoulders visible. Small normal realistic eyes, fully drawn with irises, pupils and highlights, not large, not round, not shiny. Restrained realistic expression, moderate, no grin, no laughing. Lean hard woman of about forty with dark hair pulled back in a low bun, a strong tired face with only a few fine lines (NOT elderly, no deep wrinkles), grey-green sea-silk tunic. Expression: a face like a shut door, completely impassive, holding enormous grief behind it, eyes steady and unreadable.

@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-23T13:11:47Z",
+ "generated": "2026-11-23T13:54:07Z",
  "count": 385,
  "items": [
   {
@@ -12,7 +12,8 @@
    "cost": 0.012,
    "chapters": {
     "4": 4,
-    "6": 4
+    "6": 4,
+    "10": 11
    },
    "character": null,
    "emotion": null
@@ -42,7 +43,8 @@
    "cost": 0.024,
    "chapters": {
     "4": 2,
-    "6": 2
+    "6": 2,
+    "10": 4
    },
    "character": null,
    "emotion": null
@@ -67,11 +69,12 @@
    "id": "p anselm_lowered",
    "game_file": "game/game/images/p_anselm_lowered.png",
    "source": "art/refs/ch06/portraits/anselm_lowered.png",
-   "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch04/portraits/anselm_calm.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same skin colour; only the expression changes. Broad-shouldered white-haired man of about seventy-two, grey-blue eyes, thin pale scars from temple down the neck, dark high-collared suit. Both shoulders visible. Small normal realistic eyes, fully drawn with irises, pupils and highlights, no cartoon eyes, not large, not round, not shiny. A restrained realistic expression, moderate, no grin, no laughing, no tears streaming. Expression: lowered and private, eyes cast down and to the side, face quiet and heavy, mouth closed, a trace of sadness.",
+   "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch04/portraits/anselm_cold.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same skin colour, same lighting; only the expression changes. Both shoulders visible. Small normal realistic eyes, fully drawn with irises, pupils and highlights, not large, not round, not shiny. Restrained realistic expression, moderate, no grin, no laughing. Seventy-two-year-old man like the reference: broad-shouldered, white swept-back hair, grey-blue eyes, heavy courteous face, dark close-fitting high-collared suit. Thin pale Thread scars exactly as in the reference: fine pen-line scars from the temple branching down the cheek and the side of the neck, same pattern, clearly visible. Expression: lowered and private, eyes cast down and to the side, face quiet and heavy, mouth closed, a trace of sadness.",
    "model": "flux-2",
    "cost": 0.024,
    "chapters": {
-    "6": 1
+    "6": 1,
+    "10": 4
    },
    "character": null,
    "emotion": null
@@ -85,7 +88,8 @@
    "model": "flux-2",
    "cost": 0.024,
    "chapters": {
-    "4": 1
+    "4": 1,
+    "10": 1
    },
    "character": null,
    "emotion": null
@@ -155,7 +159,8 @@
    "model": "flux-2",
    "cost": 0.024,
    "chapters": {
-    "5": 1
+    "5": 1,
+    "12": 1
    },
    "character": "Bother",
    "emotion": "excited"
@@ -180,7 +185,7 @@
    "id": "p brask_awed",
    "game_file": "game/game/images/p_brask_awed.png",
    "source": "art/refs/ch03/portraits/brask_awed.png",
-   "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch03/portraits/brask.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same lighting, same skin colour; only the expression changes. Both shoulders visible. The eyes are fully drawn with irises, pupils and highlights. A restrained realistic expression, no grin, no laughing. Expression: awed and silent, eyes wide, mouth slightly open, staring at something immense.",
+   "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch03/portraits/brask.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same skin colour, same lighting; only the expression changes. Both shoulders visible. Small normal realistic eyes, fully drawn with irises, pupils and highlights, not large, not round, not shiny. Restrained realistic expression, moderate, no grin, no laughing. Huge young man with a wide strong heavy-browed face, short red hair, a full short red beard WITH a moustache exactly as in the reference, light skin, heavy sealskin coat with grey fur at the collar. Expression: awed and silent, eyes wide, mouth slightly open, staring at something immense.",
    "model": "flux-2",
    "cost": 0.024,
    "chapters": {
@@ -198,7 +203,8 @@
    "model": "flux-2",
    "cost": 0.024,
    "chapters": {
-    "3": 3
+    "3": 3,
+    "12": 1
    },
    "character": "Brask",
    "emotion": "gruff"
@@ -254,7 +260,8 @@
    "model": null,
    "cost": null,
    "chapters": {
-    "6": 4
+    "6": 4,
+    "11": 1
    },
    "character": null,
    "emotion": null
@@ -267,7 +274,9 @@
    "prompt": "model: fal-ai/flux-2/edit\npurpose: sprite\nrefs: art/refs/ch06/portraits/corin_grief.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right (nose pointing to the right edge of the picture), plain light grey background, no text. Both shoulders visible. Small normal realistic eyes, fully drawn with irises, pupils and highlights, not large, not round, not shiny. A restrained realistic expression, moderate, no grin, no tears streaming. The same character as the reference image: same face, same hair, same clothes, same skin colour; only the expression changes. Big man of about sixty-five, tan-brown skin, grey stubble. Expression: pitying, gentle and sorrowful, brows raised a little at the inner ends, eyes soft and steady, mouth closed, no hatred.",
    "model": "flux-2",
    "cost": 0.024,
-   "chapters": {},
+   "chapters": {
+    "11": 1
+   },
    "character": null,
    "emotion": null
   },
@@ -329,7 +338,9 @@
    "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch09/portraits_cut/../../ch08/portraits/dace_cheerful.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same skin colour; only the expression changes. Small normal realistic eyes, fully drawn with irises, pupils and highlights, no cartoon eyes. A restrained realistic expression, moderate, no grin, no laughing, no tears. A woman of about fifty with a long weather-beaten tanned face, grey-brown hair, clay pipe in her teeth, battered hat tied with string, patched canvas coat. Expression: angry, brow drawn down, jaw tight around the pipe, eyes hard.",
    "model": "flux-2",
    "cost": 0.024,
-   "chapters": {},
+   "chapters": {
+    "10": 1
+   },
    "character": null,
    "emotion": null
   },
@@ -568,10 +579,12 @@
    "id": "p fallowcaller_puzzled",
    "game_file": "game/game/images/p_fallowcaller_puzzled.png",
    "source": "art/refs/ch11/portraits/fallowcaller_puzzled.png",
-   "prompt": "model: fal-ai/flux-2\npurpose: sprite\nrefs: \n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view turned toward the viewer's right (nose pointing to the right edge of the picture), plain light grey background, no text. Both shoulders visible. Small normal realistic eyes, fully drawn with irises, pupils and highlights. Restrained realistic face. Thin pale scars like pen lines run from the temples down both sides of the neck. A thin old man of about seventy, weathered tan skin, thin white hair cut short, white stubble, deep lines, plain grey-green sea-silk tunic with a high collar. Puzzled and tired, brows drawn slightly together, mouth closed, like a man who has come home and found the house moved.",
+   "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch11/portraits/fallowcaller_wet.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same skin colour, same lighting; only the expression changes. Both shoulders visible. Small normal realistic eyes, fully drawn with irises, pupils and highlights, not large, not round, not shiny. Restrained realistic expression, moderate, no grin, no laughing. Thin old man of about seventy, weathered tan skin, short white hair, short white goatee, deep lines, plain grey-green high-collared tunic. NO scars, NO marks or lines of any kind on the face or neck, clean skin apart from ordinary wrinkles. Expression: puzzled and tired, brows drawn slightly together, head a little tilted, mouth closed, eyes dry.",
    "model": "flux-2-t2i",
    "cost": 0.012,
-   "chapters": {},
+   "chapters": {
+    "11": 1
+   },
    "character": null,
    "emotion": null
   },
@@ -583,7 +596,9 @@
    "prompt": "model: fal-ai/flux-2/edit\npurpose: sprite\nrefs: art/refs/ch11/portraits/fallowcaller_puzzled.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right (nose pointing to the right edge of the picture), plain light grey background, no text. Both shoulders visible. Small normal realistic eyes, fully drawn with irises, pupils and highlights, not large, not round, not shiny. A restrained realistic expression, moderate, no grin, no tears streaming. The same character as the reference image: same face, same hair, same clothes, same skin colour; only the expression changes. Thin old man of about seventy with white hair. Expression: his eyes are wet and shining with tears held in, brows slightly drawn together, mouth closed, bewildered grief, not angry.",
    "model": "flux-2",
    "cost": 0.024,
-   "chapters": {},
+   "chapters": {
+    "11": 1
+   },
    "character": null,
    "emotion": null
   },
@@ -606,10 +621,12 @@
    "id": "p fallowyoung_exhausted",
    "game_file": "game/game/images/p_fallowyoung_exhausted.png",
    "source": "art/refs/ch11/portraits/fallowyoung_exhausted.png",
-   "prompt": "model: fal-ai/flux-2/edit\npurpose: sprite\nrefs: art/refs/ch06/portraits/fallowyoung_ashamed.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right (nose pointing to the right edge of the picture), plain light grey background, no text. Both shoulders visible. Small normal realistic eyes, fully drawn with irises, pupils and highlights, not large, not round, not shiny. A restrained realistic expression, moderate, no grin, no tears streaming. The same character as the reference image: same face, same hair, same clothes, same skin colour; only the expression changes. Young man of about twenty-four, light skin, sandy-brown hair, plain grey-green tunic. Expression: exhausted from days without sleep, grey pallor, lips pale and greyish, heavy-lidded eyes, looking ahead, mouth slightly open.",
+   "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch06/portraits/fallowyoung_ashamed.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same skin colour, same lighting; only the expression changes. Both shoulders visible. Small normal realistic eyes, fully drawn with irises, pupils and highlights, not large, not round, not shiny. Restrained realistic expression, moderate, no grin, no laughing. Young man of about twenty-four with light skin and sandy-brown hair, plain grey-green tunic. Thread scars exactly as in the reference: thin pale lines at the temple and cheek and down the neck, clearly visible, not faded. Expression: exhausted from days without sleep, lips pale, heavy-lidded eyes, looking ahead, mouth slightly open; keep the skin colour the same as the reference with only a slight pallor under the eyes.",
    "model": "flux-2",
    "cost": 0.024,
-   "chapters": {},
+   "chapters": {
+    "11": 2
+   },
    "character": null,
    "emotion": null
   },
@@ -635,7 +652,9 @@
    "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch09/portraits/fatman_unhappy.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face and nose clearly turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same fat old face, same white hair and stubble, same blue and cream striped knitted jersey, same skin colour; only the expression changes. Small normal realistic eyes, fully drawn with irises, pupils and highlights. A restrained realistic expression, moderate, no grin, no laughing. Expression: firm and level, explaining a law he has to keep, mouth closed and steady, eyes straight ahead, jaw set.",
    "model": "flux-2",
    "cost": 0.024,
-   "chapters": {},
+   "chapters": {
+    "10": 1
+   },
    "character": null,
    "emotion": null
   },
@@ -648,7 +667,8 @@
    "model": "flux-2-t2i",
    "cost": 0.012,
    "chapters": {
-    "9": 1
+    "9": 1,
+    "10": 1
    },
    "character": null,
    "emotion": null
@@ -661,7 +681,9 @@
    "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch09/portraits/fatman_unhappy.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face and nose clearly turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same fat old face, same white hair and stubble, same blue and cream striped knitted jersey, same skin colour; only the expression changes. Small normal realistic eyes, fully drawn with irises, pupils and highlights. A restrained realistic expression, moderate, no grin, no laughing. Expression: tired and wary, lips pressed, brow lifted, looking slightly away, a man mopping his neck, worn out.",
    "model": "flux-2",
    "cost": 0.024,
-   "chapters": {},
+   "chapters": {
+    "10": 1
+   },
    "character": null,
    "emotion": null
   },
@@ -701,7 +723,9 @@
    "prompt": "model: fal-ai/flux-2/edit\npurpose: sprite\nrefs: art/refs/ch09/portraits/enginewoman_guarded.png\n\nSame woman, same face, hair, skin and clothes. Only the expression changes: awed and quiet, eyes wide open and looking ahead and slightly up, lips slightly parted, brows lifted a little, restrained. Head and shoulders, three-quarter view turned toward the viewer's right, plain light grey background, no text. Eyes fully drawn with irises, pupils and highlights.",
    "model": "flux-2",
    "cost": 0.024,
-   "chapters": {},
+   "chapters": {
+    "12": 1
+   },
    "character": null,
    "emotion": null
   },
@@ -710,7 +734,7 @@
    "id": "p harpoongirl_angry",
    "game_file": "game/game/images/p_harpoongirl_angry.png",
    "source": "art/refs/ch06/portraits/harpoongirl_angry.png",
-   "prompt": "model: fal-ai/flux-2\npurpose: sheet\nrefs: \n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view turned toward the viewer's right (his or her face and nose point to the right edge of the picture), plain light grey background, no text. Both shoulders visible. The eyes are small, normal, realistic, fully drawn with irises, pupils and highlights, not large, not round, not shiny. Restrained realistic face. Thin pale scars like pen lines run from the temples down both sides of the neck. Wearing a close slate-grey high-collared suit. A girl of nineteen, olive-tan skin, black hair cut short at the jaw, thin face, dark eyes. Angry and stubborn: brows drawn together, mouth hard, restrained, no shouting.",
+   "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch06/portraits/harpoongirl_bitter.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same skin colour, same lighting; only the expression changes. Both shoulders visible. Small normal realistic eyes, fully drawn with irises, pupils and highlights, not large, not round, not shiny. Restrained realistic expression, moderate, no grin, no laughing. Threaded girl of about nineteen: olive-tan skin, straight black hair cut short at the jaw with a straight fringe, thin stubborn face, dark eyes, slate-grey high-collared suit with pale piping at the collar. Thread scars: thin pale pen-line scars from the temple down the side of the face and the side of the neck under the collar, fine and straight like the lines of a pen; NO X-shaped scar, NO cut across the cheek. Expression: angry, brows drawn down, eyes hard, jaw set, lips pressed.",
    "model": null,
    "cost": null,
    "chapters": {
@@ -724,7 +748,7 @@
    "id": "p harpoongirl_bitter",
    "game_file": "game/game/images/p_harpoongirl_bitter.png",
    "source": "art/refs/ch06/portraits/harpoongirl_bitter.png",
-   "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch06/portraits/harpoon_girl.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same skin colour; only the expression changes. Girl of nineteen, olive-tan skin, short black hair at the jaw, slate-grey suit, thin pale scars at the temple. Both shoulders visible. Small normal realistic eyes, fully drawn with irises, pupils and highlights, no cartoon eyes, not large, not round, not shiny. A restrained realistic expression, moderate, no grin, no laughing, no tears streaming. Expression: bitter and questioning, mouth slightly open as if asking, brows drawn, eyes hard, restrained.",
+   "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch06/portraits/harpoongirl_bitter.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same skin colour, same lighting; only the expression changes. Both shoulders visible. Small normal realistic eyes, fully drawn with irises, pupils and highlights, not large, not round, not shiny. Restrained realistic expression, moderate, no grin, no laughing. Threaded girl of about nineteen: olive-tan skin, straight black hair cut short at the jaw with a straight fringe, thin stubborn face, dark eyes, slate-grey high-collared suit with pale piping at the collar. Thread scars: thin pale pen-line scars from the temple down the side of the face and the side of the neck under the collar, fine and straight like the lines of a pen; NO X-shaped scar, NO cut across the cheek. Expression: bitter and questioning, mouth slightly open as if asking, brows drawn, eyes hard, restrained.",
    "model": null,
    "cost": null,
    "chapters": {
@@ -755,7 +779,10 @@
    "prompt": "model: fal-ai/flux-2/edit\npurpose: sprite\nrefs: art/refs/ch02/portraits/hesper.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right (nose pointing to the right edge of the picture), plain light grey background, no text. Both shoulders visible. Small normal realistic eyes, fully drawn with irises, pupils and highlights, not large, not round, not shiny. A restrained realistic expression, moderate, no grin, no tears streaming. The same character as the reference image: same face, same hair, same clothes, same skin colour; only the expression changes. Lean hard woman of about forty, dark hair pulled back, a little thinner in the face. Expression: cold and quiet, eyes level and steady, mouth closed and still, speaking softly, controlled.",
    "model": "flux-2",
    "cost": 0.024,
-   "chapters": {},
+   "chapters": {
+    "11": 3,
+    "12": 2
+   },
    "character": "Hesper",
    "emotion": "cold"
   },
@@ -764,7 +791,7 @@
    "id": "p hesper_shut",
    "game_file": "game/game/images/p_hesper_shut.png",
    "source": "art/refs/ch02/portraits/hesper_shut.png",
-   "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch02/portraits/hesper.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same lighting; only the expression changes. Both shoulders visible. The eyes are fully drawn with irises, pupils and highlights. Expression: a face like a shut door, completely impassive, holding enormous grief behind it, eyes steady and unreadable.",
+   "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch02/portraits/hesper.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same skin colour, same lighting; only the expression changes. Both shoulders visible. Small normal realistic eyes, fully drawn with irises, pupils and highlights, not large, not round, not shiny. Restrained realistic expression, moderate, no grin, no laughing. Lean hard woman of about forty with dark hair pulled back in a low bun, a strong tired face with only a few fine lines (NOT elderly, no deep wrinkles), grey-green sea-silk tunic. Expression: a face like a shut door, completely impassive, holding enormous grief behind it, eyes steady and unreadable.",
    "model": "flux-2",
    "cost": 0.024,
    "chapters": {
@@ -782,7 +809,8 @@
    "model": "flux-2-t2i",
    "cost": 0.012,
    "chapters": {
-    "2": 4
+    "2": 4,
+    "12": 2
    },
    "character": "Hesper",
    "emotion": "stern"
@@ -795,7 +823,10 @@
    "prompt": "model: fal-ai/flux-2/edit\npurpose: sprite\nrefs: art/refs/ch02/portraits/hesper.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right (nose pointing to the right edge of the picture), plain light grey background, no text. Both shoulders visible. Small normal realistic eyes, fully drawn with irises, pupils and highlights, not large, not round, not shiny. A restrained realistic expression, moderate, no grin, no tears streaming. The same character as the reference image: same face, same hair, same clothes, same skin colour; only the expression changes. Lean hard woman of about forty, dark hair pulled back, a little thinner in the face. Expression: stricken, stopped mid-thought, eyes wide open fixed on something far away, lips slightly parted, a flinch just beginning to set.",
    "model": "flux-2",
    "cost": 0.024,
-   "chapters": {},
+   "chapters": {
+    "11": 2,
+    "12": 1
+   },
    "character": "Hesper",
    "emotion": "stricken"
   },
@@ -850,7 +881,8 @@
    "model": "flux-2",
    "cost": 0.024,
    "chapters": {
-    "1": 1
+    "1": 1,
+    "12": 1
    },
    "character": "Ione",
    "emotion": "calm"
@@ -891,7 +923,8 @@
    "cost": 0.024,
    "chapters": {
     "1": 1,
-    "2": 1
+    "2": 1,
+    "12": 1
    },
    "character": "Ione",
    "emotion": "gentle"
@@ -905,7 +938,8 @@
    "model": "flux-2",
    "cost": 0.024,
    "chapters": {
-    "1": 2
+    "1": 2,
+    "12": 2
    },
    "character": "Ione",
    "emotion": "grave"
@@ -1180,7 +1214,9 @@
    "prompt": "",
    "model": null,
    "cost": null,
-   "chapters": {},
+   "chapters": {
+    "12": 3
+   },
    "character": null,
    "emotion": null
   },
@@ -1192,7 +1228,9 @@
    "prompt": "model: fal-ai/flux-2/edit\npurpose: sprite\nrefs: art/refs/ch12/portraits/odile_base.png\n\nSame woman, same face, hair, skin and clothes. Only the expression changes: cool, guarded, her eyes cooled and level, mouth closed and flat, a faint distance in the look. Head and shoulders, three-quarter view turned toward the viewer's right, plain light grey background, no text. Eyes fully drawn with irises, pupils and highlights.",
    "model": "flux-2",
    "cost": 0.024,
-   "chapters": {},
+   "chapters": {
+    "12": 1
+   },
    "character": null,
    "emotion": null
   },
@@ -1241,7 +1279,7 @@
    "id": "p okonta_cold",
    "game_file": "game/game/images/p_okonta_cold.png",
    "source": "art/refs/ch06/portraits/okonta_cold.png",
-   "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch02/portraits/okonta.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same skin colour; only the expression changes. Dark brown skin, short grey hair, slate-grey high-collared suit, and the thin pale scar lines like pen lines at the temple and down the side of the neck, clearly visible exactly as in the reference. Both shoulders visible. Small normal realistic eyes, fully drawn with irises, pupils and highlights, no cartoon eyes, not large, not round, not shiny. A restrained realistic expression, moderate, no grin, no laughing, no tears streaming. Expression: cold, closed, eyes level and hard, mouth a thin flat line, brows level.",
+   "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch02/portraits/okonta.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same skin colour, same lighting; only the expression changes. Both shoulders visible. Small normal realistic eyes, fully drawn with irises, pupils and highlights, not large, not round, not shiny. Restrained realistic expression, moderate, no grin, no laughing. Spare woman of about sixty: DARK BROWN skin, short GREY hair, close slate-grey high-collared suit, thin pale scars like pen lines from the temples down both sides of the neck under the collar, exactly as in the reference. A visibly lined face exactly as old as the reference: lines across the forehead, crow's feet, creased cheeks, lines beside the mouth; NOT smooth, NOT younger. Expression: cold, closed, eyes level and hard, mouth a thin flat line, brows level.",
    "model": "flux-2",
    "cost": 0.024,
    "chapters": {
@@ -1255,7 +1293,7 @@
    "id": "p okonta_defiant",
    "game_file": "game/game/images/p_okonta_defiant.png",
    "source": "art/refs/ch06/portraits/okonta_defiant.png",
-   "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch02/portraits/okonta.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same skin colour; only the expression changes. Dark brown skin, short grey hair, slate-grey high-collared suit, and the thin pale scar lines like pen lines at the temple and down the side of the neck, clearly visible exactly as in the reference. Both shoulders visible. Small normal realistic eyes, fully drawn with irises, pupils and highlights, no cartoon eyes, not large, not round, not shiny. A restrained realistic expression, moderate, no grin, no laughing, no tears streaming. Expression: hurt and defiant, chin lifted slightly, eyes hard, mouth tight, brows level.",
+   "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch02/portraits/okonta.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same skin colour, same lighting; only the expression changes. Both shoulders visible. Small normal realistic eyes, fully drawn with irises, pupils and highlights, not large, not round, not shiny. Restrained realistic expression, moderate, no grin, no laughing. Spare woman of about sixty: DARK BROWN skin, short GREY hair, close slate-grey high-collared suit, thin pale scars like pen lines from the temples down both sides of the neck under the collar, exactly as in the reference. A visibly lined face exactly as old as the reference: lines across the forehead, crow's feet, creased cheeks, lines beside the mouth; NOT smooth, NOT younger. Expression: hurt and defiant, chin lifted slightly, eyes hard, mouth tight, brows level.",
    "model": "flux-2",
    "cost": 0.024,
    "chapters": {
@@ -1269,12 +1307,13 @@
    "id": "p okonta_flat",
    "game_file": "game/game/images/p_okonta_flat.png",
    "source": "art/refs/ch06/portraits/okonta_flat.png",
-   "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch02/portraits/okonta.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same skin colour; only the expression changes. Dark brown skin, short grey hair, slate-grey high-collared suit, and the thin pale scar lines like pen lines at the temple and down the side of the neck, clearly visible exactly as in the reference. Both shoulders visible. Small normal realistic eyes, fully drawn with irises, pupils and highlights, no cartoon eyes, not large, not round, not shiny. A restrained realistic expression, moderate, no grin, no laughing, no tears streaming. Expression: expressionless, face completely still and smooth, eyes level looking ahead, mouth relaxed and closed.",
+   "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch02/portraits/okonta.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same skin colour, same lighting; only the expression changes. Both shoulders visible. Small normal realistic eyes, fully drawn with irises, pupils and highlights, not large, not round, not shiny. Restrained realistic expression, moderate, no grin, no laughing. Spare woman of about sixty: DARK BROWN skin, short GREY hair, close slate-grey high-collared suit, thin pale scars like pen lines from the temples down both sides of the neck under the collar, exactly as in the reference. A visibly lined face exactly as old as the reference: lines across the forehead, crow's feet, creased cheeks, lines beside the mouth; NOT smooth, NOT younger. Expression: expressionless, face completely still, eyes level looking ahead, mouth relaxed and closed.",
    "model": "flux-2",
    "cost": 0.024,
    "chapters": {
     "6": 6,
-    "7": 1
+    "7": 1,
+    "11": 3
    },
    "character": "Okonta",
    "emotion": "flat"
@@ -1309,7 +1348,9 @@
     "5": 2,
     "7": 5,
     "8": 1,
-    "9": 3
+    "9": 3,
+    "10": 1,
+    "11": 1
    },
    "character": "Okonta",
    "emotion": "grave"
@@ -1324,7 +1365,8 @@
    "cost": 0.024,
    "chapters": {
     "5": 4,
-    "7": 1
+    "7": 1,
+    "12": 1
    },
    "character": "Okonta",
    "emotion": "grim"
@@ -1382,7 +1424,7 @@
    "id": "p okonta_urgent",
    "game_file": "game/game/images/p_okonta_urgent.png",
    "source": "art/refs/ch02/portraits/okonta_urgent.png",
-   "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch02/portraits/okonta.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, the SAME DARK BROWN SKIN, same short grey hair, same slate-grey high-collared suit, same fine pale scars at the temples and neck; only the expression changes. Both shoulders visible. The eyes are fully drawn with irises, pupils and highlights. Expression: urgent and decisive, speaking, eyes direct.",
+   "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch02/portraits/okonta.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same skin colour, same lighting; only the expression changes. Both shoulders visible. Small normal realistic eyes, fully drawn with irises, pupils and highlights, not large, not round, not shiny. Restrained realistic expression, moderate, no grin, no laughing. Spare woman of about sixty: DARK BROWN skin, short GREY hair, close slate-grey high-collared suit, thin pale scars like pen lines from the temples down both sides of the neck under the collar, exactly as in the reference. A visibly lined face exactly as old as the reference: lines across the forehead, crow's feet, creased cheeks, lines beside the mouth; NOT smooth, NOT younger. Expression: urgent and decisive, speaking, eyes direct.",
    "model": "flux-2",
    "cost": 0.024,
    "chapters": {
@@ -1390,7 +1432,8 @@
     "3": 4,
     "4": 2,
     "5": 2,
-    "9": 2
+    "9": 2,
+    "11": 1
    },
    "character": "Okonta",
    "emotion": "urgent"
@@ -1400,7 +1443,7 @@
    "id": "p okonta_wincing",
    "game_file": "game/game/images/p_okonta_wincing.png",
    "source": "art/refs/ch06/portraits/okonta_wincing.png",
-   "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch02/portraits/okonta.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same skin colour; only the expression changes. Dark brown skin, short grey hair, slate-grey high-collared suit, and the thin pale scar lines like pen lines at the temple and down the side of the neck, clearly visible exactly as in the reference. Both shoulders visible. Small normal realistic eyes, fully drawn with irises, pupils and highlights, no cartoon eyes, not large, not round, not shiny. A restrained realistic expression, moderate, no grin, no laughing, no tears streaming. Expression: a small wince of pain held back, eyes narrowed, one brow pulled slightly, lips pressed.",
+   "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch02/portraits/okonta.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same skin colour, same lighting; only the expression changes. Both shoulders visible. Small normal realistic eyes, fully drawn with irises, pupils and highlights, not large, not round, not shiny. Restrained realistic expression, moderate, no grin, no laughing. Spare woman of about sixty: DARK BROWN skin, short GREY hair, close slate-grey high-collared suit, thin pale scars like pen lines from the temples down both sides of the neck under the collar, exactly as in the reference. A visibly lined face exactly as old as the reference: lines across the forehead, crow's feet, creased cheeks, lines beside the mouth; NOT smooth, NOT younger. Expression: a small wince of pain held back, eyes narrowed, one brow pulled slightly, lips pressed.",
    "model": "flux-2",
    "cost": 0.024,
    "chapters": {
@@ -1431,7 +1474,7 @@
    "id": "p oro_content",
    "game_file": "game/game/images/p_oro_content.png",
    "source": "art/refs/ch02/portraits/oro_content.png",
-   "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch01/portraits/oro.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same lighting; only the expression changes. Both shoulders visible. The eyes are fully drawn with irises, pupils and highlights. A subdued, quiet, realistic expression: no grin, no laughing, no wide open mouth, no wink. Expression: quietly contented, a small gentle smile, eyes soft and peaceful.",
+   "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch01/portraits/oro.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same skin colour, same lighting; only the expression changes. Both shoulders visible. Small normal realistic eyes, fully drawn with irises, pupils and highlights, not large, not round, not shiny. Restrained realistic expression, moderate, no grin, no laughing. A VERY OLD man, deeply wrinkled, bald warm orange-brown head with grey hair at the sides, warm brown skin, loose grey-green robe, gentle slightly amused look; lines across the forehead, crow's feet, creased cheeks, as old as the reference. Expression: quietly contented, a small gentle smile, eyes soft and peaceful.",
    "model": "flux-2",
    "cost": 0.024,
    "chapters": {
@@ -1570,7 +1613,9 @@
    "model": "flux-2",
    "cost": 0.024,
    "chapters": {
-    "9": 3
+    "9": 3,
+    "10": 1,
+    "11": 1
    },
    "character": null,
    "emotion": null
@@ -1584,7 +1629,8 @@
    "model": "flux-2-t2i",
    "cost": 0.012,
    "chapters": {
-    "9": 4
+    "9": 4,
+    "10": 1
    },
    "character": null,
    "emotion": null
@@ -1594,7 +1640,7 @@
    "id": "p rook50_calm",
    "game_file": "game/game/images/p_rook50_calm.png",
    "source": "art/refs/ch07/portraits/rook50_calm.png",
-   "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch04/portraits/anselm_calm.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same skin colour, same lighting; only the expression changes. Both shoulders visible. Small normal realistic eyes, fully drawn with irises, pupils and highlights, no cartoon eyes, not large, not round, not shiny. A restrained realistic expression, moderate, no grin, no laughing, no tears streaming. The same man twenty-two years younger, about fifty: a broad, square, quiet man with short dark hair going grey at the temples (not white), heavy courteous face with fewer lines, grey-blue eyes, wearing a high dark collar that covers his neck completely, no scars visible. Expression: calm and courteous, patient, a face that listens.",
+   "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch04/portraits/anselm_calm.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same skin colour, same lighting; only the expression changes. Both shoulders visible. Small normal realistic eyes, fully drawn with irises, pupils and highlights, not large, not round, not shiny. Restrained realistic expression, moderate, no grin, no laughing. The same man twenty-two years younger, about fifty: the same face, same bone structure, same nose, same jaw, same ears and same grey-blue eyes as the reference; eyebrows the same thin shape as the reference but dark; short dark hair swept back with grey only at the temples (not white); a smoother face with fewer and shallower lines than the reference; broad, square, quiet; a high dark collar that covers his neck completely; NO scars anywhere on the face or neck. Expression: calm and courteous, patient, a face that listens.",
    "model": "flux-2",
    "cost": 0.024,
    "chapters": {},
@@ -1606,7 +1652,7 @@
    "id": "p rook50_cold",
    "game_file": "game/game/images/p_rook50_cold.png",
    "source": "art/refs/ch07/portraits/rook50_cold.png",
-   "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch07/portraits/rook50_calm.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same clothes, same skin colour, same lighting; only the expression changes. Both shoulders visible. Small normal realistic eyes, fully drawn with irises, pupils and highlights, no cartoon eyes, not large, not round, not shiny. A restrained realistic expression, moderate, no grin, no laughing, no tears streaming. Same man about fifty, short dark hair going grey at the temples, grey-blue eyes, high dark collar. Expression: quiet and still, eyes level and cooled, mouth a closed even line, a courteous face that has just decided something.",
+   "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch04/portraits/anselm_cold.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same skin colour, same lighting; only the expression changes. Both shoulders visible. Small normal realistic eyes, fully drawn with irises, pupils and highlights, not large, not round, not shiny. Restrained realistic expression, moderate, no grin, no laughing. The same man twenty-two years younger, about fifty: the same face, same bone structure, same nose, same jaw, same ears and same grey-blue eyes as the reference; eyebrows the same thin shape as the reference but dark; short dark hair swept back with grey only at the temples (not white); a smoother face with fewer and shallower lines than the reference; broad, square, quiet; a high dark collar that covers his neck completely; NO scars anywhere on the face or neck. Expression: quiet and still, eyes level and cooled, mouth a closed even line, a courteous face that has just decided something.",
    "model": "flux-2",
    "cost": 0.024,
    "chapters": {},
@@ -1722,7 +1768,8 @@
    "model": "flux-2",
    "cost": 0.024,
    "chapters": {
-    "5": 1
+    "5": 1,
+    "11": 2
    },
    "character": "Sefa",
    "emotion": "eyes_filling"
@@ -1737,7 +1784,8 @@
    "cost": 0.024,
    "chapters": {
     "2": 1,
-    "5": 2
+    "5": 2,
+    "11": 2
    },
    "character": "Sefa",
    "emotion": "fierce"
@@ -1753,7 +1801,8 @@
    "chapters": {
     "5": 1,
     "7": 1,
-    "8": 3
+    "8": 3,
+    "12": 1
    },
    "character": "Sefa",
    "emotion": "hard"
@@ -1763,7 +1812,7 @@
    "id": "p sefa_lip",
    "game_file": "game/game/images/p_sefa_lip.png",
    "source": "art/refs/ch06/portraits/sefa_lip.png",
-   "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch01/portraits/sefa.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same skin colour; only the expression changes. Girl of sixteen in profile like the reference, dark hair in a high ponytail with a silver-white strip, large nearly black eyes with grey-brown irises, light skin, short sleeveless grey-green tunic. Both shoulders visible. Small normal realistic eyes, fully drawn with irises, pupils and highlights, no cartoon eyes, not large, not round, not shiny. A restrained realistic expression, moderate, no grin, no laughing, no tears streaming. Expression: concentrating hard, her lower lip pulled in and held between her upper teeth, eyes lowered and focused, brows slightly drawn.",
+   "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch01/portraits/sefa.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same skin colour, same lighting; only the expression changes. Both shoulders visible. Small normal realistic eyes, fully drawn with irises, pupils and highlights, not large, not round, not shiny. Restrained realistic expression, moderate, no grin, no laughing. Girl of about sixteen: a youthful soft face with round cheeks, small short nose, thin long limbs, dark hair in a high ponytail with a shining silver-white strip, large nearly black eyes, short sleeveless grey-green sea-silk tunic. Expression: concentrating hard, her lower lip pulled in and held between her upper teeth, eyes lowered and focused, brows slightly drawn.",
    "model": "flux-2",
    "cost": 0.024,
    "chapters": {},
@@ -1775,7 +1824,7 @@
    "id": "p sefa_proud",
    "game_file": "game/game/images/p_sefa_proud.png",
    "source": "art/refs/ch01/portraits/sefa_proud.png",
-   "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch01/portraits/sefa.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same lighting; only the expression changes. Both shoulders visible. Expression: proud, chin lifted, a slight smirk.",
+   "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch01/portraits/sefa.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same skin colour, same lighting; only the expression changes. Both shoulders visible. Small normal realistic eyes, fully drawn with irises, pupils and highlights, not large, not round, not shiny. Restrained realistic expression, moderate, no grin, no laughing. Girl of about sixteen: a youthful soft face with round cheeks, small short nose, thin long limbs, dark hair in a high ponytail with a shining silver-white strip, large nearly black eyes, short sleeveless grey-green sea-silk tunic. Expression: proud, chin lifted, a slight smirk.",
    "model": "flux-2",
    "cost": 0.024,
    "chapters": {
@@ -1793,7 +1842,8 @@
    "model": "flux-2",
    "cost": 0.024,
    "chapters": {
-    "8": 1
+    "8": 1,
+    "11": 1
    },
    "character": "Sefa",
    "emotion": "puzzled"
@@ -1806,7 +1856,10 @@
    "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch10/portraits/dace_angry.png, game/game/images/p_sefa_wary.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face and nose clearly turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same skin colour; only the expression changes. Small normal realistic eyes, fully drawn with irises, pupils and highlights, no cartoon eyes. A restrained realistic expression, moderate, no grin, no laughing, no tears. Expression: quiet, withdrawn and shaken, eyes cast down, lips pressed together, no tears, face pale. A young woman with black hair tied up with a pale ribbon, olive-grey sleeveless top; same as reference image 2.",
    "model": "flux-2",
    "cost": 0.036,
-   "chapters": {},
+   "chapters": {
+    "10": 2,
+    "12": 1
+   },
    "character": "Sefa",
    "emotion": "shaken"
   },
@@ -1820,7 +1873,9 @@
    "cost": 0.024,
    "chapters": {
     "1": 2,
-    "2": 1
+    "2": 1,
+    "10": 1,
+    "11": 1
    },
    "character": "Sefa",
    "emotion": "sharp"
@@ -1877,7 +1932,8 @@
    "cost": 0.024,
    "chapters": {
     "1": 7,
-    "8": 8
+    "8": 8,
+    "10": 1
    },
    "character": "Sefa",
    "emotion": "thoughtful"
@@ -1891,7 +1947,8 @@
    "model": "flux-2",
    "cost": 0.024,
    "chapters": {
-    "5": 5
+    "5": 5,
+    "10": 1
    },
    "character": "Sefa",
    "emotion": "tired"
@@ -1904,7 +1961,9 @@
    "prompt": "model: fal-ai/flux-2/edit\npurpose: sprite\nrefs: art/refs/ch01/portraits/sefa.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right (nose pointing to the right edge of the picture), plain light grey background, no text. Both shoulders visible. Small normal realistic eyes, fully drawn with irises, pupils and highlights, not large, not round, not shiny. A restrained realistic expression, moderate, no grin, no tears streaming. The same character as the reference image: same face, same hair, same clothes, same skin colour; only the expression changes. Thin girl of about sixteen, dark hair in a high ponytail with a silver-white strip, large nearly black eyes, light skin. Expression: she has just understood something terrible, dry-eyed, face gone still and pale, eyes steady, mouth closed, no tears.",
    "model": "flux-2",
    "cost": 0.024,
-   "chapters": {},
+   "chapters": {
+    "11": 1
+   },
    "character": "Sefa",
    "emotion": "understanding"
   },
@@ -1918,7 +1977,8 @@
    "cost": 0.024,
    "chapters": {
     "1": 4,
-    "7": 1
+    "7": 1,
+    "11": 1
    },
    "character": "Sefa",
    "emotion": "wary"
@@ -1956,11 +2016,12 @@
    "id": "p vey_tight",
    "game_file": "game/game/images/p_vey_tight.png",
    "source": "art/refs/ch05/portraits/vey_tight.png",
-   "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch05/portraits/vey.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same skin colour; only the expression changes. Both shoulders visible. The eyes are fully drawn with irises, pupils and highlights, looking open. A restrained realistic expression, moderate, no grin, no laughing, no tears streaming. Expression: tight-mouthed, lips pressed into a thin tense line, jaw set, a small tension at the brow. She must look SEVENTY YEARS OLD: deep lines across the forehead, crow's feet, creased cheeks, loose skin at the jaw.",
+   "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch05/portraits/vey.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same skin colour, same lighting; only the expression changes. Both shoulders visible. Small normal realistic eyes, fully drawn with irises, pupils and highlights, not large, not round, not shiny. Restrained realistic expression, moderate, no grin, no laughing. Tall exact woman of seventy with silver hair bound close to her head, light skin, formal high-collared deep sea-green robe with a pale band at the collar; the same age as the reference: lines across the forehead, crow's feet, creased cheeks, but NOT older and no sagging skin. Expression: tight-mouthed, lips pressed into a thin tense line, jaw set, a small tension at the brow.",
    "model": "flux-2",
    "cost": 0.024,
    "chapters": {
-    "5": 2
+    "5": 2,
+    "12": 1
    },
    "character": null,
    "emotion": null
@@ -2012,7 +2073,7 @@
    "id": "p wrack_hat_guarded",
    "game_file": "game/game/images/p_wrack_hat_guarded.png",
    "source": "art/refs/ch08/portraits/wrack_hat_guarded.png",
-   "prompt": "model: fal-ai/flux-2/edit\npurpose: sprite\nrefs: art/refs/ch04/threaded/final/calm.png, art/refs/ch08/portraits/wrack_hat_calm.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same skin colour; only the expression changes. Both shoulders visible. Small normal realistic eyes, fully drawn with irises, pupils and highlights, not large, not round, not shiny. Restrained realistic expression. Man with a single thin pale line down the side of the neck (keep it visible), plain loose grey-green tunic. The hat is exactly the hat from reference 2: a plain soft dark-grey hat with a short brim. Expression: guarded and watchful, eyes alert, mouth closed.",
+   "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch04/threaded/final/grieving.png, art/refs/ch08/portraits/wrack_hat_calm.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same skin colour, same lighting; only the expression changes. Both shoulders visible. Small normal realistic eyes, fully drawn with irises, pupils and highlights, not large, not round, not shiny. Restrained realistic expression, moderate, no grin, no laughing. Man like the reference: lean adult man about thirty-five, short messy black hair of the same length and shape as the reference, light skin, dark brown eyes, a smooth young-looking face with NO wrinkles and NO age lines on the forehead or around the eyes. ONE single thin pale line on the skin of the neck, a faint healed-looking mark the colour of pale pinkish cream, about two pixels wide at normal size, slightly lighter than the skin; it starts at the hairline beside the temple and runs in one smooth gentle unbranched curve down the side of the neck, ending at the collar. Exactly one line: not doubled, not wavy, not zigzag, not forked, not glowing, no sparkles; nothing on the cheek, jaw, ear or face; only on the side of the neck facing the viewer, clearly visible at a normal glance. A plain soft dark-grey short-brimmed hat as in the second reference, grey-green tunic. Expression: guarded and watchful, eyes alert, mouth closed.",
    "model": "flux-2",
    "cost": 0.036,
    "chapters": {
@@ -2068,7 +2129,7 @@
    "id": "p wrack_suit_cool",
    "game_file": "game/game/images/p_wrack_suit_cool.png",
    "source": "art/refs/ch08/portraits/wrack_suit_cool.png",
-   "prompt": "model: fal-ai/flux-2/edit\npurpose: sprite\nrefs: art/refs/ch04/threaded/final/calm.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same skin colour; only the expression changes. Both shoulders visible. Small normal realistic eyes, fully drawn with irises, pupils and highlights, not large, not round, not shiny. Restrained realistic expression, moderate, no grin, no laughing. Man like the reference, lean, short messy black hair, light skin, dark brown eyes, a single thin pale line from the temple down the side of the neck (keep it visible). Instead of the tunic he now wears a well-cut dark charcoal business suit, white shirt with an open soft collar and a loosened dark tie, the neck line still visible above the collar, no hat. Expression: cool, bored and faintly threatening, eyes half-lidded and level, mouth flat, an executive's authority.",
+   "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch04/threaded/final/grieving.png, art/refs/ch08/portraits/wrack_suit_cool.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same skin colour, same lighting; only the expression changes. Both shoulders visible. Small normal realistic eyes, fully drawn with irises, pupils and highlights, not large, not round, not shiny. Restrained realistic expression, moderate, no grin, no laughing. Man like the reference: lean adult man about thirty-five, short messy black hair of the same length and shape as the reference, light skin, dark brown eyes, a smooth young-looking face with NO wrinkles and NO age lines on the forehead or around the eyes. ONE single thin pale line on the skin of the neck, a faint healed-looking mark the colour of pale pinkish cream, about two pixels wide at normal size, slightly lighter than the skin; it starts at the hairline beside the temple and runs in one smooth gentle unbranched curve down the side of the neck, ending at the collar. Exactly one line: not doubled, not wavy, not zigzag, not forked, not glowing, no sparkles; nothing on the cheek, jaw, ear or face; only on the side of the neck facing the viewer, clearly visible at a normal glance. A dark charcoal business suit, white shirt, loosened dark tie, no hat. Expression: cool, bored and faintly threatening, eyes half-lidded and level, mouth flat, an executive's authority.",
    "model": "flux-2",
    "cost": 0.024,
    "chapters": {},
@@ -2080,7 +2141,7 @@
    "id": "p wrack_suit_sorrowful",
    "game_file": "game/game/images/p_wrack_suit_sorrowful.png",
    "source": "art/refs/ch08/portraits/wrack_suit_sorrowful.png",
-   "prompt": "model: fal-ai/flux-2/edit\npurpose: sprite\nrefs: art/refs/ch04/threaded/final/calm.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same skin colour; only the expression changes. Both shoulders visible. Small normal realistic eyes, fully drawn with irises, pupils and highlights, not large, not round, not shiny. Restrained realistic expression, moderate, no grin, no laughing. Man like the reference, lean, short messy black hair, light skin, dark brown eyes, a single thin pale line from the temple down the side of the neck (keep it visible). Instead of the tunic he now wears a well-cut dark charcoal business suit, white shirt with an open soft collar and a loosened dark tie, the neck line still visible above the collar, no hat. Expression: sorrowful and sincere, brows drawn up in the middle, eyes soft and glistening, mouth closed, an apology.",
+   "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch04/threaded/final/exhausted.png, art/refs/ch08/portraits/wrack_suit_cool.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same skin colour, same lighting; only the expression changes. Both shoulders visible. Small normal realistic eyes, fully drawn with irises, pupils and highlights, not large, not round, not shiny. Restrained realistic expression, moderate, no grin, no laughing. Man like the reference: lean adult man about thirty-five, short messy black hair of the same length and shape as the reference, light skin, dark brown eyes, a smooth young-looking face with NO wrinkles and NO age lines on the forehead or around the eyes. ONE single thin pale line on the skin of the neck, a faint healed-looking mark the colour of pale pinkish cream, about two pixels wide at normal size, slightly lighter than the skin; it starts at the hairline beside the temple and runs in one smooth gentle unbranched curve down the side of the neck, ending at the collar. Exactly one line: not doubled, not wavy, not zigzag, not forked, not glowing, no sparkles; nothing on the cheek, jaw, ear or face; only on the side of the neck facing the viewer, clearly visible at a normal glance. A dark charcoal business suit, white shirt, loosened dark tie, no hat. Expression: sorrowful and sincere, brows drawn up in the middle, eyes soft and glistening, mouth closed, an apology; the face stays smooth and young, no forehead lines.",
    "model": "flux-2",
    "cost": 0.024,
    "chapters": {
@@ -2114,7 +2175,9 @@
    "chapters": {
     "6": 1,
     "7": 4,
-    "8": 3
+    "8": 3,
+    "11": 1,
+    "12": 3
    },
    "character": "Wrack",
    "emotion": "ashamed"
@@ -2124,14 +2187,17 @@
    "id": "p wrack_thread_attentive",
    "game_file": "game/game/images/p_wrack_thread_attentive.png",
    "source": "art/refs/ch04/portraits/wrack_thread_attentive.png",
-   "prompt": "Anime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same short messy black hair, same grey-green tunic, same lighting, same skin colour, same expression exactly; nothing changes except one small addition. The addition: ONE single thin pale line on the skin, a faint healed-looking mark the colour of pale pinkish cream, a clearly visible line about two pixels wide at normal size, slightly lighter than the skin with a hair-thin soft shadow along one edge so it reads as a slightly raised mark. It starts at the hairline beside the temple and runs in one gentle unbranched curve down the side of the neck, ending at the collar. NOT branching, NOT forked, NOT wiry, NOT silver, NOT a cable. Exactly one line, ONLY on the neck below the ear: nothing on the cheek, jaw, ear or face; no second line; no fork at the top; the top of the line fades out just under the ear lobe; short, only on this one side, visible at a normal glance without being large. Nothing else on the face or neck changes. The eyes are fully drawn with irises, pupils and highlights.",
+   "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch04/threaded/final/grieving.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same skin colour, same lighting; only the expression changes. Both shoulders visible. Small normal realistic eyes, fully drawn with irises, pupils and highlights, not large, not round, not shiny. Restrained realistic expression, moderate, no grin, no laughing. Man like the reference: lean adult man about thirty-five, short messy black hair of the same length and shape as the reference, light skin, dark brown eyes, a smooth young-looking face with NO wrinkles and NO age lines on the forehead or around the eyes. ONE single thin pale line on the skin of the neck, a faint healed-looking mark the colour of pale pinkish cream, about two pixels wide at normal size, slightly lighter than the skin; it starts at the hairline beside the temple and runs in one smooth gentle unbranched curve down the side of the neck, ending at the collar. Exactly one line: not doubled, not wavy, not zigzag, not forked, not glowing, no sparkles; nothing on the cheek, jaw, ear or face; only on the side of the neck facing the viewer, clearly visible at a normal glance. Plain loose grey-green tunic as in the reference. Expression: attentive and listening, eyes alert and level, brows relaxed, mouth closed, head slightly forward.",
    "model": null,
    "cost": null,
    "chapters": {
     "5": 3,
     "7": 5,
     "8": 3,
-    "9": 8
+    "9": 8,
+    "10": 10,
+    "11": 2,
+    "12": 5
    },
    "character": "Wrack",
    "emotion": "attentive"
@@ -2141,7 +2207,7 @@
    "id": "p wrack_thread_calm",
    "game_file": "game/game/images/p_wrack_thread_calm.png",
    "source": "art/refs/ch04/portraits/wrack_thread_calm.png",
-   "prompt": "Anime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same short messy black hair, same grey-green tunic, same lighting, same skin colour, same expression exactly; nothing changes except one small addition. The addition: ONE single thin pale line on the skin, a faint healed-looking mark the colour of pale pinkish cream, a clearly visible line about two pixels wide at normal size, slightly lighter than the skin with a hair-thin soft shadow along one edge so it reads as a slightly raised mark. It starts at the hairline beside the temple and runs in one gentle unbranched curve down the side of the neck, ending at the collar. NOT branching, NOT forked, NOT wiry, NOT silver, NOT a cable. Exactly one line, ONLY on the neck below the ear: nothing on the cheek, jaw, ear or face; no second line; no fork at the top; the top of the line fades out just under the ear lobe; short, only on this one side, visible at a normal glance without being large. Nothing else on the face or neck changes. The eyes are fully drawn with irises, pupils and highlights.",
+   "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch04/threaded/final/grieving.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same skin colour, same lighting; only the expression changes. Both shoulders visible. Small normal realistic eyes, fully drawn with irises, pupils and highlights, not large, not round, not shiny. Restrained realistic expression, moderate, no grin, no laughing. Man like the reference: lean adult man about thirty-five, short messy black hair of the same length and shape as the reference, light skin, dark brown eyes, a smooth young-looking face with NO wrinkles and NO age lines on the forehead or around the eyes. ONE single thin pale line on the skin of the neck, a faint healed-looking mark the colour of pale pinkish cream, about two pixels wide at normal size, slightly lighter than the skin; it starts at the hairline beside the temple and runs in one smooth gentle unbranched curve down the side of the neck, ending at the collar. Exactly one line: not doubled, not wavy, not zigzag, not forked, not glowing, no sparkles; nothing on the cheek, jaw, ear or face; only on the side of the neck facing the viewer, clearly visible at a normal glance. Plain loose grey-green tunic as in the reference. Expression: calm, quiet and gentle, eyes soft, mouth relaxed and closed, a hint of sadness.",
    "model": null,
    "cost": null,
    "chapters": {
@@ -2150,7 +2216,9 @@
     "6": 2,
     "7": 1,
     "8": 4,
-    "9": 6
+    "9": 6,
+    "10": 4,
+    "12": 1
    },
    "character": "Wrack",
    "emotion": "calm"
@@ -2160,7 +2228,7 @@
    "id": "p wrack_thread_cold",
    "game_file": "game/game/images/p_wrack_thread_cold.png",
    "source": "art/refs/ch11/portraits/wrack_thread_cold.png",
-   "prompt": "model: fal-ai/flux-2/edit\npurpose: sprite\nrefs: art/refs/ch04/threaded/final/calm.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right (nose pointing to the right edge of the picture), plain light grey background, no text. Both shoulders visible. Small normal realistic eyes, fully drawn with irises, pupils and highlights, not large, not round, not shiny. A restrained realistic expression, moderate, no grin, no tears streaming. The same character as the reference image: same face, same hair, same clothes, same skin colour; only the expression changes. Lean man, short messy black hair, light skin, grey-green tunic, a single thin pale Thread line down the side of the neck. Expression: cold and empty, face smooth and still like a man doing sums, eyes level and hard, mouth closed.",
+   "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch04/threaded/final/grieving.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same skin colour, same lighting; only the expression changes. Both shoulders visible. Small normal realistic eyes, fully drawn with irises, pupils and highlights, not large, not round, not shiny. Restrained realistic expression, moderate, no grin, no laughing. Man like the reference: lean adult man about thirty-five, short messy black hair of the same length and shape as the reference, light skin, dark brown eyes, a smooth young-looking face with NO wrinkles and NO age lines on the forehead or around the eyes. ONE single thin pale line on the skin of the neck, a faint healed-looking mark the colour of pale pinkish cream, about two pixels wide at normal size, slightly lighter than the skin; it starts at the hairline beside the temple and runs in one smooth gentle unbranched curve down the side of the neck, ending at the collar. Exactly one line: not doubled, not wavy, not zigzag, not forked, not glowing, no sparkles; nothing on the cheek, jaw, ear or face; only on the side of the neck facing the viewer, clearly visible at a normal glance. Plain loose grey-green tunic as in the reference. Expression: cold and empty, face smooth and still like a man doing sums, eyes level and hard, mouth closed.",
    "model": "flux-2",
    "cost": 0.024,
    "chapters": {},
@@ -2176,7 +2244,8 @@
    "model": null,
    "cost": null,
    "chapters": {
-    "5": 1
+    "5": 1,
+    "11": 1
    },
    "character": "Wrack",
    "emotion": "dazed"
@@ -2186,12 +2255,13 @@
    "id": "p wrack_thread_dejected",
    "game_file": "game/game/images/p_wrack_thread_dejected.png",
    "source": "art/refs/ch04/portraits/wrack_thread_dejected.png",
-   "prompt": "Anime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same short messy black hair, same grey-green tunic, same lighting, same skin colour, same expression exactly; nothing changes except one small addition. The addition: ONE single thin pale line on the skin, a faint healed-looking mark the colour of pale pinkish cream, a clearly visible line about two pixels wide at normal size, slightly lighter than the skin with a hair-thin soft shadow along one edge so it reads as a slightly raised mark. It starts at the hairline beside the temple and runs in one gentle unbranched curve down the side of the neck, ending at the collar. NOT branching, NOT forked, NOT wiry, NOT silver, NOT a cable. Exactly one line, ONLY on the neck below the ear: nothing on the cheek, jaw, ear or face; no second line; no fork at the top; the top of the line fades out just under the ear lobe; short, only on this one side, visible at a normal glance without being large. Nothing else on the face or neck changes. The eyes are fully drawn with irises, pupils and highlights.",
+   "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch04/threaded/final/grieving.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same skin colour, same lighting; only the expression changes. Both shoulders visible. Small normal realistic eyes, fully drawn with irises, pupils and highlights, not large, not round, not shiny. Restrained realistic expression, moderate, no grin, no laughing. Man like the reference: lean adult man about thirty-five, short messy black hair of the same length and shape as the reference, light skin, dark brown eyes, a smooth young-looking face with NO wrinkles and NO age lines on the forehead or around the eyes. ONE single thin pale line on the skin of the neck, a faint healed-looking mark the colour of pale pinkish cream, about two pixels wide at normal size, slightly lighter than the skin; it starts at the hairline beside the temple and runs in one smooth gentle unbranched curve down the side of the neck, ending at the collar. Exactly one line: not doubled, not wavy, not zigzag, not forked, not glowing, no sparkles; nothing on the cheek, jaw, ear or face; only on the side of the neck facing the viewer, clearly visible at a normal glance. Plain loose grey-green tunic as in the reference. Expression: dejected, eyes cast down, face heavy, mouth closed.",
    "model": null,
    "cost": null,
    "chapters": {
     "6": 6,
-    "7": 1
+    "7": 1,
+    "11": 1
    },
    "character": "Wrack",
    "emotion": "dejected"
@@ -2229,13 +2299,14 @@
    "id": "p wrack_thread_frightened",
    "game_file": "game/game/images/p_wrack_thread_frightened.png",
    "source": "art/refs/ch04/portraits/wrack_thread_frightened.png",
-   "prompt": "Anime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same short messy black hair, same grey-green tunic, same lighting, same skin colour, same expression exactly; nothing changes except one small addition. The addition: ONE single thin pale line on the skin, a faint healed-looking mark the colour of pale pinkish cream, a clearly visible line about two pixels wide at normal size, slightly lighter than the skin with a hair-thin soft shadow along one edge so it reads as a slightly raised mark. It starts at the hairline beside the temple and runs in one gentle unbranched curve down the side of the neck, ending at the collar. NOT branching, NOT forked, NOT wiry, NOT silver, NOT a cable. Exactly one line, ONLY on the neck below the ear: nothing on the cheek, jaw, ear or face; no second line; no fork at the top; the top of the line fades out just under the ear lobe; short, only on this one side, visible at a normal glance without being large. Nothing else on the face or neck changes. The eyes are fully drawn with irises, pupils and highlights.",
+   "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch04/threaded/final/stunned.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same skin colour, same lighting; only the expression changes. Both shoulders visible. Small normal realistic eyes, fully drawn with irises, pupils and highlights, not large, not round, not shiny. Restrained realistic expression, moderate, no grin, no laughing. Man like the reference: lean adult man about thirty-five, short messy black hair of the same length and shape as the reference, light skin, dark brown eyes, a smooth young-looking face with NO wrinkles and NO age lines on the forehead or around the eyes. ONE single thin pale line on the skin of the neck, a faint healed-looking mark the colour of pale pinkish cream, about two pixels wide at normal size, slightly lighter than the skin; it starts at the hairline beside the temple and runs in one smooth gentle unbranched curve down the side of the neck, ending at the collar. Exactly one line: not doubled, not wavy, not zigzag, not forked, not glowing, no sparkles; nothing on the cheek, jaw, ear or face; only on the side of the neck facing the viewer, clearly visible at a normal glance. Plain loose grey-green tunic as in the reference. Expression: frightened, eyes wide, brows raised, mouth slightly open, looking toward the right; keep the hair the same length as the reference and the face an adult's, not boyish. The thin pale line must be clearly visible on the neck below the ear, long enough to run from just under the ear down to the collar, and it must be ONE line only: no second line, no V or Y shape, no fork.",
    "model": null,
    "cost": null,
    "chapters": {
     "4": 3,
     "5": 1,
-    "9": 1
+    "9": 1,
+    "12": 1
    },
    "character": "Wrack",
    "emotion": "frightened"
@@ -2252,7 +2323,10 @@
     "4": 2,
     "5": 1,
     "6": 1,
-    "7": 2
+    "7": 2,
+    "10": 3,
+    "11": 6,
+    "12": 2
    },
    "character": "Wrack",
    "emotion": "grieving"
@@ -2262,10 +2336,12 @@
    "id": "p wrack_thread_pleading",
    "game_file": "game/game/images/p_wrack_thread_pleading.png",
    "source": "art/refs/ch11/portraits/wrack_thread_pleading.png",
-   "prompt": "model: fal-ai/flux-2/edit\npurpose: sprite\nrefs: art/refs/ch04/threaded/final/calm.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right (nose pointing to the right edge of the picture), plain light grey background, no text. Both shoulders visible. Small normal realistic eyes, fully drawn with irises, pupils and highlights, not large, not round, not shiny. A restrained realistic expression, moderate, no grin, no tears streaming. The same character as the reference image: same face, same hair, same clothes, same skin colour; only the expression changes. Lean man, short messy black hair, light skin, grey-green tunic, a single thin pale Thread line down the side of the neck. Expression: pleading quietly, brows drawn up in the middle, eyes earnest, mouth slightly open as if saying her name.",
+   "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch04/threaded/final/grieving.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same skin colour, same lighting; only the expression changes. Both shoulders visible. Small normal realistic eyes, fully drawn with irises, pupils and highlights, not large, not round, not shiny. Restrained realistic expression, moderate, no grin, no laughing. Man like the reference: lean adult man about thirty-five, short messy black hair of the same length and shape as the reference, light skin, dark brown eyes, a smooth young-looking face with NO wrinkles and NO age lines on the forehead or around the eyes. ONE single thin pale line on the skin of the neck, a faint healed-looking mark the colour of pale pinkish cream, about two pixels wide at normal size, slightly lighter than the skin; it starts at the hairline beside the temple and runs in one smooth gentle unbranched curve down the side of the neck, ending at the collar. Exactly one line: not doubled, not wavy, not zigzag, not forked, not glowing, no sparkles; nothing on the cheek, jaw, ear or face; only on the side of the neck facing the viewer, clearly visible at a normal glance. Plain loose grey-green tunic as in the reference. Expression: pleading quietly, brows drawn up in the middle, eyes earnest, mouth slightly open as if saying her name.",
    "model": "flux-2",
    "cost": 0.024,
-   "chapters": {},
+   "chapters": {
+    "11": 1
+   },
    "character": "Wrack",
    "emotion": "pleading"
   },
@@ -2281,7 +2357,10 @@
     "4": 1,
     "5": 3,
     "7": 2,
-    "9": 5
+    "9": 5,
+    "10": 1,
+    "11": 1,
+    "12": 1
    },
    "character": "Wrack",
    "emotion": "resolved"
@@ -2297,7 +2376,8 @@
    "chapters": {
     "4": 2,
     "6": 1,
-    "9": 2
+    "9": 2,
+    "10": 1
    },
    "character": "Wrack",
    "emotion": "shaken"
@@ -2307,7 +2387,7 @@
    "id": "p wrack_thread_straining",
    "game_file": "game/game/images/p_wrack_thread_straining.png",
    "source": "art/refs/ch08/portraits/wrack_thread_straining.png",
-   "prompt": "model: fal-ai/flux-2/edit\npurpose: sprite\nrefs: art/refs/ch04/threaded/final/calm.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same skin colour; only the expression changes. Both shoulders visible. Small normal realistic eyes, fully drawn with irises, pupils and highlights, not large, not round, not shiny. Restrained realistic expression, moderate, no grin, no laughing. Man like the reference, lean, short messy black hair, light skin, dark brown eyes, a single thin pale line from the temple down the side of the neck (keep it visible). Plain loose grey-green tunic as in the reference. Expression: straining with concentration and frustration, brows drawn together, jaw set, eyes narrowed, as though trying too hard.",
+   "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch04/threaded/final/exhausted.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same skin colour, same lighting; only the expression changes. Both shoulders visible. Small normal realistic eyes, fully drawn with irises, pupils and highlights, not large, not round, not shiny. Restrained realistic expression, moderate, no grin, no laughing. Man like the reference: lean adult man about thirty-five, short messy black hair of the same length and shape as the reference, light skin, dark brown eyes, a smooth young-looking face with NO wrinkles and NO age lines on the forehead or around the eyes. ONE single thin pale line on the skin of the neck, a faint healed-looking mark the colour of pale pinkish cream, about two pixels wide at normal size, slightly lighter than the skin; it starts at the hairline beside the temple and runs in one smooth gentle unbranched curve down the side of the neck, ending at the collar. Exactly one line: not doubled, not wavy, not zigzag, not forked, not glowing, no sparkles; nothing on the cheek, jaw, ear or face; only on the side of the neck facing the viewer, clearly visible at a normal glance. Plain loose grey-green tunic as in the reference. Expression: straining with concentration and frustration, brows drawn together, jaw set, eyes narrowed, as though trying too hard.",
    "model": "flux-2",
    "cost": 0.024,
    "chapters": {
@@ -2336,12 +2416,13 @@
    "id": "p wrack_thread_thinking",
    "game_file": "game/game/images/p_wrack_thread_thinking.png",
    "source": "art/refs/ch04/portraits/wrack_thread_thinking.png",
-   "prompt": "Anime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same short messy black hair, same grey-green tunic, same lighting, same skin colour, same expression exactly; nothing changes except one small addition. The addition: ONE single thin pale line on the skin, a faint healed-looking mark the colour of pale pinkish cream, a clearly visible line about two pixels wide at normal size, slightly lighter than the skin with a hair-thin soft shadow along one edge so it reads as a slightly raised mark. It starts at the hairline beside the temple and runs in one gentle unbranched curve down the side of the neck, ending at the collar. NOT branching, NOT forked, NOT wiry, NOT silver, NOT a cable. Exactly one line, ONLY on the neck below the ear: nothing on the cheek, jaw, ear or face; no second line; no fork at the top; the top of the line fades out just under the ear lobe; short, only on this one side, visible at a normal glance without being large. Nothing else on the face or neck changes. The eyes are fully drawn with irises, pupils and highlights.",
+   "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch04/threaded/final/exhausted.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same skin colour, same lighting; only the expression changes. Both shoulders visible. Small normal realistic eyes, fully drawn with irises, pupils and highlights, not large, not round, not shiny. Restrained realistic expression, moderate, no grin, no laughing. Man like the reference: lean adult man about thirty-five, short messy black hair of the same length and shape as the reference, light skin, dark brown eyes, a smooth young-looking face with NO wrinkles and NO age lines on the forehead or around the eyes. ONE single thin pale line on the skin of the neck, a faint healed-looking mark the colour of pale pinkish cream, about two pixels wide at normal size, slightly lighter than the skin; it starts at the hairline beside the temple and runs in one smooth gentle unbranched curve down the side of the neck, ending at the collar. Exactly one line: not doubled, not wavy, not zigzag, not forked, not glowing, no sparkles; nothing on the cheek, jaw, ear or face; only on the side of the neck facing the viewer, clearly visible at a normal glance. Plain loose grey-green tunic as in the reference. Expression: thinking hard, brows drawn together, eyes narrowed and looking aside, mouth closed and slightly pursed.",
    "model": null,
    "cost": null,
    "chapters": {
     "6": 2,
-    "8": 2
+    "8": 2,
+    "10": 1
    },
    "character": "Wrack",
    "emotion": "thinking"
@@ -2351,14 +2432,17 @@
    "id": "p wrack_thread_troubled",
    "game_file": "game/game/images/p_wrack_thread_troubled.png",
    "source": "art/refs/ch04/portraits/wrack_thread_troubled.png",
-   "prompt": "Anime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same short messy black hair, same grey-green tunic, same lighting, same skin colour, same expression exactly; nothing changes except one small addition. The addition: ONE single thin pale line on the skin, a faint healed-looking mark the colour of pale pinkish cream, a clearly visible line about two pixels wide at normal size, slightly lighter than the skin with a hair-thin soft shadow along one edge so it reads as a slightly raised mark. It starts at the hairline beside the temple and runs in one gentle unbranched curve down the side of the neck, ending at the collar. NOT branching, NOT forked, NOT wiry, NOT silver, NOT a cable. Exactly one line, ONLY on the neck below the ear: nothing on the cheek, jaw, ear or face; no second line; no fork at the top; the top of the line fades out just under the ear lobe; short, only on this one side, visible at a normal glance without being large. Nothing else on the face or neck changes. The eyes are fully drawn with irises, pupils and highlights.",
+   "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch04/threaded/final/exhausted.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same skin colour, same lighting; only the expression changes. Both shoulders visible. Small normal realistic eyes, fully drawn with irises, pupils and highlights, not large, not round, not shiny. Restrained realistic expression, moderate, no grin, no laughing. Man like the reference: lean adult man about thirty-five, short messy black hair of the same length and shape as the reference, light skin, dark brown eyes, a smooth young-looking face with NO wrinkles and NO age lines on the forehead or around the eyes. ONE single thin pale line on the skin of the neck, a faint healed-looking mark the colour of pale pinkish cream, about two pixels wide at normal size, slightly lighter than the skin; it starts at the hairline beside the temple and runs in one smooth gentle unbranched curve down the side of the neck, ending at the collar. Exactly one line: not doubled, not wavy, not zigzag, not forked, not glowing, no sparkles; nothing on the cheek, jaw, ear or face; only on the side of the neck facing the viewer, clearly visible at a normal glance. Plain loose grey-green tunic as in the reference. Expression: troubled and uneasy, brows drawn together slightly in the middle, eyes low and worried, mouth closed.",
    "model": null,
    "cost": null,
    "chapters": {
     "5": 7,
     "6": 5,
     "7": 3,
-    "8": 1
+    "8": 1,
+    "10": 7,
+    "11": 3,
+    "12": 1
    },
    "character": "Wrack",
    "emotion": "troubled"
@@ -2368,7 +2452,7 @@
    "id": "p wrack_thread_wry",
    "game_file": "game/game/images/p_wrack_thread_wry.png",
    "source": "art/refs/ch08/portraits/wrack_thread_wry.png",
-   "prompt": "model: fal-ai/flux-2/edit\npurpose: sprite\nrefs: art/refs/ch04/threaded/final/calm.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same skin colour; only the expression changes. Both shoulders visible. Small normal realistic eyes, fully drawn with irises, pupils and highlights, not large, not round, not shiny. Restrained realistic expression, moderate, no grin, no laughing. Man like the reference, lean, short messy black hair, light skin, dark brown eyes, a single thin pale line from the temple down the side of the neck (keep it visible). Plain loose grey-green tunic as in the reference. Expression: wry, one corner of the mouth drawn very slightly, eyes tired and amused, a dry half-expression, no real smile.",
+   "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch04/threaded/final/exhausted.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same skin colour, same lighting; only the expression changes. Both shoulders visible. Small normal realistic eyes, fully drawn with irises, pupils and highlights, not large, not round, not shiny. Restrained realistic expression, moderate, no grin, no laughing. Man like the reference: lean adult man about thirty-five, short messy black hair of the same length and shape as the reference, light skin, dark brown eyes, a smooth young-looking face with NO wrinkles and NO age lines on the forehead or around the eyes. ONE single thin pale line on the skin of the neck, a faint healed-looking mark the colour of pale pinkish cream, about two pixels wide at normal size, slightly lighter than the skin; it starts at the hairline beside the temple and runs in one smooth gentle unbranched curve down the side of the neck, ending at the collar. Exactly one line: not doubled, not wavy, not zigzag, not forked, not glowing, no sparkles; nothing on the cheek, jaw, ear or face; only on the side of the neck facing the viewer, clearly visible at a normal glance. Plain loose grey-green tunic as in the reference. Expression: wry, one corner of the mouth drawn very slightly, eyes tired and amused, a dry half-expression, no real smile; keep the face young and smooth.",
    "model": "flux-2",
    "cost": 0.024,
    "chapters": {
@@ -2492,7 +2576,7 @@
    "id": "p wrack_tunic_despair",
    "game_file": "game/game/images/p_wrack_tunic_despair.png",
    "source": "art/refs/ch02/portraits/wrack_tunic_despair.png",
-   "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch01/portraits/wrack_tunic.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same lighting; only the expression changes. Both shoulders visible. The eyes are fully drawn with irises, pupils and highlights. Expression: despairing, eyes glistening, face crumpling.",
+   "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch02/portraits/wrack_tunic_calm.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same short messy black hair, same plain grey-green tunic, same skin colour; only the expression changes. Both shoulders visible. Small normal realistic eyes with irises, pupils and highlights. A young smooth face exactly like the reference: NO wrinkles on the forehead, NO bags or lines under the eyes, NO lines beside the mouth or nose, no age lines at all, unlined skin everywhere. No marks or scars on the neck or face. Expression: despairing, eyes glistening with tears, brows drawn up in the middle, mouth trembling and turned down, the face crumpling only through the brows, eyes and mouth, never through skin lines.",
    "model": "flux-2",
    "cost": 0.024,
    "chapters": {
@@ -2545,7 +2629,7 @@
    "id": "p wrack_tunic_frightened",
    "game_file": "game/game/images/p_wrack_tunic_frightened.png",
    "source": "art/refs/ch01/portraits/wrack_tunic_frightened.png",
-   "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: /private/tmp/claude-501/-Users-ursschweigert-Documents-GitHub-OvaraVN/cc48d835-f556-4c15-90fe-4f84aaa68c2a/scratchpad/wrack_tunic_head.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face and eyes clearly turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same lighting; only the expression changes. Both shoulders visible. Expression: frightened, eyes wide, taut, looking toward the right.",
+   "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch02/portraits/wrack_tunic_calm.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same skin colour, same lighting; only the expression changes. Both shoulders visible. Small normal realistic eyes, fully drawn with irises, pupils and highlights, not large, not round, not shiny. Restrained realistic expression, moderate, no grin, no laughing. Man like the reference: lean adult man about thirty-five, short messy black hair of the same length and shape as the reference, light skin, dark brown eyes, a smooth young-looking face with NO wrinkles and NO age lines on the forehead or around the eyes. No marks, lines or scars anywhere on the neck or face. Plain loose grey-green tunic as in the reference. Expression: frightened, eyes wide, taut, looking toward the right; keep the hair the same length as the reference and the face an adult's, not boyish.",
    "model": "flux-2",
    "cost": 0.024,
    "chapters": {
@@ -2621,7 +2705,7 @@
    "id": "p wrack_tunic_shivering",
    "game_file": "game/game/images/p_wrack_tunic_shivering.png",
    "source": "art/refs/ch02/portraits/wrack_tunic_shivering.png",
-   "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch01/portraits/wrack_tunic.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same lighting; only the expression changes. Both shoulders visible. The eyes are fully drawn with irises, pupils and highlights. Expression: ebbed and shivering, drained, gaze unfocused but with pupils, lips pale.",
+   "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch02/portraits/wrack_tunic_attentive.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same skin colour, same lighting; only the expression changes. Both shoulders visible. Small normal realistic eyes, fully drawn with irises, pupils and highlights, not large, not round, not shiny. Restrained realistic expression, moderate, no grin, no laughing. Man like the reference: lean adult man about thirty-five, short messy black hair of the same length and shape as the reference, light skin, dark brown eyes, a smooth young-looking face with NO wrinkles and NO age lines on the forehead or around the eyes. No marks, lines or scars anywhere on the neck or face. Plain loose grey-green tunic as in the reference. Expression: ebbed and shivering, drained, gaze unfocused but with pupils, lips pale; the skin stays smooth with no wrinkles.",
    "model": "flux-2",
    "cost": 0.024,
    "chapters": {
@@ -2750,7 +2834,9 @@
    "prompt": "",
    "model": null,
    "cost": null,
-   "chapters": {},
+   "chapters": {
+    "10": 4
+   },
    "character": null
   },
   {
@@ -2761,7 +2847,9 @@
    "prompt": "",
    "model": null,
    "cost": null,
-   "chapters": {},
+   "chapters": {
+    "10": 2
+   },
    "character": null
   },
   {
@@ -2772,7 +2860,9 @@
    "prompt": "",
    "model": null,
    "cost": null,
-   "chapters": {},
+   "chapters": {
+    "10": 1
+   },
    "character": null
   },
   {
@@ -2783,7 +2873,9 @@
    "prompt": "",
    "model": null,
    "cost": null,
-   "chapters": {},
+   "chapters": {
+    "10": 1
+   },
    "character": null
   },
   {
@@ -2805,7 +2897,9 @@
    "prompt": "",
    "model": null,
    "cost": null,
-   "chapters": {},
+   "chapters": {
+    "11": 1
+   },
    "character": null
   },
   {
@@ -2816,7 +2910,9 @@
    "prompt": "",
    "model": null,
    "cost": null,
-   "chapters": {},
+   "chapters": {
+    "11": 2
+   },
    "character": null
   },
   {
@@ -2827,7 +2923,9 @@
    "prompt": "",
    "model": null,
    "cost": null,
-   "chapters": {},
+   "chapters": {
+    "11": 1
+   },
    "character": null
   },
   {
@@ -2838,7 +2936,9 @@
    "prompt": "",
    "model": null,
    "cost": null,
-   "chapters": {},
+   "chapters": {
+    "11": 1
+   },
    "character": null
   },
   {
@@ -2849,7 +2949,9 @@
    "prompt": "",
    "model": null,
    "cost": null,
-   "chapters": {},
+   "chapters": {
+    "11": 2
+   },
    "character": null
   },
   {
@@ -2860,7 +2962,9 @@
    "prompt": "",
    "model": null,
    "cost": null,
-   "chapters": {},
+   "chapters": {
+    "11": 4
+   },
    "character": null
   },
   {
@@ -2871,7 +2975,9 @@
    "prompt": "",
    "model": null,
    "cost": null,
-   "chapters": {},
+   "chapters": {
+    "12": 1
+   },
    "character": null
   },
   {
@@ -2882,7 +2988,9 @@
    "prompt": "",
    "model": null,
    "cost": null,
-   "chapters": {},
+   "chapters": {
+    "12": 2
+   },
    "character": null
   },
   {
@@ -2893,7 +3001,9 @@
    "prompt": "",
    "model": null,
    "cost": null,
-   "chapters": {},
+   "chapters": {
+    "12": 5
+   },
    "character": null
   },
   {
@@ -2904,7 +3014,9 @@
    "prompt": "",
    "model": null,
    "cost": null,
-   "chapters": {},
+   "chapters": {
+    "12": 1
+   },
    "character": null
   },
   {
@@ -2915,7 +3027,9 @@
    "prompt": "",
    "model": null,
    "cost": null,
-   "chapters": {},
+   "chapters": {
+    "12": 1
+   },
    "character": null
   },
   {
@@ -3175,7 +3289,8 @@
    "model": null,
    "cost": null,
    "chapters": {
-    "7": 1
+    "7": 1,
+    "12": 1
    },
    "character": null
   },
@@ -3448,7 +3563,8 @@
    "model": null,
    "cost": null,
    "chapters": {
-    "9": 2
+    "9": 2,
+    "11": 1
    },
    "character": null
   },
@@ -4163,7 +4279,9 @@
    "prompt": "",
    "model": null,
    "cost": null,
-   "chapters": {},
+   "chapters": {
+    "10": 1
+   },
    "character": null
   },
   {
@@ -4174,7 +4292,9 @@
    "prompt": "",
    "model": null,
    "cost": null,
-   "chapters": {},
+   "chapters": {
+    "10": 1
+   },
    "character": null
   },
   {
@@ -4185,7 +4305,9 @@
    "prompt": "",
    "model": null,
    "cost": null,
-   "chapters": {},
+   "chapters": {
+    "10": 1
+   },
    "character": null
   },
   {
@@ -4196,7 +4318,9 @@
    "prompt": "",
    "model": null,
    "cost": null,
-   "chapters": {},
+   "chapters": {
+    "10": 1
+   },
    "character": null
   },
   {
@@ -4207,7 +4331,9 @@
    "prompt": "",
    "model": null,
    "cost": null,
-   "chapters": {},
+   "chapters": {
+    "11": 1
+   },
    "character": null
   },
   {
@@ -4218,7 +4344,9 @@
    "prompt": "",
    "model": null,
    "cost": null,
-   "chapters": {},
+   "chapters": {
+    "11": 1
+   },
    "character": null
   },
   {
@@ -4229,7 +4357,9 @@
    "prompt": "",
    "model": null,
    "cost": null,
-   "chapters": {},
+   "chapters": {
+    "11": 1
+   },
    "character": null
   },
   {
@@ -4240,7 +4370,9 @@
    "prompt": "",
    "model": null,
    "cost": null,
-   "chapters": {},
+   "chapters": {
+    "11": 1
+   },
    "character": null
   },
   {
@@ -4251,7 +4383,9 @@
    "prompt": "",
    "model": null,
    "cost": null,
-   "chapters": {},
+   "chapters": {
+    "11": 1
+   },
    "character": null
   },
   {
@@ -4262,7 +4396,9 @@
    "prompt": "",
    "model": null,
    "cost": null,
-   "chapters": {},
+   "chapters": {
+    "12": 1
+   },
    "character": null
   },
   {
@@ -4273,7 +4409,9 @@
    "prompt": "",
    "model": null,
    "cost": null,
-   "chapters": {},
+   "chapters": {
+    "12": 1
+   },
    "character": null
   },
   {
@@ -4284,7 +4422,9 @@
    "prompt": "",
    "model": null,
    "cost": null,
-   "chapters": {},
+   "chapters": {
+    "12": 1
+   },
    "character": null
   },
   {
@@ -4295,7 +4435,9 @@
    "prompt": "",
    "model": null,
    "cost": null,
-   "chapters": {},
+   "chapters": {
+    "12": 1
+   },
    "character": null
   },
   {
@@ -4306,7 +4448,9 @@
    "prompt": "",
    "model": null,
    "cost": null,
-   "chapters": {},
+   "chapters": {
+    "12": 1
+   },
    "character": null
   },
   {
