@@ -20,6 +20,13 @@ image cg c5_canyon = "cg/c5_canyon.png"
 image cg c5_sefa_grips = "cg/c5_sefa_grips.png"
 image cg c5_lamps_down = "cg/c5_lamps_down.png"
 image cg c5_dragon_lights = "cg/c5_dragon_lights.png"
+# Air-heart work (c05.s02-s03): the heart is an ornate round sphere of white, silver and gold (owner's direction)
+image cg c5_airheart_touch = "cg/c5_airheart_touch.png"
+image cg c5_airheart_reach = "cg/c5_airheart_reach.png"
+image cg c5_airheart_open = "cg/c5_airheart_open.png"
+image cg c5_airheart_fingers = "cg/c5_airheart_fingers.png"
+image cg c5_airheart_tool = "cg/c5_airheart_tool.png"
+image cg c5_airheart_breathes = "cg/c5_airheart_breathes.png"
 
 # --- portraits (new this chapter) ---
 image p aurel_calm = At("p_aurel_calm.png", lit_portrait)

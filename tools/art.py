@@ -27,7 +27,7 @@ BASE_ALIAS = {
     "brask_watchful": "brask", "fallow_woman_weary": "fallow_woman", "fallow_man_frail": "fallow_man",
     "officer_hard": "officer",
 }
-CHAR_NAMES = {"wrack_tunic": "Wrack", "wrack": "Wrack", "sefa": "Sefa", "bother": "Bother", "oro": "Elder Oro",
+CHAR_NAMES = {"wrack_thread": "Wrack", "wrack_tunic": "Wrack", "wrack": "Wrack", "sefa": "Sefa", "bother": "Bother", "oro": "Elder Oro",
               "ione": "Ione", "davin": "Davin", "hesper": "Hesper", "okonta": "Okonta",
               "brask": "Brask", "fallow_woman": "The woman from Fallow", "fallow_man": "The old man from Fallow",
               "officer": "The diver officer"}
