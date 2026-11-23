@@ -34,3 +34,11 @@ Measured on 2026-11-23 (chapters 1 to 6): installed app 96 MB to 75 MB, `.ipa` (
 4. Product > Xcode Cloud > Create Workflow. Authorize GitHub for `UrsSchweigert/OvaraVN`.
 5. Workflow: manual start; action Archive, iOS, scheme `TheManTheTideBroughtIn`, Release; post-action TestFlight (internal).
 6. Start the first build. If it fails, read `ci_post_clone.log` first.
+
+## Paywall (one-time purchase)
+
+- Chapters 1-8 are free. Chapter 9 on needs the in-app purchase `full_story`.
+- Code: `game/game/paywall.rpy`. The App Store product ID is `PAYWALL_PRODUCT_ID` there (currently `renpy.iap.register`, as created in App Store Connect; it cannot be renamed there).
+- When chapter 9 is scripted, put `call paywall_gate` as its first line. The Chapters screen already locks chapters 9 and up.
+- On a computer the game counts as unlocked. `VN_PAYWALL=1 ./vn play` tests the locked path; Buy then fakes the purchase.
+- Not yet tested on a phone with a sandbox account.
