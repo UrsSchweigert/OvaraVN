@@ -287,17 +287,17 @@ style quick_button_text:
 ## This screen is included in the main and game menus, and provides navigation
 ## to other menus, and to start the game.
 
-screen navigation():
+screen navigation(home=False):
 
-    $ nx = 0.5 if main_menu else 0.0
+    $ nx = 0.5 if home else 0.0
 
     vbox:
-        if main_menu:
+        if home:
             style_prefix "mainnav"
         else:
             style_prefix "navigation"
 
-        if main_menu:
+        if home:
             xanchor 0.5
             xpos 1230
             ypos 515
@@ -305,7 +305,7 @@ screen navigation():
             xpos gui.navigation_xpos
             yalign 0.5
 
-        spacing (0 if main_menu else gui.navigation_spacing)
+        spacing (0 if home else gui.navigation_spacing)
 
         if main_menu:
 
@@ -389,7 +389,7 @@ screen main_menu():
 
     ## The use statement includes another screen inside this one. The actual
     ## contents of the main menu are in the navigation screen.
-    use navigation
+    use navigation(home=True)
 
     add "images/title_wordmark.png" xanchor 0.5 xpos 1230 ypos 150
 
@@ -1567,11 +1567,11 @@ style window:
 
 style radio_button:
     variant "small"
-    foreground "gui/phone/button/radio_[prefix_]foreground.png"
+    foreground "gui/button/radio_[prefix_]foreground.png"
 
 style check_button:
     variant "small"
-    foreground "gui/phone/button/check_[prefix_]foreground.png"
+    foreground "gui/button/check_[prefix_]foreground.png"
 
 style nvl_window:
     variant "small"
@@ -1604,38 +1604,38 @@ style pref_vbox:
 style bar:
     variant "small"
     ysize gui.bar_size
-    left_bar Frame("gui/phone/bar/left.png", gui.bar_borders, tile=gui.bar_tile)
-    right_bar Frame("gui/phone/bar/right.png", gui.bar_borders, tile=gui.bar_tile)
+    left_bar Frame("gui/bar/left.png", gui.bar_borders, tile=gui.bar_tile)
+    right_bar Frame("gui/bar/right.png", gui.bar_borders, tile=gui.bar_tile)
 
 style vbar:
     variant "small"
     xsize gui.bar_size
-    top_bar Frame("gui/phone/bar/top.png", gui.vbar_borders, tile=gui.bar_tile)
-    bottom_bar Frame("gui/phone/bar/bottom.png", gui.vbar_borders, tile=gui.bar_tile)
+    top_bar Frame("gui/bar/top.png", gui.vbar_borders, tile=gui.bar_tile)
+    bottom_bar Frame("gui/bar/bottom.png", gui.vbar_borders, tile=gui.bar_tile)
 
 style scrollbar:
     variant "small"
     ysize gui.scrollbar_size
-    base_bar Frame("gui/phone/scrollbar/horizontal_[prefix_]bar.png", gui.scrollbar_borders, tile=gui.scrollbar_tile)
-    thumb Frame("gui/phone/scrollbar/horizontal_[prefix_]thumb.png", gui.scrollbar_borders, tile=gui.scrollbar_tile)
+    base_bar Frame("gui/scrollbar/horizontal_[prefix_]bar.png", gui.scrollbar_borders, tile=gui.scrollbar_tile)
+    thumb Frame("gui/scrollbar/horizontal_[prefix_]thumb.png", gui.scrollbar_borders, tile=gui.scrollbar_tile)
 
 style vscrollbar:
     variant "small"
     xsize gui.scrollbar_size
-    base_bar Frame("gui/phone/scrollbar/vertical_[prefix_]bar.png", gui.vscrollbar_borders, tile=gui.scrollbar_tile)
-    thumb Frame("gui/phone/scrollbar/vertical_[prefix_]thumb.png", gui.vscrollbar_borders, tile=gui.scrollbar_tile)
+    base_bar Frame("gui/scrollbar/vertical_[prefix_]bar.png", gui.vscrollbar_borders, tile=gui.scrollbar_tile)
+    thumb Frame("gui/scrollbar/vertical_[prefix_]thumb.png", gui.vscrollbar_borders, tile=gui.scrollbar_tile)
 
 style slider:
     variant "small"
     ysize gui.slider_size
-    base_bar Frame("gui/phone/slider/horizontal_[prefix_]bar.png", gui.slider_borders, tile=gui.slider_tile)
-    thumb "gui/phone/slider/horizontal_[prefix_]thumb.png"
+    base_bar Frame("gui/slider/horizontal_[prefix_]bar.png", gui.slider_borders, tile=gui.slider_tile)
+    thumb "gui/slider/horizontal_[prefix_]thumb.png"
 
 style vslider:
     variant "small"
     xsize gui.slider_size
-    base_bar Frame("gui/phone/slider/vertical_[prefix_]bar.png", gui.vslider_borders, tile=gui.slider_tile)
-    thumb "gui/phone/slider/vertical_[prefix_]thumb.png"
+    base_bar Frame("gui/slider/vertical_[prefix_]bar.png", gui.vslider_borders, tile=gui.slider_tile)
+    thumb "gui/slider/vertical_[prefix_]thumb.png"
 
 style slider_vbox:
     variant "small"
