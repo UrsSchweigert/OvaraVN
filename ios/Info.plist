@@ -56,5 +56,7 @@
 	</array>
 	<key>NSBluetoothAlwaysUsageDescription</key>
 	<string>Used to connect Bluetooth game controllers so you can play with a controller.</string>
+	<key>ITSAppUsesNonExemptEncryption</key>
+	<false/>
 </dict>
 </plist>
