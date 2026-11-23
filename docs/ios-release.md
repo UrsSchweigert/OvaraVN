@@ -25,7 +25,7 @@ Measured on 2026-11-23 (chapters 1 to 6): installed app 96 MB to 75 MB, `.ipa` (
 ## Not verified
 - That the script runs on Xcode Cloud's machines (Ren'Py's launcher headless, download time).
 - Signing, archive, TestFlight, and a run on a real iPhone.
-- The app icon is still the Ren'Py placeholder. Add `game/ios-icon.png` (1024x1024), then rerun the script.
+- The app icon (Wrack with the Thread) is in `ios/Media.xcassets/AppIcon.appiconset/`, resized from `game/ios-icon.png`. Not yet seen on a real iPhone.
 
 ## One-time steps for the owner (Apple side)
 1. Push this branch to GitHub.

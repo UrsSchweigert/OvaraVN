@@ -289,50 +289,60 @@ style quick_button_text:
 
 screen navigation():
 
+    $ nx = 0.5 if main_menu else 0.0
+
     vbox:
-        style_prefix "navigation"
+        if main_menu:
+            style_prefix "mainnav"
+        else:
+            style_prefix "navigation"
 
-        xpos gui.navigation_xpos
-        yalign 0.5
+        if main_menu:
+            xanchor 0.5
+            xpos 1230
+            ypos 515
+        else:
+            xpos gui.navigation_xpos
+            yalign 0.5
 
-        spacing gui.navigation_spacing
+        spacing (0 if main_menu else gui.navigation_spacing)
 
         if main_menu:
 
-            textbutton _("Start") action Start()
+            textbutton _("Start") action Start() xalign nx
 
         else:
 
-            textbutton _("History") action ShowMenu("history")
+            textbutton _("History") action ShowMenu("history") xalign nx
 
-            textbutton _("Save") action ShowMenu("save")
+            textbutton _("Save") action ShowMenu("save") xalign nx
 
-        textbutton _("Chapters") action ShowMenu("chapter_select")
+        textbutton _("Chapters") action ShowMenu("chapter_select") xalign nx
 
-        textbutton _("Load") action ShowMenu("load")
+        textbutton _("Load") action ShowMenu("load") xalign nx
 
-        textbutton _("Preferences") action ShowMenu("preferences")
+        textbutton _("Preferences") action ShowMenu("preferences") xalign nx
 
         if _in_replay:
 
-            textbutton _("End Replay") action EndReplay(confirm=True)
+            textbutton _("End Replay") action EndReplay(confirm=True) xalign nx
 
         elif not main_menu:
 
-            textbutton _("Main Menu") action MainMenu()
+            textbutton _("Main Menu") action MainMenu() xalign nx
 
-        textbutton _("About") action ShowMenu("about")
+        textbutton _("About") action ShowMenu("about") xalign nx
 
         if renpy.variant("pc") or (renpy.variant("web") and not renpy.variant("mobile")):
 
             ## Help isn't necessary or relevant to mobile devices.
-            textbutton _("Help") action ShowMenu("help")
+            textbutton _("Help") action ShowMenu("help") xalign nx
 
         if renpy.variant("pc"):
 
             ## The quit button is banned on iOS and unnecessary on Android and
             ## Web.
-            textbutton _("Quit") action Quit(confirm=not main_menu)
+            textbutton _("Quit") action Quit(confirm=not main_menu) xalign nx
 
 
 style navigation_button is gui_button
@@ -344,6 +354,23 @@ style navigation_button:
 
 style navigation_button_text:
     properties gui.text_properties("navigation_button")
+
+## Main menu buttons: cream text with a soft dark edge, centred under the title.
+style mainnav_button is navigation_button
+style mainnav_button_text is navigation_button_text
+
+style mainnav_button:
+    xminimum 420
+    ymargin 0
+
+style mainnav_button_text:
+    size 42
+    xalign 0.5
+    text_align 0.5
+    idle_color "#fff8e1"
+    hover_color "#ffd678"
+    selected_color "#ffd678"
+    outlines [(3, "#2a3a1a99", 0, 2)]
 
 
 ## Main Menu screen ############################################################
@@ -359,24 +386,20 @@ screen main_menu():
 
     add gui.main_menu_background
 
-    ## This empty frame darkens the main menu.
-    frame:
-        style "main_menu_frame"
 
     ## The use statement includes another screen inside this one. The actual
     ## contents of the main menu are in the navigation screen.
     use navigation
 
-    if gui.show_name:
+    add "images/title_wordmark.png" xanchor 0.5 xpos 1230 ypos 150
 
-        vbox:
-            style "main_menu_vbox"
-
-            text "[config.name!t]":
-                style "main_menu_title"
-
-            text "[config.version]":
-                style "main_menu_version"
+    text "[config.version]":
+        style "main_menu_version"
+        color "#fff8e1"
+        xalign 1.0
+        yalign 1.0
+        xoffset -30
+        yoffset -30
 
 
 style main_menu_frame is empty
