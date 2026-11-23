@@ -1,0 +1,5 @@
+model: fal-ai/nano-banana-2/edit
+purpose: illustration
+refs: art/refs/ch01/portraits/wrack_tunic.png, art/refs/ch03/cg/dragon_arrives.png
+
+Anime-style key art, clean dark line art, soft cel shading, cinematic, tall vertical poster composition. A lean adult man with short messy black hair and a plain grey-green tunic and grey trousers and bare feet, seen from behind, full figure small at the bottom of the frame, standing on the sea floor, one hand raised, pale light in his palm. Rising above him, filling the tall frame, the enormous Dragon: a kilometre of pale metal ribs, hoop after hoop, bright glowing water bound to the ribs streaming like a flame, curving up and away through deep blue water with shafts of light. A sense of vast power and awe. No other people, no vehicles. No text, no letters, calm dark water in the top fifth of the frame.
