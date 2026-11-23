@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: illustration
+refs: art/refs/ch05/airheart/heart_ref.png
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, no text, no letters. Reference 1 shows the air-heart and its vault: keep the air-heart EXACTLY as in reference 1, a perfectly round ornate sphere of overlapping white pearl plates, silver bands and gold filigree with a gold hinge seam, never ribbed, never heart-shaped. Dry air, dim cold light, a weak glow of greenish-yellow lampweed. Close view with no face: Exactly one hand and forearm, the pale-skinned hand of a man in a grey-green sleeve, pressed flat against the cold white pearl plates and gold filigree of the huge sphere. Under and around the fingers the plates are furred with fine grey dust, and the palm has wiped a clean handprint in the dust. The curve of the huge sphere fills the frame, a few silver bands and gold scrolls in focus. Quiet, cold, still. Nobody else.

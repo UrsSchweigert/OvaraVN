@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-22T19:13:23Z",
- "count": 213,
+ "generated": "2026-11-23T06:41:27Z",
+ "count": 234,
  "items": [
   {
    "kind": "portrait",
@@ -1352,15 +1352,231 @@
   },
   {
    "kind": "portrait",
+   "id": "p wrack_thread_angry",
+   "game_file": "game/game/images/p_wrack_thread_angry.png",
+   "source": "art/refs/ch04/portraits/wrack_thread_angry.png",
+   "prompt": "Anime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same short messy black hair, same grey-green tunic, same lighting, same skin colour, same expression exactly; nothing changes except one small addition. The addition: ONE single thin pale line on the skin, a faint healed-looking mark the colour of pale pinkish cream, a clearly visible line about two pixels wide at normal size, slightly lighter than the skin with a hair-thin soft shadow along one edge so it reads as a slightly raised mark. It starts at the hairline beside the temple and runs in one gentle unbranched curve down the side of the neck, ending at the collar. NOT branching, NOT forked, NOT wiry, NOT silver, NOT a cable. Exactly one line, ONLY on the neck below the ear: nothing on the cheek, jaw, ear or face; no second line; no fork at the top; the top of the line fades out just under the ear lobe; short, only on this one side, visible at a normal glance without being large. Nothing else on the face or neck changes. The eyes are fully drawn with irises, pupils and highlights.",
+   "model": null,
+   "cost": null,
+   "chapters": {
+    "6": 2
+   },
+   "character": "Wrack",
+   "emotion": "angry"
+  },
+  {
+   "kind": "portrait",
+   "id": "p wrack_thread_ashamed",
+   "game_file": "game/game/images/p_wrack_thread_ashamed.png",
+   "source": "art/refs/ch04/portraits/wrack_thread_ashamed.png",
+   "prompt": "Anime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same short messy black hair, same grey-green tunic, same lighting, same skin colour, same expression exactly; nothing changes except one small addition. The addition: ONE single thin pale line on the skin, a faint healed-looking mark the colour of pale pinkish cream, a clearly visible line about two pixels wide at normal size, slightly lighter than the skin with a hair-thin soft shadow along one edge so it reads as a slightly raised mark. It starts at the hairline beside the temple and runs in one gentle unbranched curve down the side of the neck, ending at the collar. NOT branching, NOT forked, NOT wiry, NOT silver, NOT a cable. Exactly one line, ONLY on the neck below the ear: nothing on the cheek, jaw, ear or face; no second line; no fork at the top; the top of the line fades out just under the ear lobe; short, only on this one side, visible at a normal glance without being large. Nothing else on the face or neck changes. The eyes are fully drawn with irises, pupils and highlights.",
+   "model": null,
+   "cost": null,
+   "chapters": {
+    "6": 1
+   },
+   "character": "Wrack",
+   "emotion": "ashamed"
+  },
+  {
+   "kind": "portrait",
+   "id": "p wrack_thread_attentive",
+   "game_file": "game/game/images/p_wrack_thread_attentive.png",
+   "source": "art/refs/ch04/portraits/wrack_thread_attentive.png",
+   "prompt": "Anime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same short messy black hair, same grey-green tunic, same lighting, same skin colour, same expression exactly; nothing changes except one small addition. The addition: ONE single thin pale line on the skin, a faint healed-looking mark the colour of pale pinkish cream, a clearly visible line about two pixels wide at normal size, slightly lighter than the skin with a hair-thin soft shadow along one edge so it reads as a slightly raised mark. It starts at the hairline beside the temple and runs in one gentle unbranched curve down the side of the neck, ending at the collar. NOT branching, NOT forked, NOT wiry, NOT silver, NOT a cable. Exactly one line, ONLY on the neck below the ear: nothing on the cheek, jaw, ear or face; no second line; no fork at the top; the top of the line fades out just under the ear lobe; short, only on this one side, visible at a normal glance without being large. Nothing else on the face or neck changes. The eyes are fully drawn with irises, pupils and highlights.",
+   "model": null,
+   "cost": null,
+   "chapters": {
+    "5": 3
+   },
+   "character": "Wrack",
+   "emotion": "attentive"
+  },
+  {
+   "kind": "portrait",
+   "id": "p wrack_thread_calm",
+   "game_file": "game/game/images/p_wrack_thread_calm.png",
+   "source": "art/refs/ch04/portraits/wrack_thread_calm.png",
+   "prompt": "Anime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same short messy black hair, same grey-green tunic, same lighting, same skin colour, same expression exactly; nothing changes except one small addition. The addition: ONE single thin pale line on the skin, a faint healed-looking mark the colour of pale pinkish cream, a clearly visible line about two pixels wide at normal size, slightly lighter than the skin with a hair-thin soft shadow along one edge so it reads as a slightly raised mark. It starts at the hairline beside the temple and runs in one gentle unbranched curve down the side of the neck, ending at the collar. NOT branching, NOT forked, NOT wiry, NOT silver, NOT a cable. Exactly one line, ONLY on the neck below the ear: nothing on the cheek, jaw, ear or face; no second line; no fork at the top; the top of the line fades out just under the ear lobe; short, only on this one side, visible at a normal glance without being large. Nothing else on the face or neck changes. The eyes are fully drawn with irises, pupils and highlights.",
+   "model": null,
+   "cost": null,
+   "chapters": {
+    "4": 1,
+    "5": 1,
+    "6": 2
+   },
+   "character": "Wrack",
+   "emotion": "calm"
+  },
+  {
+   "kind": "portrait",
+   "id": "p wrack_thread_dazed",
+   "game_file": "game/game/images/p_wrack_thread_dazed.png",
+   "source": "art/refs/ch04/portraits/wrack_thread_dazed.png",
+   "prompt": "Anime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same short messy black hair, same grey-green tunic, same lighting, same skin colour, same expression exactly; nothing changes except one small addition. The addition: ONE single thin pale line on the skin, a faint healed-looking mark the colour of pale pinkish cream, a clearly visible line about two pixels wide at normal size, slightly lighter than the skin with a hair-thin soft shadow along one edge so it reads as a slightly raised mark. It starts at the hairline beside the temple and runs in one gentle unbranched curve down the side of the neck, ending at the collar. NOT branching, NOT forked, NOT wiry, NOT silver, NOT a cable. Exactly one line, ONLY on the neck below the ear: nothing on the cheek, jaw, ear or face; no second line; no fork at the top; the top of the line fades out just under the ear lobe; short, only on this one side, visible at a normal glance without being large. Nothing else on the face or neck changes. The eyes are fully drawn with irises, pupils and highlights.",
+   "model": null,
+   "cost": null,
+   "chapters": {
+    "5": 1
+   },
+   "character": "Wrack",
+   "emotion": "dazed"
+  },
+  {
+   "kind": "portrait",
+   "id": "p wrack_thread_dejected",
+   "game_file": "game/game/images/p_wrack_thread_dejected.png",
+   "source": "art/refs/ch04/portraits/wrack_thread_dejected.png",
+   "prompt": "Anime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same short messy black hair, same grey-green tunic, same lighting, same skin colour, same expression exactly; nothing changes except one small addition. The addition: ONE single thin pale line on the skin, a faint healed-looking mark the colour of pale pinkish cream, a clearly visible line about two pixels wide at normal size, slightly lighter than the skin with a hair-thin soft shadow along one edge so it reads as a slightly raised mark. It starts at the hairline beside the temple and runs in one gentle unbranched curve down the side of the neck, ending at the collar. NOT branching, NOT forked, NOT wiry, NOT silver, NOT a cable. Exactly one line, ONLY on the neck below the ear: nothing on the cheek, jaw, ear or face; no second line; no fork at the top; the top of the line fades out just under the ear lobe; short, only on this one side, visible at a normal glance without being large. Nothing else on the face or neck changes. The eyes are fully drawn with irises, pupils and highlights.",
+   "model": null,
+   "cost": null,
+   "chapters": {
+    "6": 6
+   },
+   "character": "Wrack",
+   "emotion": "dejected"
+  },
+  {
+   "kind": "portrait",
+   "id": "p wrack_thread_exhausted",
+   "game_file": "game/game/images/p_wrack_thread_exhausted.png",
+   "source": "art/refs/ch04/portraits/wrack_thread_exhausted.png",
+   "prompt": "Anime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same short messy black hair, same grey-green tunic, same lighting, same skin colour, same expression exactly; nothing changes except one small addition. The addition: ONE single thin pale line on the skin, a faint healed-looking mark the colour of pale pinkish cream, a clearly visible line about two pixels wide at normal size, slightly lighter than the skin with a hair-thin soft shadow along one edge so it reads as a slightly raised mark. It starts at the hairline beside the temple and runs in one gentle unbranched curve down the side of the neck, ending at the collar. NOT branching, NOT forked, NOT wiry, NOT silver, NOT a cable. Exactly one line, ONLY on the neck below the ear: nothing on the cheek, jaw, ear or face; no second line; no fork at the top; the top of the line fades out just under the ear lobe; short, only on this one side, visible at a normal glance without being large. Nothing else on the face or neck changes. The eyes are fully drawn with irises, pupils and highlights.",
+   "model": null,
+   "cost": null,
+   "chapters": {
+    "5": 1
+   },
+   "character": "Wrack",
+   "emotion": "exhausted"
+  },
+  {
+   "kind": "portrait",
+   "id": "p wrack_thread_fading",
+   "game_file": "game/game/images/p_wrack_thread_fading.png",
+   "source": "art/refs/ch04/portraits/wrack_thread_fading.png",
+   "prompt": "Anime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same short messy black hair, same grey-green tunic, same lighting, same skin colour, same expression exactly; nothing changes except one small addition. The addition: ONE single thin pale line on the skin, a faint healed-looking mark the colour of pale pinkish cream, a clearly visible line about two pixels wide at normal size, slightly lighter than the skin with a hair-thin soft shadow along one edge so it reads as a slightly raised mark. It starts at the hairline beside the temple and runs in one gentle unbranched curve down the side of the neck, ending at the collar. NOT branching, NOT forked, NOT wiry, NOT silver, NOT a cable. Exactly one line, ONLY on the neck below the ear: nothing on the cheek, jaw, ear or face; no second line; no fork at the top; the top of the line fades out just under the ear lobe; short, only on this one side, visible at a normal glance without being large. Nothing else on the face or neck changes. The eyes are fully drawn with irises, pupils and highlights.",
+   "model": null,
+   "cost": null,
+   "chapters": {
+    "5": 1
+   },
+   "character": "Wrack",
+   "emotion": "fading"
+  },
+  {
+   "kind": "portrait",
+   "id": "p wrack_thread_frightened",
+   "game_file": "game/game/images/p_wrack_thread_frightened.png",
+   "source": "art/refs/ch04/portraits/wrack_thread_frightened.png",
+   "prompt": "Anime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same short messy black hair, same grey-green tunic, same lighting, same skin colour, same expression exactly; nothing changes except one small addition. The addition: ONE single thin pale line on the skin, a faint healed-looking mark the colour of pale pinkish cream, a clearly visible line about two pixels wide at normal size, slightly lighter than the skin with a hair-thin soft shadow along one edge so it reads as a slightly raised mark. It starts at the hairline beside the temple and runs in one gentle unbranched curve down the side of the neck, ending at the collar. NOT branching, NOT forked, NOT wiry, NOT silver, NOT a cable. Exactly one line, ONLY on the neck below the ear: nothing on the cheek, jaw, ear or face; no second line; no fork at the top; the top of the line fades out just under the ear lobe; short, only on this one side, visible at a normal glance without being large. Nothing else on the face or neck changes. The eyes are fully drawn with irises, pupils and highlights.",
+   "model": null,
+   "cost": null,
+   "chapters": {
+    "4": 3,
+    "5": 1
+   },
+   "character": "Wrack",
+   "emotion": "frightened"
+  },
+  {
+   "kind": "portrait",
+   "id": "p wrack_thread_grieving",
+   "game_file": "game/game/images/p_wrack_thread_grieving.png",
+   "source": "art/refs/ch04/portraits/wrack_thread_grieving.png",
+   "prompt": "Anime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same short messy black hair, same grey-green tunic, same lighting, same skin colour, same expression exactly; nothing changes except one small addition. The addition: ONE single thin pale line on the skin, a faint healed-looking mark the colour of pale pinkish cream, a clearly visible line about two pixels wide at normal size, slightly lighter than the skin with a hair-thin soft shadow along one edge so it reads as a slightly raised mark. It starts at the hairline beside the temple and runs in one gentle unbranched curve down the side of the neck, ending at the collar. NOT branching, NOT forked, NOT wiry, NOT silver, NOT a cable. Exactly one line, ONLY on the neck below the ear: nothing on the cheek, jaw, ear or face; no second line; no fork at the top; the top of the line fades out just under the ear lobe; short, only on this one side, visible at a normal glance without being large. Nothing else on the face or neck changes. The eyes are fully drawn with irises, pupils and highlights.",
+   "model": null,
+   "cost": null,
+   "chapters": {
+    "4": 2,
+    "5": 1,
+    "6": 1
+   },
+   "character": "Wrack",
+   "emotion": "grieving"
+  },
+  {
+   "kind": "portrait",
+   "id": "p wrack_thread_resolved",
+   "game_file": "game/game/images/p_wrack_thread_resolved.png",
+   "source": "art/refs/ch04/portraits/wrack_thread_resolved.png",
+   "prompt": "Anime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same short messy black hair, same grey-green tunic, same lighting, same skin colour, same expression exactly; nothing changes except one small addition. The addition: ONE single thin pale line on the skin, a faint healed-looking mark the colour of pale pinkish cream, a clearly visible line about two pixels wide at normal size, slightly lighter than the skin with a hair-thin soft shadow along one edge so it reads as a slightly raised mark. It starts at the hairline beside the temple and runs in one gentle unbranched curve down the side of the neck, ending at the collar. NOT branching, NOT forked, NOT wiry, NOT silver, NOT a cable. Exactly one line, ONLY on the neck below the ear: nothing on the cheek, jaw, ear or face; no second line; no fork at the top; the top of the line fades out just under the ear lobe; short, only on this one side, visible at a normal glance without being large. Nothing else on the face or neck changes. The eyes are fully drawn with irises, pupils and highlights.",
+   "model": null,
+   "cost": null,
+   "chapters": {
+    "4": 1,
+    "5": 3
+   },
+   "character": "Wrack",
+   "emotion": "resolved"
+  },
+  {
+   "kind": "portrait",
+   "id": "p wrack_thread_shaken",
+   "game_file": "game/game/images/p_wrack_thread_shaken.png",
+   "source": "art/refs/ch04/portraits/wrack_thread_shaken.png",
+   "prompt": "Anime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same short messy black hair, same grey-green tunic, same lighting, same skin colour, same expression exactly; nothing changes except one small addition. The addition: ONE single thin pale line on the skin, a faint healed-looking mark the colour of pale pinkish cream, a clearly visible line about two pixels wide at normal size, slightly lighter than the skin with a hair-thin soft shadow along one edge so it reads as a slightly raised mark. It starts at the hairline beside the temple and runs in one gentle unbranched curve down the side of the neck, ending at the collar. NOT branching, NOT forked, NOT wiry, NOT silver, NOT a cable. Exactly one line, ONLY on the neck below the ear: nothing on the cheek, jaw, ear or face; no second line; no fork at the top; the top of the line fades out just under the ear lobe; short, only on this one side, visible at a normal glance without being large. Nothing else on the face or neck changes. The eyes are fully drawn with irises, pupils and highlights.",
+   "model": null,
+   "cost": null,
+   "chapters": {
+    "4": 2,
+    "6": 1
+   },
+   "character": "Wrack",
+   "emotion": "shaken"
+  },
+  {
+   "kind": "portrait",
+   "id": "p wrack_thread_stunned",
+   "game_file": "game/game/images/p_wrack_thread_stunned.png",
+   "source": "art/refs/ch04/portraits/wrack_thread_stunned.png",
+   "prompt": "Anime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same short messy black hair, same grey-green tunic, same lighting, same skin colour, same expression exactly; nothing changes except one small addition. The addition: ONE single thin pale line on the skin, a faint healed-looking mark the colour of pale pinkish cream, a clearly visible line about two pixels wide at normal size, slightly lighter than the skin with a hair-thin soft shadow along one edge so it reads as a slightly raised mark. It starts at the hairline beside the temple and runs in one gentle unbranched curve down the side of the neck, ending at the collar. NOT branching, NOT forked, NOT wiry, NOT silver, NOT a cable. Exactly one line, ONLY on the neck below the ear: nothing on the cheek, jaw, ear or face; no second line; no fork at the top; the top of the line fades out just under the ear lobe; short, only on this one side, visible at a normal glance without being large. Nothing else on the face or neck changes. The eyes are fully drawn with irises, pupils and highlights.",
+   "model": null,
+   "cost": null,
+   "chapters": {
+    "5": 3
+   },
+   "character": "Wrack",
+   "emotion": "stunned"
+  },
+  {
+   "kind": "portrait",
+   "id": "p wrack_thread_thinking",
+   "game_file": "game/game/images/p_wrack_thread_thinking.png",
+   "source": "art/refs/ch04/portraits/wrack_thread_thinking.png",
+   "prompt": "Anime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same short messy black hair, same grey-green tunic, same lighting, same skin colour, same expression exactly; nothing changes except one small addition. The addition: ONE single thin pale line on the skin, a faint healed-looking mark the colour of pale pinkish cream, a clearly visible line about two pixels wide at normal size, slightly lighter than the skin with a hair-thin soft shadow along one edge so it reads as a slightly raised mark. It starts at the hairline beside the temple and runs in one gentle unbranched curve down the side of the neck, ending at the collar. NOT branching, NOT forked, NOT wiry, NOT silver, NOT a cable. Exactly one line, ONLY on the neck below the ear: nothing on the cheek, jaw, ear or face; no second line; no fork at the top; the top of the line fades out just under the ear lobe; short, only on this one side, visible at a normal glance without being large. Nothing else on the face or neck changes. The eyes are fully drawn with irises, pupils and highlights.",
+   "model": null,
+   "cost": null,
+   "chapters": {
+    "6": 2
+   },
+   "character": "Wrack",
+   "emotion": "thinking"
+  },
+  {
+   "kind": "portrait",
+   "id": "p wrack_thread_troubled",
+   "game_file": "game/game/images/p_wrack_thread_troubled.png",
+   "source": "art/refs/ch04/portraits/wrack_thread_troubled.png",
+   "prompt": "Anime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same short messy black hair, same grey-green tunic, same lighting, same skin colour, same expression exactly; nothing changes except one small addition. The addition: ONE single thin pale line on the skin, a faint healed-looking mark the colour of pale pinkish cream, a clearly visible line about two pixels wide at normal size, slightly lighter than the skin with a hair-thin soft shadow along one edge so it reads as a slightly raised mark. It starts at the hairline beside the temple and runs in one gentle unbranched curve down the side of the neck, ending at the collar. NOT branching, NOT forked, NOT wiry, NOT silver, NOT a cable. Exactly one line, ONLY on the neck below the ear: nothing on the cheek, jaw, ear or face; no second line; no fork at the top; the top of the line fades out just under the ear lobe; short, only on this one side, visible at a normal glance without being large. Nothing else on the face or neck changes. The eyes are fully drawn with irises, pupils and highlights.",
+   "model": null,
+   "cost": null,
+   "chapters": {
+    "5": 7,
+    "6": 5
+   },
+   "character": "Wrack",
+   "emotion": "troubled"
+  },
+  {
+   "kind": "portrait",
    "id": "p wrack_tunic_angry",
    "game_file": "game/game/images/p_wrack_tunic_angry.png",
    "source": "art/refs/ch06/portraits/wrack_tunic_angry.png",
    "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch05/portraits/wrack_tunic_resolved.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same skin colour; only the expression changes. Lean man, short messy black hair, light skin, dark brown eyes, grey-green tunic. Both shoulders visible. Small normal realistic eyes, fully drawn with irises, pupils and highlights, no cartoon eyes, not large, not round, not shiny. A restrained realistic expression, moderate, no grin, no laughing, no tears streaming. Expression: angry but held in, brows drawn together, jaw clenched, eyes hard, mouth tight.",
    "model": "flux-2",
    "cost": 0.024,
-   "chapters": {
-    "6": 2
-   },
+   "chapters": {},
    "character": "Wrack",
    "emotion": "angry"
   },
@@ -1372,9 +1588,7 @@
    "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch05/portraits/wrack_tunic_resolved.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same skin colour; only the expression changes. Lean man, short messy black hair, light skin, dark brown eyes, grey-green tunic. Both shoulders visible. Small normal realistic eyes, fully drawn with irises, pupils and highlights, no cartoon eyes, not large, not round, not shiny. A restrained realistic expression, moderate, no grin, no laughing, no tears streaming. Expression: ashamed and afraid, eyes lowered and a little to the side, brows lifted slightly, mouth tight.",
    "model": "flux-2",
    "cost": 0.024,
-   "chapters": {
-    "6": 1
-   },
+   "chapters": {},
    "character": "Wrack",
    "emotion": "ashamed"
   },
@@ -1389,8 +1603,7 @@
    "chapters": {
     "2": 6,
     "3": 13,
-    "4": 20,
-    "5": 3
+    "4": 20
    },
    "character": "Wrack",
    "emotion": "attentive"
@@ -1436,10 +1649,7 @@
    "cost": 0.024,
    "chapters": {
     "2": 1,
-    "3": 1,
-    "4": 1,
-    "5": 1,
-    "6": 2
+    "3": 1
    },
    "character": "Wrack",
    "emotion": "calm"
@@ -1452,9 +1662,7 @@
    "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch01/portraits/wrack_tunic.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same skin colour; only the expression changes. Both shoulders visible. The eyes are fully drawn with irises, pupils and highlights, looking open. A restrained realistic expression, moderate, no grin, no laughing, no tears streaming. Expression: dazed, eyes wide but unfocused, brows slightly raised, mouth a little open, lost.",
    "model": "flux-2",
    "cost": 0.024,
-   "chapters": {
-    "5": 1
-   },
+   "chapters": {},
    "character": "Wrack",
    "emotion": "dazed"
   },
@@ -1466,9 +1674,7 @@
    "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch05/portraits/wrack_tunic_resolved.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same skin colour; only the expression changes. Lean man, short messy black hair, light skin, dark brown eyes, grey-green tunic. Both shoulders visible. Small normal realistic eyes, fully drawn with irises, pupils and highlights, no cartoon eyes, not large, not round, not shiny. A restrained realistic expression, moderate, no grin, no laughing, no tears streaming. Expression: dejected, eyes lowered, brows slightly lifted at the centre, mouth soft and flat, shoulders sagging.",
    "model": "flux-2",
    "cost": 0.024,
-   "chapters": {
-    "6": 6
-   },
+   "chapters": {},
    "character": "Wrack",
    "emotion": "dejected"
   },
@@ -1494,9 +1700,7 @@
    "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch01/portraits/wrack_tunic.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same skin colour; only the expression changes. Both shoulders visible. The eyes are fully drawn with irises, pupils and highlights, looking open. A restrained realistic expression, moderate, no grin, no laughing, no tears streaming. Expression: exhausted, heavy half-lowered lids, faint soft shadows under the eyes, drawn pale face, mouth slack, head slightly bowed. No bruises, no dark patches.",
    "model": "flux-2",
    "cost": 0.024,
-   "chapters": {
-    "5": 1
-   },
+   "chapters": {},
    "character": "Wrack",
    "emotion": "exhausted"
   },
@@ -1508,9 +1712,7 @@
    "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch01/portraits/wrack_tunic.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same skin colour; only the expression changes. Both shoulders visible. The eyes are fully drawn with irises, pupils and highlights, looking open. A restrained realistic expression, moderate, no grin, no laughing, no tears streaming. Expression: fading, going grey: his skin drained to a grey pallor, eyes unfocused and distant, mouth slightly open, slack and empty.",
    "model": "flux-2",
    "cost": 0.024,
-   "chapters": {
-    "5": 1
-   },
+   "chapters": {},
    "character": "Wrack",
    "emotion": "fading"
   },
@@ -1541,8 +1743,7 @@
     "1": 1,
     "2": 2,
     "3": 1,
-    "4": 5,
-    "5": 1
+    "4": 2
    },
    "character": "Wrack",
    "emotion": "frightened"
@@ -1555,11 +1756,7 @@
    "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch02/portraits/wrack_tunic_calm.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same lighting, same skin colour; only the expression changes. Both shoulders visible. The eyes are fully drawn with irises, pupils and highlights. A moderate, restrained expression, no grin, no laughing. Lean man, short messy black hair, light skin, dark brown eyes, plain grey-green tunic. Expression: grieving and silent, eyes lowered and a little wet, brows drawn together, mouth pressed shut; no tears running down the face.",
    "model": "flux-2",
    "cost": 0.024,
-   "chapters": {
-    "4": 2,
-    "5": 1,
-    "6": 1
-   },
+   "chapters": {},
    "character": "Wrack",
    "emotion": "grieving"
   },
@@ -1589,8 +1786,7 @@
    "cost": 0.024,
    "chapters": {
     "2": 2,
-    "4": 2,
-    "5": 3
+    "4": 1
    },
    "character": "Wrack",
    "emotion": "resolved"
@@ -1606,8 +1802,7 @@
    "chapters": {
     "2": 3,
     "3": 1,
-    "4": 4,
-    "6": 1
+    "4": 2
    },
    "character": "Wrack",
    "emotion": "shaken"
@@ -1650,9 +1845,7 @@
    "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch01/portraits/wrack_tunic.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same skin colour; only the expression changes. Both shoulders visible. The eyes are fully drawn with irises, pupils and highlights, looking open. A restrained realistic expression, moderate, no grin, no laughing, no tears streaming. Expression: stunned, eyes wide with small pupils, brows raised, lips parted, frozen.",
    "model": "flux-2",
    "cost": 0.024,
-   "chapters": {
-    "5": 3
-   },
+   "chapters": {},
    "character": "Wrack",
    "emotion": "stunned"
   },
@@ -1664,9 +1857,7 @@
    "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch05/portraits/wrack_tunic_resolved.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same skin colour; only the expression changes. Lean man, short messy black hair, light skin, dark brown eyes, grey-green tunic. Both shoulders visible. Small normal realistic eyes, fully drawn with irises, pupils and highlights, no cartoon eyes, not large, not round, not shiny. A restrained realistic expression, moderate, no grin, no laughing, no tears streaming. Expression: frowning, thinking hard, brows drawn, eyes looking to the side at nothing, mouth closed.",
    "model": "flux-2",
    "cost": 0.024,
-   "chapters": {
-    "6": 2
-   },
+   "chapters": {},
    "character": "Wrack",
    "emotion": "thinking"
   },
@@ -1682,9 +1873,7 @@
     "1": 3,
     "2": 2,
     "3": 3,
-    "4": 4,
-    "5": 7,
-    "6": 5
+    "4": 4
    },
    "character": "Wrack",
    "emotion": "troubled"
@@ -1854,7 +2043,7 @@
    "model": "flux-2-t2i",
    "cost": 0.024,
    "chapters": {
-    "5": 3
+    "5": 4
    },
    "character": null
   },
@@ -2712,6 +2901,84 @@
    "cost": null,
    "chapters": {
     "4": 1
+   },
+   "character": null
+  },
+  {
+   "kind": "illustration",
+   "id": "cg c5_airheart_breathes",
+   "game_file": "game/game/images/cg/c5_airheart_breathes.png",
+   "source": null,
+   "prompt": "",
+   "model": null,
+   "cost": null,
+   "chapters": {
+    "5": 1
+   },
+   "character": null
+  },
+  {
+   "kind": "illustration",
+   "id": "cg c5_airheart_fingers",
+   "game_file": "game/game/images/cg/c5_airheart_fingers.png",
+   "source": null,
+   "prompt": "",
+   "model": null,
+   "cost": null,
+   "chapters": {
+    "5": 1
+   },
+   "character": null
+  },
+  {
+   "kind": "illustration",
+   "id": "cg c5_airheart_open",
+   "game_file": "game/game/images/cg/c5_airheart_open.png",
+   "source": null,
+   "prompt": "",
+   "model": null,
+   "cost": null,
+   "chapters": {
+    "5": 1
+   },
+   "character": null
+  },
+  {
+   "kind": "illustration",
+   "id": "cg c5_airheart_reach",
+   "game_file": "game/game/images/cg/c5_airheart_reach.png",
+   "source": null,
+   "prompt": "",
+   "model": null,
+   "cost": null,
+   "chapters": {
+    "5": 1
+   },
+   "character": null
+  },
+  {
+   "kind": "illustration",
+   "id": "cg c5_airheart_tool",
+   "game_file": "game/game/images/cg/c5_airheart_tool.png",
+   "source": null,
+   "prompt": "",
+   "model": null,
+   "cost": null,
+   "chapters": {
+    "5": 1
+   },
+   "character": null
+  },
+  {
+   "kind": "illustration",
+   "id": "cg c5_airheart_touch",
+   "game_file": "game/game/images/cg/c5_airheart_touch.png",
+   "source": null,
+   "prompt": "",
+   "model": null,
+   "cost": null,
+   "chapters": {
+    "5": 1
    },
    "character": null
   },
