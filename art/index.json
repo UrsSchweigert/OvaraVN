@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-23T14:39:25Z",
+ "generated": "2026-11-23T14:57:19Z",
  "count": 525,
  "items": [
   {
@@ -245,7 +245,9 @@
    "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch03/portraits/brask.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Same character as the reference, same huge young man, same short red hair and short red beard, same sealskin coat with grey fur at the collar, same head and shoulders framing facing the viewer's right, plain light grey background. Only the expression changes: wry, one corner of the mouth drawn slightly up, one brow slightly raised, eyes looking sidelong with dry amusement. Eyes fully drawn with irises, pupils and highlights. Restrained realistic face, no broad smile.",
    "model": "flux-2",
    "cost": 0.024,
-   "chapters": {},
+   "chapters": {
+    "16": 2
+   },
    "character": "Brask",
    "emotion": "wry"
   },
@@ -313,7 +315,9 @@
    "prompt": "model: fal-ai/flux-2/edit\npurpose: sprite\nrefs: art/refs/ch06/portraits/corin_grief.png\n\nSame man, same face, hair, skin, beard, thin pale scars and slate-grey high collar. Only the expression changes: calling a name out across the water, mouth open only a little, jaw set, brows level and steady, calm resolved eyes, not frightened, not shouting wildly. Head and shoulders, three-quarter view turned toward the viewer's right (the face and nose point to the right edge of the picture), plain light grey background, no text. Eyes fully drawn with irises, pupils and highlights.",
    "model": "flux-2",
    "cost": 0.024,
-   "chapters": {},
+   "chapters": {
+    "17": 1
+   },
    "character": null,
    "emotion": null
   },
@@ -325,7 +329,9 @@
    "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch06/portraits/corin_grief.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Same character as the reference, same face, same age, same heavy grey stubble beard, same curly grey-dark hair, same tan-brown skin and slate-grey high-collared suit, same head and shoulders framing facing the viewer's right, plain light grey background. Keep the thin pale pen-line scars running from the temple down the side of the neck exactly as in the reference. Only the expression changes: earnest and shaking, brows drawn up in the middle, eyes steady and bright with held-in feeling but no tears running, lips pressed together and trembling slightly, jaw tight. Eyes fully drawn with irises, pupils and highlights. Restrained realistic face, no smile.",
    "model": "flux-2",
    "cost": 0.024,
-   "chapters": {},
+   "chapters": {
+    "16": 4
+   },
    "character": null,
    "emotion": null
   },
@@ -393,7 +399,8 @@
    "model": "flux-2",
    "cost": 0.024,
    "chapters": {
-    "14": 3
+    "14": 3,
+    "16": 1
    },
    "character": null,
    "emotion": null
@@ -407,7 +414,8 @@
    "model": "flux-2-t2i",
    "cost": 0.012,
    "chapters": {
-    "15": 3
+    "15": 3,
+    "17": 1
    },
    "character": null,
    "emotion": null
@@ -776,7 +784,8 @@
    "model": "flux-2",
    "cost": 0.024,
    "chapters": {
-    "10": 1
+    "10": 1,
+    "17": 1
    },
    "character": null,
    "emotion": null
@@ -820,7 +829,8 @@
    "cost": 0.024,
    "chapters": {
     "8": 1,
-    "15": 1
+    "15": 1,
+    "16": 1
    },
    "character": null,
    "emotion": null
@@ -834,7 +844,8 @@
    "model": "flux-2",
    "cost": 0.024,
    "chapters": {
-    "15": 1
+    "15": 1,
+    "16": 1
    },
    "character": null,
    "emotion": null
@@ -889,7 +900,9 @@
    "prompt": "model: fal-ai/flux-2/edit\npurpose: sprite\nrefs: art/refs/ch09/portraits/enginewoman_guarded.png\n\nSame woman, same face, hair, skin and clothes. Only the expression changes: whispering softly, eyes of normal size looking ahead and slightly aside, lips just parted, brows level, hushed and thoughtful, restrained, not wide-eyed. Head and shoulders, three-quarter view turned toward the viewer's right (the face and nose point to the right edge of the picture), plain light grey background, no text. Eyes fully drawn with irises, pupils and highlights.",
    "model": "flux-2",
    "cost": 0.024,
-   "chapters": {},
+   "chapters": {
+    "17": 1
+   },
    "character": null,
    "emotion": null
   },
@@ -972,7 +985,9 @@
    "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch02/portraits/hesper.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Same character as the reference, same lean hard woman of about forty, same dark hair pulled back, same strong tired face, same grey-green tunic, same head and shoulders framing facing the viewer's right, plain light grey background. Only the expression changes: the jaw has loosened and the shoulders eased, the brow smoothed and the forehead lines relaxed, the mouth in a faint tired half-smile with one corner clearly lifted and the lips slightly parted, eyes softened and warmer. Eyes fully drawn with irises, pupils and highlights. Quiet and restrained, not a broad smile.",
    "model": "flux-2",
    "cost": 0.024,
-   "chapters": {},
+   "chapters": {
+    "16": 2
+   },
    "character": "Hesper",
    "emotion": "eased"
   },
@@ -1015,7 +1030,8 @@
    "cost": 0.012,
    "chapters": {
     "2": 4,
-    "12": 2
+    "12": 2,
+    "16": 2
    },
    "character": "Hesper",
    "emotion": "stern"
@@ -1100,7 +1116,9 @@
    "prompt": "model: fal-ai/flux-2\npurpose: sheet\nrefs: \n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view turned toward the viewer's right (the face and nose point to the right edge of the picture), plain light grey background, no text. Eyes fully drawn with irises, pupils and highlights. Restrained realistic face. A small, slight healer woman of about fifty, medium brown skin, short plain black hair going grey at the temples, calm dark brown eyes, a quiet patient face with fine lines, in a plain dark grey high-collared tunic. Expression: gentle and still, speaking softly, mouth closed or barely open.",
    "model": null,
    "cost": null,
-   "chapters": {},
+   "chapters": {
+    "17": 2
+   },
    "character": null,
    "emotion": null
   },
@@ -1112,7 +1130,9 @@
    "prompt": "model: fal-ai/flux-2/edit\npurpose: sprite\nrefs: art/refs/ch17/portraits/hush_base.png\n\nSame character, same face, hair, skin, age and clothes. Only the expression changes: quiet and steady, mouth closed, eyes calm and level, patient. Head and shoulders, three-quarter view turned toward the viewer's right (the face and nose point to the right edge of the picture), plain light grey background, no text. Eyes fully drawn with irises, pupils and highlights.",
    "model": null,
    "cost": null,
-   "chapters": {},
+   "chapters": {
+    "17": 1
+   },
    "character": null,
    "emotion": null
   },
@@ -1278,7 +1298,9 @@
    "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch16/portraits/kelder_base.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Same character as the reference, same face, same age, same hair, same clothes, same head and shoulders framing facing the viewer's right, plain light grey background. Keep the dark brown eyes small, tired and normal, with heavy lids and deep lines around them, exactly as in the reference, not widened. The face stays SEVENTY YEARS OLD. Only the expression changes: considering, brows slightly drawn together, the eyes lifted and attentive, the mouth closed with the lips pressed thoughtfully, still tired and mild. Eyes fully drawn with irises, pupils and highlights. Restrained realistic face.",
    "model": "flux-2",
    "cost": 0.024,
-   "chapters": {},
+   "chapters": {
+    "16": 1
+   },
    "character": null,
    "emotion": null
   },
@@ -1290,7 +1312,9 @@
    "prompt": "model: fal-ai/flux-2\npurpose: sheet\nrefs: \n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view turned toward the viewer's right (the face and nose point to the right edge of the picture), plain light grey background, no text. Both shoulders visible. The eyes are small, normal, realistic, fully drawn with irises, pupils and highlights, not large, not round, not shiny. Restrained realistic face. A mariner of the hold of Kelder, an old man of about seventy, long-limbed and thin with a long narrow face, light brown skin, thin white hair, large dark brown eyes, deep tired lines, a mild defeated face, wearing a faded plain grey-green sea-silk tunic with a round collar. Expression: mild and defeated, mouth soft and level, eyes slightly lowered.",
    "model": null,
    "cost": null,
-   "chapters": {},
+   "chapters": {
+    "16": 1
+   },
    "character": null,
    "emotion": null
   },
@@ -1302,7 +1326,9 @@
    "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch16/portraits/lockkeeper_base.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Same character as the reference, same face, same age, same hair, same clothes, same head and shoulders framing facing the viewer's right, plain light grey background. The face stays SEVENTY YEARS OLD with deep lines and creased cheeks, and the eyes stay DARK BROWN as in the reference. Only the expression changes: resolved, the jaw firm, the eyes level and clear, the mouth set in a quiet decided line, the stern look gone into a settled decision. Eyes fully drawn with irises, pupils and highlights. Restrained realistic face.",
    "model": "flux-2",
    "cost": 0.024,
-   "chapters": {},
+   "chapters": {
+    "16": 2
+   },
    "character": null,
    "emotion": null
   },
@@ -1314,7 +1340,9 @@
    "prompt": "model: fal-ai/flux-2\npurpose: sheet\nrefs: \n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view turned toward the viewer's right (the face and nose point to the right edge of the picture), plain light grey background, no text. Both shoulders visible. The eyes are small, normal, realistic, fully drawn with irises, pupils and highlights, not large, not round, not shiny. Restrained realistic face. A senior Lockkeeper of the free port, a woman of seventy, weathered tan skin, deep lines, white-grey hair pulled into a tight bun, dark eyes, a strong stern face, wearing a plain dark waxed canvas coat buttoned to the throat with a small brass badge on the chest worn smooth. Expression: stern, mouth set flat, eyes level and unyielding.",
    "model": null,
    "cost": null,
-   "chapters": {},
+   "chapters": {
+    "16": 2
+   },
    "character": null,
    "emotion": null
   },
@@ -1341,7 +1369,9 @@
    "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch07/portraits/maelis_cropped_level.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Same character as the reference, same woman in her seventies, same short cropped grey hair just starting to grow, same lined face, same brown eyes, same patched dark coat, same head and shoulders framing facing the viewer's right, plain light grey background. Only the expression changes: quietly amused, one corner of the mouth lifted in a small dry smile, the eyes crinkled and warm, brows relaxed. Eyes fully drawn with irises, pupils and highlights. Restrained, not a broad smile.",
    "model": "flux-2",
    "cost": 0.024,
-   "chapters": {},
+   "chapters": {
+    "16": 2
+   },
    "character": null,
    "emotion": null
   },
@@ -1354,7 +1384,9 @@
    "model": "flux-2",
    "cost": 0.024,
    "chapters": {
-    "7": 2
+    "7": 2,
+    "16": 2,
+    "17": 1
    },
    "character": null,
    "emotion": null
@@ -1382,7 +1414,9 @@
    "model": "flux-2",
    "cost": 0.024,
    "chapters": {
-    "7": 3
+    "7": 3,
+    "16": 6,
+    "17": 5
    },
    "character": null,
    "emotion": null
@@ -1589,7 +1623,9 @@
    "prompt": "model: fal-ai/flux-2\npurpose: sheet\nrefs: \n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view turned toward the viewer's right (the face and nose point to the right edge of the picture), plain light grey background, no text. Both shoulders visible. The eyes are small, normal, realistic, fully drawn with irises, pupils and highlights, not large, not round, not shiny. Restrained realistic face. A noodle-stall keeper of the free port, a thin old man of about seventy, weathered light tan skin, a deeply lined kindly face, thin white hair around a bald crown, short white stubble, warm brown eyes, wearing a plain dark cotton shirt with a clean white apron and a folded cloth over one shoulder. Expression: kindly, a very slight warmth around the eyes, mouth closed.",
    "model": null,
    "cost": null,
-   "chapters": {},
+   "chapters": {
+    "16": 1
+   },
    "character": null,
    "emotion": null
   },
@@ -1601,7 +1637,9 @@
    "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch16/portraits/noodle_base.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Same character as the reference, same face, same age, same hair, same clothes, same head and shoulders framing facing the viewer's right, plain light grey background. The face stays SEVENTY YEARS OLD with deep lines, crow's feet and creased cheeks, and the short white stubble beard stays. Only the expression changes: puzzled but calm, brows drawn slightly together, head tilted a little, small normal eyes looking at the viewer's right with a thoughtful squint, mouth closed with a small crease at one side, still kind. Not wide-eyed, not shocked. Eyes fully drawn with irises, pupils and highlights. Restrained realistic face.",
    "model": "flux-2",
    "cost": 0.024,
-   "chapters": {},
+   "chapters": {
+    "16": 1
+   },
    "character": null,
    "emotion": null
   },
@@ -1712,7 +1750,8 @@
    "chapters": {
     "6": 6,
     "7": 1,
-    "11": 3
+    "11": 3,
+    "16": 2
    },
    "character": "Okonta",
    "emotion": "flat"
@@ -1750,7 +1789,8 @@
     "9": 3,
     "10": 1,
     "11": 1,
-    "13": 1
+    "13": 1,
+    "16": 1
    },
    "character": "Okonta",
    "emotion": "grave"
@@ -1767,7 +1807,8 @@
     "5": 4,
     "7": 1,
     "12": 1,
-    "14": 3
+    "14": 3,
+    "17": 1
    },
    "character": "Okonta",
    "emotion": "grim"
@@ -2045,7 +2086,8 @@
    "chapters": {
     "9": 3,
     "10": 1,
-    "11": 1
+    "11": 1,
+    "17": 1
    },
    "character": null,
    "emotion": null
@@ -2098,7 +2140,9 @@
    "prompt": "model: fal-ai/flux-2/edit\npurpose: sprite\nrefs: art/refs/ch17/portraits/rook_old_nearsmile.png\n\nSame very old man, same wrinkles, white hair, shirt and the same clearly visible pale pen-line scars on the temple, cheek and neck. Only the expression changes: eyes open and looking ahead, calm and softened, brow smoothed, the mouth relaxed with the lips slightly parted as if he has just let out a long breath, peaceful and tired. Head and shoulders, three-quarter view turned toward the viewer's right (the face and nose point to the right edge of the picture), plain light grey background, no text. Eyes fully drawn with irises, pupils and highlights.",
    "model": "flux-2",
    "cost": 0.024,
-   "chapters": {},
+   "chapters": {
+    "17": 2
+   },
    "character": null,
    "emotion": null
   },
@@ -2110,7 +2154,9 @@
    "prompt": "model: fal-ai/flux-2/edit\npurpose: sprite\nrefs: art/refs/ch17/portraits/rook_old_tired.png\n\nSame character, same face, hair, skin, age and clothes. Only the expression changes: a very faint dry half-smile at one corner of the mouth, eyes tired, gaze lowered and turned slightly away, restrained and sad, not a real smile. Head and shoulders, three-quarter view turned toward the viewer's right (the face and nose point to the right edge of the picture), plain light grey background, no text. Eyes fully drawn with irises, pupils and highlights.",
    "model": "flux-2",
    "cost": 0.024,
-   "chapters": {},
+   "chapters": {
+    "17": 1
+   },
    "character": null,
    "emotion": null
   },
@@ -2122,7 +2168,9 @@
    "prompt": "model: fal-ai/flux-2/edit\npurpose: sprite\nrefs: art/refs/ch17/portraits/rook_old_tired.png\n\nSame character, same face, hair, skin, age and clothes. Only the expression changes: alert and guarded, the eyes suddenly sharp and attentive, brows slightly lowered, mouth closed and firm, still exhausted. Head and shoulders, three-quarter view turned toward the viewer's right (the face and nose point to the right edge of the picture), plain light grey background, no text. Eyes fully drawn with irises, pupils and highlights.",
    "model": "flux-2",
    "cost": 0.024,
-   "chapters": {},
+   "chapters": {
+    "17": 2
+   },
    "character": null,
    "emotion": null
   },
@@ -2134,7 +2182,9 @@
    "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch04/portraits/anselm_calm.png\n\nSame man as the reference, but now extremely old and worn out: he looks ninety. Same nose, jaw and grey-blue eyes, white hair thinner, face deeply lined and hollow-cheeked, skin pale and papery, faint soft shadows under the tired eyes. He wears a plain pale shirt with an open collar (no suit). Clearly visible: two thin pale pen-line scars, as in the reference, running from the temple past the ear and down the side of the neck into the open collar. Expression: exhausted, drained, eyes heavy and steady, mouth closed. Anime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view turned toward the viewer's right (the face and nose point to the right edge of the picture), plain light grey background, no text. Eyes fully drawn with irises, pupils and highlights. Restrained realistic face.",
    "model": "flux-2",
    "cost": 0.024,
-   "chapters": {},
+   "chapters": {
+    "17": 10
+   },
    "character": null,
    "emotion": null
   },
@@ -2354,7 +2404,8 @@
     "10": 2,
     "12": 1,
     "13": 1,
-    "15": 1
+    "15": 1,
+    "16": 1
    },
    "character": "Sefa",
    "emotion": "shaken"
@@ -2430,7 +2481,8 @@
     "1": 7,
     "8": 8,
     "10": 1,
-    "15": 2
+    "15": 2,
+    "16": 2
    },
    "character": "Sefa",
    "emotion": "thoughtful"
@@ -2461,7 +2513,8 @@
    "cost": 0.024,
    "chapters": {
     "11": 1,
-    "15": 2
+    "15": 2,
+    "17": 1
    },
    "character": "Sefa",
    "emotion": "understanding"
@@ -2545,7 +2598,8 @@
    "model": "flux-2",
    "cost": 0.024,
    "chapters": {
-    "5": 3
+    "5": 3,
+    "16": 1
    },
    "character": null,
    "emotion": null
@@ -2560,7 +2614,8 @@
    "cost": 0.024,
    "chapters": {
     "5": 2,
-    "12": 1
+    "12": 1,
+    "16": 3
    },
    "character": null,
    "emotion": null
@@ -2718,6 +2773,7 @@
     "11": 1,
     "12": 3,
     "13": 2,
+    "16": 1,
     "18": 1
    },
    "character": "Wrack",
@@ -2741,6 +2797,8 @@
     "12": 5,
     "13": 3,
     "15": 1,
+    "16": 3,
+    "17": 2,
     "18": 1
    },
    "character": "Wrack",
@@ -2766,6 +2824,8 @@
     "13": 1,
     "14": 2,
     "15": 4,
+    "16": 2,
+    "17": 3,
     "18": 1
    },
    "character": "Wrack",
@@ -2826,7 +2886,8 @@
    "chapters": {
     "5": 1,
     "13": 1,
-    "15": 2
+    "15": 2,
+    "17": 2
    },
    "character": "Wrack",
    "emotion": "exhausted"
@@ -2908,7 +2969,9 @@
    "cost": 0.024,
    "chapters": {
     "11": 1,
-    "13": 1
+    "13": 1,
+    "16": 2,
+    "17": 1
    },
    "character": "Wrack",
    "emotion": "pleading"
@@ -2931,6 +2994,8 @@
     "12": 1,
     "13": 6,
     "14": 3,
+    "16": 1,
+    "17": 3,
     "18": 1
    },
    "character": "Wrack",
@@ -3019,7 +3084,9 @@
     "12": 1,
     "13": 2,
     "14": 1,
-    "15": 1
+    "15": 1,
+    "16": 3,
+    "17": 2
    },
    "character": "Wrack",
    "emotion": "troubled"
@@ -3385,7 +3452,8 @@
    "cost": 0.024,
    "chapters": {
     "8": 5,
-    "15": 2
+    "15": 2,
+    "17": 1
    },
    "character": null,
    "emotion": null
@@ -3917,7 +3985,9 @@
    "prompt": "",
    "model": null,
    "cost": null,
-   "chapters": {},
+   "chapters": {
+    "16": 1
+   },
    "character": null
   },
   {
@@ -3928,7 +3998,9 @@
    "prompt": "",
    "model": null,
    "cost": null,
-   "chapters": {},
+   "chapters": {
+    "16": 2
+   },
    "character": null
   },
   {
@@ -3939,7 +4011,9 @@
    "prompt": "",
    "model": null,
    "cost": null,
-   "chapters": {},
+   "chapters": {
+    "16": 2
+   },
    "character": null
   },
   {
@@ -3950,7 +4024,9 @@
    "prompt": "",
    "model": null,
    "cost": null,
-   "chapters": {},
+   "chapters": {
+    "16": 2
+   },
    "character": null
   },
   {
@@ -3961,7 +4037,9 @@
    "prompt": "",
    "model": null,
    "cost": null,
-   "chapters": {},
+   "chapters": {
+    "16": 1
+   },
    "character": null
   },
   {
@@ -3972,7 +4050,9 @@
    "prompt": "",
    "model": null,
    "cost": null,
-   "chapters": {},
+   "chapters": {
+    "16": 2
+   },
    "character": null
   },
   {
@@ -3983,7 +4063,9 @@
    "prompt": "",
    "model": null,
    "cost": null,
-   "chapters": {},
+   "chapters": {
+    "16": 1
+   },
    "character": null
   },
   {
@@ -3994,7 +4076,9 @@
    "prompt": "",
    "model": null,
    "cost": null,
-   "chapters": {},
+   "chapters": {
+    "16": 1
+   },
    "character": null
   },
   {
@@ -4005,7 +4089,9 @@
    "prompt": "",
    "model": null,
    "cost": null,
-   "chapters": {},
+   "chapters": {
+    "16": 2
+   },
    "character": null
   },
   {
@@ -4016,7 +4102,9 @@
    "prompt": "",
    "model": null,
    "cost": null,
-   "chapters": {},
+   "chapters": {
+    "16": 1
+   },
    "character": null
   },
   {
@@ -4027,7 +4115,9 @@
    "prompt": "",
    "model": null,
    "cost": null,
-   "chapters": {},
+   "chapters": {
+    "16": 1
+   },
    "character": null
   },
   {
@@ -4038,7 +4128,9 @@
    "prompt": "",
    "model": null,
    "cost": null,
-   "chapters": {},
+   "chapters": {
+    "17": 3
+   },
    "character": null
   },
   {
@@ -4049,7 +4141,9 @@
    "prompt": "",
    "model": null,
    "cost": null,
-   "chapters": {},
+   "chapters": {
+    "17": 4
+   },
    "character": null
   },
   {
@@ -4060,7 +4154,9 @@
    "prompt": "",
    "model": null,
    "cost": null,
-   "chapters": {},
+   "chapters": {
+    "17": 1
+   },
    "character": null
   },
   {
@@ -4071,7 +4167,9 @@
    "prompt": "",
    "model": null,
    "cost": null,
-   "chapters": {},
+   "chapters": {
+    "17": 2
+   },
    "character": null
   },
   {
@@ -4082,7 +4180,9 @@
    "prompt": "",
    "model": null,
    "cost": null,
-   "chapters": {},
+   "chapters": {
+    "17": 1
+   },
    "character": null
   },
   {
@@ -4093,7 +4193,9 @@
    "prompt": "",
    "model": null,
    "cost": null,
-   "chapters": {},
+   "chapters": {
+    "17": 1
+   },
    "character": null
   },
   {
@@ -4104,7 +4206,9 @@
    "prompt": "",
    "model": null,
    "cost": null,
-   "chapters": {},
+   "chapters": {
+    "17": 1
+   },
    "character": null
   },
   {
@@ -4115,7 +4219,9 @@
    "prompt": "",
    "model": null,
    "cost": null,
-   "chapters": {},
+   "chapters": {
+    "17": 1
+   },
    "character": null
   },
   {
@@ -4126,7 +4232,9 @@
    "prompt": "",
    "model": null,
    "cost": null,
-   "chapters": {},
+   "chapters": {
+    "17": 3
+   },
    "character": null
   },
   {
@@ -4137,7 +4245,9 @@
    "prompt": "",
    "model": null,
    "cost": null,
-   "chapters": {},
+   "chapters": {
+    "17": 1
+   },
    "character": null
   },
   {
@@ -4984,7 +5094,8 @@
    "model": "flux-2-t2i",
    "cost": 0.024,
    "chapters": {
-    "5": 2
+    "5": 2,
+    "16": 2
    },
    "character": null
   },
@@ -5010,7 +5121,8 @@
    "model": "flux-2-t2i",
    "cost": 0.024,
    "chapters": {
-    "5": 1
+    "5": 1,
+    "16": 1
    },
    "character": null
   },
@@ -5924,7 +6036,8 @@
    "model": null,
    "cost": null,
    "chapters": {
-    "15": 1
+    "15": 1,
+    "16": 1
    },
    "character": null
   },
@@ -5975,7 +6088,9 @@
    "prompt": "",
    "model": null,
    "cost": null,
-   "chapters": {},
+   "chapters": {
+    "16": 1
+   },
    "character": null
   },
   {
@@ -5986,7 +6101,9 @@
    "prompt": "",
    "model": null,
    "cost": null,
-   "chapters": {},
+   "chapters": {
+    "16": 1
+   },
    "character": null
   },
   {
@@ -5997,7 +6114,9 @@
    "prompt": "",
    "model": null,
    "cost": null,
-   "chapters": {},
+   "chapters": {
+    "16": 1
+   },
    "character": null
   },
   {
@@ -6008,7 +6127,9 @@
    "prompt": "",
    "model": null,
    "cost": null,
-   "chapters": {},
+   "chapters": {
+    "16": 1
+   },
    "character": null
   },
   {
@@ -6019,7 +6140,9 @@
    "prompt": "",
    "model": null,
    "cost": null,
-   "chapters": {},
+   "chapters": {
+    "16": 1
+   },
    "character": null
   },
   {
@@ -6030,7 +6153,9 @@
    "prompt": "",
    "model": null,
    "cost": null,
-   "chapters": {},
+   "chapters": {
+    "16": 1
+   },
    "character": null
   },
   {
@@ -6041,7 +6166,9 @@
    "prompt": "",
    "model": null,
    "cost": null,
-   "chapters": {},
+   "chapters": {
+    "16": 1
+   },
    "character": null
   },
   {
@@ -6052,7 +6179,9 @@
    "prompt": "",
    "model": null,
    "cost": null,
-   "chapters": {},
+   "chapters": {
+    "16": 1
+   },
    "character": null
   },
   {
@@ -6063,7 +6192,9 @@
    "prompt": "",
    "model": null,
    "cost": null,
-   "chapters": {},
+   "chapters": {
+    "17": 1
+   },
    "character": null
   },
   {
@@ -6074,7 +6205,9 @@
    "prompt": "",
    "model": null,
    "cost": null,
-   "chapters": {},
+   "chapters": {
+    "17": 1
+   },
    "character": null
   },
   {
@@ -6085,7 +6218,9 @@
    "prompt": "",
    "model": null,
    "cost": null,
-   "chapters": {},
+   "chapters": {
+    "17": 1
+   },
    "character": null
   },
   {
@@ -6096,7 +6231,9 @@
    "prompt": "",
    "model": null,
    "cost": null,
-   "chapters": {},
+   "chapters": {
+    "17": 1
+   },
    "character": null
   },
   {
@@ -6107,7 +6244,9 @@
    "prompt": "",
    "model": null,
    "cost": null,
-   "chapters": {},
+   "chapters": {
+    "17": 1
+   },
    "character": null
   },
   {
@@ -6118,7 +6257,9 @@
    "prompt": "",
    "model": null,
    "cost": null,
-   "chapters": {},
+   "chapters": {
+    "17": 1
+   },
    "character": null
   },
   {
@@ -6129,7 +6270,9 @@
    "prompt": "",
    "model": null,
    "cost": null,
-   "chapters": {},
+   "chapters": {
+    "17": 1
+   },
    "character": null
   },
   {
@@ -6140,7 +6283,9 @@
    "prompt": "",
    "model": null,
    "cost": null,
-   "chapters": {},
+   "chapters": {
+    "17": 1
+   },
    "character": null
   },
   {
@@ -6151,7 +6296,9 @@
    "prompt": "",
    "model": null,
    "cost": null,
-   "chapters": {},
+   "chapters": {
+    "17": 1
+   },
    "character": null
   },
   {
@@ -6162,7 +6309,9 @@
    "prompt": "",
    "model": null,
    "cost": null,
-   "chapters": {},
+   "chapters": {
+    "17": 1
+   },
    "character": null
   },
   {
@@ -6173,7 +6322,9 @@
    "prompt": "",
    "model": null,
    "cost": null,
-   "chapters": {},
+   "chapters": {
+    "17": 1
+   },
    "character": null
   },
   {
