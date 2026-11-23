@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: sprite
+refs: 
+
+Anime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view turned toward the viewer's right (nose pointing to the right edge of the picture), plain light grey background, no text. Both shoulders visible. Small normal realistic eyes, fully drawn with irises, pupils and highlights. Restrained realistic face. Thin pale scars like pen lines run from the temples down both sides of the neck. A thin old man of about seventy, weathered tan skin, thin white hair cut short, white stubble, deep lines, plain grey-green sea-silk tunic with a high collar. Puzzled and tired, brows drawn slightly together, mouth closed, like a man who has come home and found the house moved.

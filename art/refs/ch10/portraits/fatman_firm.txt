@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: sheet
+refs: art/refs/ch09/portraits/fatman_unhappy.png
+
+Anime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face and nose clearly turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same fat old face, same white hair and stubble, same blue and cream striped knitted jersey, same skin colour; only the expression changes. Small normal realistic eyes, fully drawn with irises, pupils and highlights. A restrained realistic expression, moderate, no grin, no laughing. Expression: firm and level, explaining a law he has to keep, mouth closed and steady, eyes straight ahead, jaw set.

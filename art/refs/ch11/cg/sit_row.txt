@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: illustration
+refs: art/refs/ch04/threaded/final/dejected.png, art/refs/ch01/portraits/sefa.png, art/refs/ch11/places/valley_night.png
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, no text, no letters, no readable marks. Reference 1 is Wrack, a lean man with short messy black hair and pale skin in a plain grey-green tunic with a thin pale line down his neck. Reference 2 is Sefa, a thin girl of sixteen with light skin, dark hair in a high ponytail with a silver strip, a short sleeveless grey-green tunic, a grey band on her arm. Reference 3 is a silent kelp valley at night. Underwater scene, no sky. Exactly two people: Wrack and Sefa sit side by side on the sand at the end of a long row, her head resting on his shoulder, his head bowed and hollow, her hands in her lap. Behind them, a long row of low pale sleds stretches away into the dark, each carrying a still figure in grey sleeves, seen small and far, no faces visible. Silent kelp stands around them in blue dark, a soft pale light. Nobody else.

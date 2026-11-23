@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background painting, clean line art, soft cel shading, gentle natural colours, no people, no text. The afterdeck of an old rusted frigate at night inside a calm storm-eye: a small round table with a white cloth, two wooden chairs facing each other, plates and glasses, a single glowing lantern on the table; the deck floor is an iron grating through which the dark sea is visible below, lantern light sliding on the water; a ship's rail at the back, a warm lantern glow, beyond it the dim lights of a raft-town of barges on a swell. Warm amber lantern light, deep blue night. Wide composition.

@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: illustration
+refs: art/refs/ch11/places/valley_silent.png
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, no text, no letters, no readable marks. Reference 1 is a golden kelp forest valley with pale sand. ENTIRELY UNDERWATER, no sky, no surface, no horizon. A huge weight of dark water is pressing down on a fleet of twelve grey warships and white-painted transport ships hanging above the valley: the grey gunboats are folded and crushed, thick cables snapped and trailing, big trawl nets torn. The white transports have split open along their keels like pods, and many small people in grey-green clothes pour out of the split hulls and drift down into the kelp forest. Wreckage sinking, bubbles, debris. Terrible and quiet power, cold light. No close-up faces.

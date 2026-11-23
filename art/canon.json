@@ -235,6 +235,30 @@
    "references": [
     "art/refs/ch09/portraits/fatman_unhappy.png"
    ]
+  },
+  "Odo": {
+   "fixed": "fat old Driftfolk harbourmaster / harbour caller of about seventy (the trumpet-man of c09.s05, now named), round heavy face with jowls, thin white hair combed back, white stubble beard, weathered skin, blue and cream striped knitted jersey, brass trumpet carried under the arm (not drawn in portraits). Expressions: fatman_unhappy (ch9), fatman_firm, fatman_weary (a cloth at the neck, c10.s01 'He wiped his neck').",
+   "references": [
+    "art/refs/ch09/portraits/fatman_unhappy.png"
+   ]
+  },
+  "Dace's aunt": {
+   "fixed": "no portrait (never speaks). In illustration c10_scrip: Driftfolk woman of about sixty-five, long weathered tanned face related to Dace but older and sterner, grey hair under a faded olive headscarf, no hat, no pipe, mouth shut like a purse, patched olive canvas apron.",
+   "references": [
+    "art/refs/ch10/cg/scrip.png"
+   ]
+  },
+  "The old caller of Fallow": {
+   "fixed": "thin old man of about seventy (Fallow's caller, not Threaded in the text; scars drawn faint on the face are a flaw of the portrait), weathered tan skin, short white hair, short white goatee, deep lines, plain grey-green high-collared sea-silk tunic; puzzled, tired, wet-eyed. Expressions: fallowcaller_puzzled, fallowcaller_wet.",
+   "references": [
+    "art/refs/ch11/portraits/fallowcaller_puzzled.png"
+   ]
+  },
+  "The young man from Fallow (ch11 expression)": {
+   "fixed": "same young Threaded man from Fallow as chapter 6 (light skin, sandy-brown hair, grey tunic); new expression fallowyoung_exhausted (grey pallor, heavy-lidded, no sleep since the forest).",
+   "references": [
+    "art/refs/ch11/portraits/fallowyoung_exhausted.png"
+   ]
   }
  },
  "objects": {
@@ -247,7 +271,9 @@
   "The Dragon": "a river with a spine: a kilometre of pale metal ribs, each a hoop taller than a hold's dome, one behind another in a long sinuous line, with bright dense glowing water BOUND to the ribs, pouring forward along the frame without leaving it, like a flame streaming back from a torch; the head is a smooth blunt pale prow the size of a house with no eyes and no mouth, and a panel that slides open like an eyelid; inside, the gallery is a flooded still hall with walls of bound water",
   "Slick eel": "eyeless eel as thick as a man's body and as long as a needle, coated in black slime, pale sores where the slime has rubbed away, jaws opening like a split hose",
   "White whales": "six white, vast, blunt-headed whales, each as long as a ship, small wise eyes; the calf is no bigger than a fishing boat; old scars on the mother's flank",
-  "Warm-stone": "a smooth dark egg-shaped stone about the size of a loaf, on a small stand when kept; glows with a soft warm amber light from within once mended (c09.s02.p015.1). Draw it as one egg-shaped stone, never several."
+  "Warm-stone": "a smooth dark egg-shaped stone about the size of a loaf, on a small stand when kept; glows with a soft warm amber light from within once mended (c09.s02.p015.1). Draw it as one egg-shaped stone, never several.",
+  "The governor": "a pale ribbed stone no bigger than a plum stone, the smallest part of the Maker engine; set in a bowl it pushes the water back into a finger-high ring (illustration c10_bowl).",
+  "Rook's afterdeck table": "round table with white cloth, two wooden chairs, one lantern, on an iron-grating deck over the sea (bg c10_frigate_deck)."
  },
  "places": {
   "Low Anthem dome": "hill-sized dome of pale smooth curved panes held by seamless white metal ribs; lit on one half, dark on the other with strings of glowing yellow-green lampweed; kelp trained up one side; stone-walled terraces and raked kelp rows round it; the hold is UNDER the sea",
@@ -313,6 +339,17 @@
   "Eye of the storm, tugs side by side (ch9)": "ring of cloud wall, blue-green sky, green glassy water, tugs tied together, gale skates (bg c9_eye_tugs).",
   "Lashing from the water (ch9)": "a mat of stormgrass a kilometre wide with roped hulls, a frigate hull market, thousands of lanterns at dusk (bg c9_lashing_water).",
   "Barge deck at night (ch9)": "bare planks, lanterns hung in the rigging and along the rail, yellow oilskins hung up (bg c9_barge_night).",
-  "Soup barge (ch9)": "long plank tables of steaming bowls, a fire and a big pot, lanterns, blankets on benches (bg c9_soup_barge)."
+  "Soup barge (ch9)": "long plank tables of steaming bowls, a fire and a big pot, lanterns, blankets on benches (bg c9_soup_barge).",
+  "Lashing planking (ch10)": "weathered plank street along a patched four-colour barge, tubs of plants, grey-green water alongside, storm cloud far off, overcast day (bg c10_planking).",
+  "Frigate afterdeck, night (ch10)": "painted-over frigate afterdeck, iron grating floor over the sea, white-clothed table, two chairs, lantern, lit raft-town beyond (bg c10_frigate_deck; c10_frigate_overturned has one chair knocked over and the storm wall far off).",
+  "Lashing lanterns on the swell (ch10)": "night view of the raft-town's lantern-lit barges on dark water, forty small white lamps in a line on one barge rail (bg c10_lamps_swell).",
+  "Storm wall round the Eye, night (ch10)": "colossal circular wall of black cloud with lightning, calm dark sea within, last lanterns tiny below, gale skates over the rim (bg c10_storm_wall).",
+  "Anthem Waters valley, gold (ch11)": "wide shallow valley of pale sand between tall brass-coloured kelp trunks, warm gold light in shafts, a ridge far off, healthy forest (bg c11_valley_gold). Entirely underwater.",
+  "Anthem Waters valley under the brown spoil (ch11)": "same valley with a thick curtain of brown refinery spoil falling in sheets across it (bg c11_valley_brown).",
+  "Anthem Waters valley, silent (ch11)": "same valley after the order: dull grey-gold light, broken hull plates, torn trawl nets and crushed grey wreckage on the sand, kelp standing still (bg c11_valley_silent).",
+  "Anthem Waters valley, dusk (ch11)": "deep blue-violet water, a last gold at the top, wreckage, faint yellow-green lights at the far edge (bg c11_valley_dusk).",
+  "Anthem Waters valley, night (ch11)": "almost black blue water, pale ghostly kelp, dim wreckage (bg c11_valley_night).",
+  "Anthem Waters valley, morning (ch11)": "cold pale silver-blue water with thin gold dawn glow, wreckage, still kelp (bg c11_valley_morning).",
+  "The Eye, barge rail (ch11)": "reuses bg c9_barge_night; no new background."
  }
 }

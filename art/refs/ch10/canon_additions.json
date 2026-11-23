@@ -1,0 +1,22 @@
+{
+ "characters": {
+  "Odo": {
+   "fixed": "fat old Driftfolk harbourmaster / harbour caller of about seventy (the trumpet-man of c09.s05, now named), round heavy face with jowls, thin white hair combed back, white stubble beard, weathered skin, blue and cream striped knitted jersey, brass trumpet carried under the arm (not drawn in portraits). Expressions: fatman_unhappy (ch9), fatman_firm, fatman_weary (a cloth at the neck, c10.s01 'He wiped his neck').",
+   "references": ["art/refs/ch09/portraits/fatman_unhappy.png"]
+  },
+  "Dace's aunt": {
+   "fixed": "no portrait (never speaks). In illustration c10_scrip: Driftfolk woman of about sixty-five, long weathered tanned face related to Dace but older and sterner, grey hair under a faded olive headscarf, no hat, no pipe, mouth shut like a purse, patched olive canvas apron.",
+   "references": ["art/refs/ch10/cg/scrip.png"]
+  }
+ },
+ "objects": {
+  "The governor": "a pale ribbed stone no bigger than a plum stone, the smallest part of the Maker engine; set in a bowl it pushes the water back into a finger-high ring (illustration c10_bowl).",
+  "Rook's afterdeck table": "round table with white cloth, two wooden chairs, one lantern, on an iron-grating deck over the sea (bg c10_frigate_deck)."
+ },
+ "places": {
+  "Lashing planking (ch10)": "weathered plank street along a patched four-colour barge, tubs of plants, grey-green water alongside, storm cloud far off, overcast day (bg c10_planking).",
+  "Frigate afterdeck, night (ch10)": "painted-over frigate afterdeck, iron grating floor over the sea, white-clothed table, two chairs, lantern, lit raft-town beyond (bg c10_frigate_deck; c10_frigate_overturned has one chair knocked over and the storm wall far off).",
+  "Lashing lanterns on the swell (ch10)": "night view of the raft-town's lantern-lit barges on dark water, forty small white lamps in a line on one barge rail (bg c10_lamps_swell).",
+  "Storm wall round the Eye, night (ch10)": "colossal circular wall of black cloud with lightning, calm dark sea within, last lanterns tiny below, gale skates over the rim (bg c10_storm_wall)."
+ }
+}

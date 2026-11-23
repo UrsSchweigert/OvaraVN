@@ -16,7 +16,8 @@ ROOT = Path(__file__).resolve().parents[1]
 SPEAKERS = {"c_wrack": "Wrack", "c_sefa": "Sefa", "c_oro": "Elder Oro",
             "c_ione": "Ione", "c_davin": "Davin", "c_hesper": "Hesper",
             "c_okonta": "Okonta", "c_brask": "Brask",
-            "c_jef": "Jef", "c_maelis": "Maelis", "c_anselm": "Anselm", "c_vey": "Elder Vey", "c_aurel": "Aurel", "c_corin": "Corin"}
+            "c_jef": "Jef", "c_maelis": "Maelis", "c_anselm": "Anselm", "c_vey": "Elder Vey", "c_aurel": "Aurel", "c_corin": "Corin",
+            "c_ilan": "Ilan", "c_nerys": "Nerys"}
 
 # Speech tags that only name the speaker. These are the only text the script
 # may drop. Each is (text in the approved file, what is left).
@@ -104,6 +105,22 @@ ALLOWED_DROPS = {2: [
     ('"He wanted it mended," he said.', '"He wanted it mended,"'),
     ('"He held all this up," Wrack said. "One', '"He held all this up," "One'),
     ('"Yes," said Okonta. She was', '"Yes," She was'),
+], 7: [
+    ('"The Girdle," Okonta said. She', '"The Girdle," She'),
+    ('away," Okonta said. "That\'s', 'away," "That\'s'),
+    ('hulls," Okonta said. "That', 'hulls," "That'),
+    ('coral," Okonta said. "Don', 'coral," "Don'),
+    ('open*," she said. "Where', 'open*," "Where'),
+    ('"The Smokers," Okonta said. Her', '"The Smokers," Her'),
+    ('"It\'s all right," he said. He did', '"It\'s all right," He did'),
+    ('"*He has to ask for his memory himself,*" he said.', '"*He has to ask for his memory himself,*"'),
+    ('something," he said. "I\'ve', 'something," "I\'ve'),
+    ('did," he said, "I\'ll', 'did," "I\'ll'),
+    ('"I did it," he said. "Low', '"I did it," "Low'),
+    ('"And it was him," Ilan said. "On', '"And it was him," "On'),
+    ('name," he said. "It\'s Ilan', 'name," "It\'s Ilan'),
+    ('"All of it," she said. She', '"All of it," She'),
+    ('"My mother\'s arms," she said.', '"My mother\'s arms,"'),
 ], 3: [
     ('it," he said. "Like', 'it," "Like'),
     ('singers," Okonta said. "Whales', 'singers," "Whales'),

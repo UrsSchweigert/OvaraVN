@@ -509,4 +509,4 @@ label ch06:
     with dissolve
     "The Dragon ran south."
 
-    return
+    jump ch07

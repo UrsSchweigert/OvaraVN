@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background painting, clean line art, soft cel shading, gentle natural colours, no people, no text. Night view across the lantern-lit raft-town of Lashing rocking on a gentle swell: rows of barges and platforms roped together, many warm lantern lights reflected on dark water, and on one barge forty small steady white lamps burning in a line along a rail. Deep blue night sky, calm. Wide composition.

@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text, no letters, no readable marks. Nine tall slender white fluted towers rising straight out of a bright shallow sea and thirty metres into a clean blue sky, each very thick at the base, seen close from the water; at their feet at the tide line broad pale stone aprons run out into the sea with many small driftfolk rafts and boats tied along them, crates, hanging washing, awnings, sunlit daylight, clear pale green water, a relaxed trading harbour.

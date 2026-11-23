@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: illustration
+refs: art/refs/ch11/portraits/fallowyoung_exhausted.png, art/refs/ch02/portraits/okonta.png, art/refs/ch09/places/barge_night.png
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, no text, no letters, no readable marks. Reference 1 is a young man of twenty-four with light skin and sandy-brown hair in a grey tunic. Reference 2 is Okonta, a spare woman of sixty with dark brown skin, short grey hair, in a slate-grey high-collared suit with thin pale scar lines at her temples. Reference 3 is the lantern-lit deck of a flat barge at night. Exactly two people: at the barge rail, the exhausted sandy-haired young man has fallen off a small slender pale needle-shaped vessel (pointed at both ends, no window) into the dark water and hangs half out of it, his face grey and pale; Okonta leans over the rail and grips him under the arms hauling him out of the water. The needle floats nearby. Night, lantern light, dark sea, nobody else in the picture.

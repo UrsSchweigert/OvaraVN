@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background painting, clean line art, soft cel shading, gentle natural colours, no people, no text. Daytime view on a raft-town of the Driftfolk in the calm eye of a storm: a street of weathered wooden planking along the side of a patched painted barge, ropes and tubs of plants, grey-green sea water lapping alongside the planking, mooring ropes, other barges and a gutted old frigate roped together beyond, a wall of grey storm cloud far away on the horizon, pale overcast light. The barge and planks float on the surface with the waterline across the hull. Wide composition.

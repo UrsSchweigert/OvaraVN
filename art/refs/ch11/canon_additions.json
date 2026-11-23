@@ -1,0 +1,21 @@
+{
+ "characters": {
+  "The old caller of Fallow": {
+   "fixed": "thin old man of about seventy (Fallow's caller, not Threaded in the text; scars drawn faint on the face are a flaw of the portrait), weathered tan skin, short white hair, short white goatee, deep lines, plain grey-green high-collared sea-silk tunic; puzzled, tired, wet-eyed. Expressions: fallowcaller_puzzled, fallowcaller_wet.",
+   "references": ["art/refs/ch11/portraits/fallowcaller_puzzled.png"]
+  },
+  "The young man from Fallow (ch11 expression)": {
+   "fixed": "same young Threaded man from Fallow as chapter 6 (light skin, sandy-brown hair, grey tunic); new expression fallowyoung_exhausted (grey pallor, heavy-lidded, no sleep since the forest).",
+   "references": ["art/refs/ch11/portraits/fallowyoung_exhausted.png"]
+  }
+ },
+ "places": {
+  "Anthem Waters valley, gold (ch11)": "wide shallow valley of pale sand between tall brass-coloured kelp trunks, warm gold light in shafts, a ridge far off, healthy forest (bg c11_valley_gold). Entirely underwater.",
+  "Anthem Waters valley under the brown spoil (ch11)": "same valley with a thick curtain of brown refinery spoil falling in sheets across it (bg c11_valley_brown).",
+  "Anthem Waters valley, silent (ch11)": "same valley after the order: dull grey-gold light, broken hull plates, torn trawl nets and crushed grey wreckage on the sand, kelp standing still (bg c11_valley_silent).",
+  "Anthem Waters valley, dusk (ch11)": "deep blue-violet water, a last gold at the top, wreckage, faint yellow-green lights at the far edge (bg c11_valley_dusk).",
+  "Anthem Waters valley, night (ch11)": "almost black blue water, pale ghostly kelp, dim wreckage (bg c11_valley_night).",
+  "Anthem Waters valley, morning (ch11)": "cold pale silver-blue water with thin gold dawn glow, wreckage, still kelp (bg c11_valley_morning).",
+  "The Eye, barge rail (ch11)": "reuses bg c9_barge_night; no new background."
+ }
+}

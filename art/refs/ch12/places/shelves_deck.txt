@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text, no letters, no readable marks. A bright shallow sea seen from the deck of a small tug: a rail and wooden deck in the foreground edge, and beyond it a view of pale green sea so clear that the sea floor of white sand and dark seagrass meadows is visible far below, silverback fish herds drifting over the meadows, reefs of clear glass coral with branching tips glinting between the meadows, bright noon sunshine, clean blue sky with a few thin clouds, at the far horizon nine slender white towers just visible.

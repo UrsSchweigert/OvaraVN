@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-23T12:58:05Z",
- "count": 338,
+ "generated": "2026-11-23T13:06:05Z",
+ "count": 372,
  "items": [
   {
    "kind": "portrait",
@@ -167,7 +167,8 @@
    "model": "flux-2",
    "cost": 0.024,
    "chapters": {
-    "1": 4
+    "1": 4,
+    "7": 1
    },
    "character": "Bother",
    "emotion": "pleased"
@@ -258,6 +259,18 @@
   },
   {
    "kind": "portrait",
+   "id": "p corin_pitying",
+   "game_file": "game/game/images/p_corin_pitying.png",
+   "source": "art/refs/ch11/portraits/corin_pitying.png",
+   "prompt": "model: fal-ai/flux-2/edit\npurpose: sprite\nrefs: art/refs/ch06/portraits/corin_grief.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right (nose pointing to the right edge of the picture), plain light grey background, no text. Both shoulders visible. Small normal realistic eyes, fully drawn with irises, pupils and highlights, not large, not round, not shiny. A restrained realistic expression, moderate, no grin, no tears streaming. The same character as the reference image: same face, same hair, same clothes, same skin colour; only the expression changes. Big man of about sixty-five, tan-brown skin, grey stubble. Expression: pitying, gentle and sorrowful, brows raised a little at the inner ends, eyes soft and steady, mouth closed, no hatred.",
+   "model": "flux-2",
+   "cost": 0.024,
+   "chapters": {},
+   "character": null,
+   "emotion": null
+  },
+  {
+   "kind": "portrait",
    "id": "p corin_shouting",
    "game_file": "game/game/images/p_corin_shouting.png",
    "source": "art/refs/ch06/portraits/corin_shouting.png",
@@ -300,6 +313,18 @@
    "game_file": "game/game/images/p_crane_sorry.png",
    "source": "art/refs/ch07/portraits/crane_sorry.png",
    "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch07/portraits/crane_flat.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same clothes, same skin colour, same lighting; only the expression changes. Both shoulders visible. Small normal realistic eyes, fully drawn with irises, pupils and highlights, no cartoon eyes, not large, not round, not shiny. A restrained realistic expression, moderate, no grin, no laughing, no tears streaming. Same short brown hair with grey at the sides, dark high-necked jacket. Expression: sorry and uneasy, brows lifted and drawn together a little, eyes meeting the viewer's with regret, mouth tight.",
+   "model": "flux-2",
+   "cost": 0.024,
+   "chapters": {},
+   "character": null,
+   "emotion": null
+  },
+  {
+   "kind": "portrait",
+   "id": "p dace_angry",
+   "game_file": "game/game/images/p_dace_angry.png",
+   "source": "art/refs/ch10/portraits/dace_angry.png",
+   "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch09/portraits_cut/../../ch08/portraits/dace_cheerful.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same skin colour; only the expression changes. Small normal realistic eyes, fully drawn with irises, pupils and highlights, no cartoon eyes. A restrained realistic expression, moderate, no grin, no laughing, no tears. A woman of about fifty with a long weather-beaten tanned face, grey-brown hair, clay pipe in her teeth, battered hat tied with string, patched canvas coat. Expression: angry, brow drawn down, jaw tight around the pipe, eyes hard.",
    "model": "flux-2",
    "cost": 0.024,
    "chapters": {},
@@ -527,6 +552,30 @@
   },
   {
    "kind": "portrait",
+   "id": "p fallowcaller_puzzled",
+   "game_file": "game/game/images/p_fallowcaller_puzzled.png",
+   "source": "art/refs/ch11/portraits/fallowcaller_puzzled.png",
+   "prompt": "model: fal-ai/flux-2\npurpose: sprite\nrefs: \n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view turned toward the viewer's right (nose pointing to the right edge of the picture), plain light grey background, no text. Both shoulders visible. Small normal realistic eyes, fully drawn with irises, pupils and highlights. Restrained realistic face. Thin pale scars like pen lines run from the temples down both sides of the neck. A thin old man of about seventy, weathered tan skin, thin white hair cut short, white stubble, deep lines, plain grey-green sea-silk tunic with a high collar. Puzzled and tired, brows drawn slightly together, mouth closed, like a man who has come home and found the house moved.",
+   "model": "flux-2-t2i",
+   "cost": 0.012,
+   "chapters": {},
+   "character": null,
+   "emotion": null
+  },
+  {
+   "kind": "portrait",
+   "id": "p fallowcaller_wet",
+   "game_file": "game/game/images/p_fallowcaller_wet.png",
+   "source": "art/refs/ch11/portraits/fallowcaller_wet.png",
+   "prompt": "model: fal-ai/flux-2/edit\npurpose: sprite\nrefs: art/refs/ch11/portraits/fallowcaller_puzzled.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right (nose pointing to the right edge of the picture), plain light grey background, no text. Both shoulders visible. Small normal realistic eyes, fully drawn with irises, pupils and highlights, not large, not round, not shiny. A restrained realistic expression, moderate, no grin, no tears streaming. The same character as the reference image: same face, same hair, same clothes, same skin colour; only the expression changes. Thin old man of about seventy with white hair. Expression: his eyes are wet and shining with tears held in, brows slightly drawn together, mouth closed, bewildered grief, not angry.",
+   "model": "flux-2",
+   "cost": 0.024,
+   "chapters": {},
+   "character": null,
+   "emotion": null
+  },
+  {
+   "kind": "portrait",
    "id": "p fallowyoung_ashamed",
    "game_file": "game/game/images/p_fallowyoung_ashamed.png",
    "source": "art/refs/ch06/portraits/fallowyoung_ashamed.png",
@@ -536,6 +585,18 @@
    "chapters": {
     "6": 1
    },
+   "character": null,
+   "emotion": null
+  },
+  {
+   "kind": "portrait",
+   "id": "p fallowyoung_exhausted",
+   "game_file": "game/game/images/p_fallowyoung_exhausted.png",
+   "source": "art/refs/ch11/portraits/fallowyoung_exhausted.png",
+   "prompt": "model: fal-ai/flux-2/edit\npurpose: sprite\nrefs: art/refs/ch06/portraits/fallowyoung_ashamed.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right (nose pointing to the right edge of the picture), plain light grey background, no text. Both shoulders visible. Small normal realistic eyes, fully drawn with irises, pupils and highlights, not large, not round, not shiny. A restrained realistic expression, moderate, no grin, no tears streaming. The same character as the reference image: same face, same hair, same clothes, same skin colour; only the expression changes. Young man of about twenty-four, light skin, sandy-brown hair, plain grey-green tunic. Expression: exhausted from days without sleep, grey pallor, lips pale and greyish, heavy-lidded eyes, looking ahead, mouth slightly open.",
+   "model": "flux-2",
+   "cost": 0.024,
+   "chapters": {},
    "character": null,
    "emotion": null
   },
@@ -555,12 +616,36 @@
   },
   {
    "kind": "portrait",
+   "id": "p fatman_firm",
+   "game_file": "game/game/images/p_fatman_firm.png",
+   "source": "art/refs/ch10/portraits/fatman_firm.png",
+   "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch09/portraits/fatman_unhappy.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face and nose clearly turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same fat old face, same white hair and stubble, same blue and cream striped knitted jersey, same skin colour; only the expression changes. Small normal realistic eyes, fully drawn with irises, pupils and highlights. A restrained realistic expression, moderate, no grin, no laughing. Expression: firm and level, explaining a law he has to keep, mouth closed and steady, eyes straight ahead, jaw set.",
+   "model": "flux-2",
+   "cost": 0.024,
+   "chapters": {},
+   "character": null,
+   "emotion": null
+  },
+  {
+   "kind": "portrait",
    "id": "p fatman_unhappy",
    "game_file": "game/game/images/p_fatman_unhappy.png",
    "source": "art/refs/ch09/portraits/fatman_unhappy.png",
    "prompt": "model: fal-ai/flux-2\npurpose: sheet\nrefs: \n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view turned toward the viewer's right (the face and nose point to the right edge of the picture), plain light grey background, no text. Both shoulders visible. The eyes are small, normal, realistic, fully drawn with irises, pupils and highlights. Restrained realistic face. A fat old man of about seventy, a harbour caller of the Driftfolk, round heavy face, jowls, white stubble, thin white hair, weathered skin, a striped blue and cream knitted jersey. Unhappy, reluctant, brows drawn together, mouth turned down.",
    "model": "flux-2-t2i",
    "cost": 0.012,
+   "chapters": {},
+   "character": null,
+   "emotion": null
+  },
+  {
+   "kind": "portrait",
+   "id": "p fatman_weary",
+   "game_file": "game/game/images/p_fatman_weary.png",
+   "source": "art/refs/ch10/portraits/fatman_weary.png",
+   "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch09/portraits/fatman_unhappy.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face and nose clearly turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same fat old face, same white hair and stubble, same blue and cream striped knitted jersey, same skin colour; only the expression changes. Small normal realistic eyes, fully drawn with irises, pupils and highlights. A restrained realistic expression, moderate, no grin, no laughing. Expression: tired and wary, lips pressed, brow lifted, looking slightly away, a man mopping his neck, worn out.",
+   "model": "flux-2",
+   "cost": 0.024,
    "chapters": {},
    "character": null,
    "emotion": null
@@ -633,6 +718,18 @@
   },
   {
    "kind": "portrait",
+   "id": "p hesper_cold",
+   "game_file": "game/game/images/p_hesper_cold.png",
+   "source": "art/refs/ch11/portraits/hesper_cold.png",
+   "prompt": "model: fal-ai/flux-2/edit\npurpose: sprite\nrefs: art/refs/ch02/portraits/hesper.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right (nose pointing to the right edge of the picture), plain light grey background, no text. Both shoulders visible. Small normal realistic eyes, fully drawn with irises, pupils and highlights, not large, not round, not shiny. A restrained realistic expression, moderate, no grin, no tears streaming. The same character as the reference image: same face, same hair, same clothes, same skin colour; only the expression changes. Lean hard woman of about forty, dark hair pulled back, a little thinner in the face. Expression: cold and quiet, eyes level and steady, mouth closed and still, speaking softly, controlled.",
+   "model": "flux-2",
+   "cost": 0.024,
+   "chapters": {},
+   "character": "Hesper",
+   "emotion": "cold"
+  },
+  {
+   "kind": "portrait",
    "id": "p hesper_shut",
    "game_file": "game/game/images/p_hesper_shut.png",
    "source": "art/refs/ch02/portraits/hesper_shut.png",
@@ -658,6 +755,18 @@
    },
    "character": "Hesper",
    "emotion": "stern"
+  },
+  {
+   "kind": "portrait",
+   "id": "p hesper_stricken",
+   "game_file": "game/game/images/p_hesper_stricken.png",
+   "source": "art/refs/ch11/portraits/hesper_stricken.png",
+   "prompt": "model: fal-ai/flux-2/edit\npurpose: sprite\nrefs: art/refs/ch02/portraits/hesper.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right (nose pointing to the right edge of the picture), plain light grey background, no text. Both shoulders visible. Small normal realistic eyes, fully drawn with irises, pupils and highlights, not large, not round, not shiny. A restrained realistic expression, moderate, no grin, no tears streaming. The same character as the reference image: same face, same hair, same clothes, same skin colour; only the expression changes. Lean hard woman of about forty, dark hair pulled back, a little thinner in the face. Expression: stricken, stopped mid-thought, eyes wide open fixed on something far away, lips slightly parted, a flinch just beginning to set.",
+   "model": "flux-2",
+   "cost": 0.024,
+   "chapters": {},
+   "character": "Hesper",
+   "emotion": "stricken"
   },
   {
    "kind": "portrait",
@@ -872,7 +981,9 @@
    "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch04/portraits/maelis_examining.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same clothes, same skin colour, same lighting; only the expression changes. Both shoulders visible. Small normal realistic eyes, fully drawn with irises, pupils and highlights, no cartoon eyes, not large, not round, not shiny. A restrained realistic expression, moderate, no grin, no laughing, no tears streaming. The same woman in her seventies with a lined composed face and brown eyes in a patched dark charcoal coat, but her grey hair is now cut off very short, cropped close to the scalp, no bun, no long hair at all. Expression: grave and still, eyes level and steady, mouth closed, like a house with one room shut up.",
    "model": "flux-2",
    "cost": 0.024,
-   "chapters": {},
+   "chapters": {
+    "7": 2
+   },
    "character": null,
    "emotion": null
   },
@@ -884,7 +995,9 @@
    "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch07/portraits/maelis_cropped_grave.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: exactly the same face with the same deep lines and wrinkles around the eyes, the same age in her seventies, same clothes, same skin colour; only the expression changes. Both shoulders visible. Small normal realistic eyes, fully drawn with irises, pupils and highlights, not large, not round, not shiny. A restrained realistic expression, moderate, no grin. The grey hair is cut off very short, cropped close to the scalp, patched dark coat. Expression: impassive, no softness in the face but no disgust either, eyes level and unmoving, mouth a calm straight line, mouth closed.",
    "model": "flux-2",
    "cost": 0.024,
-   "chapters": {},
+   "chapters": {
+    "7": 2
+   },
    "character": null,
    "emotion": null
   },
@@ -896,7 +1009,9 @@
    "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch07/portraits/maelis_cropped_grave.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: exactly the same face with the same deep lines and wrinkles around the eyes, the same age in her seventies, same clothes, same skin colour; only the expression changes. Both shoulders visible. Small normal realistic eyes, fully drawn with irises, pupils and highlights, not large, not round, not shiny. A restrained realistic expression, moderate, no grin. The grey hair is cut off very short, cropped close to the scalp, patched dark coat. Expression: evenly speaking, calm, eyes resting steadily on the listener, mouth closed or barely parted, face slightly lowered, voice unchanging.",
    "model": "flux-2",
    "cost": 0.024,
-   "chapters": {},
+   "chapters": {
+    "7": 3
+   },
    "character": null,
    "emotion": null
   },
@@ -1000,7 +1115,9 @@
    "prompt": "model: fal-ai/flux-2\npurpose: sheet\nrefs: \n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view turned toward the viewer's right (the face and nose point to the right edge of the picture), plain light grey background, no text. Both shoulders visible. The eyes are small, normal, realistic, fully drawn with irises, pupils and highlights, not large, not round, not shiny. Restrained realistic face. A slender woman of about forty with long limbs, light pale skin slightly dry, black hair pinned up, large dark eyes, a high-collared plain dark dress with long sleeves buttoned to the wrists. Expression: earnest and fearful for her child, brows drawn together, mouth firm, eyes steady and anxious.",
    "model": "flux-2-t2i",
    "cost": 0.012,
-   "chapters": {},
+   "chapters": {
+    "7": 1
+   },
    "character": null,
    "emotion": null
   },
@@ -1093,7 +1210,8 @@
    "model": "flux-2",
    "cost": 0.024,
    "chapters": {
-    "6": 6
+    "6": 6,
+    "7": 1
    },
    "character": "Okonta",
    "emotion": "flat"
@@ -1125,7 +1243,8 @@
     "2": 1,
     "3": 14,
     "4": 4,
-    "5": 2
+    "5": 2,
+    "7": 5
    },
    "character": "Okonta",
    "emotion": "grave"
@@ -1139,7 +1258,8 @@
    "model": "flux-2",
    "cost": 0.024,
    "chapters": {
-    "5": 4
+    "5": 4,
+    "7": 1
    },
    "character": "Okonta",
    "emotion": "grim"
@@ -1168,7 +1288,8 @@
    "model": "flux-2",
    "cost": 0.024,
    "chapters": {
-    "4": 1
+    "4": 1,
+    "7": 1
    },
    "character": "Okonta",
    "emotion": "smiling"
@@ -1233,7 +1354,8 @@
    "chapters": {
     "2": 1,
     "3": 5,
-    "4": 2
+    "4": 2,
+    "7": 2
    },
    "character": "Okonta",
    "emotion": "wry"
@@ -1425,7 +1547,9 @@
    "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch06/portraits/sefa_dry.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same clothes, same skin colour, same lighting; only the expression changes. Both shoulders visible. Small normal realistic eyes, fully drawn with irises, pupils and highlights, no cartoon eyes, not large, not round, not shiny. A restrained realistic expression, moderate, no grin, no laughing, no tears streaming.  Girl of sixteen like the reference, dark hair in a high ponytail with a silver-white strip, large nearly black eyes, light skin, short sleeveless grey-green tunic. Expression: small and afraid, eyes wide and fixed, brows lifted, lips pressed together, shoulders drawn in a little.",
    "model": "flux-2",
    "cost": 0.024,
-   "chapters": {},
+   "chapters": {
+    "7": 1
+   },
    "character": "Sefa",
    "emotion": "afraid"
   },
@@ -1438,7 +1562,8 @@
    "model": "flux-2",
    "cost": 0.024,
    "chapters": {
-    "1": 2
+    "1": 2,
+    "7": 1
    },
    "character": "Sefa",
    "emotion": "amazed"
@@ -1466,7 +1591,9 @@
    "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch06/portraits/sefa_dry.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same clothes, same skin colour, same lighting; only the expression changes. Both shoulders visible. Small normal realistic eyes, fully drawn with irises, pupils and highlights, no cartoon eyes, not large, not round, not shiny. A restrained realistic expression, moderate, no grin, no laughing, no tears streaming.  Girl of sixteen like the reference, dark hair in a high ponytail with a silver-white strip, large nearly black eyes, light skin, short sleeveless grey-green tunic. Expression: dismayed and stricken, brows pinched upward, lips parted slightly, eyes fixed on something far away, quiet distress.",
    "model": "flux-2",
    "cost": 0.024,
-   "chapters": {},
+   "chapters": {
+    "7": 2
+   },
    "character": "Sefa",
    "emotion": "dismayed"
   },
@@ -1548,7 +1675,8 @@
    "model": "flux-2",
    "cost": 0.024,
    "chapters": {
-    "5": 1
+    "5": 1,
+    "7": 1
    },
    "character": "Sefa",
    "emotion": "hard"
@@ -1578,6 +1706,30 @@
    },
    "character": "Sefa",
    "emotion": "proud"
+  },
+  {
+   "kind": "portrait",
+   "id": "p sefa_puzzled",
+   "game_file": "game/game/images/p_sefa_puzzled.png",
+   "source": "art/refs/ch11/portraits/sefa_puzzled.png",
+   "prompt": "model: fal-ai/flux-2/edit\npurpose: sprite\nrefs: art/refs/ch01/portraits/sefa.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right (nose pointing to the right edge of the picture), plain light grey background, no text. Both shoulders visible. Small normal realistic eyes, fully drawn with irises, pupils and highlights, not large, not round, not shiny. A restrained realistic expression, moderate, no grin, no tears streaming. The same character as the reference image: same face, same hair, same clothes, same skin colour; only the expression changes. Thin girl of about sixteen, dark hair in a high ponytail with a silver-white strip, large nearly black eyes, light skin. Expression: frowning, puzzled, brows drawn together, looking down at something, mouth closed.",
+   "model": "flux-2",
+   "cost": 0.024,
+   "chapters": {},
+   "character": "Sefa",
+   "emotion": "puzzled"
+  },
+  {
+   "kind": "portrait",
+   "id": "p sefa_shaken",
+   "game_file": "game/game/images/p_sefa_shaken.png",
+   "source": "art/refs/ch10/portraits/sefa_shaken.png",
+   "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch10/portraits/dace_angry.png, game/game/images/p_sefa_wary.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face and nose clearly turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same skin colour; only the expression changes. Small normal realistic eyes, fully drawn with irises, pupils and highlights, no cartoon eyes. A restrained realistic expression, moderate, no grin, no laughing, no tears. Expression: quiet, withdrawn and shaken, eyes cast down, lips pressed together, no tears, face pale. A young woman with black hair tied up with a pale ribbon, olive-grey sleeveless top; same as reference image 2.",
+   "model": "flux-2",
+   "cost": 0.036,
+   "chapters": {},
+   "character": "Sefa",
+   "emotion": "shaken"
   },
   {
    "kind": "portrait",
@@ -1626,7 +1778,9 @@
    "prompt": "model: fal-ai/flux-2/edit\npurpose: sheet\nrefs: art/refs/ch06/portraits/sefa_dry.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same clothes, same skin colour, same lighting; only the expression changes. Both shoulders visible. Small normal realistic eyes, fully drawn with irises, pupils and highlights, no cartoon eyes, not large, not round, not shiny. A restrained realistic expression, moderate, no grin, no laughing, no tears streaming.  Girl of sixteen like the reference, dark hair in a high ponytail with a silver-white strip, large nearly black eyes, light skin, short sleeveless grey-green tunic. Expression: furious after hours of weeping: the rims of the eyes red, the lower eyelids puffy and swollen, the nose a little red, no blush on the cheeks, jaw set hard, brows low, eyes glaring straight ahead, mouth pressed in a tight line.",
    "model": "flux-2",
    "cost": 0.024,
-   "chapters": {},
+   "chapters": {
+    "7": 1
+   },
    "character": "Sefa",
    "emotion": "swollen"
   },
@@ -1660,6 +1814,18 @@
   },
   {
    "kind": "portrait",
+   "id": "p sefa_understanding",
+   "game_file": "game/game/images/p_sefa_understanding.png",
+   "source": "art/refs/ch11/portraits/sefa_understanding.png",
+   "prompt": "model: fal-ai/flux-2/edit\npurpose: sprite\nrefs: art/refs/ch01/portraits/sefa.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right (nose pointing to the right edge of the picture), plain light grey background, no text. Both shoulders visible. Small normal realistic eyes, fully drawn with irises, pupils and highlights, not large, not round, not shiny. A restrained realistic expression, moderate, no grin, no tears streaming. The same character as the reference image: same face, same hair, same clothes, same skin colour; only the expression changes. Thin girl of about sixteen, dark hair in a high ponytail with a silver-white strip, large nearly black eyes, light skin. Expression: she has just understood something terrible, dry-eyed, face gone still and pale, eyes steady, mouth closed, no tears.",
+   "model": "flux-2",
+   "cost": 0.024,
+   "chapters": {},
+   "character": "Sefa",
+   "emotion": "understanding"
+  },
+  {
+   "kind": "portrait",
    "id": "p sefa_wary",
    "game_file": "game/game/images/p_sefa_wary.png",
    "source": "art/refs/ch01/portraits/sefa.png",
@@ -1667,7 +1833,8 @@
    "model": "flux-2",
    "cost": 0.024,
    "chapters": {
-    "1": 4
+    "1": 4,
+    "7": 1
    },
    "character": "Sefa",
    "emotion": "wary"
@@ -1853,7 +2020,8 @@
    "model": null,
    "cost": null,
    "chapters": {
-    "6": 1
+    "6": 1,
+    "7": 4
    },
    "character": "Wrack",
    "emotion": "ashamed"
@@ -1867,7 +2035,8 @@
    "model": null,
    "cost": null,
    "chapters": {
-    "5": 3
+    "5": 3,
+    "7": 5
    },
    "character": "Wrack",
    "emotion": "attentive"
@@ -1883,10 +2052,23 @@
    "chapters": {
     "4": 1,
     "5": 1,
-    "6": 2
+    "6": 2,
+    "7": 1
    },
    "character": "Wrack",
    "emotion": "calm"
+  },
+  {
+   "kind": "portrait",
+   "id": "p wrack_thread_cold",
+   "game_file": "game/game/images/p_wrack_thread_cold.png",
+   "source": "art/refs/ch11/portraits/wrack_thread_cold.png",
+   "prompt": "model: fal-ai/flux-2/edit\npurpose: sprite\nrefs: art/refs/ch04/threaded/final/calm.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right (nose pointing to the right edge of the picture), plain light grey background, no text. Both shoulders visible. Small normal realistic eyes, fully drawn with irises, pupils and highlights, not large, not round, not shiny. A restrained realistic expression, moderate, no grin, no tears streaming. The same character as the reference image: same face, same hair, same clothes, same skin colour; only the expression changes. Lean man, short messy black hair, light skin, grey-green tunic, a single thin pale Thread line down the side of the neck. Expression: cold and empty, face smooth and still like a man doing sums, eyes level and hard, mouth closed.",
+   "model": "flux-2",
+   "cost": 0.024,
+   "chapters": {},
+   "character": "Wrack",
+   "emotion": "cold"
   },
   {
    "kind": "portrait",
@@ -1911,7 +2093,8 @@
    "model": null,
    "cost": null,
    "chapters": {
-    "6": 6
+    "6": 6,
+    "7": 1
    },
    "character": "Wrack",
    "emotion": "dejected"
@@ -1970,10 +2153,23 @@
    "chapters": {
     "4": 2,
     "5": 1,
-    "6": 1
+    "6": 1,
+    "7": 2
    },
    "character": "Wrack",
    "emotion": "grieving"
+  },
+  {
+   "kind": "portrait",
+   "id": "p wrack_thread_pleading",
+   "game_file": "game/game/images/p_wrack_thread_pleading.png",
+   "source": "art/refs/ch11/portraits/wrack_thread_pleading.png",
+   "prompt": "model: fal-ai/flux-2/edit\npurpose: sprite\nrefs: art/refs/ch04/threaded/final/calm.png\n\nAnime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right (nose pointing to the right edge of the picture), plain light grey background, no text. Both shoulders visible. Small normal realistic eyes, fully drawn with irises, pupils and highlights, not large, not round, not shiny. A restrained realistic expression, moderate, no grin, no tears streaming. The same character as the reference image: same face, same hair, same clothes, same skin colour; only the expression changes. Lean man, short messy black hair, light skin, grey-green tunic, a single thin pale Thread line down the side of the neck. Expression: pleading quietly, brows drawn up in the middle, eyes earnest, mouth slightly open as if saying her name.",
+   "model": "flux-2",
+   "cost": 0.024,
+   "chapters": {},
+   "character": "Wrack",
+   "emotion": "pleading"
   },
   {
    "kind": "portrait",
@@ -1985,7 +2181,8 @@
    "cost": null,
    "chapters": {
     "4": 1,
-    "5": 3
+    "5": 3,
+    "7": 2
    },
    "character": "Wrack",
    "emotion": "resolved"
@@ -2055,7 +2252,8 @@
    "cost": null,
    "chapters": {
     "5": 7,
-    "6": 5
+    "6": 5,
+    "7": 3
    },
    "character": "Wrack",
    "emotion": "troubled"
@@ -2433,6 +2631,127 @@
   },
   {
    "kind": "background",
+   "id": "bg c10_frigate_deck",
+   "game_file": "game/game/images/bg/c10_frigate_deck.png",
+   "source": null,
+   "prompt": "",
+   "model": null,
+   "cost": null,
+   "chapters": {},
+   "character": null
+  },
+  {
+   "kind": "background",
+   "id": "bg c10_frigate_overturned",
+   "game_file": "game/game/images/bg/c10_frigate_overturned.png",
+   "source": null,
+   "prompt": "",
+   "model": null,
+   "cost": null,
+   "chapters": {},
+   "character": null
+  },
+  {
+   "kind": "background",
+   "id": "bg c10_lamps_swell",
+   "game_file": "game/game/images/bg/c10_lamps_swell.png",
+   "source": null,
+   "prompt": "",
+   "model": null,
+   "cost": null,
+   "chapters": {},
+   "character": null
+  },
+  {
+   "kind": "background",
+   "id": "bg c10_planking",
+   "game_file": "game/game/images/bg/c10_planking.png",
+   "source": null,
+   "prompt": "",
+   "model": null,
+   "cost": null,
+   "chapters": {},
+   "character": null
+  },
+  {
+   "kind": "background",
+   "id": "bg c10_storm_wall",
+   "game_file": "game/game/images/bg/c10_storm_wall.png",
+   "source": null,
+   "prompt": "",
+   "model": null,
+   "cost": null,
+   "chapters": {},
+   "character": null
+  },
+  {
+   "kind": "background",
+   "id": "bg c11_valley_brown",
+   "game_file": "game/game/images/bg/c11_valley_brown.png",
+   "source": null,
+   "prompt": "",
+   "model": null,
+   "cost": null,
+   "chapters": {},
+   "character": null
+  },
+  {
+   "kind": "background",
+   "id": "bg c11_valley_dusk",
+   "game_file": "game/game/images/bg/c11_valley_dusk.png",
+   "source": null,
+   "prompt": "",
+   "model": null,
+   "cost": null,
+   "chapters": {},
+   "character": null
+  },
+  {
+   "kind": "background",
+   "id": "bg c11_valley_gold",
+   "game_file": "game/game/images/bg/c11_valley_gold.png",
+   "source": null,
+   "prompt": "",
+   "model": null,
+   "cost": null,
+   "chapters": {},
+   "character": null
+  },
+  {
+   "kind": "background",
+   "id": "bg c11_valley_morning",
+   "game_file": "game/game/images/bg/c11_valley_morning.png",
+   "source": null,
+   "prompt": "",
+   "model": null,
+   "cost": null,
+   "chapters": {},
+   "character": null
+  },
+  {
+   "kind": "background",
+   "id": "bg c11_valley_night",
+   "game_file": "game/game/images/bg/c11_valley_night.png",
+   "source": null,
+   "prompt": "",
+   "model": null,
+   "cost": null,
+   "chapters": {},
+   "character": null
+  },
+  {
+   "kind": "background",
+   "id": "bg c11_valley_silent",
+   "game_file": "game/game/images/bg/c11_valley_silent.png",
+   "source": null,
+   "prompt": "",
+   "model": null,
+   "cost": null,
+   "chapters": {},
+   "character": null
+  },
+  {
+   "kind": "background",
    "id": "bg c6_forest_beneath",
    "game_file": "game/game/images/bg/c6_forest_beneath.png",
    "source": null,
@@ -2440,7 +2759,8 @@
    "model": null,
    "cost": null,
    "chapters": {
-    "6": 1
+    "6": 1,
+    "7": 1
    },
    "character": null
   },
@@ -2530,7 +2850,9 @@
    "prompt": "",
    "model": null,
    "cost": null,
-   "chapters": {},
+   "chapters": {
+    "7": 1
+   },
    "character": null
   },
   {
@@ -2541,7 +2863,9 @@
    "prompt": "",
    "model": null,
    "cost": null,
-   "chapters": {},
+   "chapters": {
+    "7": 1
+   },
    "character": null
   },
   {
@@ -2552,7 +2876,9 @@
    "prompt": "",
    "model": null,
    "cost": null,
-   "chapters": {},
+   "chapters": {
+    "7": 2
+   },
    "character": null
   },
   {
@@ -2563,7 +2889,9 @@
    "prompt": "",
    "model": null,
    "cost": null,
-   "chapters": {},
+   "chapters": {
+    "7": 3
+   },
    "character": null
   },
   {
@@ -2574,7 +2902,9 @@
    "prompt": "",
    "model": null,
    "cost": null,
-   "chapters": {},
+   "chapters": {
+    "7": 1
+   },
    "character": null
   },
   {
@@ -2585,7 +2915,9 @@
    "prompt": "",
    "model": null,
    "cost": null,
-   "chapters": {},
+   "chapters": {
+    "7": 1
+   },
    "character": null
   },
   {
@@ -2596,7 +2928,9 @@
    "prompt": "",
    "model": null,
    "cost": null,
-   "chapters": {},
+   "chapters": {
+    "7": 3
+   },
    "character": null
   },
   {
@@ -2607,7 +2941,9 @@
    "prompt": "",
    "model": null,
    "cost": null,
-   "chapters": {},
+   "chapters": {
+    "7": 2
+   },
    "character": null
   },
   {
@@ -2618,7 +2954,9 @@
    "prompt": "",
    "model": null,
    "cost": null,
-   "chapters": {},
+   "chapters": {
+    "7": 3
+   },
    "character": null
   },
   {
@@ -2629,7 +2967,9 @@
    "prompt": "",
    "model": null,
    "cost": null,
-   "chapters": {},
+   "chapters": {
+    "7": 1
+   },
    "character": null
   },
   {
@@ -2640,7 +2980,9 @@
    "prompt": "",
    "model": null,
    "cost": null,
-   "chapters": {},
+   "chapters": {
+    "7": 1
+   },
    "character": null
   },
   {
@@ -2651,7 +2993,9 @@
    "prompt": "",
    "model": null,
    "cost": null,
-   "chapters": {},
+   "chapters": {
+    "7": 2
+   },
    "character": null
   },
   {
@@ -2662,7 +3006,9 @@
    "prompt": "",
    "model": null,
    "cost": null,
-   "chapters": {},
+   "chapters": {
+    "7": 1
+   },
    "character": null
   },
   {
@@ -2673,7 +3019,9 @@
    "prompt": "",
    "model": null,
    "cost": null,
-   "chapters": {},
+   "chapters": {
+    "7": 1
+   },
    "character": null
   },
   {
@@ -2684,7 +3032,9 @@
    "prompt": "",
    "model": null,
    "cost": null,
-   "chapters": {},
+   "chapters": {
+    "7": 1
+   },
    "character": null
   },
   {
@@ -2695,7 +3045,9 @@
    "prompt": "",
    "model": null,
    "cost": null,
-   "chapters": {},
+   "chapters": {
+    "7": 1
+   },
    "character": null
   },
   {
@@ -3182,7 +3534,8 @@
    "model": "flux-2-t2i",
    "cost": 0.024,
    "chapters": {
-    "3": 3
+    "3": 3,
+    "7": 3
    },
    "character": null
   },
@@ -3248,7 +3601,8 @@
    "cost": 0.024,
    "chapters": {
     "1": 2,
-    "3": 3
+    "3": 3,
+    "7": 1
    },
    "character": null
   },
@@ -3573,6 +3927,105 @@
    "chapters": {
     "4": 2
    },
+   "character": null
+  },
+  {
+   "kind": "illustration",
+   "id": "cg c10_bowl",
+   "game_file": "game/game/images/cg/c10_bowl.png",
+   "source": null,
+   "prompt": "",
+   "model": null,
+   "cost": null,
+   "chapters": {},
+   "character": null
+  },
+  {
+   "kind": "illustration",
+   "id": "cg c10_rail_sefa",
+   "game_file": "game/game/images/cg/c10_rail_sefa.png",
+   "source": null,
+   "prompt": "",
+   "model": null,
+   "cost": null,
+   "chapters": {},
+   "character": null
+  },
+  {
+   "kind": "illustration",
+   "id": "cg c10_rook_rail",
+   "game_file": "game/game/images/cg/c10_rook_rail.png",
+   "source": null,
+   "prompt": "",
+   "model": null,
+   "cost": null,
+   "chapters": {},
+   "character": null
+  },
+  {
+   "kind": "illustration",
+   "id": "cg c10_scrip",
+   "game_file": "game/game/images/cg/c10_scrip.png",
+   "source": null,
+   "prompt": "",
+   "model": null,
+   "cost": null,
+   "chapters": {},
+   "character": null
+  },
+  {
+   "kind": "illustration",
+   "id": "cg c11_hesper_valley",
+   "game_file": "game/game/images/cg/c11_hesper_valley.png",
+   "source": null,
+   "prompt": "",
+   "model": null,
+   "cost": null,
+   "chapters": {},
+   "character": null
+  },
+  {
+   "kind": "illustration",
+   "id": "cg c11_sefa_hands",
+   "game_file": "game/game/images/cg/c11_sefa_hands.png",
+   "source": null,
+   "prompt": "",
+   "model": null,
+   "cost": null,
+   "chapters": {},
+   "character": null
+  },
+  {
+   "kind": "illustration",
+   "id": "cg c11_sit_row",
+   "game_file": "game/game/images/cg/c11_sit_row.png",
+   "source": null,
+   "prompt": "",
+   "model": null,
+   "cost": null,
+   "chapters": {},
+   "character": null
+  },
+  {
+   "kind": "illustration",
+   "id": "cg c11_twelve_hulls",
+   "game_file": "game/game/images/cg/c11_twelve_hulls.png",
+   "source": null,
+   "prompt": "",
+   "model": null,
+   "cost": null,
+   "chapters": {},
+   "character": null
+  },
+  {
+   "kind": "illustration",
+   "id": "cg c11_youth_falls",
+   "game_file": "game/game/images/cg/c11_youth_falls.png",
+   "source": null,
+   "prompt": "",
+   "model": null,
+   "cost": null,
+   "chapters": {},
    "character": null
   },
   {
@@ -4155,7 +4608,9 @@
    "prompt": "",
    "model": null,
    "cost": null,
-   "chapters": {},
+   "chapters": {
+    "7": 2
+   },
    "character": null
   },
   {
@@ -4166,7 +4621,9 @@
    "prompt": "",
    "model": null,
    "cost": null,
-   "chapters": {},
+   "chapters": {
+    "7": 1
+   },
    "character": null
   },
   {
@@ -4177,7 +4634,9 @@
    "prompt": "",
    "model": null,
    "cost": null,
-   "chapters": {},
+   "chapters": {
+    "7": 1
+   },
    "character": null
   },
   {
@@ -4188,7 +4647,9 @@
    "prompt": "",
    "model": null,
    "cost": null,
-   "chapters": {},
+   "chapters": {
+    "7": 1
+   },
    "character": null
   },
   {
@@ -4199,7 +4660,9 @@
    "prompt": "",
    "model": null,
    "cost": null,
-   "chapters": {},
+   "chapters": {
+    "7": 1
+   },
    "character": null
   },
   {
@@ -4617,6 +5080,30 @@
     "references": [
      "art/refs/ch09/portraits/fatman_unhappy.png"
     ]
+   },
+   "Odo": {
+    "fixed": "fat old Driftfolk harbourmaster / harbour caller of about seventy (the trumpet-man of c09.s05, now named), round heavy face with jowls, thin white hair combed back, white stubble beard, weathered skin, blue and cream striped knitted jersey, brass trumpet carried under the arm (not drawn in portraits). Expressions: fatman_unhappy (ch9), fatman_firm, fatman_weary (a cloth at the neck, c10.s01 'He wiped his neck').",
+    "references": [
+     "art/refs/ch09/portraits/fatman_unhappy.png"
+    ]
+   },
+   "Dace's aunt": {
+    "fixed": "no portrait (never speaks). In illustration c10_scrip: Driftfolk woman of about sixty-five, long weathered tanned face related to Dace but older and sterner, grey hair under a faded olive headscarf, no hat, no pipe, mouth shut like a purse, patched olive canvas apron.",
+    "references": [
+     "art/refs/ch10/cg/scrip.png"
+    ]
+   },
+   "The old caller of Fallow": {
+    "fixed": "thin old man of about seventy (Fallow's caller, not Threaded in the text; scars drawn faint on the face are a flaw of the portrait), weathered tan skin, short white hair, short white goatee, deep lines, plain grey-green high-collared sea-silk tunic; puzzled, tired, wet-eyed. Expressions: fallowcaller_puzzled, fallowcaller_wet.",
+    "references": [
+     "art/refs/ch11/portraits/fallowcaller_puzzled.png"
+    ]
+   },
+   "The young man from Fallow (ch11 expression)": {
+    "fixed": "same young Threaded man from Fallow as chapter 6 (light skin, sandy-brown hair, grey tunic); new expression fallowyoung_exhausted (grey pallor, heavy-lidded, no sleep since the forest).",
+    "references": [
+     "art/refs/ch11/portraits/fallowyoung_exhausted.png"
+    ]
    }
   },
   "objects": {
@@ -4629,7 +5116,9 @@
    "The Dragon": "a river with a spine: a kilometre of pale metal ribs, each a hoop taller than a hold's dome, one behind another in a long sinuous line, with bright dense glowing water BOUND to the ribs, pouring forward along the frame without leaving it, like a flame streaming back from a torch; the head is a smooth blunt pale prow the size of a house with no eyes and no mouth, and a panel that slides open like an eyelid; inside, the gallery is a flooded still hall with walls of bound water",
    "Slick eel": "eyeless eel as thick as a man's body and as long as a needle, coated in black slime, pale sores where the slime has rubbed away, jaws opening like a split hose",
    "White whales": "six white, vast, blunt-headed whales, each as long as a ship, small wise eyes; the calf is no bigger than a fishing boat; old scars on the mother's flank",
-   "Warm-stone": "a smooth dark egg-shaped stone about the size of a loaf, on a small stand when kept; glows with a soft warm amber light from within once mended (c09.s02.p015.1). Draw it as one egg-shaped stone, never several."
+   "Warm-stone": "a smooth dark egg-shaped stone about the size of a loaf, on a small stand when kept; glows with a soft warm amber light from within once mended (c09.s02.p015.1). Draw it as one egg-shaped stone, never several.",
+   "The governor": "a pale ribbed stone no bigger than a plum stone, the smallest part of the Maker engine; set in a bowl it pushes the water back into a finger-high ring (illustration c10_bowl).",
+   "Rook's afterdeck table": "round table with white cloth, two wooden chairs, one lantern, on an iron-grating deck over the sea (bg c10_frigate_deck)."
   },
   "places": {
    "Low Anthem dome": "hill-sized dome of pale smooth curved panes held by seamless white metal ribs; lit on one half, dark on the other with strings of glowing yellow-green lampweed; kelp trained up one side; stone-walled terraces and raked kelp rows round it; the hold is UNDER the sea",
@@ -4695,7 +5184,18 @@
    "Eye of the storm, tugs side by side (ch9)": "ring of cloud wall, blue-green sky, green glassy water, tugs tied together, gale skates (bg c9_eye_tugs).",
    "Lashing from the water (ch9)": "a mat of stormgrass a kilometre wide with roped hulls, a frigate hull market, thousands of lanterns at dusk (bg c9_lashing_water).",
    "Barge deck at night (ch9)": "bare planks, lanterns hung in the rigging and along the rail, yellow oilskins hung up (bg c9_barge_night).",
-   "Soup barge (ch9)": "long plank tables of steaming bowls, a fire and a big pot, lanterns, blankets on benches (bg c9_soup_barge)."
+   "Soup barge (ch9)": "long plank tables of steaming bowls, a fire and a big pot, lanterns, blankets on benches (bg c9_soup_barge).",
+   "Lashing planking (ch10)": "weathered plank street along a patched four-colour barge, tubs of plants, grey-green water alongside, storm cloud far off, overcast day (bg c10_planking).",
+   "Frigate afterdeck, night (ch10)": "painted-over frigate afterdeck, iron grating floor over the sea, white-clothed table, two chairs, lantern, lit raft-town beyond (bg c10_frigate_deck; c10_frigate_overturned has one chair knocked over and the storm wall far off).",
+   "Lashing lanterns on the swell (ch10)": "night view of the raft-town's lantern-lit barges on dark water, forty small white lamps in a line on one barge rail (bg c10_lamps_swell).",
+   "Storm wall round the Eye, night (ch10)": "colossal circular wall of black cloud with lightning, calm dark sea within, last lanterns tiny below, gale skates over the rim (bg c10_storm_wall).",
+   "Anthem Waters valley, gold (ch11)": "wide shallow valley of pale sand between tall brass-coloured kelp trunks, warm gold light in shafts, a ridge far off, healthy forest (bg c11_valley_gold). Entirely underwater.",
+   "Anthem Waters valley under the brown spoil (ch11)": "same valley with a thick curtain of brown refinery spoil falling in sheets across it (bg c11_valley_brown).",
+   "Anthem Waters valley, silent (ch11)": "same valley after the order: dull grey-gold light, broken hull plates, torn trawl nets and crushed grey wreckage on the sand, kelp standing still (bg c11_valley_silent).",
+   "Anthem Waters valley, dusk (ch11)": "deep blue-violet water, a last gold at the top, wreckage, faint yellow-green lights at the far edge (bg c11_valley_dusk).",
+   "Anthem Waters valley, night (ch11)": "almost black blue water, pale ghostly kelp, dim wreckage (bg c11_valley_night).",
+   "Anthem Waters valley, morning (ch11)": "cold pale silver-blue water with thin gold dawn glow, wreckage, still kelp (bg c11_valley_morning).",
+   "The Eye, barge rail (ch11)": "reuses bg c9_barge_night; no new background."
   }
  }
 }
