@@ -539,4 +539,4 @@ label ch07:
     hide bother
     with qd
 
-    return
+    jump ch08

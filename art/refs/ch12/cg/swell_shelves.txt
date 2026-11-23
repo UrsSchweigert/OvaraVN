@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: illustration
+refs: game/game/images/bg/c7_nine_spires.png
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, no text, no letters, no readable marks. Eyes fully drawn with irises, pupils and highlights. No people. Daylight view from just above the surface of the clear pale green Bright Shelves: in the middle distance a very wide circle of pale white stone terraces lies just below the water, a kilometre across, like a huge shallow drowned amphitheatre seen from above and far away. From it a single low smooth swell spreads outward in a perfect widening ring across the glassy sea, and everywhere across the shallows the reefs of clear branching glass coral glint and shiver as the ring passes them, with small pale sparkles of light around each reef. Nine white towers far on the horizon (keep the tower design of reference 1). Bright sky, stillness, wonder.

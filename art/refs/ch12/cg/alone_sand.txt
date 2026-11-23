@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: illustration
+refs: game/game/images/p_wrack_thread_calm.png, art/refs/ch12/places/tidehall_centre.png
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, no text, no letters, no readable marks. Eyes fully drawn with irises, pupils and highlights. Reference 1 is Ilan, a lean man with light skin and short messy black hair, a thin pale line on his neck, in a plain grey-green tunic, bare feet. Reference 2 is the empty Tidehall bowl. Entirely underwater, no sky. Exactly one person: Ilan stands alone, small, in the exact centre of the white sand floor, seen from behind and slightly from the side, head tilted back, looking up at the enormous terraced tiers of pale stone rising all round him with two hundred dark small holds, nets of bright sunlight moving on the stone. Nobody else anywhere in the picture. The tiers are empty.

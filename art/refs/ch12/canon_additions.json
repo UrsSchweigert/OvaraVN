@@ -1,0 +1,20 @@
+{
+ "characters": {
+  "Odile": {
+   "fixed": "brisk handsome woman of fifty, speaker of Nine Spires, warm tan skin, dark brown hair with grey streaks swept back into a neat low knot, brown eyes, strong clear features; fine pale blue-green sea-silk in an island cut with a high soft collar. Expressions: odile_brisk, odile_cool (eyes cooled, mouth flat).",
+   "references": ["art/refs/ch12/portraits/odile_base.png"]
+  },
+  "Hanne (the woman from engines, ch12 expression)": {
+   "fixed": "same woman from engines as chapter 9 (named Hanne in c12.s01.p001.5); new expression hanne_awed (eyes wide, looking up). Use enginewoman_guarded for her otherwise.",
+   "references": ["art/refs/ch09/portraits/enginewoman_guarded.png"]
+  }
+ },
+ "objects": {},
+ "places": {
+  "Bright Shelves from the tug deck (ch12)": "pale green water so clear the white sand floor, dark seagrass and glass coral are visible, silverbacks drifting, a corner of dark tug rail and wooden deck lower left, nine white towers on the horizon (bg c12_shelves_deck). Surface view, no ripple.",
+  "Nine Spires apron (ch12)": "nine tall slender white fluted tapering towers rising from the sea, broad pale stone aprons at the tide line with driftfolk rafts, boats, crates, washing and awnings, daylight (bg c12_apron).",
+  "Tower room, Nine Spires, night (ch12)": "round white stone room high in the eastern tower, wide open window on a dark sea and stars with lamps along the sill, narrow bed, small table and stool, plain wooden door (bg c12_tower_room).",
+  "Tidehall, centre (ch12)": "entirely underwater: empty white sand floor in a huge round terraced pale stone bowl, hundreds of small dark holds and doorways on the tiers, morning sun nets of light on the stone (bg c12_tidehall_centre).",
+  "Tidehall, rim at dusk (ch12)": "entirely underwater: pale stone terraces curving down to the white sand, a block of empty tiers, deep blue-green water with the last amber light from the surface at upper left, glass coral on the rim (bg c12_tidehall_rim_dusk)."
+ }
+}

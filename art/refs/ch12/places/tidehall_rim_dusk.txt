@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no figures, no text, no letters, no readable marks. Entirely underwater, no sky, no horizon, no sun disc: the highest tier of a vast round terraced pale stone bowl in clear shallow water at dusk, looking down across concentric pale stone tiers to a white sand floor far below, a long block of empty tiers on one side, the water deep blue-green and darkening, the last faint warm amber light slanting down from the surface, a few glass coral branches glinting on the rim, calm and quiet. Nobody anywhere.
