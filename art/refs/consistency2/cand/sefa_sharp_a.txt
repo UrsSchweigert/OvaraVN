@@ -1,0 +1,5 @@
+model: flux-2
+purpose: sheet
+refs: art/refs/ch01/portraits/sefa.png
+
+Anime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same skin colour, same lighting, same drawing style; only the expression changes. Both shoulders visible. Small normal realistic eyes, fully drawn with irises, pupils and highlights, not large, not round, not shiny. Restrained realistic expression, moderate, no grin, no laughing. Girl of about sixteen: a youthful soft face with round cheeks, dark hair in a high ponytail with a shining silver-white strip, large nearly black eyes, short sleeveless grey-green sea-silk tunic. Expression: FOCUSED and alert, eyes steady and clear and only slightly narrowed, brows level and relaxed, mouth closed and calm; concentration, NOT anger, no frown, no glare, no scowl.

@@ -1,0 +1,5 @@
+model: flux-2
+purpose: sheet
+refs: art/refs/ch06/portraits/corin_grief.png
+
+Anime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same skin colour, same lighting, same drawing style; only the expression changes. Both shoulders visible. Small normal realistic eyes, fully drawn with irises, pupils and highlights, not large, not round, not shiny. Restrained realistic expression, moderate, no grin, no laughing. Big heavy man of about sixty-five, warm tan-brown skin, short curly dark hair going grey, short grey stubble beard, close slate-grey high-collared suit. The Thread scars exactly as in the reference: thin pale pen-line scars from the temple down across the cheek and the side of the neck, clearly visible, same pattern and position as the reference. Expression: pitying, eyes soft and sorrowful, brows drawn up in the middle, mouth closed.

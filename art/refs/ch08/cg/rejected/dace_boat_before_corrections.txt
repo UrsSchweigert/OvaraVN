@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: illustration
+refs: 
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, no text, no letters. Medium shot of the side of a small eleven-metre wooden boat painted in four different colours in patches (red, yellow, blue, green planks), with a small deckhouse and a mast, sitting on a grey heaving swell at twilight like a duck, floating ON the surface with the waterline across its hull. Leaning over the boat's rail, looking down toward the viewer, is one woman in normal proportions with a long weather-beaten tanned face, grey-brown hair, a clay pipe in her teeth and a soft hat tied on with string, dry good humour, her head about the size of the boat's window. Exactly one person in the picture, nobody else. Fine rain, low grey sky.

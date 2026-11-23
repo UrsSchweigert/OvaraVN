@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: sprite
+refs: art/refs/ch08/portraits/dace_cheerful.png
+
+Same character, same face, hair, skin and clothes. Only the expression changes: shy and a little embarrassed: eyes glancing down and aside, mouth closed with the clay pipe in her teeth, a very faint almost reluctant softening of the face, no grin. Head and shoulders, three-quarter view turned toward the viewer's right (the face and nose point to the right edge of the picture), plain light grey background, no text. Eyes fully drawn with irises, pupils and highlights. Restrained realistic face.
