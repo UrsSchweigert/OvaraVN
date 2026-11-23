@@ -397,4 +397,4 @@ label ch09:
     with qd
     "Ilan counted. He had not thought of it in months, and it was the day."
 
-    return
+    jump ch10
