@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text, no letters, no readable marks. A canal lock at night in heavy rain seen from the stern of a small patched wooden boat: the wet stern deck with a coil of rope and a lantern in the foreground, ahead the open iron gates of a large harbour lock and a city of tall lit windows dropping behind in the rain, reflections on black water. Dark blue night, warm window lights, rain streaks.

@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text, no letters, no readable marks. An old ferry stage on the seaward side of a shipyard city, shortly before dawn, dark: weathered wooden landing stage and a stone road down to it, several dark armoured trucks with no lights stopped on the road at the top, a row of small yard tugs moored at the stage, floodlight glare and cranes far behind, black water, thin mist.

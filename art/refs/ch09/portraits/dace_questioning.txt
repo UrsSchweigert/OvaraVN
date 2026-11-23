@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: sheet
+refs: art/refs/ch08/portraits/dace_cheerful.png
+
+Same woman, same battered hat tied on with string, same grey-brown hair, same patched canvas coat, same clay pipe in her teeth, same art style, same three-quarter view facing the viewer's right, plain light grey background. Only the expression changes. Restrained realistic face, eyes small and fully drawn with irises, pupils and highlights. Expression: questioning, one eyebrow slightly raised, eyes steady and wary, mouth closed on the pipe, no smile.

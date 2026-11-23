@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: illustration
+refs: 
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, no text, no letters. A single gaunt tall woman floats curled up in the middle of a tall glass cylinder tank of clear water in a cold white tiled laboratory. Her EYES ARE OPEN and looking out through the glass toward the viewer, fully drawn with irises, pupils and highlights, a tired, steady, watchful look. Long grey hair drifting loose in the water, olive-tan smooth skin with no marks, soft plain tubes attached to both her arms, a plain grey-green cloth gown. The room around the tank is completely empty: no other person anywhere. Exactly one person in the picture. No readable text.

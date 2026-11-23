@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: illustration
+refs: art/refs/ch09/places/ferry_stage.png, art/refs/ch02/portraits/okonta.png
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, no text, no letters, no readable marks. Reference 1 is a seaward ferry stage road before dawn with dark armoured trucks and floodlights. Reference 2 is Okonta, a spare woman of sixty with dark brown skin and short grey hair in a slate-grey high-collared suit. A long slender pale silver needle-shaped vessel, pointed at both ends, no rudder, no window, thin and smooth, three times a man's length, with a soft pale light along its flank, sweeps down the length of the stone road low at head height, moving fast with motion lines. Exactly ONE person: a single woman (Okonta) lies flat on the needle's back, one head only, one body only, clinging on. Dark armoured trucks lurch and skid aside, nobody else in the picture, no soldiers, no other people. Floodlights glaring, cranes behind, dark before dawn.

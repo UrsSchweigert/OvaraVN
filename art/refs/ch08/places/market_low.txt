@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text, no letters, no readable signs. The lowest tier of a roofed market basin: wooden planking half in water, with a plain plank table and two wide stone basins of clear water standing at the water's edge, lamps hung on chains overhead, half-sunk empty stalls behind, shallow steps going up on one side, soft evening light. No people, no readable text.

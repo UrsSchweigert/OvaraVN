@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text, no letters, no readable marks. A net loft over a chandler's shop at night, an enclosed attic room: low sloping wooden beams and plank walls on all sides with only one small shuttered window, fishing nets hanging from the rafters, coils of rope, a wooden barrel in the centre of the floor, a ladder hatch in the floor, a lit oil lantern hanging from a beam. Warm lantern light, deep shadows, hushed. No view of hills or landscape.

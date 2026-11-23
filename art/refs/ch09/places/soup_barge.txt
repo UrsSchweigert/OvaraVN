@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text, no letters, no readable marks. The deck of a soup barge at the middle of a floating town at dusk: long plank tables with rows of steaming bowls, a big iron cooking pot over a fire, strings of lanterns, blankets folded on benches, roped hulls beyond. Empty of people. Warm, welcoming dusk.

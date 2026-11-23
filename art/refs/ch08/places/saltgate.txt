@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text, no letters, no readable signs. A vast port city seen from the water at evening in heavy rain: a hundred tall black sea-stacks rising from dark water, each built over with many tiers of crowded buildings hung on stilts, girders and cables like a mass of nests in a dead tree, bridges between the stacks, every surface flashing with coloured neon light, enormous glowing signs made only of abstract shapes (bowls, coins, circles, waves), absolutely no letters or characters on any sign, reflections breaking on the black water, small boat lights in the foreground.

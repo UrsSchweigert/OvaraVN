@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: sheet
+refs: 
+
+Anime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view turned toward the viewer's right (the face and nose point to the right edge of the picture), plain light grey background, no text. Both shoulders visible. The eyes are small, normal, realistic, fully drawn with irises, pupils and highlights, not large, not round, not shiny. Restrained realistic face. A grey stooped elderly man of about sixty-five, a ship hull engineer, thin grey hair and grey stubble, light skin, deep lines, heavy shoulders hunched, plain dark work coat with a worn collar. Quiet, steady, weary expression.

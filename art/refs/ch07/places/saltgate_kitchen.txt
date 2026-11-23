@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text, no letters, no readable marks. A small cramped fourth-floor tenement kitchen in a busy harbour city in the evening: peeling pale-green plaster walls, a small iron stove with a pipe, a wooden table with two chairs, and under the table a shallow tin basin of water. A small window with soft pink and blue neon glow outside over a canal and leaning tenement rooftops, only blurred coloured glows, no signs. Oil lamp light, warm and worn, lived in. No people.

@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text, no letters, no readable marks. A calm bright sea at noon seen from the water's surface, clear turquoise water, far off on the horizon a cluster of nine slender white towers rising straight out of the sea into the sky, tall and elegant like pale spires, with many small boats dotted on the water around their feet. Blue sky with a few thin clouds, sunlit, the towers small in the distance, empty water in the foreground.

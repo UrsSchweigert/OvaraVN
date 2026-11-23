@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text, no letters, no readable marks. The control hall of a survey ship at night, seen from inside: banks of dim instrument panels with small amber lights, a chart table with a pale blue chart showing only fine depth contour lines and small islands, no real-world continents, and an open hatch at the far end leading to a railing along the deck, beyond it black deep water under a black night sky, a single deck lamp. Cold, quiet, empty. No people.

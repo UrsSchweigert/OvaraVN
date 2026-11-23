@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text, no letters, no readable marks. A black coal wharf at night in the foreground with heaps of coal, a bollard and a rusty crane, looking across dark harbour water to a gigantic half-plated ship hull on a slipway three hundred metres long, ribs showing forward like a carcass, plated in the stern, and amidships a square dark void in the hull. Gantries with tiny lit windows, orange sky glow, sparks.

@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text, no letters, no readable signs. Open sea seen from a small boat's height on the surface, a low bruised purple-grey sky, grey walls of rain sweeping across heaving dark water in the distance, whitecaps, empty horizon, no ships, no land.

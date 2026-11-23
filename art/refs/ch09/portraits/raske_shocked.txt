@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: sheet
+refs: art/refs/ch09/portraits/raske_stern.png
+
+Same character, same hair, same spectacles, same clothes, same art style, same pose and three-quarter view facing the viewer's right, plain light grey background. Only the expression changes. Restrained realistic face. The eyes keep their brown colour, small and fully drawn with irises, pupils and highlights. Expression: startled and frozen, eyebrows raised slightly, eyes only a little wider than normal, lips just parted, no exaggeration.

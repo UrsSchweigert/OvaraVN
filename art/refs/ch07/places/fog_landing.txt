@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: background
+refs: art/refs/ch05/places/landing_evening.png
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text, no letters, no readable marks. The landing of the Dragon as in the reference, now in thick hot white fog on a still morning: the stone step and the shallow water's edge fading into white, the ribs of a huge pale creature looming faintly out of the fog one after another and vanishing, steam rising from black water. Pale white-grey light, a faint warm tinge. No sky visible, only fog.

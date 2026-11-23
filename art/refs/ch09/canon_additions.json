@@ -1,0 +1,39 @@
+{
+ "characters": {
+  "Teodora Raske": {
+   "also_called": ["Teo", "Raske"],
+   "fixed": "small slight woman of sixty, chief designer of Kessler-Vane, short grey bobbed hair, light skin with fine lines, thin steel-rimmed spectacles, brown eyes, sharp tired intelligent face; plain dark work jacket over a white shirt with ink-stained cuffs and collar. Expressions: raske_stern, raske_shocked, raske_moved (shaken), raske_steady.",
+   "references": ["art/refs/ch09/portraits/raske_stern.png"]
+  },
+  "The hull man": {
+   "fixed": "grey, stooped man of about sixty-five, a section head under Raske, thin grey hair, short grey goatee, deep lines, light skin, hunched heavy shoulders; dark work coat with a worn brown collar. Expression: hullman_steady.",
+   "references": ["art/refs/ch09/portraits/hullman_steady.png"]
+  },
+  "The woman from engines": {
+   "fixed": "woman of about forty-five, a section head, dark brown hair pinned back with loose strands, light olive skin, brown eyes, plain dark work smock with rolled sleeves; old healed burn scars on the backs of her hands and forearms (subtle, same skin colour, slightly shinier). Expressions: enginewoman_guarded, enginewoman_weeping.",
+   "references": ["art/refs/ch09/portraits/enginewoman_guarded.png"],
+   "note": "fal's filter rejects strong scar wording; say 'subtle streaks of old healed skin, only slightly paler and shinier, same skin colour'. Strong wording gave purple or white blotches."
+  },
+  "The fat old man in the striped jersey": {
+   "fixed": "fat old man of about seventy, Driftfolk harbour caller of Lashing, round heavy jowled face, white stubble beard, thin white hair, weathered skin; blue knitted jersey with cream stripes; carries a brass trumpet under his arm (not drawn in the portrait). Expression: fatman_unhappy.",
+   "references": ["art/refs/ch09/portraits/fatman_unhappy.png"]
+  }
+ },
+ "objects": {
+  "Warm-stone": "a smooth dark egg-shaped stone about the size of a loaf, on a small stand when kept; glows with a soft warm amber light from within once mended (c09.s02.p015.1). Draw it as one egg-shaped stone, never several."
+ },
+ "places": {
+  "Saltgate north lock, night rain (ch9)": "iron lock gates open between tall lit tenements in heavy rain, a patched boat's wet deck with a lantern in the foreground (bg c9_lock_rain).",
+  "Keelhaven from the sea (ch9)": "plain of steel with comb-tooth slipways, rows of cranes, showering orange sparks and smoke under an orange sky (bg c9_keelhaven_night).",
+  "Coal wharf facing Slip Nine (ch9)": "black coal heaps and a bollard in front, across dark water a gigantic half-plated hull with ribs showing like a carcass and a square void amidships (bg c9_coal_wharf).",
+  "Kessler-Vane design loft (ch9)": "huge night hall, empty slanted drawing tables each under a green-shaded lamp, spiral stair (bg c9_design_loft).",
+  "Raske's office (ch9)": "untidy desk of drawings under a green-shaded lamp, shelf of ship models and awards with blank frames, one egg-shaped dark stone, window onto cranes (bg c9_raske_office).",
+  "Net loft over a chandler's shop (ch9)": "enclosed attic, sloping beams, hanging nets, a barrel, ladder hatch, one hanging lantern (bg c9_net_loft).",
+  "Old ferry stage (ch9)": "stone road and wooden stage in mist, dark armoured trucks at the top, yard tugs moored, floodlights, cranes (bg c9_ferry_stage).",
+  "Storm from a tug's bow (ch9)": "black rain, huge grey sea hills, a narrow strip of flatter water ahead (bg c9_tug_storm).",
+  "Eye of the storm, tugs side by side (ch9)": "ring of cloud wall, blue-green sky, green glassy water, tugs tied together, gale skates (bg c9_eye_tugs).",
+  "Lashing from the water (ch9)": "a mat of stormgrass a kilometre wide with roped hulls, a frigate hull market, thousands of lanterns at dusk (bg c9_lashing_water).",
+  "Barge deck at night (ch9)": "bare planks, lanterns hung in the rigging and along the rail, yellow oilskins hung up (bg c9_barge_night).",
+  "Soup barge (ch9)": "long plank tables of steaming bowls, a fire and a big pot, lanterns, blankets on benches (bg c9_soup_barge)."
+ }
+}

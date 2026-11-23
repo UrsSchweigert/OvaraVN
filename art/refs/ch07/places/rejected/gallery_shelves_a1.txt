@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: background
+refs: art/refs/ch03/places/gallery.png
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text, no letters, no readable marks. The same long hall inside the Dragon as the reference, pale metal ribs, the bound-water wall now clear as glass. Beyond it, bright noon sunlight comes straight down through very clear shallow water over white sand: dark green meadows of grass combed flat by the current, herds of silverbacks, and thickets of clear glass coral branching like bare trees, the light breaking into every colour in them. The bright surface of the water is far above, only light, no sky, no horizon.

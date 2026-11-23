@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text, no letters, no readable marks. Dark warm open water high above a black stone building, seen from the side: far below, a faint warm glow marks the roof of the building on the sea floor, and above it dozens of huge flat pale-bellied manta-like rays turn slowly in a wide ring against the dark teal water, wing behind wing, seen as large soft shapes. Very dark blue and teal, deep and quiet. Entirely underwater, no sky, no horizon, no surface.

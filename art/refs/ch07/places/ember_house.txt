@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: background
+refs: art/refs/ch04/places/kettle_house.png
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text, no letters, no readable marks. A small house that is the twin of the house in the reference, down to the washing line, but standing on a low islet of black sand with hot springs smoking among black rocks. A garden in the shallows, a step with a kettle on it, a long low still-room where the workshop would be, the door open. Behind the house, where the largest spring runs down into the sea, a cairn of black stones with a folded leather apron on top held down by a rock. Thick warm white fog, early morning, black water, pale light. Nobody in the picture.

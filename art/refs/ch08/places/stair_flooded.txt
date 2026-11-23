@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text, no letters, no readable signs. A white concrete emergency stairwell, wide shallow flights going down, the steps covered in rushing shallow water pouring downward like a slope of water, drained white light from ceiling strips, handrails, a sense of long descent. No people, no readable signs.

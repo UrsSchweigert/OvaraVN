@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text, no letters, no readable marks. A plain dock-town school classroom, afternoon: rows of worn wooden desks facing a teacher's desk with a blackboard behind it showing only abstract chalk smudges, tall windows letting in grey harbour light, cranes and a canal visible through the glass. A tray of small objects on the teacher's desk. Worn, poor, tidy. No people.

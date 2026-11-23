@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: sheet
+refs: art/refs/ch06/portraits/sefa_dry.png
+
+Anime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same clothes, same skin colour, same lighting; only the expression changes. Both shoulders visible. Small normal realistic eyes, fully drawn with irises, pupils and highlights, no cartoon eyes, not large, not round, not shiny. A restrained realistic expression, moderate, no grin, no laughing, no tears streaming.  Girl of sixteen like the reference, dark hair in a high ponytail with a silver-white strip, large nearly black eyes, light skin, short sleeveless grey-green tunic. Expression: dismayed and stricken, brows pinched upward, lips parted slightly, eyes fixed on something far away, quiet distress.

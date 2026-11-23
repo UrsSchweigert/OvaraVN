@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text, no letters, no readable marks. A floating town of six thousand hulls seen from the water at evening: an enormous mat of tough weed a kilometre wide with roped-together hulls, old ships, a gutted frigate hull with a market in it, many rafts and rope bridges, thousands of lanterns coming alight, a low dark town on the sea under a dusk sky with gale skates overhead. Warm lanterns, dusk blue.

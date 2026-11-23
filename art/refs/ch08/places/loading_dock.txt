@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text, no letters, no readable signs. A loading dock at the back of a white tower opening on a city canal at night, concrete edge with iron rings and a shutter door, dark water below, a rusted ladder, wet reflections of coloured neon, rain. No people, no boats, no readable text.

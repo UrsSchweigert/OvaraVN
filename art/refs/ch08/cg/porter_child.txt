@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: illustration
+refs: art/refs/ch06/portraits/sefa_dry.png, art/refs/ch08/portraits/garran_wary.png
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, no text, no letters. Sefa is a girl of sixteen with dark hair in a high ponytail with a silver-white strip, light skin, a grey-green sleeveless tunic. Garran is a big man with a crooked nose, tan skin, short dark hair, stubble, a sleeveless work shirt. Beside a stone basin of water on wooden planking under hanging lamps, Garran, seen from the side, bends forward and gently lays a small sleeping girl of four or five with damp dark hair and a thin cotton dress into the outstretched arms of Sefa, who stands in the water to her knees at the planking edge. Exactly three people in the picture: Sefa, Garran and the small girl. Nobody else, no one in the background.

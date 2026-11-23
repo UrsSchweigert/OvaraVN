@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: illustration
+refs: art/refs/ch04/portraits/wrack_thread_calm.png
+
+Anime-style illustration, clean dark line art, soft cel shading, gentle natural colours, no text, no letters, no frame, no rounded border, no white margin: the picture fills the whole square edge to edge. Square close portrait for an app icon. The man from reference 1, same face, same short messy black hair, same grey-green tunic, same quiet calm expression, head and shoulders, turned three-quarter toward the viewer's right and tilted slightly up so the whole side of his neck is clearly visible. On the side of his neck is the ONE thin pale pinkish-cream line from reference 1, a faint raised healed mark running in a single gentle unbranched curve from just under the ear down to the collar, drawn a little bolder and longer than in the reference so it stays visible at small size, with a soft glow. Exactly one line, no fork, no branching. Underwater, deep teal water at the edges and warm golden light behind his head, a long golden kelp frond drifting at the edge of the picture. Large simple shapes, strong contrast, face and neck filling most of the square.

@@ -1,0 +1,27 @@
+{
+ "characters": {
+  "Nerys": {
+   "fixed": "Ilan's mother, a mariner living dry in Saltgate (memory), about forty, slender and long-limbed, pale light skin, black hair pinned in a low bun, large dark eyes; plain dark high-collared dress with long sleeves buttoned to the wrists. Expressions: nerys_earnest, nerys_worn.",
+   "references": [
+    "art/refs/ch07/portraits/nerys_earnest.png"
+   ]
+  },
+  "Adler Crane": {
+   "fixed": "Halcyon's chief of security (memory), about forty-five, broad-shouldered, olive-pale skin, short brown hair going grey at the sides, square jaw, tired brown eyes; plain dark close-fitting high-necked security jacket. Expressions: crane_flat, crane_sorry.",
+   "references": [
+    "art/refs/ch07/portraits/crane_flat.png"
+   ]
+  }
+ },
+ "places": {
+  "Dragon gallery, brown snow (ch7)": "the gallery hall with the bound-water wall dark brown outside and grey snow falling, a bottle, a shoe, paper among it; one faint lamp far down the hall (bg c7_gallery_snow).",
+  "Dragon gallery, Bright Shelves (ch7)": "the hall with the wall clear as glass over white sand, green grass meadows, schools of small silver fish, glass coral thickets, sunlight from above (bg c7_gallery_shelves).",
+  "Nine Spires from the sea (ch7)": "calm turquoise sea, nine slender white towers far off on the horizon, small sailboats round their feet (bg c7_nine_spires); above water.",
+  "The landing in hot fog (ch7)": "stone landing and black water in thick white fog, the Dragon's ribs looming faintly (bg c7_fog_landing).",
+  "The Smokers (ch7)": "deep black clear water, fields of crooked stone chimneys with black plumes glowing red at the root, red tube gardens, pale crabs and blind white fish (bg c7_smokers); underwater.",
+  "Ember House, fog (ch7)": "twin of Kettle House on a black sand islet, hot springs smoking, garden in the shallows, kettle on the step, cairn of black stones with a folded leather apron (bg c7_ember_house).",
+  "Ember House, dusk (ch7)": "same islet at dusk, low red sun and a red road across black water (bg c7_ember_dusk).",
+  "The Hush (ch7)": "windowless black stone building, no lamps, faint embers at its base (c7_hush_exterior); dark hall with shallow pools (c7_hush_hall); small bare room with one ember in a dish (c7_hush_room); dark water above it with rays turning in a ring (c7_hush_above). All underwater.",
+  "Memory places (ch7)": "Saltgate fourth-floor kitchen with a basin of water under the table (c7_saltgate_kitchen); school classroom on the Sluice (c7_sluice_school); Concord windowless dining room with a covered fish (c7_concord_room); Halcyon surveyor's office over grey ash plain (c7_halcyon_office); survey ship control hall at night (c7_control_hall_night)."
+ }
+}

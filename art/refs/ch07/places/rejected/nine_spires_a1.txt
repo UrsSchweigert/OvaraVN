@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text, no letters, no readable marks. Seen from just under the surface of very clear shallow water over white sand: far off in the distance a cluster of nine slender white towers rising from the sand up through the surface and on out of view, many small boat hulls dotted on the surface above the towers' feet seen from below as dark shapes. Bright noon light, pale blue-green water. Entirely underwater view, the surface a bright shimmering ceiling.
