@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: illustration
+refs: 
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, no text, no letters. Entirely underwater, a golden kelp forest seen from above under green water. Lying across the top of the forest, motionless, is a very long straight line of tall pale ivory metal ribs, each rib a tall upright hoop standing in a row one behind another along a straight spine, like the skeleton of a giant river-creature, completely dark, dim and silent, with no lamps and no lights on it. A faint mist drifts from the ribs. Around and along the Dragon move about thirty small needles: slim pale pointed vessels like narrow torpedoes or canoes, pointed at both ends, no windows, no fins, no rudders, each only a few metres long and tiny beside the huge Dragon. Each needle has one small soft pale light emitter set in the middle of its flank, glowing as a clear small bright pale spot on the side of the hull. They are spread out and few, pointing in different directions, each trailing a faint thin wake. Quiet, hopeful, distant. No people, no ships.

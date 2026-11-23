@@ -1,203 +1,207 @@
 {
- "_note": "Fixed features of every recurring character and place, for prompts in later chapters. Looks come from the novel (sentence ids in art/bible.md); where the text is silent the choice is marked. Reference images are the files to pass with --ref so faces stay the same.",
- "style": "Anime-style, clean dark line art, soft flat cel shading, gentle natural colours. Characters on a plain light grey background for portraits (head and shoulders, drawn turned toward the viewer's right, three-quarter view); wide 1920x1080 for backgrounds and illustrations; no text or letters in any image.",
- "prompt_rules": [
-  "Say exactly who is present ('exactly one person', 'exactly two people'); with references the model otherwise duplicates characters.",
-  "Give skin and hair colour in words for every character in a multi-character image; references bleed features between people.",
-  "Underwater places: say 'entirely underwater, no sky, no horizon, no grass'. Surface views: the barge/ships float ON the surface, waterline across the hull.",
-  "No readable carvings or signs; ask for 'worn abstract marks'.",
-  "fal's content filter rejects references showing wounds or scars and prompts with 'violent'/'limp': crop references to head and shoulders, soften wording.",
-  "Pupils: always write 'eyes fully drawn with irises, pupils and highlights'; 'blank/empty' produced eyeless faces.",
-  "Check every result at full size against the sentence it depicts before using it.",
-  "Portrait facing: every portrait must face the viewer's RIGHT. Text-to-image bases often face left; check each result and mirror left-facing ones (grey reference and cut-out) before using it. Okonta, Brask and the diver officer were mirrored for this reason on 2026-11-22."
- ],
- "characters": {
-  "Wrack": {
-   "also_called": [
-    "Ilan Voss"
-   ],
-   "fixed": "adult man, lean, short messy BLACK hair, light skin, dark brown eyes, calm face (age not stated; reads late thirties)",
-   "outfits": {
-    "jacket": "torn grey zip jacket over a grey t-shirt, grey trousers, heavy black surface boots, a blue shield-shaped crest on the jacket chest (crest design is a choice), raw red cable-tie marks on both wrists",
-    "tunic": "plain loose grey-green sea-silk tunic, bare feet; worn from c01.s03.p023 on"
-   },
-   "references": [
-    "art/refs/ch01/portraits/wrack.png",
-    "art/refs/ch01/portraits/wrack_tunic.png"
-   ],
-   "note": "Use a head-and-shoulders crop of the tunic sheet as reference; the full sheet with red wrist marks is rejected by fal's filter."
-  },
-  "Sefa": {
-   "fixed": "girl of about sixteen, thin, long arms and legs, dark hair tied up in a high ponytail with a shining silver-white strip, large nearly black eyes, light skin (choice)",
-   "outfit": "short sleeveless grey-green sea-silk tunic, bare arms, bare legs, BARE FEET; harvesting hook = a long wooden pole with ONE smooth curved crescent metal blade (not a fork or rake)",
-   "references": [
-    "art/refs/ch01/portraits/sefa.png"
-   ]
-  },
-  "Bother": {
-   "fixed": "tide hound: sleek grey seal body, broad flippers, blunt square head, whiskered grey muzzle, brown eyes set forward, small folded drooping ears (NOT pointed), collar of plaited cord",
-   "references": [
-    "art/refs/ch01/portraits/bother.png"
-   ]
-  },
-  "Elder Oro": {
-   "fixed": "very old man, bald warm brown (orange-brown) head with grey hair at the sides, warm brown skin, gentle slightly amused look; loose grey-green robe, carved wooden stick",
-   "references": [
-    "art/refs/ch01/portraits/oro.png"
-   ]
-  },
-  "Ione": {
-   "fixed": "sturdy middle-aged woman (Sefa's mother, the hold's healer), brown hair in a low bun, no ribbon, sleeves rolled to the elbow, both forearms ridged wrist to elbow with old pale healed shiny scars, calm; grey-green tunic with a belt. NOT heavy-set.",
-   "references": [
-    "art/refs/ch01/portraits/ione.png"
-   ],
-   "note": "Her full-body sheet is rejected by fal's filter (scars); use the head crop."
-  },
-  "Davin": {
-   "fixed": "quiet big-handed man, short dark hair, slow smile, net-mender; grey-green tunic with frog fastenings, trousers",
-   "references": [
-    "art/refs/ch01/portraits/davin.png"
-   ]
-  },
-  "Hesper": {
-   "fixed": "the hold's Tidecaller, lean hard woman of about forty (reads older), strong tired face, dark hair pulled back, hands chapped white to the wrist; grey-green sea-silk tunic",
-   "references": [
-    "art/refs/ch02/portraits/hesper.png"
-   ]
-  },
-  "Okonta": {
-   "fixed": "spare woman of about sixty, DARK BROWN skin, short GREY hair, close slate-grey high-collared suit, thin pale scars like pen lines from the temples down both sides of the neck under the collar (Threaded). The only person with dark skin and grey hair in a scene.",
-   "references": [
-    "art/refs/ch02/portraits/okonta.png"
-   ]
-  },
-  "Brask": {
-   "fixed": "huge young man, ice-diver of Rime (the hold at the top of the world), short red hair and short red beard, wide strong face, light skin; heavy coat of sealskin worn with the fur turned INSIDE (smooth dark leather outside, grey fur visible at the collar); voice like a slab dropped; carries a seal-spear (choice: red hair, beard length)",
-   "references": [
-    "art/refs/ch03/portraits/brask.png"
-   ]
-  },
-  "The woman from Fallow": {
-   "fixed": "woman of about thirty from Fallow (unnamed), tired flat capable face, long-limbed and dark-eyed, dark hair tied back plainly, weathered light skin, worn grey-green sea-silk tunic; towed her father eleven days on a sled of kelp-floats",
-   "references": [
-    "art/refs/ch03/portraits/fallow_woman.png"
-   ]
-  },
-  "The old man from Fallow": {
-   "fixed": "very old, frail, deeply wrinkled, hollow cheeks, thin white hair, dark eyes, worn grey-green cloth wrapped round the shoulders; breathes as though each breath has to be lifted (the woman's father)",
-   "references": [
-    "art/refs/ch03/portraits/fallow_man.png"
-   ],
-   "note": "Expression edits make him look younger; always say 'VERY OLD, DEEPLY WRINKLED, hollow cheeks'."
-  },
-  "The diver officer": {
-   "fixed": "woman of about forty, cropped dark hair, hard-eyed; Halcyon armoured diving suit in grey with a round-glass metal helmet (face visible through the glass), a coloured stripe over the helmet marks her rank, a lamp on the helmet's brow, a blue shield-shaped crest on the shoulder; carries a harpoon gun (c03.s03.p017.2)",
-   "references": [
-    "art/refs/ch03/portraits/officer.png"
-   ]
-  },
-  "Jef": {
-   "fixed": "a very small, VERY OLD man (about nine hundred years), deeply wrinkled skin like folded paper, nearly bald with a few wisps of white hair at the sides, dark eyes (the text's 'very bright, very dark' is shown by a tiny sharp highlight, NOT by big shiny eyes); worn brown leather apron over a faded wool jersey with a hole at the elbow (choice: pale skin, tuft of white hair over the ears); no gift, a mechanic; carries a small worn tool",
-   "references": [
-    "art/refs/ch04/portraits/jef_grumbling.png"
-   ],
-   "note": "Say 'VERY OLD, deeply wrinkled, nearly bald' on every edit; keep the eyes dark with highlights. EYES: always SMALL, NARROW, HEAVY-LIDDED under LEVEL straight brows; never large, round, wide-open, shiny or puppy-like, no raised sad brows (the first set read as comical and was redone on 2026-11-22). Stern, austere, hard to read."
-  },
-  "Maelis": {
-   "fixed": "Jef's wife of fifty-one years, in her seventies, tall and straight, grey hair pinned in a low bun, lined composed face, brown eyes; patched dark coat with full pockets (choice: coat colour dark charcoal, patches brown); a healer born in the Quiet, the rays' mouth",
-   "references": [
-    "art/refs/ch04/portraits/maelis_examining.png"
-   ]
-  },
-  "Anselm Rook": {
-   "fixed": "broad-shouldered white-haired man of about seventy-two, courteous heavy face, grey-blue eyes, thin pale scars from the temples down the sides of the neck (the Thread); dark close-fitting surface hard suit with a clear glass helmet (portraits show the suit's high dark collar; p_anselm_helmed shows the helmet)",
-   "references": [
-    "art/refs/ch04/portraits/anselm_calm.png",
-    "art/refs/ch04/portraits/anselm_helmed.png"
-   ],
-   "note": "The helmed portrait has a faint glass ring in its cut-out."
-  },
-  "Elder Vey": {
-   "fixed": "tall, exact woman of seventy, light skin, deep lines at forehead and eyes, silver hair bound close to her head, perfectly upright posture (never seen to slump), cold composed face; formal high-collared deep sea-green robe with a pale shell-white band at the collar (colour is a choice)",
-   "references": [
-    "art/refs/ch05/portraits/vey_cold.png"
-   ],
-   "note": "Expression edits make her look younger; always say 'SEVENTY YEARS OLD, deep lines, creased cheeks'. Expressions: vey_cold, vey_shaken (older, not straight), vey_tight."
-  },
-  "Aurel": {
-   "fixed": "quiet grey man of about fifty-five, close-cropped grey hair, weathered tan-brown skin, lined calm face, steady tired eyes; plain loose grey-green sea-silk tunic. The Mighty of Deep Chorus.",
-   "references": [
-    "art/refs/ch05/portraits/aurel.png"
-   ],
-   "note": "Look is a choice apart from 'quiet grey man' (c05.s04.p008.2). Expressions: aurel_calm, aurel_tired."
-  },
-  "Corin": {
-   "fixed": "big broad-shouldered heavy-built man of about sixty-five (a Threaded who trained Okonta), warm tan-brown skin, short curly dark hair going grey, short grey stubble beard, heavy brows, tired steady grief-held-in face; close slate-grey high-collared suit; thin pale scars from temple down the neck; broad hands. Expressions: corin_grief, corin_shouting (voice cracking), corin_staring.",
-   "references": [
-    "art/refs/ch06/portraits/corin_grief.png"
-   ]
-  },
-  "The woman with the clay tube": {
-   "fixed": "Threaded woman of eighty with a face like a walnut: deeply wrinkled brown-tan skin, thin white hair pulled back in a low bun, small sharp dark eyes, thin dry mouth; slate-grey high-collared suit; thin pale scars at the temple; smokes a clay tube (clove-water). Expressions: claywoman_dry, claywoman_wry.",
-   "references": [
-    "art/refs/ch06/portraits/claywoman_dry.png"
-   ]
-  },
-  "The girl with the harpoon": {
-   "fixed": "Threaded girl of about nineteen, olive-tan skin, black hair cut short at the jaw, thin stubborn face, dark eyes; slate-grey high-collared suit with a pale piping at the collar; thin pale scars at the temple; carries a harpoon. Expressions: harpoongirl_angry, harpoongirl_bitter.",
-   "references": [
-    "art/refs/ch06/portraits/harpoongirl_angry.png"
-   ]
-  },
-  "The young man from Fallow": {
-   "fixed": "Threaded young man of about twenty-four (the last Jef made before Wrack, six years ago), light skin, sandy-brown hair, lean face, scars at the temples hardly faded; plain grey-green tunic. Expressions: fallowyoung_ashamed, fallowyoung_sorry.",
-   "references": [
-    "art/refs/ch06/portraits/fallowyoung_ashamed.png"
-   ]
-  }
- },
- "objects": {
-  "Maker lamp": "pale ivory metal column as thick as a man's waist, a few ribbed collars, old bundled cables down one side, caged glass lens housing near the top, hairline seam at shoulder height polished by touch; dark when dead, lens blazes white when lit. Once lit it stays lit. Wall/dome lamps use the same design on a short post.",
-  "reference": [
-   "art/refs/ch01/lamp/lamp_unlit.png"
+  "_note": "Fixed features of every recurring character and place, for prompts in later chapters. Looks come from the novel (sentence ids in art/bible.md); where the text is silent the choice is marked. Reference images are the files to pass with --ref so faces stay the same.",
+  "style": "Anime-style, clean dark line art, soft flat cel shading, gentle natural colours. Characters on a plain light grey background for portraits (head and shoulders, drawn turned toward the viewer's right, three-quarter view); wide 1920x1080 for backgrounds and illustrations; no text or letters in any image.",
+  "prompt_rules": [
+    "Say exactly who is present ('exactly one person', 'exactly two people'); with references the model otherwise duplicates characters.",
+    "Give skin and hair colour in words for every character in a multi-character image; references bleed features between people.",
+    "Underwater places: say 'entirely underwater, no sky, no horizon, no grass'. Surface views: the barge/ships float ON the surface, waterline across the hull.",
+    "No readable carvings or signs; ask for 'worn abstract marks'.",
+    "fal's content filter rejects references showing wounds or scars and prompts with 'violent'/'limp': crop references to head and shoulders, soften wording.",
+    "Pupils: always write 'eyes fully drawn with irises, pupils and highlights'; 'blank/empty' produced eyeless faces.",
+    "Check every result at full size against the sentence it depicts before using it.",
+    "Portrait facing: every portrait must face the viewer's RIGHT. Text-to-image bases often face left; check each result and mirror left-facing ones (grey reference and cut-out) before using it. Okonta, Brask and the diver officer were mirrored for this reason on 2026-11-22.",
+    "Wrack after the Thread (chapter 4 night, c04.s08-s09 on): use the p_wrack_thread_* portraits (art/refs/ch04/threaded/); a single thin pale line from the temple down the side of the neck, smaller than Okonta's scars. Never the p_wrack_tunic_* set after that point. Any new illustration with his neck visible shows the line.",
+    "Air-hearts (owner's direction 2026-11-23): an ornate perfectly ROUND sphere the size of a house, overlapping white pearl plates, silver bands, gold filigree and a gold hinge seam; never ribbed or heart-shaped. Reference: art/refs/ch05/airheart/heart_ref.png.",
+    "Okonta is about sixty, deeply lined, with the pale Thread lines at the temple on every portrait; check new expressions against p_okonta_grave. Anselm and the clay-tube woman have white or grey hair: after cut-out, view on a red background and fill any holes from the uncut source (hair was found transparent on 2026-11-23).",
+    "The thirty lights along the Dragon (c05.s04) are thirty small needles, each with a pale light on its flank; the Dragon itself is dark."
   ],
-  "Halcyon diving gear": "grey armoured diving suits, metal helmets with round glass faceplates, a stripe for officers, blue shield crest; they ride squat ugly grey sleds with caged screws and carry harpoon guns",
-  "The needle (Okonta's vehicle)": "a sliver of pale silver metal three times the length of a man, no thicker than a kelp stem, pointed at both ends, no rudder, no screw, no window; a soft light runs along its flank like the light on a fish; it is steered by the rider leaning, with nothing in the hands; two ride clinging on its back",
-  "The Dragon": "a river with a spine: a kilometre of pale metal ribs, each a hoop taller than a hold's dome, one behind another in a long sinuous line, with bright dense glowing water BOUND to the ribs, pouring forward along the frame without leaving it, like a flame streaming back from a torch; the head is a smooth blunt pale prow the size of a house with no eyes and no mouth, and a panel that slides open like an eyelid; inside, the gallery is a flooded still hall with walls of bound water",
-  "Slick eel": "eyeless eel as thick as a man's body and as long as a needle, coated in black slime, pale sores where the slime has rubbed away, jaws opening like a split hose",
-  "White whales": "six white, vast, blunt-headed whales, each as long as a ship, small wise eyes; the calf is no bigger than a fishing boat; old scars on the mother's flank"
- },
- "places": {
-  "Low Anthem dome": "hill-sized dome of pale smooth curved panes held by seamless white metal ribs; lit on one half, dark on the other with strings of glowing yellow-green lampweed; kelp trained up one side; stone-walled terraces and raked kelp rows round it; the hold is UNDER the sea",
-  "Kelp forest": "brass-coloured trunks thick as a man's waist, no branches, golden blades far above leaning one way, green at the edges and gold in the middle",
-  "Barge": "rusty steel cargo barge about forty metres long; crew wear black sailor uniforms; Halcyon boats carry a blue shield-shaped crest on the bow (design is a choice)",
-  "The Tangle": "wild kelp so thick the stems rub and groan, light failing a few metres in; wrecks of agravar warships two hundred years old lying on their sides, furred with weed, fish in the gun-ports, a skull in a rusted helmet",
-  "Sounding (ruin)": "a broken hold, a dome three times the size of Low Anthem's broken open like an egg, half standing; pale ribs curving up into the dark, silt floor, stumps of walls, a stair of six steps going up to nothing; a ring of bare sand all round with no weed",
-  "The Slick edge": "the kelp stops at a line as sharp as a shoreline; rows of dead black bitterwrack a hundred metres deep; beyond, water the colour of strong tea with shreds hanging in it",
-  "Greywatch Stone": "bare rise above the forest where kelp will not grow and the current runs cold and strong; a six-sided pillar of pale Maker stuff twice a man's height, nothing on it; a ring of stone benches and the paving scratched with thousands of worn names in looping script (never readable); a small camp of nets and a cooking-stone in a lee hollow",
-  "Dragon gallery": "flooded warm hall a kilometre long, ribs arching to a point of light, no walls, only bound water pouring past; hammock-nets, cooking stones, a rack of dried fish, a band of scratched names along the floor; cradles shaped to needles low in the belly, each with a name, one empty with silt; closed hull, no outside view of sky or land",
-  "Rime": "a Maker dome hung upside down from the underside of an ice shelf, glowing amber, little lights moving beneath it",
-  "The Well lip": "curved shelf of smooth dark rock at the edge of a vast round black shaft of perfectly still water, soft glowing pale green weed along the rim, pale blue lantern jellies as big as houses drifting over the gulf; at the bottom a single white star (the Lantern)",
-  "Kettle House": "low stone house half in water and half out on a rock shelf, pigeon-breast sky with a low red sun, washing line stiff with frost, shell-edged weed garden, workshop with its door open, kettle on the step; no fence or gate",
-  "Kettle House interior": "one long stone room, iron stove at one end, long mended table of mixed planks, jar shelves, box bed behind a curtain, loft ladder, window onto black water and jellies, fist-sized pale jelly in a glass bowl",
-  "Workshop": "untidy stone room, benches heaped with lamps in pieces, a lamp's heart laid open, coils of warm pale wire, small worn tools on one wall, a stool and a mug",
-  "The Lantern": "nine milk-white glass domed halls in a ring joined by covered ways, lit from within, standing at the bottom of a black rock shaft like a crown of lamps; white fans and pale flowers; inside, halls with round pools of faintly gold water and stools; four halls dark and dry",
-  "Jef's workshop (after his death)": "untidy stone-walled workshop, benches heaped with lamps in pieces and coils of wire, a dead barrel-sized pale ribbed air-heart laid out in pieces beside a dark oval warm-stone, a white mug with a dried tea stain left untouched, grey window light, nothing lit",
-  "The landing (evening)": "smooth dark stone landing with wide steps into black still water, low stone wall, patches of snow and ice, deep blue dusk sky with a last faint light",
-  "Open sea with ice shelf (the ride south)": "cold deep-blue open sea, the underside of an ice shelf like an upside-down country of pale ridges and hanging valleys, shafts of light, a few luminous pale singers; entirely underwater",
-  "Deep Chorus canyon": "a gulf a kilometre wide cut into the golden kelp forest floor, tiers of long pale-glass galleries down both walls, slender bridges wall to wall, hanging weed gardens; white light above the twentieth tier, dark below with greenish-yellow lampweed; entirely underwater",
-  "Deep Chorus canyon, lit to the sixtieth tier": "same canyon, warm white lamps lit down both walls to one tier, black dark windows below, bottom lost in blue; entirely underwater",
-  "Deep Chorus high hall": "third tier council hall, vault of clear glass with green canyon water beyond, pale shell-inlaid floor in a wave pattern, seven plain stone seats in an arc, white lamps on short ivory posts; dry",
-  "Deep Chorus service tunnels": "narrow rough stone tunnels behind the galleries, old pipes, a worn stair, failing lamps, swags of weak yellow-green lampweed; dry",
-  "Deep Chorus lowest dry halls": "long low dry halls in the green dimness, swags of glowing lampweed on the ceiling, rows of sleepers on mats and blankets; dry, stale",
-  "Deep Chorus heart-chamber": "vast dim stone vault, a house-sized pale ribbed air-heart like a great closed shell furred with grey dust, thick water channels on both sides, a door with a broken wax seal; dry",
-  "Deep Chorus sea-door on the rim": "bare dry stone chamber with a round sea-door pool in the floor and a wide arch of glass onto the golden kelp forest beyond; dry",
-  "Dragon gallery, failing (ch6)": "same hall as the Dragon gallery but dim: the bound-water walls thinned to a film with dark open sea in the gaps; slack hammock-nets; a double row of needle-shaped vessels asleep in cradles (bg c6_gallery_failing). Never any sky or horizon.",
-  "Dragon gallery, stern (ch6)": "dim evening end of the hall, the last cradle against the wall with a square name cut in the rib beside it (bg c6_gallery_stern).",
-  "Dragon gallery, nineteen needles (ch6)": "morning hall, nineteen needles in a row built for two hundred, one worn wheel lashed to a rib (bg c6_gallery_nineteen).",
-  "Dragon's heart under the floor": "cramped patched chamber under the gallery floor, a wheel within a wheel within a wheel covered in layers of patches, one lampweed strand hanging, silt on the floor (bg c6_heart_under).",
-  "Kelp, gold then black": "brass kelp lit gold on the left going to black on the right (bg c6_kelp_gold_black); underwater.",
-  "Inside the Slick": "strong-tea brown dead water, ragged shreds hanging motionless, silt floor with low mounds (bg c6_slick_inside); underwater.",
-  "Forest beneath the bound water": "golden kelp forest seen below a bright bound-water surface (bg c6_forest_beneath); underwater."
- }
+  "characters": {
+    "Wrack": {
+      "also_called": [
+        "Ilan Voss"
+      ],
+      "fixed": "adult man, lean, short messy BLACK hair, light skin, dark brown eyes, calm face (age not stated; reads late thirties)",
+      "outfits": {
+        "jacket": "torn grey zip jacket over a grey t-shirt, grey trousers, heavy black surface boots, a blue shield-shaped crest on the jacket chest (crest design is a choice), raw red cable-tie marks on both wrists",
+        "tunic": "plain loose grey-green sea-silk tunic, bare feet; worn from c01.s03.p023 on"
+      },
+      "references": [
+        "art/refs/ch01/portraits/wrack.png",
+        "art/refs/ch01/portraits/wrack_tunic.png"
+      ],
+      "note": "Use a head-and-shoulders crop of the tunic sheet as reference; the full sheet with red wrist marks is rejected by fal's filter."
+    },
+    "Sefa": {
+      "fixed": "girl of about sixteen, thin, long arms and legs, dark hair tied up in a high ponytail with a shining silver-white strip, large nearly black eyes, light skin (choice)",
+      "outfit": "short sleeveless grey-green sea-silk tunic, bare arms, bare legs, BARE FEET; harvesting hook = a long wooden pole with ONE smooth curved crescent metal blade (not a fork or rake)",
+      "references": [
+        "art/refs/ch01/portraits/sefa.png"
+      ]
+    },
+    "Bother": {
+      "fixed": "tide hound: sleek grey seal body, broad flippers, blunt square head, whiskered grey muzzle, brown eyes set forward, small folded drooping ears (NOT pointed), collar of plaited cord",
+      "references": [
+        "art/refs/ch01/portraits/bother.png"
+      ]
+    },
+    "Elder Oro": {
+      "fixed": "very old man, bald warm brown (orange-brown) head with grey hair at the sides, warm brown skin, gentle slightly amused look; loose grey-green robe, carved wooden stick",
+      "references": [
+        "art/refs/ch01/portraits/oro.png"
+      ]
+    },
+    "Ione": {
+      "fixed": "sturdy middle-aged woman (Sefa's mother, the hold's healer), brown hair in a low bun, no ribbon, sleeves rolled to the elbow, both forearms ridged wrist to elbow with old pale healed shiny scars, calm; grey-green tunic with a belt. NOT heavy-set.",
+      "references": [
+        "art/refs/ch01/portraits/ione.png"
+      ],
+      "note": "Her full-body sheet is rejected by fal's filter (scars); use the head crop."
+    },
+    "Davin": {
+      "fixed": "quiet big-handed man, short dark hair, slow smile, net-mender; grey-green tunic with frog fastenings, trousers",
+      "references": [
+        "art/refs/ch01/portraits/davin.png"
+      ]
+    },
+    "Hesper": {
+      "fixed": "the hold's Tidecaller, lean hard woman of about forty (reads older), strong tired face, dark hair pulled back, hands chapped white to the wrist; grey-green sea-silk tunic",
+      "references": [
+        "art/refs/ch02/portraits/hesper.png"
+      ]
+    },
+    "Okonta": {
+      "fixed": "spare woman of about sixty, DARK BROWN skin, short GREY hair, close slate-grey high-collared suit, thin pale scars like pen lines from the temples down both sides of the neck under the collar (Threaded). The only person with dark skin and grey hair in a scene.",
+      "references": [
+        "art/refs/ch02/portraits/okonta.png"
+      ]
+    },
+    "Brask": {
+      "fixed": "huge young man, ice-diver of Rime (the hold at the top of the world), short red hair and short red beard, wide strong face, light skin; heavy coat of sealskin worn with the fur turned INSIDE (smooth dark leather outside, grey fur visible at the collar); voice like a slab dropped; carries a seal-spear (choice: red hair, beard length)",
+      "references": [
+        "art/refs/ch03/portraits/brask.png"
+      ]
+    },
+    "The woman from Fallow": {
+      "fixed": "woman of about thirty from Fallow (unnamed), tired flat capable face, long-limbed and dark-eyed, dark hair tied back plainly, weathered light skin, worn grey-green sea-silk tunic; towed her father eleven days on a sled of kelp-floats",
+      "references": [
+        "art/refs/ch03/portraits/fallow_woman.png"
+      ]
+    },
+    "The old man from Fallow": {
+      "fixed": "very old, frail, deeply wrinkled, hollow cheeks, thin white hair, dark eyes, worn grey-green cloth wrapped round the shoulders; breathes as though each breath has to be lifted (the woman's father)",
+      "references": [
+        "art/refs/ch03/portraits/fallow_man.png"
+      ],
+      "note": "Expression edits make him look younger; always say 'VERY OLD, DEEPLY WRINKLED, hollow cheeks'."
+    },
+    "The diver officer": {
+      "fixed": "woman of about forty, cropped dark hair, hard-eyed; Halcyon armoured diving suit in grey with a round-glass metal helmet (face visible through the glass), a coloured stripe over the helmet marks her rank, a lamp on the helmet's brow, a blue shield-shaped crest on the shoulder; carries a harpoon gun (c03.s03.p017.2)",
+      "references": [
+        "art/refs/ch03/portraits/officer.png"
+      ]
+    },
+    "Jef": {
+      "fixed": "a very small, VERY OLD man (about nine hundred years), deeply wrinkled skin like folded paper, nearly bald with a few wisps of white hair at the sides, dark eyes (the text's 'very bright, very dark' is shown by a tiny sharp highlight, NOT by big shiny eyes); worn brown leather apron over a faded wool jersey with a hole at the elbow (choice: pale skin, tuft of white hair over the ears); no gift, a mechanic; carries a small worn tool",
+      "references": [
+        "art/refs/ch04/portraits/jef_grumbling.png"
+      ],
+      "note": "Say 'VERY OLD, deeply wrinkled, nearly bald' on every edit; keep the eyes dark with highlights. EYES: always SMALL, NARROW, HEAVY-LIDDED under LEVEL straight brows; never large, round, wide-open, shiny or puppy-like, no raised sad brows (the first set read as comical and was redone on 2026-11-22). Stern, austere, hard to read."
+    },
+    "Maelis": {
+      "fixed": "Jef's wife of fifty-one years, in her seventies, tall and straight, grey hair pinned in a low bun, lined composed face, brown eyes; patched dark coat with full pockets (choice: coat colour dark charcoal, patches brown); a healer born in the Quiet, the rays' mouth",
+      "references": [
+        "art/refs/ch04/portraits/maelis_examining.png"
+      ]
+    },
+    "Anselm Rook": {
+      "fixed": "broad-shouldered white-haired man of about seventy-two, courteous heavy face, grey-blue eyes, thin pale scars from the temples down the sides of the neck (the Thread); dark close-fitting surface hard suit with a clear glass helmet (portraits show the suit's high dark collar; p_anselm_helmed shows the helmet)",
+      "references": [
+        "art/refs/ch04/portraits/anselm_calm.png",
+        "art/refs/ch04/portraits/anselm_helmed.png"
+      ],
+      "note": "The helmed portrait has a faint glass ring in its cut-out."
+    },
+    "Elder Vey": {
+      "fixed": "tall, exact woman of seventy, light skin, deep lines at forehead and eyes, silver hair bound close to her head, perfectly upright posture (never seen to slump), cold composed face; formal high-collared deep sea-green robe with a pale shell-white band at the collar (colour is a choice)",
+      "references": [
+        "art/refs/ch05/portraits/vey_cold.png"
+      ],
+      "note": "Expression edits make her look younger; always say 'SEVENTY YEARS OLD, deep lines, creased cheeks'. Expressions: vey_cold, vey_shaken (older, not straight), vey_tight."
+    },
+    "Aurel": {
+      "fixed": "quiet grey man of about fifty-five, close-cropped grey hair, weathered tan-brown skin, lined calm face, steady tired eyes; plain loose grey-green sea-silk tunic. The Mighty of Deep Chorus.",
+      "references": [
+        "art/refs/ch05/portraits/aurel.png"
+      ],
+      "note": "Look is a choice apart from 'quiet grey man' (c05.s04.p008.2). Expressions: aurel_calm, aurel_tired."
+    },
+    "Corin": {
+      "fixed": "big broad-shouldered heavy-built man of about sixty-five (a Threaded who trained Okonta), warm tan-brown skin, short curly dark hair going grey, short grey stubble beard, heavy brows, tired steady grief-held-in face; close slate-grey high-collared suit; thin pale scars from temple down the neck; broad hands. Expressions: corin_grief, corin_shouting (voice cracking), corin_staring.",
+      "references": [
+        "art/refs/ch06/portraits/corin_grief.png"
+      ]
+    },
+    "The woman with the clay tube": {
+      "fixed": "Threaded woman of eighty with a face like a walnut: deeply wrinkled brown-tan skin, thin white hair pulled back in a low bun, small sharp dark eyes, thin dry mouth; slate-grey high-collared suit; thin pale scars at the temple; smokes a clay tube (clove-water). Expressions: claywoman_dry, claywoman_wry.",
+      "references": [
+        "art/refs/ch06/portraits/claywoman_dry.png"
+      ]
+    },
+    "The girl with the harpoon": {
+      "fixed": "Threaded girl of about nineteen, olive-tan skin, black hair cut short at the jaw, thin stubborn face, dark eyes; slate-grey high-collared suit with a pale piping at the collar; thin pale scars at the temple; carries a harpoon. Expressions: harpoongirl_angry, harpoongirl_bitter.",
+      "references": [
+        "art/refs/ch06/portraits/harpoongirl_angry.png"
+      ]
+    },
+    "The young man from Fallow": {
+      "fixed": "Threaded young man of about twenty-four (the last Jef made before Wrack, six years ago), light skin, sandy-brown hair, lean face, scars at the temples hardly faded; plain grey-green tunic. Expressions: fallowyoung_ashamed, fallowyoung_sorry.",
+      "references": [
+        "art/refs/ch06/portraits/fallowyoung_ashamed.png"
+      ]
+    }
+  },
+  "objects": {
+    "Maker lamp": "pale ivory metal column as thick as a man's waist, a few ribbed collars, old bundled cables down one side, caged glass lens housing near the top, hairline seam at shoulder height polished by touch; dark when dead, lens blazes white when lit. Once lit it stays lit. Wall/dome lamps use the same design on a short post.",
+    "reference": [
+      "art/refs/ch01/lamp/lamp_unlit.png"
+    ],
+    "Halcyon diving gear": "grey armoured diving suits, metal helmets with round glass faceplates, a stripe for officers, blue shield crest; they ride squat ugly grey sleds with caged screws and carry harpoon guns",
+    "The needle (Okonta's vehicle)": "a sliver of pale silver metal three times the length of a man, no thicker than a kelp stem, pointed at both ends, no rudder, no screw, no window; a soft light runs along its flank like the light on a fish; it is steered by the rider leaning, with nothing in the hands; two ride clinging on its back",
+    "The Dragon": "a river with a spine: a kilometre of pale metal ribs, each a hoop taller than a hold's dome, one behind another in a long sinuous line, with bright dense glowing water BOUND to the ribs, pouring forward along the frame without leaving it, like a flame streaming back from a torch; the head is a smooth blunt pale prow the size of a house with no eyes and no mouth, and a panel that slides open like an eyelid; inside, the gallery is a flooded still hall with walls of bound water",
+    "Slick eel": "eyeless eel as thick as a man's body and as long as a needle, coated in black slime, pale sores where the slime has rubbed away, jaws opening like a split hose",
+    "White whales": "six white, vast, blunt-headed whales, each as long as a ship, small wise eyes; the calf is no bigger than a fishing boat; old scars on the mother's flank"
+  },
+  "places": {
+    "Low Anthem dome": "hill-sized dome of pale smooth curved panes held by seamless white metal ribs; lit on one half, dark on the other with strings of glowing yellow-green lampweed; kelp trained up one side; stone-walled terraces and raked kelp rows round it; the hold is UNDER the sea",
+    "Kelp forest": "brass-coloured trunks thick as a man's waist, no branches, golden blades far above leaning one way, green at the edges and gold in the middle",
+    "Barge": "rusty steel cargo barge about forty metres long; crew wear black sailor uniforms; Halcyon boats carry a blue shield-shaped crest on the bow (design is a choice)",
+    "The Tangle": "wild kelp so thick the stems rub and groan, light failing a few metres in; wrecks of agravar warships two hundred years old lying on their sides, furred with weed, fish in the gun-ports, a skull in a rusted helmet",
+    "Sounding (ruin)": "a broken hold, a dome three times the size of Low Anthem's broken open like an egg, half standing; pale ribs curving up into the dark, silt floor, stumps of walls, a stair of six steps going up to nothing; a ring of bare sand all round with no weed",
+    "The Slick edge": "the kelp stops at a line as sharp as a shoreline; rows of dead black bitterwrack a hundred metres deep; beyond, water the colour of strong tea with shreds hanging in it",
+    "Greywatch Stone": "bare rise above the forest where kelp will not grow and the current runs cold and strong; a six-sided pillar of pale Maker stuff twice a man's height, nothing on it; a ring of stone benches and the paving scratched with thousands of worn names in looping script (never readable); a small camp of nets and a cooking-stone in a lee hollow",
+    "Dragon gallery": "flooded warm hall a kilometre long, ribs arching to a point of light, no walls, only bound water pouring past; hammock-nets, cooking stones, a rack of dried fish, a band of scratched names along the floor; cradles shaped to needles low in the belly, each with a name, one empty with silt; closed hull, no outside view of sky or land",
+    "Rime": "a Maker dome hung upside down from the underside of an ice shelf, glowing amber, little lights moving beneath it",
+    "The Well lip": "curved shelf of smooth dark rock at the edge of a vast round black shaft of perfectly still water, soft glowing pale green weed along the rim, pale blue lantern jellies as big as houses drifting over the gulf; at the bottom a single white star (the Lantern)",
+    "Kettle House": "low stone house half in water and half out on a rock shelf, pigeon-breast sky with a low red sun, washing line stiff with frost, shell-edged weed garden, workshop with its door open, kettle on the step; no fence or gate",
+    "Kettle House interior": "one long stone room, iron stove at one end, long mended table of mixed planks, jar shelves, box bed behind a curtain, loft ladder, window onto black water and jellies, fist-sized pale jelly in a glass bowl",
+    "Workshop": "untidy stone room, benches heaped with lamps in pieces, a lamp's heart laid open, coils of warm pale wire, small worn tools on one wall, a stool and a mug",
+    "The Lantern": "nine milk-white glass domed halls in a ring joined by covered ways, lit from within, standing at the bottom of a black rock shaft like a crown of lamps; white fans and pale flowers; inside, halls with round pools of faintly gold water and stools; four halls dark and dry",
+    "Jef's workshop (after his death)": "untidy stone-walled workshop, benches heaped with lamps in pieces and coils of wire, a dead barrel-sized pale ribbed air-heart laid out in pieces beside a dark oval warm-stone, a white mug with a dried tea stain left untouched, grey window light, nothing lit",
+    "The landing (evening)": "smooth dark stone landing with wide steps into black still water, low stone wall, patches of snow and ice, deep blue dusk sky with a last faint light",
+    "Open sea with ice shelf (the ride south)": "cold deep-blue open sea, the underside of an ice shelf like an upside-down country of pale ridges and hanging valleys, shafts of light, a few luminous pale singers; entirely underwater",
+    "Deep Chorus canyon": "a gulf a kilometre wide cut into the golden kelp forest floor, tiers of long pale-glass galleries down both walls, slender bridges wall to wall, hanging weed gardens; white light above the twentieth tier, dark below with greenish-yellow lampweed; entirely underwater",
+    "Deep Chorus canyon, lit to the sixtieth tier": "same canyon, warm white lamps lit down both walls to one tier, black dark windows below, bottom lost in blue; entirely underwater",
+    "Deep Chorus high hall": "third tier council hall, vault of clear glass with green canyon water beyond, pale shell-inlaid floor in a wave pattern, seven plain stone seats in an arc, white lamps on short ivory posts; dry",
+    "Deep Chorus service tunnels": "narrow rough stone tunnels behind the galleries, old pipes, a worn stair, failing lamps, swags of weak yellow-green lampweed; dry",
+    "Deep Chorus lowest dry halls": "long low dry halls in the green dimness, swags of glowing lampweed on the ceiling, rows of sleepers on mats and blankets; dry, stale",
+    "Deep Chorus heart-chamber": "vast dim stone vault, a house-sized pale ribbed air-heart like a great closed shell furred with grey dust, thick water channels on both sides, a door with a broken wax seal; dry",
+    "Deep Chorus sea-door on the rim": "bare dry stone chamber with a round sea-door pool in the floor and a wide arch of glass onto the golden kelp forest beyond; dry",
+    "Dragon gallery, failing (ch6)": "same hall as the Dragon gallery but dim: the bound-water walls thinned to a film with dark open sea in the gaps; slack hammock-nets; a double row of needle-shaped vessels asleep in cradles (bg c6_gallery_failing). Never any sky or horizon.",
+    "Dragon gallery, stern (ch6)": "dim evening end of the hall, the last cradle against the wall with a square name cut in the rib beside it (bg c6_gallery_stern).",
+    "Dragon gallery, nineteen needles (ch6)": "morning hall, nineteen needles in a row built for two hundred, one worn wheel lashed to a rib (bg c6_gallery_nineteen).",
+    "Dragon's heart under the floor": "cramped patched chamber under the gallery floor, a wheel within a wheel within a wheel covered in layers of patches, one lampweed strand hanging, silt on the floor (bg c6_heart_under).",
+    "Kelp, gold then black": "brass kelp lit gold on the left going to black on the right (bg c6_kelp_gold_black); underwater.",
+    "Inside the Slick": "strong-tea brown dead water, ragged shreds hanging motionless, silt floor with low mounds (bg c6_slick_inside); underwater.",
+    "Forest beneath the bound water": "golden kelp forest seen below a bright bound-water surface (bg c6_forest_beneath); underwater."
+  }
 }

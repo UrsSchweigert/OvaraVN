@@ -1,0 +1,14 @@
+troubled art/refs/ch01/portraits/wrack_tunic.png
+dejected art/refs/ch06/portraits/wrack_tunic_dejected.png
+resolved art/refs/ch02/portraits/wrack_tunic_resolved.png
+grieving art/refs/ch04/portraits/wrack_tunic_grieving.png
+frightened art/refs/ch01/portraits/wrack_tunic_frightened.png
+stunned art/refs/ch05/portraits/wrack_tunic_stunned.png
+shaken art/refs/ch02/portraits/wrack_tunic_shaken.png
+attentive art/refs/ch02/portraits/wrack_tunic_attentive.png
+thinking art/refs/ch06/portraits/wrack_tunic_thinking.png
+angry art/refs/ch06/portraits/wrack_tunic_angry.png
+fading art/refs/ch05/portraits/wrack_tunic_fading.png
+exhausted art/refs/ch05/portraits/wrack_tunic_exhausted.png
+dazed art/refs/ch05/portraits/wrack_tunic_dazed.png
+ashamed art/refs/ch06/portraits/wrack_tunic_ashamed.png

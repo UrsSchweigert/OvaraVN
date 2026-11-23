@@ -847,7 +847,7 @@ label ch04:
 
     "Jef was asleep in the chair beside the bed, with his chin on his chest and his apron still on."
 
-    show p wrack_tunic_calm as left at head_left
+    show p wrack_thread_calm as left at head_left
     show p maelis_composed as right at head_right
     with qd
     c_maelis "He wanted to be here when you woke,"
@@ -866,7 +866,7 @@ label ch04:
 
     "He was down the ladder before he knew he had moved. Okonta was at the door with her hand to her temple."
 
-    show p wrack_tunic_frightened as left at head_left
+    show p wrack_thread_frightened as left at head_left
     show p okonta_urgent as right at head_right
     with qd
     c_okonta "There's nobody on it,"
@@ -889,7 +889,7 @@ label ch04:
 
     scene bg step_night
     with dissolve
-    show p wrack_tunic_shaken as left at head_left
+    show p wrack_thread_shaken as left at head_left
     show p jef_attentive as right at head_right
     with qd
     c_jef "That's a dart."
@@ -899,7 +899,7 @@ label ch04:
     with qd
     "Jef was standing in the doorway in his nightshirt, holding on to the frame. Maelis was behind him. He was looking at nothing. He was listening, as Okonta listened."
 
-    show p wrack_tunic_shaken as left at head_left
+    show p wrack_thread_shaken as left at head_left
     show p jef_attentive as right at head_right
     with qd
     c_jef "That's one of mine,"
@@ -917,7 +917,7 @@ label ch04:
     c_jef "I know how many there are."
     "He had straightened. Wrack saw, with a kind of dread, that the tiredness had gone out of him. He looked as he looked at the bench when a thing was laid open on it."
     c_jef "Get the runner, Okonta. Wrack, you'll hold the water, as you did before. All of it. You'll start now, from here. You'll hold it the whole way down, and you'll not let go, whatever you see. Can you?"
-    show p wrack_tunic_resolved as left at head_left
+    show p wrack_thread_resolved as left at head_left
     with qd
     c_wrack "Yes."
     c_jef "I'll want my apron."
@@ -941,7 +941,7 @@ label ch04:
 
     "Jef looked at the dart for a moment. Then he got down on his knees, with a grunt, at the mouth of the crawlway."
 
-    show p wrack_tunic_frightened as left at head_left
+    show p wrack_thread_frightened as left at head_left
     show p jef_attentive as right at head_right
     with qd
     c_jef "Lend me that,"
@@ -959,7 +959,7 @@ label ch04:
 
     "Then the pulse steadied. He felt it in his head before the lamps showed it. The great heart under the ring drew one long clean beat, and another. The milk-white glass brightened round him, hall after hall. There were eight. The ninth stayed dark."
 
-    show p wrack_tunic_frightened as left at head_left
+    show p wrack_thread_frightened as left at head_left
     with qd
     c_wrack "Jef,"
     "he called down the crawlway."
@@ -979,7 +979,7 @@ label ch04:
     # c04.s10
     scene bg kettle_house
     with fade
-    show p wrack_tunic_grieving as left at head_left
+    show p wrack_thread_grieving as left at head_left
     show p maelis_composed as right at head_right
     with qd
     c_maelis "He left something for me to tell you,"
@@ -989,7 +989,7 @@ label ch04:
     with qd
     "They had brought him up. It had taken a day. She sat on the step of Kettle House with the old man's hand in both of hers. The rays had risen out of the Well, hundreds of them. They hung motionless in the black water, wing to wing, as far as he could see."
 
-    show p wrack_tunic_grieving as left at head_left
+    show p wrack_thread_grieving as left at head_left
     show p maelis_composed as right at head_right
     with qd
     c_maelis "He said it on the runner, while you were busy. He said: {i}he has to ask for his memory himself.{/i} Not be told it. Not by Anselm, and not by me. He said you'd understand it when it was time."

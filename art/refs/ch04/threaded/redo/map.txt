@@ -1,0 +1,7 @@
+dejected art/refs/ch06/portraits/wrack_tunic_dejected.png
+resolved art/refs/ch02/portraits/wrack_tunic_resolved.png
+frightened art/refs/ch01/portraits/wrack_tunic_frightened.png
+stunned art/refs/ch05/portraits/wrack_tunic_stunned.png
+shaken art/refs/ch02/portraits/wrack_tunic_shaken.png
+attentive art/refs/ch02/portraits/wrack_tunic_attentive.png
+ashamed art/refs/ch06/portraits/wrack_tunic_ashamed.png

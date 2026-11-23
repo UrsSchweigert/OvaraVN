@@ -22,7 +22,7 @@ label ch06:
     "There were two brothers from Pearl Stair who finished each other's sentences. There was a man with one arm, and a girl who could not have been twenty, with a harpoon across her knees."
     "They had nothing in common but the fine pale scars at the temple and the look that Okonta had. It was the look of people who spend a great deal of time alone, listening."
 
-    show p wrack_tunic_troubled as left at head_left
+    show p wrack_thread_troubled as left at head_left
     show p okonta_sorrow as right at head_right
     with qd
     c_okonta "Every one of us felt it stop,"
@@ -34,7 +34,7 @@ label ch06:
     with qd
     "They knew her. They made room. An old man gripped her forearm and held it. Then they looked past her at Wrack, and the talk died."
 
-    show p wrack_tunic_troubled as left at head_left
+    show p wrack_thread_troubled as left at head_left
     show p claywoman_dry as right at head_right
     with qd
     "That's him,"
@@ -54,7 +54,7 @@ label ch06:
     "Four more holds were dark. Refugees were arriving at holds that could not feed them. Breakers out of the Tangle had sunk three agravar ships in a week, with their crews aboard, and it was said that a new caller led them, a woman from a bombed hold."
     "Halcyon Dredge and Meridian Assurance had jointly announced protective patrols throughout mariner waters. There were gunboats now over holds that had never seen a keel. And over the dark holds there were other ships, white ones, which let down glass bells on chains."
 
-    show p wrack_tunic_troubled as left at head_left
+    show p wrack_thread_troubled as left at head_left
     show p corin_grief as right at head_right
     with qd
     "They took Kelder,"
@@ -117,7 +117,7 @@ label ch06:
 
     scene bg c6_gallery_stern
     with dissolve
-    show p wrack_tunic_troubled as left at head_left
+    show p wrack_thread_troubled as left at head_left
     show p anselm_helmed as right at head_right
     with qd
     c_anselm "I'm told that somebody tried to scratch this out,"
@@ -169,7 +169,7 @@ label ch06:
     c_anselm "{i}Own nothing you can't carry{/i},"
     "Rook said gently."
     c_anselm "It was a good rule. It was a rule for a world with him in it."
-    show p wrack_tunic_angry as left at head_left
+    show p wrack_thread_angry as left at head_left
     with qd
     c_wrack "You sent that dart,"
 
@@ -180,12 +180,12 @@ label ch06:
 
     "Rook turned the glass helmet toward him. For a moment he looked at Wrack as he had on the step of Kettle House, steadily, like a man checking a figure."
 
-    show p wrack_tunic_angry as left at head_left
+    show p wrack_thread_angry as left at head_left
     show p anselm_cold as right at head_right
     with qd
     c_anselm "I have said what I know about the dart,"
     "he told the hall."
-    show p wrack_tunic_troubled as left at head_left
+    show p wrack_thread_troubled as left at head_left
     with qd
     c_wrack "I was there. So was she. It was driven from an old-pattern hull at the ice edge."
     c_anselm "Did you see the hull?"
@@ -206,7 +206,7 @@ label ch06:
     with qd
     "He went back to the cradle. Then, as though it were an afterthought, he turned to Wrack again. The grille clicked, and the voice that came from it was lower. It was meant for one man."
 
-    show p wrack_tunic_shaken as left at head_left
+    show p wrack_thread_shaken as left at head_left
     show p anselm_lowered as right at head_right
     with qd
     c_anselm "I aimed at a machine,"
@@ -257,7 +257,7 @@ label ch06:
     "He was being towed. He was on his face in the wake of a needle at full speed, wrapped to the neck in wire, and the water came at him so hard that he could not see or think."
     "He could not have said {i}please{/i} to save his life. Twice he managed to gather himself and ask the sea for a wall in front of them. Twice it rose, and the needle simply was not where the wall was. He had seen Okonta do that. He had thought it wonderful."
 
-    show p wrack_tunic_dejected as left at head_left
+    show p wrack_thread_dejected as left at head_left
     show p corin_shouting as right at head_right
     with qd
     "Lie still!"
@@ -290,7 +290,7 @@ label ch06:
     with dissolve
     "The boy who had been thrown against the rib was flying rearguard. They took him first. One had the tail of his needle, and another struck him across the body and carried him clean off it. He went down in a knot of them with his mouth open."
 
-    show p wrack_tunic_dejected as left at head_left
+    show p wrack_thread_dejected as left at head_left
     show p corin_shouting as right at head_right
     with qd
     c_corin "{i}Tam!{/i}"
@@ -302,7 +302,7 @@ label ch06:
 
     "An arm hooked through the mesh. Okonta dragged the net up onto her hull with one hand, and steered with nothing, as she always did. The steel had opened her forearm from wrist to elbow, and the blood was going back along the needle in a ribbon. The eels would have that too, in a moment."
 
-    show p wrack_tunic_dejected as left at head_left
+    show p wrack_thread_dejected as left at head_left
     show p corin_shouting as right at head_right
     with qd
     c_corin "Okonta!"
@@ -312,7 +312,7 @@ label ch06:
     with qd
     "Corin had the boy across his cradle. The third rider, a scarred woman on a dart, was circling over him with a lance out. He was shouting across forty metres of dead brown water, and his voice cracked."
 
-    show p wrack_tunic_dejected as left at head_left
+    show p wrack_thread_dejected as left at head_left
     show p corin_shouting as right at head_right
     with qd
     c_corin "It's wages! That's all it is! Thirty years! What have you got? A needle and a bad back!"
@@ -343,7 +343,7 @@ label ch06:
 
     "His own ribs were cracked. Sefa had seen to those first, and had told him that he was not to be let out by himself."
 
-    show p wrack_tunic_ashamed as left at head_left
+    show p wrack_thread_ashamed as left at head_left
     show p okonta_flat as right at head_right
     with qd
     c_wrack "I couldn't do anything,"
@@ -356,7 +356,7 @@ label ch06:
     show p okonta_flat as right at head_right
     with qd
     c_okonta "I've been wondering when you'd find that out. I'd hoped it would be cheaper. You're the strongest thing in the sea, and three tired people carried you off like a sack of cake. Strength isn't fighting. Any herder's child could have told you so."
-    show p wrack_tunic_thinking as left at head_left
+    show p wrack_thread_thinking as left at head_left
     with qd
     c_wrack "Then what is?"
     c_okonta "Being ready."
@@ -390,7 +390,7 @@ label ch06:
     with dissolve
     "Okonta went past him and round and came back, and looked at him without expression."
 
-    show p wrack_tunic_calm as left at head_left
+    show p wrack_thread_calm as left at head_left
     show p okonta_flat as right at head_right
     with qd
     c_okonta "Again,"
@@ -409,7 +409,7 @@ label ch06:
 
     "He lay there for two days and a night. Sefa came, and tied a fresh strand of lampweed round his wrist, and went away. The Threaded who had stayed came down by ones and twos, and held lamps for him, and passed him what he pointed at. The old woman with the clay tube sat by the hatch for a whole watch."
 
-    show p wrack_tunic_dejected as left at head_left
+    show p wrack_thread_dejected as left at head_left
     show p claywoman_wry as right at head_right
     with qd
     "He had us carry for him as well,"
@@ -436,7 +436,7 @@ label ch06:
 
     scene bg c6_gallery_failing
     with dissolve
-    show p wrack_tunic_calm as left at head_left
+    show p wrack_thread_calm as left at head_left
     show p okonta_flat as right at head_right
     with qd
     c_okonta "It's slower,"
@@ -454,7 +454,7 @@ label ch06:
 
     "The young man from Fallow was among those who went. He was the last Jef had made before Wrack, six years ago, and the scars at his temples had hardly faded. He had held a lamp for most of a night without being asked."
 
-    show p wrack_tunic_dejected as left at head_left
+    show p wrack_thread_dejected as left at head_left
     show p fallowyoung_ashamed as right at head_right
     with qd
     "I'm going to my mother,"
@@ -473,7 +473,7 @@ label ch06:
     with qd
     "When he had gone, Wrack sat for a while with his hand on the rib beside him, feeling the new, slower pulse of the thing he had rebuilt."
 
-    show p wrack_tunic_thinking as left at head_left
+    show p wrack_thread_thinking as left at head_left
     show p okonta_flat as right at head_right
     with qd
     c_wrack "He wanted it mended,"
@@ -494,7 +494,7 @@ label ch06:
     "Sefa sat between them with her arms round Bother. She had never been on the Dragon. She had told them that she was coming. She said that they would need a healer. She said that Wrack in particular needed somebody to tell him when he was shouting."
     "Elder Vey, of all people, had settled it. A hold that had been saved by a girl of sixteen, she said, could hardly tell that girl where she might not go, and she would send word to the mother herself."
 
-    show p wrack_tunic_grieving as left at head_left
+    show p wrack_thread_grieving as left at head_left
     show p okonta_sorrow as right at head_right
     with qd
     c_wrack "He held all this up,"

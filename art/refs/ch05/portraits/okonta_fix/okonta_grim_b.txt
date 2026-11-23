@@ -1,0 +1,6 @@
+model: fal-ai/flux-2/edit
+purpose: sheet
+refs: art/refs/ch02/portraits/okonta.png
+
+Anime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. Reference 1 is the character (use it only for her face, age, hair, suit and the lines on her skin): a spare woman of about sixty with dark brown skin, short grey hair, a slate-grey high-collared suit. Keep her EXACTLY as in reference 1: the same lined, weathered, clearly older face with fine wrinkles around the eyes and mouth and deeper lines beside the nose, the same cheekbones and nose. IMPORTANT: she must show the thin pale branching lines on her skin as in reference 1, running from the temple beside her eye down the side of her cheek and neck and under the collar, as fine as pen lines, clearly visible. She must NOT look younger or smoother than reference 1. The eyes are fully drawn with irises, pupils and highlights.
+Expression: grim and hard; brows lowered into a stern straight scowl, jaw set, lips pressed into a flat hard line, eyes narrowed and steady, looking ahead.

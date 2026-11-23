@@ -20,14 +20,14 @@ label ch05:
     "Okonta stayed. She did not say why, and he did not ask. She mended her suit, and cleaned her needle, and stood for long stretches at the edge of the Well with her head tilted, listening to things a long way off."
     "Messages were coming up from the south, in the slow way they did. A long-call was passed from hold to hold. A Threaded had turned off his patrol to carry word. She gave him the sense of them at supper, shortly."
 
-    show p wrack_tunic_grieving as left at head_left
+    show p wrack_thread_grieving as left at head_left
     show p okonta_grave as right at head_right
     with qd
     c_okonta "They know,"
     c_okonta "It's in every hold by now. Some of them don't believe it. Deep Chorus has declared forty days of singing. Nine Spires has asked who's to decide about the Dragon now, which is like them."
     "She pushed her fish about."
     c_okonta "The Threaded want to know who they answer to."
-    show p wrack_tunic_attentive as left at head_left
+    show p wrack_thread_attentive as left at head_left
     with qd
     c_wrack "Who do they?"
     show p okonta_sorrow as right at head_right
@@ -43,7 +43,7 @@ label ch05:
     with qd
     "But she was frowning."
     c_okonta "They're frightened. We were never many. And every one of us knows there won't be another."
-    show p wrack_tunic_troubled as left at head_left
+    show p wrack_thread_troubled as left at head_left
     with qd
     c_wrack "And the dart?"
     show p okonta_grim as right at head_right
@@ -67,7 +67,7 @@ label ch05:
     "He put the tool in his pocket and went down to the landing. Okonta was already there."
     "There was a second needle in the cradles, an old one of Jef's, shorter than hers and scarred along the flank. It woke under his hand as if it had been expecting him."
 
-    show p wrack_tunic_stunned as left at head_left
+    show p wrack_thread_stunned as left at head_left
     show p okonta_grim as right at head_right
     with qd
     c_okonta "Above Chorus Canyon,"
@@ -77,7 +77,7 @@ label ch05:
     show p okonta_urgent as right at head_right
     with qd
     c_okonta "Without it there's no reaching the south. No Maelis. No Wells for anyone who isn't already there. No anything."
-    show p wrack_tunic_resolved as left at head_left
+    show p wrack_thread_resolved as left at head_left
     with qd
     c_wrack "Then we go and start it."
     c_okonta "You've had the Thread for twelve days. You've never ridden."
@@ -108,7 +108,7 @@ label ch05:
     "He saw the Dragon first. It was a pale line lying across the top of the forest, motionless, like a rope dropped on a carpet. A faint mist was drifting from its ribs."
     "It was the bound water coming loose, a little at a time, and going back into the sea it had been drawn from."
 
-    show p wrack_tunic_troubled as left at head_left
+    show p wrack_thread_troubled as left at head_left
     show p okonta_urgent as right at head_right
     with qd
     c_okonta "How long?"
@@ -127,7 +127,7 @@ label ch05:
 
     scene bg dc_canyon_above
     with dissolve
-    show p wrack_tunic_attentive as left at head_left
+    show p wrack_thread_attentive as left at head_left
     show p okonta_sorrow as right at head_right
     with qd
     c_okonta "Deep Chorus,"
@@ -146,7 +146,7 @@ label ch05:
     "Below that the Maker lamps were dark, gallery after gallery, all the way down into the blue. In their place hung long swags of something that glowed a weak greenish yellow."
     "He knew it at once. He had seen it on the dark side of the dome at Low Anthem."
 
-    show p wrack_tunic_troubled as left at head_left
+    show p wrack_thread_troubled as left at head_left
     show p okonta_grim as right at head_right
     with qd
     c_okonta "Lampweed,"
@@ -164,7 +164,7 @@ label ch05:
     "She said that Deep Chorus was honoured. She said the hold was in excellent order. The lampweed was traditional at this season, as an observance of mourning."
     "The Dragon would no doubt resume its course, as it always had. When Wrack asked to see the air-hearts, she said that would not be necessary."
 
-    show p wrack_tunic_troubled as left at head_left
+    show p wrack_thread_troubled as left at head_left
     show p okonta_grim as right at head_right
     with qd
     c_okonta "He lit the Lantern,"
@@ -181,7 +181,7 @@ label ch05:
     with qd
     "They were shown out. In the corridor a small figure detached itself from the wall, and something heavy and whiskered hit Wrack in the knees."
 
-    show p wrack_tunic_stunned as left at head_left
+    show p wrack_thread_stunned as left at head_left
     show p sefa_tired as right at head_right
     with qd
     c_sefa "Bother, {i}leave{/i} it. Hello, Wrack."
@@ -196,7 +196,7 @@ label ch05:
     hide bother
     with qd
 
-    show p wrack_tunic_stunned as left at head_left
+    show p wrack_thread_stunned as left at head_left
     show p sefa_tired as right at head_right
     with qd
     c_wrack "You're a healer,"
@@ -218,14 +218,14 @@ label ch05:
     "Three thousand people were in them, in the green dimness. Many were from dark holds further north. He saw faces from Low Anthem, and they saw him. An old woman from the night crew lifted her hand a little from her blanket."
     "They lay close together and very still, as people lie who have learned not to waste anything. The air was thick and stale and warm. He found himself breathing fast without getting anything from it."
 
-    show p wrack_tunic_frightened as left at head_left
+    show p wrack_thread_frightened as left at head_left
     show p sefa_tired as right at head_right
     with qd
     c_wrack "Why don't they go into the water? They can breathe water."
     c_sefa "For how long? Days? You can't sleep properly in it, not for weeks, not the old ones and the babies. You can't cook in it or get warm in it. There's a reason holds have dry halls."
     "Sefa rubbed her eyes with the back of her wrist."
     c_sefa "And the flooded galleries down here are going bad as well. The air-hearts clean the water too, did you know that? I didn't. It's all one thing. Three of the seven have stopped. The fourth is going."
-    show p wrack_tunic_troubled as left at head_left
+    show p wrack_thread_troubled as left at head_left
     with qd
     c_wrack "Does Vey know?"
     show p sefa_hard as right at head_right
@@ -241,7 +241,7 @@ label ch05:
     with qd
     "He put his hand on the wall. Through it, through the Thread, he could feel them: seven great weights below him in the rock. Three were silent. Four were labouring, and in one of the four the labour had a catch in it that he knew from the Lantern."
 
-    show p wrack_tunic_resolved as left at head_left
+    show p wrack_thread_resolved as left at head_left
     show p sefa_tired as right at head_right
     with qd
     c_wrack "Show me."
@@ -255,9 +255,13 @@ label ch05:
 
     "He had only seen the barrel-sized ones. This was the size of a house. It was a pale ribbed thing like a great closed shell, standing on its hinge. All round it ran channels as thick as his body, bringing the sea in on one side and carrying it away on the other."
     "When such a thing was alive, it opened and closed, very slowly, a few times in an hour. With each closing it drew the foulness out of the water that passed through it."
+    scene cg c5_airheart_touch
+    with dissolve
     "With each opening it breathed clean air up through the rock, into every dry hall above. It was the lungs of the hold. It was cold under his palm, and furred with a fine grey dust."
+    scene bg dc_heart_chamber
+    with dissolve
 
-    show p wrack_tunic_troubled as left at head_left
+    show p wrack_thread_troubled as left at head_left
     show p sefa_tired as right at head_right
     with qd
     c_wrack "How long for the people up there?"
@@ -273,12 +277,20 @@ label ch05:
 
     "There was no time to do the work and no air to do it in. So he did what had served at the Lantern. He asked the sea to help him cheat."
 
+    scene cg c5_airheart_reach
+    with dissolve
     "He sat on the floor of the heart-chamber with one hand in a channel and reached out into every flooded gallery of the lower hold at once. In each one he asked the water to give up what air it carried, and to gather it against the roof in a great still bubble, and to keep it there."
     "That was Shaping, and Holding. He had done each a thousand times at the lip of the Well. He pushed the bubbles through into the dry halls, room after room. It was air for three thousand people. He held it there with one part of his mind, and with the rest of himself he opened the first dead heart and went in."
 
+    scene cg c5_airheart_open
+    with dissolve
     "It worked for a day and a night."
 
+    scene cg c5_airheart_fingers
+    with dissolve
     "He did not sleep. Sefa brought him water, and he drank it without knowing. The heart was silted to its core. He cleared channels with his hands and with the sea, as he had in the Dragon."
+    scene cg c5_airheart_tool
+    with dissolve
     "Then he found the real fault, deep in. It was a thing not slipped but broken. He took out Jef's tool and found that the old man had been right. It fitted. He worked."
 
     "Some time on the second day he noticed that he could not remember the tending song."
@@ -298,7 +310,7 @@ label ch05:
 
     scene bg dc_heart_chamber
     with dissolve
-    show p wrack_tunic_fading as left at head_left
+    show p wrack_thread_fading as left at head_left
     show p sefa_fierce as right at head_right
     with qd
     c_wrack "They'll suffocate—"
@@ -309,7 +321,7 @@ label ch05:
     with qd
     "He let go. Far above, in three thousand rooms, the bubbles shivered and began to dissolve. He sat on the floor of the chamber with his head between his knees. The cold drew back slowly, like a tide. It did not return what it had taken."
 
-    show p wrack_tunic_dazed as left at head_left
+    show p wrack_thread_dazed as left at head_left
     show p sefa_fierce as right at head_right
     with qd
     c_wrack "What's his name?"
@@ -359,6 +371,8 @@ label ch05:
     "The other two he could not mend. He lay under each of them for a night, with Jef's tool in his hand. They had not slipped, and they had not broken."
     "The great shells were cracked through at the hinge, and the pale metal along the crack had gone grey and soft, like old bone. There was nothing left there to seat. They wanted making, and he could not make."
 
+    scene cg c5_airheart_breathes
+    with dissolve
     "The dying heart came back at dawn on the fifth day. He was lying under it with a strand of lampweed tied round his wrist for light. He felt the great shell above him stir. It opened, very slowly, with a sound like a long indrawn breath. It closed."
     "Then he felt air begin to move through the lower tiers, cold and clean. In the gallery overhead a lamp came on."
 
@@ -377,7 +391,7 @@ label ch05:
     with dissolve
     "Elder Vey was waiting at the sea-door on the rim. She was alone. She looked a good deal older than she had five days earlier, and for the first time she was not standing quite straight."
 
-    show p wrack_tunic_exhausted as left at head_left
+    show p wrack_thread_exhausted as left at head_left
     show p vey_shaken as right at head_right
     with qd
     c_vey "We were afraid,"
@@ -385,13 +399,13 @@ label ch05:
     c_vey "My grandmother was speaker when the first heart stopped. She told my mother, and my mother told me, as you hand down a debt. Each of us thought it would last our time."
     "She was silent a moment."
     c_vey "A child shamed us in our own hall. I've been trying to be angry about it, and I find I can't."
-    show p wrack_tunic_calm as left at head_left
+    show p wrack_thread_calm as left at head_left
     with qd
     c_wrack "She does that,"
     show p vey_tight as right at head_right
     with qd
     c_vey "Two of the hearts you could not mend,"
-    show p wrack_tunic_troubled as left at head_left
+    show p wrack_thread_troubled as left at head_left
     with qd
     c_wrack "No. They want making. I can't make."
     show p vey_shaken as right at head_right
@@ -400,7 +414,7 @@ label ch05:
     "She said it without complaint."
     c_vey "There is a thing you should know. A man came to this door in the spring. He came in a bell of glass, let down on a chain from a ship. He wore grey."
     c_vey "He said that his house knew of our difficulty. He did not say how it knew. He said it had prepared a refuge. There were to be tanks, on an island shore, with the sea piped into them, and lamps that do not fail. There was passage for every soul in the hold. He had a paper for me to mark."
-    show p wrack_tunic_attentive as left at head_left
+    show p wrack_thread_attentive as left at head_left
     with qd
     c_wrack "What did the paper ask?"
     show p vey_tight as right at head_right
@@ -417,7 +431,7 @@ label ch05:
     with qd
     c_vey "The Dragon,"
     c_vey "You chose us, and it has had five days. I am told it will not run again."
-    show p wrack_tunic_resolved as left at head_left
+    show p wrack_thread_resolved as left at head_left
     with qd
     c_wrack "We'll see,"
 
