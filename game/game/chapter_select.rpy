@@ -32,7 +32,10 @@ screen chapter_select():
                 if part != last_part:
                     $ last_part = part
                     text "Part " + part size 34 color gui.accent_color xoffset 4 yoffset 10
-                if renpy.has_label(chapter_label(n)):
+                if chapter_locked(n):
+                    textbutton "Chapter [n]. [title]  (locked)" action Function(paywall_from_menu) text_size 40
+                elif renpy.has_label(chapter_label(n)):
                     textbutton "Chapter [n]. [title]" action Start(chapter_label(n)) text_size 40
                 else:
                     textbutton "Chapter [n]. [title]  (not built yet)" action NullAction() sensitive False text_size 40
+
