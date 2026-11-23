@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: sprite
+refs: art/refs/ch07/portraits/crane_flat.png
+
+Same man, same face, hair, skin and dark high-necked jacket. Only the expression changes: his usual tidy composure is slipping, his lips pressed tight and a little uneven, his eyes lowered and completely dry, no tears at all, brows drawn up faintly in the middle, a man holding his voice steady with effort. Restrained, not crying. Head and shoulders, three-quarter view turned toward the viewer's right, plain light grey background, no text. Eyes fully drawn with irises, pupils and highlights.

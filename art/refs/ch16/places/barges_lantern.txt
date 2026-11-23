@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no figures, no text, no letters, no readable signs or marks. Night in the dry bed of a canal in a free port built on black sea-stacks and stilts: the water is gone and a row of flat broad gate barges rest on black mud in a line, stacked with crates and sacks and bundled blankets, planks laid from a wooden quay across the mud, lit by many hanging lanterns on poles that make warm gold pools on the mud and wood, the stilts and lower buildings of the city dark above with a few dim lights. Loading in progress but nobody visible, tools and handcarts left standing. Deep blue night, warm lanterns.

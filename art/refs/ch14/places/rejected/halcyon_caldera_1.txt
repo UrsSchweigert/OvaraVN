@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no figures, no text, no letters, no readable signs or marks. A flooded volcanic crater harbour seen from the water at sunset: the city climbs the inner wall of the caldera in three bands. At the bottom the Waterline, refineries, chimneys with flares, quays and tank farms under brown haze; above it the Stacks, a thousand identical grey tenement blocks packed so close the streets between them are stairs; at the very top along the crater lip the Rim, white houses and gardens in clean air. Soft grey ash drifts down over everything, the sky dusky orange and ashen, the water of the harbour tea-brown, a narrow gap in the crater wall as the harbour mouth to one side. No people.

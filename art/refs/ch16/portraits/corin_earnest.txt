@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: sheet
+refs: art/refs/ch06/portraits/corin_grief.png
+
+Anime-style character portrait, clean line art, soft cel shading, gentle natural colours. Same character as the reference, same face, same age, same heavy grey stubble beard, same curly grey-dark hair, same tan-brown skin and slate-grey high-collared suit, same head and shoulders framing facing the viewer's right, plain light grey background. Keep the thin pale pen-line scars running from the temple down the side of the neck exactly as in the reference. Only the expression changes: earnest and shaking, brows drawn up in the middle, eyes steady and bright with held-in feeling but no tears running, lips pressed together and trembling slightly, jaw tight. Eyes fully drawn with irises, pupils and highlights. Restrained realistic face, no smile.

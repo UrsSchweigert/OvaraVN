@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: sheet
+refs: 
+
+Anime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view turned toward the viewer's right (the face and nose point to the right edge of the picture), plain light grey background, no text. Both shoulders visible. The eyes are small, normal, realistic, fully drawn with irises, pupils and highlights, not large, not round, not shiny. Restrained realistic face. A tired, composed mercenary officer of about fifty with pale skin, thick dark brown hair combed back off a high forehead with only a few grey hairs, a heavy broad jaw, thick straight eyebrows, a wide plain face with a day of stubble, clearly a different man from a slim clerk, wearing a plain flat grey military jacket with a high closed collar and no badges. Expression: level, watchful, mouth closed and flat, slightly weary.

@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text, no letters, no readable marks. Seen from the flat grey water a short distance away: one colossal sheer wall of perfectly smooth, polished, uniform grey glass that runs left and right across the whole picture to both horizons and rises straight up past the top of the picture. The surface is perfectly even like a single vast pane: no cracks, no veins, no streaks, no seams, no stone texture, no snow; it only shows a soft cold reflection of the pale misty sky, getting slightly darker toward the top. A thin low mist lies on the water at its foot. No boats, no people. Cold, silent, severe.

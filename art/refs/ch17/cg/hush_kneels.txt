@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: illustration
+refs: game/game/images/p_hush_healer_gentle.png
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, no text, no letters, no readable marks. Eyes fully drawn with irises, pupils and highlights. Reference 1 is a small slight woman healer with medium brown skin and short black hair going grey at the temples, in a dark grey high-collared tunic. Exactly one person: she kneels in shallow water up to her knees, in the middle of a flat dull grey dead sea with no shore and no land anywhere, seen from the side, both hands pushed into the water to the wrist, head bowed, back straight, perfectly still, a grey band on her upper arm. A small ring of clear pale sea-green water (soft, not neon) has begun to spread around her hands. Flat grey sea beyond, pale overcast sky, a low grey wall far away in mist. Nobody else, no boats.

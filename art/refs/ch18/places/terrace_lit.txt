@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: background
+refs: game/game/images/bg/terraces_dome.png
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no figures, no text, no letters, no readable marks. Reference 1 shows the sunken dome and stone terraces of Low Anthem: keep the dome design (pale panes in white ribs, stepped stone base) and the terraces with kelp. Entirely underwater, no sky, no horizon, no grass: the same place at evening, deep blue-green water in dim last light, the whole dome now lit warmly from inside all the way round, every pane glowing soft yellow, warm light spilling over the stone terraces and the kelp rows, lamps lit along the terrace walls, a line of pale glowing lampweed strands planted along the top of the terrace wall in the foreground. Calm, warm, communal and quiet. No people, no figures.

@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: illustration
+refs: game/game/images/p_wrack_thread_calm.png, art/refs/ch18/places/archive_workshop.png
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, no text, no letters, no readable marks. Reference 1 is Ilan: a lean man with light skin and short messy black hair, thin pale line on his neck, plain grey-green tunic. Reference 2 is the silent hall under Meet whose long walls are panels of glowing glass. Exactly one person: Ilan seen from behind and slightly to the side, standing close in front of a tall glowing glass wall panel, his right palm laid flat on the glass; inside the glass pictures of a pair of long-fingered broad hands at work on pale metal are playing, softly lit white-blue, unreadable. Quiet, attentive, dust in the air, the half-built round pearl-white air-heart faintly visible behind him. Nobody else, no other figures.

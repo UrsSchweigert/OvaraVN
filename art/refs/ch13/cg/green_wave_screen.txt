@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: illustration
+refs: 
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, no text, no letters, no readable marks. A harbour seen from the water in the evening: black sheer cliffs ring the harbour and a city of many tiers is stacked up inside them with lit windows, a stone breakwater across the mouth. Beyond the breakwater the horizon is in the wrong place, far too high: a long straight wall of smooth glassy green seawater stands across the whole horizon, miles off, far taller than the cliffs, flat-topped like a tall straight green ridge of water, its top edge glowing gold where the low evening sun shines through it. No foam, no streaks, no mountain, no people.

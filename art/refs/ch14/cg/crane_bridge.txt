@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: illustration
+refs: art/refs/ch07/portraits/crane_flat.png, art/refs/ch14/places/harbour_fleet.png
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, no text, no letters, no readable marks. Eyes fully drawn with irises, pupils and highlights. Reference 1 is Adler Crane, a broad-shouldered man of about forty-five with olive-pale skin, short brown hair going grey at the sides, a square jaw and tired brown eyes. Reference 2 is a crater harbour at dusk with grey warships and a vast grey unfinished hull with scaffolding. Exactly one person: Crane, in a long grey coat, stands quite still on the open bridge wing of the vast grey unfinished hull, hands hanging at his sides, looking out across the water with an unreadable still face, seen from a little below and the side, scaffolding behind him, dusky violet light. Nobody else.

@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: sprite
+refs: art/refs/ch04/portraits/maelis_composed.png
+
+Anime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same skin colour, same lighting; only the expression changes. Both shoulders visible. Eyes fully drawn with irises, pupils and highlights. Restrained realistic expression, moderate, no grin, no laughing, no broad smile. Woman like the reference: woman in her seventies, lined face, grey hair pinned in a low bun, brown eyes, dark patched coat. Her head is turned only slightly to the viewer's right (more frontal than profile, both eyes visible), but her eyes glance sideways toward the viewer's left, so that the irises sit in the left corners of the eyes. Composed and dry, one brow very slightly raised, mouth closed and level, the look of someone about to say something wry.

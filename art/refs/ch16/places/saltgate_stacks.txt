@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: background
+refs: game/game/images/bg/c14_girdle_saltgate.png
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no figures, no text, no letters, no readable signs or marks. A great free port built on a hundred black rock sea-stacks, seen at overcast daylight from the bare bed of a dry canal. The sea has drawn back about two metres: the bottoms of the stacks stand out of the water in the open air for the first time, tall black pillars of rock hung with green dripping weed and barnacles, wet and shining, their feet on dark mud, and the lowest stilts and girders of the city above them standing on the pillars like the legs of a wading bird. The canals are ditches of black mud with a few puddles. Tiers of crowded buildings on stilts and bridges above, neon signs dark. Eerie, quiet, still.

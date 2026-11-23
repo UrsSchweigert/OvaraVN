@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: sprite
+refs: art/refs/ch02/portraits/hesper_stern.png
+
+Same woman, same face, hair, skin and clothes. Only the expression changes: broken and worn out, head slightly bowed, eyes lowered and wet with tears, mouth soft and slightly open as if whispering, brows lifted at the inner ends, quiet. Head and shoulders, three-quarter view turned toward the viewer's right, plain light grey background, no text. Eyes fully drawn with irises, pupils and highlights.

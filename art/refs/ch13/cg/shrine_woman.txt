@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: illustration
+refs: 
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, no text, no letters, no readable marks. Eyes fully drawn with irises, pupils and highlights. A small rain-wet shrine hollow in dark rock at the top of a village path, no people. On the back wall a very old relief carving worn nearly smooth: a tall figure of a woman, long in the limb, rising out of a carved wave, wearing a long plain robe that falls in soft folds from her neck to her feet, her hair long, her face weathered, her eyes very large and round and dark. On the stone floor before her, left by villagers, a humble heap of offerings: rusty fish-hooks, shells, one small old worn child's leather shoe, and a fish on a flat stone. Soft grey rain light, moss, damp stone, intimate close composition.

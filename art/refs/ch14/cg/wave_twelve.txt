@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: illustration
+refs: art/refs/ch14/places/wave_mouth.png
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, no text, no letters, no readable marks. Reference 1 is a huge wall of green water with a white lip at sunset. Redraw it from lower and nearer so the wave towers over the whole picture, filling the entire height of the frame up to the top edge, a green cliff of water two hundred metres high with a white lip, the last light shining through it. In front of the wave, at the bottom of the picture, standing on the dark calm sea, twelve adult men and women in long grey-green tunics, seen from behind in a single row with their arms raised toward the wave, each one very tiny, only about one thirtieth of the wave height, like ants against a cliff. A sparse row of only twelve people (one dozen), widely separated, about three body-widths of empty sea between each neighbour, so that the row looks thin and lonely; fewer than the viewer might expect. No ships.

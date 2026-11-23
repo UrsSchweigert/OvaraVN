@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text, no letters, no readable marks. A white city risen from the sea at midday, seen from the water: dozens of tall slender pure white towers, far taller than any ordinary skyscraper, standing in a clear calm blue sea under a bright sky; the lower half of the city stands in clear deep water and the upper half stands dry in the air, a broad white stair running down from the high towers into the water. Thin waterfalls still run down from some of the towers. Fresh bright light, serene. No people, no boats.

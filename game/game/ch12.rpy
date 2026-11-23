@@ -351,4 +351,4 @@ label ch12:
     hide left
     hide right
     with qd
-    return
+    jump ch13

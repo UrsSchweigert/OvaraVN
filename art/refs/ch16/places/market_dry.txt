@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: background
+refs: game/game/images/bg/c8_wet_market.png
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no figures, no text, no letters, no readable signs or marks. Same big roofed market hall as the reference with three tiers of stalls and hanging lamps, but the water has gone: the basin in the middle is a bare dry bed of dark wet mud with a few puddles and old wooden planking laid across it and a scattering of dropped baskets. The stalls on the boards all round are still stocked with goods, heaped fruit, shellfish and cloth, but no one is there, stools empty. Dim, still, lamps lit, eerie.

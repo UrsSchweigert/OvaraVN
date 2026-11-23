@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: illustration
+refs: art/refs/ch14/places/harbour_fleet.png
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, no text, no letters, no readable marks. Reference 1 is a crater harbour at dusk with grey warships. Same place. About a dozen grey warships rise out of the water each on its own tall smooth column of water, lifted high above the sea, travelling in a line across the harbour toward a long stone breakwater, their crews tiny figures clinging to the rails, the water columns shining. A vast grey unfinished hull with scaffolding stays in the background. Calm, gentle, dusky violet light, the harbour water tea-brown. No other vessels.

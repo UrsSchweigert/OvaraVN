@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: background
+refs: art/refs/ch05/airheart/heart_ref.png
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no figures, no text, no letters, no readable marks. Reference 1 shows an air-heart: an ornate perfectly round sphere of overlapping white pearl plates, silver bands and gold filigree. Inside a vast silent stone hall under a city, sealed for three thousand years, dry and dusty, with fine silt drifts along the floor and a stone stair descending in one corner. In the middle of the floor stands a half-built air-heart, a round sphere about the size of a house: the lower half finished in pearl plates and silver bands, the upper half only an open frame of ribs, its parts laid out in orderly rows on the floor all around it. The long stone walls of the hall are alight: panels of pale glass glowing softly white-blue, each showing moving pictures of long-fingered hands at work, unreadable. Cool glow, dust in the air, still and reverent. No people, no figures.

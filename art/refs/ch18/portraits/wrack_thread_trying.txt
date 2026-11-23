@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: sprite
+refs: art/refs/ch04/portraits/wrack_thread_calm.png
+
+Anime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view, the face turned toward the viewer's right, plain light grey background, no text. The same character as the reference image: same face, same hair, same clothes, same skin colour, same lighting; only the expression changes. Both shoulders visible. Eyes fully drawn with irises, pupils and highlights. Restrained realistic expression, moderate, no grin, no laughing, no broad smile. Man like the reference: lean adult man, short messy black hair of the same length, light skin, dark brown eyes, a smooth young-looking face with no wrinkles and no forehead lines. ONE single thin pale line on the side of the neck from the temple hairline to the collar, exactly as in the reference, nothing on the face. Expression: trying to sing along, mouth a little open as if shaping a quiet low note, teeth not shown, brows slightly drawn in concentration, eyes lowered and listening, a little self-conscious.

@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: sheet
+refs: art/refs/ch16/portraits/lockkeeper_base.png
+
+Anime-style character portrait, clean line art, soft cel shading, gentle natural colours. Same character as the reference, same face, same age, same hair, same clothes, same head and shoulders framing facing the viewer's right, plain light grey background. The face stays SEVENTY YEARS OLD with deep lines and creased cheeks, and the eyes stay DARK BROWN as in the reference. Only the expression changes: resolved, the jaw firm, the eyes level and clear, the mouth set in a quiet decided line, the stern look gone into a settled decision. Eyes fully drawn with irises, pupils and highlights. Restrained realistic face.

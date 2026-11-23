@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: sheet
+refs: 
+
+Anime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view turned toward the viewer's right (the face and nose point to the right edge of the picture), plain light grey background, no text. Eyes fully drawn with irises, pupils and highlights. Restrained realistic face. A small, slight healer woman of about fifty, medium brown skin, short plain black hair going grey at the temples, calm dark brown eyes, a quiet patient face with fine lines, in a plain dark grey high-collared tunic. Expression: gentle and still, speaking softly, mouth closed or barely open.

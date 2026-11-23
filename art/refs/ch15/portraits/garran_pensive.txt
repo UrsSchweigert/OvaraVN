@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: sprite
+refs: art/refs/ch08/portraits/garran_wary.png
+
+Same man, same face, hair, skin, broken nose, stubble, olive work shirt and rope. Only the expression changes: pensive and honest, eyes lowered a little to one side as if turning a hard thought over, brow faintly drawn together, mouth closed and level, no smile. Head and shoulders, three-quarter view turned toward the viewer's right, plain light grey background, no text. Eyes fully drawn with irises, pupils and highlights.

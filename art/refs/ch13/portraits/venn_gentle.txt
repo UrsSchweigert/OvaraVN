@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: sprite
+refs: art/refs/ch13/portraits/venn_base.png
+
+Same character, same face, hair, skin and clothes. Only the expression changes: a gentle, sorry look: brows lifted slightly together in the middle, eyes soft and a little lowered, mouth level with a faint softness, the quiet regret of a dignified man apologising. Head and shoulders, three-quarter view turned toward the viewer's right (the face and nose point to the right edge of the picture), plain light grey background, no text. Eyes fully drawn with irises, pupils and highlights. Restrained realistic face.

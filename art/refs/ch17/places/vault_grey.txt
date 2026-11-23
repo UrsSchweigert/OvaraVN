@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text, no letters, no readable marks. Interior of an enormous round chamber carved down into dark grey rock, its smooth curved walls rising and narrowing to a high domed roof like the inside of a bell (the room has this shape; there is no bell object anywhere). In the floor a single huge ring of pale metal, forty metres across, set flush with the stone floor; dull grey water runs round it in a thin jerky sheet. At the centre of the ring two metal wheels, one inside the other, bolted into a frame of raw dull steel. At the top of a wide stone stair on one side stand exactly three tall open doorways in a row. Beside the ring a plain bench with sheets of pinned drawings round it, nobody sitting. Cold dim light from a few work lamps. No people.

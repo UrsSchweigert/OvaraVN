@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: sheet
+refs: art/refs/ch16/portraits/noodle_base.png
+
+Anime-style character portrait, clean line art, soft cel shading, gentle natural colours. Same character as the reference, same face, same age, same hair, same clothes, same head and shoulders framing facing the viewer's right, plain light grey background. Only the expression changes: puzzled, brows drawn up and together, head slightly tilted, the eyes searching, the mouth a little open as if about to ask something, still kind. Eyes fully drawn with irises, pupils and highlights. Restrained realistic face.

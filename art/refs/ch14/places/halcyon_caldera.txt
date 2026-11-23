@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no figures, absolutely no text, no letters, no words, no labels, no readable signs or marks. From the middle of a calm round harbour, looking at the inner wall of a huge flooded volcanic crater at sunset. The whole curved crater wall rises around the harbour like a bowl, and a dense city is built up the inside of it in three bands. At the bottom along the water the refineries, chimneys with orange flares, quays and tank farms under a brown haze; above them a thousand identical grey tenement blocks packed in tiers so tightly that the streets between them are long stairs; and along the crater lip at the very top a thin line of white houses and green gardens in clean air. Soft grey ash drifts down over everything, the sky dusky orange and ash grey, the harbour water tea-brown. No people.

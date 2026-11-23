@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: illustration
+refs: art/refs/ch13/places/tolla_shrine.png
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, no text, no letters, no readable marks. Eyes fully drawn with irises, pupils and highlights. Reference 1 is the shrine hollow; keep the rock alcove, rain and offerings. Closer view, no people. On the back wall, worn almost completely smooth by a thousand years of weather, a carved woman, long in the limb, rising from a wave; she is wrapped from neck to ankle in a long plain robe with soft folds (no bare body), her face softened by age, her eyes very large and round. On the stone floor before her a small humble heap of offerings: rusty fish-hooks, a scatter of shells, one small old child's leather shoe, and a fish on a flat stone. Soft grey rain light, nobody anywhere in the picture.

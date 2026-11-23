@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: sprite
+refs: art/refs/ch13/portraits/marit_hard.png
+
+Same woman, same face, same jaw-length smooth dark brown hair, skin and thin silver eyelid shimmer, drawn in exactly the same flat anime style with clean outlines. New clothes and expression: a smart charcoal blazer over a cream blouse, no coat. Expression: pleasant and composed, mouth closed with the faintest polite lift, eyes level, a poised newsreader. Anime-style character portrait, clean line art, soft cel shading, gentle natural colours, flat drawn illustration (not photographic). Head and shoulders, three-quarter view turned toward the viewer's right (the face and nose point to the right edge of the picture), plain light grey background, no text. Both shoulders visible. The eyes are small, normal, realistic, fully drawn with irises, pupils and highlights, not large, not round, not shiny. Restrained realistic face.

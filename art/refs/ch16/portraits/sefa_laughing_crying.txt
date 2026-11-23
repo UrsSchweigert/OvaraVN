@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: sheet
+refs: art/refs/ch01/portraits/sefa.png
+
+Anime-style character portrait, clean line art, soft cel shading, gentle natural colours. Same character as the reference, same girl of sixteen, same dark hair in a high ponytail with a silver-white strip, same large dark eyes and light skin, wet hair and wet shoulders, plain grey-green tunic, same head and shoulders framing facing the viewer's right, plain light grey background. Only the expression changes: laughing and crying at once, a shaky small open smile, tears running down both cheeks, brows drawn up, eyes bright and wet. Eyes fully drawn with irises, pupils and highlights. Realistic, moved, not a wide grin.

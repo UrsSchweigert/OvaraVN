@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: illustration
+refs: art/refs/ch14/places/harbour_fleet.png
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, no text, no letters, no readable marks. Reference 1 is a crater harbour at dusk with grey warships and one vast grey unfinished hull with scaffolding. Same place and ships. From the bow slot of the vast unfinished hull a single thin line of dazzling white light runs straight across the sea toward the far side of the harbour, and where it touches the water a tall wall of white steam rises with a burst of spray, the sky above flashing white. The warships are small grey shapes nearby, all lit white from one side by the glare. No people.

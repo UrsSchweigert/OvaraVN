@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: illustration
+refs: 
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, no text, no letters, no readable marks. Eyes fully drawn with irises, pupils and highlights. Above the water, two boats alongside each other with a narrow gap of clear water between them. On the deck rail of a dark steel tug a middle-aged welder with a short dark beard and a sooty overall leans down over the rail with one hand reaching down; below him in a small wooden smack a net-mender woman with a headscarf and weathered tan skin reaches one hand up toward him. Their hands are about to meet. Soft morning light on clear green water, far behind them, rising out of the sea, several tall slender plain white towers streaming water down their sides (no lighthouse, no lamp room, no windows). Exactly two people. Gentle and moving.

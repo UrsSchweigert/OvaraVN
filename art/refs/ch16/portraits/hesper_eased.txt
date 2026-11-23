@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: sheet
+refs: art/refs/ch02/portraits/hesper.png
+
+Anime-style character portrait, clean line art, soft cel shading, gentle natural colours. Same character as the reference, same lean hard woman of about forty, same dark hair pulled back, same strong tired face, same grey-green tunic, same head and shoulders framing facing the viewer's right, plain light grey background. Only the expression changes: the jaw has loosened and the shoulders eased, the brow smoothed and the forehead lines relaxed, the mouth in a faint tired half-smile with one corner clearly lifted and the lips slightly parted, eyes softened and warmer. Eyes fully drawn with irises, pupils and highlights. Quiet and restrained, not a broad smile.

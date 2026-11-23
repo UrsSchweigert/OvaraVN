@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: sheet
+refs: 
+
+Anime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view turned toward the viewer's right (the face and nose point to the right edge of the picture), plain light grey background, no text. Both shoulders visible. The eyes are small, normal, realistic, fully drawn with irises, pupils and highlights, not large, not round, not shiny. Restrained realistic face. A noodle-stall keeper of the free port, a thin old man of about seventy, weathered light tan skin, a deeply lined kindly face, thin white hair around a bald crown, short white stubble, warm brown eyes, wearing a plain dark cotton shirt with a clean white apron and a folded cloth over one shoulder. Expression: kindly, a very slight warmth around the eyes, mouth closed.

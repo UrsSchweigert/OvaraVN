@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: illustration
+refs: art/refs/ch15/places/harbour_sunset.png, game/game/images/bg/c7_sluice_school.png
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, no text, no letters. Seen from a high schoolroom window, the dark edge of the window frame visible at the left and the bottom of the picture, looking down over the quay of a volcanic port city in pale morning light under thin ash haze. The harbour water is perfectly clear, so clear that the whole sandy sea floor shows through it, with old rusted barrels, a sunken chain, a bicycle frame and scattered bottles lying on the pale sand. Along the stone quay edge stand about twenty-five ordinary dock people, seen small and from behind and from the side, men and women in worn work clothes and caps, all standing quietly at the edge and looking down into the water; some have a child by the hand. Grey tenement blocks and refinery chimneys behind. Calm, hushed, wondering mood.

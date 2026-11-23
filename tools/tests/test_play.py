@@ -28,7 +28,7 @@ class PlayTest(unittest.TestCase):
         self.assertNotIn("VN_START", env)
 
     def test_unbuilt_chapter_refused(self):
-        self.assertEqual(play.main(["17"]), 1)
+        self.assertEqual(play.main(["99"]), 1)
         self.assertEqual(play.main(["banana"]), 1)
 
 

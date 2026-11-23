@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: illustration
+refs: art/refs/ch14/places/wave_mouth.png
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, no text, no letters, no readable marks. Reference 1 is a huge green wave wall at sunset. The same sunset sea, now the wave has lain down: the huge wall is gone and the sea is nearly flat, a long low smooth swell, like a sheet smoothed over a bed, running toward a low stone breakwater, with a few small fishing boats at moorings behind the breakwater lifting gently on it, soft white foam remnants, the last orange light on calm water, peaceful, relieved. No people.

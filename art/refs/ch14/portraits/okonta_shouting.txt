@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: sprite
+refs: art/refs/ch02/portraits/okonta_urgent.png
+
+Same woman, same face, hair, skin, scars and clothes, as old and as lined as the reference. Only the expression changes: shouting to be heard over a noise, mouth open wide, brows drawn down, eyes hard and fixed ahead, neck tendons showing. Head and shoulders, three-quarter view turned toward the viewer's right, plain light grey background, no text. Eyes fully drawn with irises, pupils and highlights.

@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no figures, no text, no letters, no readable signs or marks. The open sea at sunrise after rain: a long grey-green swell under a pale gold dawn glowing low on the horizon, heavy rain squalls hanging as grey curtains far off on both sides, breaks of pale clear sky between them, wet shining water, no land, no ships, no creatures. Empty open ocean.

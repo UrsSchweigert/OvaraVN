@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: background
+refs: art/refs/ch12/places/apron.png, art/refs/ch14/refs/dragon_ref.png
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no figures, no text, no letters, no readable marks. Reference 1 shows the Maker towers and pale stone city: keep that tower design (slender white tapering spires). Reference 2 shows the Dragon: a vast pale metal machine, a smooth blunt head and a long line of hoop-shaped ribs. A broad open square of pale stone paving in the city of Meet at early morning, surrounded by plain pale stone buildings and the white spires behind, opening on one side onto a calm basin of clear pale turquoise sea water (natural blue-green, not vivid green). The Dragon lies still and level in the shallow water, floating on the surface with its waterline across its hull along the edge of the square, floating low, its smooth blunt head near the paving and its long row of hoop ribs running away along the water, the ribs dull, dry and empty, grey-white, with no light in them. Nobody anywhere, the square is empty, quiet, soft clear morning light.

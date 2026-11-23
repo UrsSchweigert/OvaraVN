@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text, no letters, no readable marks. A small stone quay of a poor island fishing village at night in steady rain: wet dark stone edge, mooring posts and coiled rope, a couple of small fishing boats tied up, the black sea beside it, one weak lantern on a post throwing a pool of warm light on the wet stones, rain streaks, low dark cliffs and a few dim house lights above.

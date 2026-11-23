@@ -20,7 +20,7 @@
    "also_called": [
     "Ilan Voss"
    ],
-   "fixed": "adult man, lean, short messy BLACK hair, light skin, dark brown eyes, calm face (age not stated; reads late thirties)",
+   "fixed": "adult man, lean, short messy BLACK hair, light skin, dark brown eyes, calm face (age not stated; reads late thirties) Ch18 adds Thread expressions wrack_thread_nervous (brows lifted a little and drawn together, eyes glancing aside, lips pressed) and wrack_thread_trying (mouth a little open shaping a low note, eyes lowered and listening).",
    "outfits": {
     "jacket": "torn grey zip jacket over a grey t-shirt, grey trousers, heavy black surface boots, a blue shield-shaped crest on the jacket chest (crest design is a choice), raw red cable-tie marks on both wrists",
     "tunic": "plain loose grey-green sea-silk tunic, bare feet; worn from c01.s03.p023 on"
@@ -33,7 +33,7 @@
    "thread_rule": "From chapter 4 on: ONE single thin pale line on the neck, from the hairline beside the temple in one smooth unbranched curve down the side of the neck to the collar. Never doubled, wavy, zigzag, forked or glowing; nothing on the face. Smooth young adult face in every outfit: no forehead or eye lines, even when despairing or frightened (show it with brows, eyes and mouth only). Same hair length in every portrait. 2026-11-23 consistency pass."
   },
   "Sefa": {
-   "fixed": "girl of about sixteen, thin, long arms and legs, dark hair tied up in a high ponytail with a shining silver-white strip, large nearly black eyes, light skin (choice)",
+   "fixed": "girl of about sixteen, thin, long arms and legs, dark hair tied up in a high ponytail with a shining silver-white strip, large nearly black eyes, light skin (choice) Ch16 adds sefa_laughing_crying.",
    "outfit": "short sleeveless grey-green sea-silk tunic, bare arms, bare legs, BARE FEET; harvesting hook = a long wooden pole with ONE smooth curved crescent metal blade (not a fork or rake)",
    "references": [
     "art/refs/ch01/portraits/sefa.png"
@@ -65,20 +65,20 @@
    ]
   },
   "Hesper": {
-   "fixed": "the hold's Tidecaller, lean hard woman of about forty (reads older), strong tired face, dark hair pulled back, hands chapped white to the wrist; grey-green sea-silk tunic",
+   "fixed": "the hold's Tidecaller, lean hard woman of about forty (reads older), strong tired face, dark hair pulled back, hands chapped white to the wrist; grey-green sea-silk tunic Ch14 adds hesper_raw (red-rimmed wet eyes, looking straight ahead) and hesper_broken (head bowed, eyes lowered and wet, whispering). Ch18 adds hesper_warm (dry eyes soft, looking ahead and slightly up, faintest lift at one mouth corner). Ch16 adds hesper_eased (the quietest version: a half-smile, gaze nearly toward the viewer).",
    "references": [
     "art/refs/ch02/portraits/hesper.png"
    ]
   },
   "Okonta": {
-   "fixed": "spare woman of about sixty, DARK BROWN skin, short GREY hair, close slate-grey high-collared suit, thin pale scars like pen lines from the temples down both sides of the neck under the collar (Threaded). The only person with dark skin and grey hair in a scene.",
+   "fixed": "spare woman of about sixty, DARK BROWN skin, short GREY hair, close slate-grey high-collared suit, thin pale scars like pen lines from the temples down both sides of the neck under the collar (Threaded). The only person with dark skin and grey hair in a scene. Ch14 adds okonta_shouting (mouth open, shouting over the hull-song).",
    "references": [
     "art/refs/ch02/portraits/okonta.png"
    ],
    "note": "All Okonta portraits must look as old as okonta_grave (about sixty, visibly lined face); five smooth ones (cold, defiant, flat, urgent, wincing) were redone on 2026-11-23."
   },
   "Brask": {
-   "fixed": "huge young man, ice-diver of Rime (the hold at the top of the world), short red hair and short red beard, wide strong face, light skin; heavy coat of sealskin worn with the fur turned INSIDE (smooth dark leather outside, grey fur visible at the collar); voice like a slab dropped; carries a seal-spear (choice: red hair, beard length)",
+   "fixed": "huge young man, ice-diver of Rime (the hold at the top of the world), short red hair and short red beard, wide strong face, light skin; heavy coat of sealskin worn with the fur turned INSIDE (smooth dark leather outside, grey fur visible at the collar); voice like a slab dropped; carries a seal-spear (choice: red hair, beard length) Ch16 adds brask_wry.",
    "references": [
     "art/refs/ch03/portraits/brask.png"
    ]
@@ -110,16 +110,18 @@
    "note": "Say 'VERY OLD, deeply wrinkled, nearly bald' on every edit; keep the eyes dark with highlights. EYES: always SMALL, NARROW, HEAVY-LIDDED under LEVEL straight brows; never large, round, wide-open, shiny or puppy-like, no raised sad brows (the first set read as comical and was redone on 2026-11-22). Stern, austere, hard to read."
   },
   "Maelis": {
-   "fixed": "Jef's wife of fifty-one years, in her seventies, tall and straight, grey hair pinned in a low bun, lined composed face, brown eyes; patched dark coat with full pockets (choice: coat colour dark charcoal, patches brown); a healer born in the Quiet, the rays' mouth",
+   "fixed": "Jef's wife of fifty-one years, in her seventies, tall and straight, grey hair pinned in a low bun, lined composed face, brown eyes; patched dark coat with full pockets (choice: coat colour dark charcoal, patches brown); a healer born in the Quiet, the rays' mouth Ch18 adds maelis_sidelong (head slightly turned, eyes cut sideways, one brow barely raised). Ch16 adds maelis_cropped_amused. After chapter 7 her hair is cropped; in chapter 16 it is 'beginning to grow': use the cropped set, not p_maelis_smile.",
    "references": [
     "art/refs/ch04/portraits/maelis_examining.png"
    ]
   },
   "Anselm Rook": {
-   "fixed": "broad-shouldered white-haired man of about seventy-two, courteous heavy face, grey-blue eyes, thin pale scars from the temples down the sides of the neck (the Thread); dark close-fitting surface hard suit with a clear glass helmet (portraits show the suit's high dark collar; p_anselm_helmed shows the helmet)",
+   "fixed": "broad-shouldered white-haired man of about seventy-two, courteous heavy face, grey-blue eyes, thin pale scars from the temples down the sides of the neck (the Thread); dark close-fitting surface hard suit with a clear glass helmet (portraits show the suit's high dark collar; p_anselm_helmed shows the helmet) Rook at ninety (ch17): the same man, white hair thinner, face deeply lined and hollow, papery pale skin, plain pale open-collared shirt, rag-wrapped hands in illustrations, the pen-line scars from temple to neck. Expressions rook_old_tired (base), rook_old_nearsmile (scars show best), rook_old_eased, rook_old_sharp.",
    "references": [
     "art/refs/ch04/portraits/anselm_calm.png",
-    "art/refs/ch04/portraits/anselm_helmed.png"
+    "art/refs/ch04/portraits/anselm_helmed.png",
+    "art/refs/ch17/portraits/rook_old_tired.png",
+    "art/refs/ch17/portraits/rook_old_nearsmile.png"
    ],
    "note": "The helmed portrait has a faint glass ring in its cut-out. Rook at fifty (rook50_calm, rook50_cold) is the SAME MAN, 22 years younger: same face, nose, jaw and grey-blue eyes, short dark hair swept back and grey at the temples, fewer lines, no scars (the scars come later). Generate him from the anselm portraits as reference. 2026-11-23."
   },
@@ -138,7 +140,7 @@
    "note": "Look is a choice apart from 'quiet grey man' (c05.s04.p008.2). Expressions: aurel_calm, aurel_tired."
   },
   "Corin": {
-   "fixed": "big broad-shouldered heavy-built man of about sixty-five (a Threaded who trained Okonta), warm tan-brown skin, short curly dark hair going grey, short grey stubble beard, heavy brows, tired steady grief-held-in face; close slate-grey high-collared suit; thin pale scars from temple down the neck; broad hands. Expressions: corin_grief, corin_shouting (voice cracking), corin_staring.",
+   "fixed": "big broad-shouldered heavy-built man of about sixty-five (a Threaded who trained Okonta), warm tan-brown skin, short curly dark hair going grey, short grey stubble beard, heavy brows, tired steady grief-held-in face; close slate-grey high-collared suit; thin pale scars from temple down the neck; broad hands. Expressions: corin_grief, corin_shouting (voice cracking), corin_staring. Ch14 adds corin_weary (grey with weariness, heavy-lidded). Ch17 adds corin_calling (mouth open a little, brows level, steady). Ch16 adds corin_earnest.",
    "references": [
     "art/refs/ch06/portraits/corin_grief.png"
    ]
@@ -168,13 +170,13 @@
    ]
   },
   "Adler Crane": {
-   "fixed": "Halcyon's chief of security (memory), about forty-five, broad-shouldered, olive-pale skin, short brown hair going grey at the sides, square jaw, tired brown eyes; plain dark close-fitting high-necked security jacket. Expressions: crane_flat, crane_sorry.",
+   "fixed": "Halcyon's chief of security (memory), about forty-five, broad-shouldered, olive-pale skin, short brown hair going grey at the sides, square jaw, tired brown eyes; plain dark close-fitting high-necked security jacket. Expressions: crane_flat, crane_sorry. Ch15 adds crane_unsteady (lips pressed uneven, eyes lowered and dry, brows faintly drawn up).",
    "references": [
     "art/refs/ch07/portraits/crane_flat.png"
    ]
   },
   "Dace": {
-   "fixed": "Driftfolk woman of about fifty (out of Lashing), long weather-beaten tanned face with deep creases, grey-brown hair tied back, a clay pipe in her teeth, a soft hat tied on with string under the chin, worn patched olive canvas coat. Expressions: dace_cheerful (base), dace_dry, dace_pain. Ch09 adds dace_grave and dace_questioning from the same look.",
+   "fixed": "Driftfolk woman of about fifty (out of Lashing), long weather-beaten tanned face with deep creases, grey-brown hair tied back, a clay pipe in her teeth, a soft hat tied on with string under the chin, worn patched olive canvas coat. Expressions: dace_cheerful (base), dace_dry, dace_pain. Ch09 adds dace_grave and dace_questioning from the same look. Ch13 adds dace_shy (eyes down and aside, mouth closed on the pipe).",
    "references": [
     "art/refs/ch08/portraits/dace_cheerful.png"
    ]
@@ -198,7 +200,7 @@
    ]
   },
   "Garran": {
-   "fixed": "big slow dock porter of about forty with a broken nose, tan weathered skin, short dark hair, dark stubble, thick neck; coarse sleeveless olive work shirt with a rope over one shoulder. Expressions: garran_wary, garran_accepting.",
+   "fixed": "big slow dock porter of about forty with a broken nose, tan weathered skin, short dark hair, dark stubble, thick neck; coarse sleeveless olive work shirt with a rope over one shoulder. Expressions: garran_wary, garran_accepting. Ch15 adds garran_pensive (eyes lowered to one side, brow faintly drawn, mouth closed).",
    "references": [
     "art/refs/ch08/portraits/garran_wary.png"
    ]
@@ -214,7 +216,7 @@
     "Teo",
     "Raske"
    ],
-   "fixed": "small slight woman of sixty, chief designer of Kessler-Vane, short grey bobbed hair, light skin with fine lines, thin steel-rimmed spectacles, brown eyes, sharp tired intelligent face; plain dark work jacket over a white shirt with ink-stained cuffs and collar. Expressions: raske_stern, raske_shocked, raske_moved (shaken), raske_steady.",
+   "fixed": "small slight woman of sixty, chief designer of Kessler-Vane, short grey bobbed hair, light skin with fine lines, thin steel-rimmed spectacles, brown eyes, sharp tired intelligent face; plain dark work jacket over a white shirt with ink-stained cuffs and collar. Expressions: raske_stern, raske_shocked, raske_moved (shaken), raske_steady. Ch14 adds raske_fierce (jaw set, thin mouth, burning level eyes).",
    "references": [
     "art/refs/ch09/portraits/raske_stern.png"
    ]
@@ -269,9 +271,70 @@
    ]
   },
   "Hanne (the woman from engines, ch12 expression)": {
-   "fixed": "same woman from engines as chapter 9 (named Hanne in c12.s01.p001.5); new expression hanne_awed (eyes wide, looking up). Use enginewoman_guarded for her otherwise.",
+   "fixed": "same woman from engines as chapter 9 (named Hanne in c12.s01.p001.5); new expression hanne_awed (eyes wide, looking up). Use enginewoman_guarded for her otherwise. Ch17 adds hanne_wondering (whispering, eyes ordinary size, lips parted).",
    "references": [
     "art/refs/ch09/portraits/enginewoman_guarded.png"
+   ]
+  },
+  "Marit Coyle": {
+   "fixed": "Orrin One's evening newsreader, thirty-four, light olive skin, smooth jaw-length dark brown hair, brown eyes, a thin silver shimmer on her eyelids (silver eyelids are in the text; skin, hair, eyes are choices). s01-s02 of chapter 13: borrowed shapeless dark olive oilskin coat, hood down; s03: her own charcoal blazer over a cream blouse. Expressions: marit_hard, marit_red (red-rimmed, softened), marit_pleasant, marit_white (tense).",
+   "references": [
+    "art/refs/ch13/portraits/marit_base.png",
+    "art/refs/ch13/portraits/marit_pleasant.png"
+   ]
+  },
+  "Caspar Venn": {
+   "fixed": "chairman who owns the Orrin Spire, about sixty-five, pale skin, neat swept-back dark hair gone silver-grey at the temples, dark eyes, clean-shaven, grave handsome lined face; perfectly cut charcoal suit, white shirt, dark tie (skin, hair, age are choices). Expressions: venn_grave, venn_gentle, venn_blank.",
+   "references": [
+    "art/refs/ch13/portraits/venn_base.png"
+   ]
+  },
+  "Bertil": {
+   "fixed": "Orrin's floor manager, heavy quiet man of about forty-five, medium tan skin, short black hair, tired steady brown eyes, plain dark grey work shirt buttoned to a high stiff collar (collar from the text, the rest choices). Expression: bertil_quiet.",
+   "references": [
+    "art/refs/ch13/portraits/bertil_base.png"
+   ]
+  },
+  "The Meridian captain (ch13)": {
+   "fixed": "captain of the Meridian soldiers, about forty-five, pale light skin, short cropped brown hair grey at the sides, grey eyes, clean-shaven, plain grey high-collared tunic with no insignia, round plain face; 'the colour of putty' is drawn pale and stunned. Expressions: captain_hard, captain_putty.",
+   "references": [
+    "art/refs/ch13/portraits/captain_base.png"
+   ]
+  },
+  "The man in Meridian grey (ch15)": {
+   "fixed": "Meridian man of about fifty who carried Ilan to the refinery school and guards the door (his daughter is in the top form; the text names no more), pale skin, thick dark brown hair combed back with grey at the temples, heavy square jaw, thick straight brows, a day of stubble, tired level brown eyes; plain flat grey military jacket with a high closed collar and shoulder tabs, no badges. NOT drawn as the ch13 captain: the text does not say they are the same man. Expression: greyman_level (level, watchful, mouth flat).",
+   "references": [
+    "art/refs/ch15/portraits/grey_man_base.png"
+   ]
+  },
+  "Pim": {
+   "fixed": "Garran's daughter, a child of about four, tan skin, short straight dark brown hair cut at the chin, faded sleeveless grey-green dress, barefoot (age and looks are choices; the text says only 'child' and 'little girl'). No portrait: she never speaks; seen in illustration c15_pim_bother.",
+   "references": [
+    "art/refs/ch15/cg/pim_bother.png"
+   ]
+  },
+  "The Hush healer": {
+   "fixed": "small slight woman healer of about fifty, medium brown skin, short plain black hair going grey at the temples, calm dark brown eyes, fine lines; plain dark grey high-collared tunic, a grey band on the upper arm in illustrations (age, skin and hair are choices; the text names no more). Expressions: hush_healer_gentle (base, speaking softly), hush_healer_steady (mouth closed).",
+   "references": [
+    "art/refs/ch17/portraits/hush_base.png"
+   ]
+  },
+  "Speaker of Kelder": {
+   "fixed": "old mariner man of about seventy, long-limbed and thin, long narrow face, light brown skin, thin white hair combed back, small tired dark brown eyes with heavy lids, deep lines, a mild defeated face; faded plain grey-green sea-silk tunic with a round collar (looks are choices; the text says only 'an old man with a mild, defeated face'); wears a numbered brass tag on a cord at the wrist (not drawn). Expressions: kelder_mild (base), kelder_considering.",
+   "references": [
+    "art/refs/ch16/portraits/kelder_base.png"
+   ]
+  },
+  "Senior Lockkeeper": {
+   "fixed": "woman of seventy, weathered tan skin, deep lines, white-grey hair in a tight low bun, dark brown eyes, strong stern face; plain dark waxed canvas coat buttoned to the throat with a small brass badge worn smooth on the chest (text: 'a brass badge worn smooth'; the coat is a choice). Expressions: lockkeeper_stern (base), lockkeeper_resolved.",
+   "references": [
+    "art/refs/ch16/portraits/lockkeeper_base.png"
+   ]
+  },
+  "Noodle-stall old man": {
+   "fixed": "thin old man of about seventy, islander of Saltgate, weathered light tan skin, deeply lined kindly face, bald crown with thin white hair at the sides, short white stubble beard, warm brown eyes; dark cotton shirt, clean white apron, folded cloth over one shoulder (looks are choices). Expressions: noodle_kindly (base), noodle_puzzled.",
+   "references": [
+    "art/refs/ch16/portraits/noodle_base.png"
    ]
   }
  },
@@ -369,6 +432,13 @@
   "Nine Spires apron (ch12)": "nine tall slender white fluted tapering towers rising from the sea, broad pale stone aprons at the tide line with driftfolk rafts, boats, crates, washing and awnings, daylight (bg c12_apron).",
   "Tower room, Nine Spires, night (ch12)": "round white stone room high in the eastern tower, wide open window on a dark sea and stars with lamps along the sill, narrow bed, small table and stool, plain wooden door (bg c12_tower_room).",
   "Tidehall, centre (ch12)": "entirely underwater: empty white sand floor in a huge round terraced pale stone bowl, hundreds of small dark holds and doorways on the tiers, morning sun nets of light on the stone (bg c12_tidehall_centre).",
-  "Tidehall, rim at dusk (ch12)": "entirely underwater: pale stone terraces curving down to the white sand, a block of empty tiers, deep blue-green water with the last amber light from the surface at upper left, glass coral on the rim (bg c12_tidehall_rim_dusk)."
+  "Tidehall, rim at dusk (ch12)": "entirely underwater: pale stone terraces curving down to the white sand, a block of empty tiers, deep blue-green water with the last amber light from the surface at upper left, glass coral on the rim (bg c12_tidehall_rim_dusk).",
+  "Concord lobby and avenue (ch14)": "lobby of the Orrin Spire: polished blue marble, tall columns, glass doors onto white morning light, wall screens showing a green horizon line over a dark city (bg c14_concord_lobby); avenue of blue-and-white glass towers, building-sized screens, guarded trees in planters, low stone seawall and grey sea at the end (bg c14_concord_avenue). Indoor/surface, no ripple.",
+  "Port Halcyon caldera (ch14)": "flooded crater harbour at sunset, ash falling, tea-brown water; Waterline (refineries, flares, tank farms) at the bottom, Stacks (grey tenement blocks packed in tiers) above, Rim (white houses, gardens) along the crater lip (bg c14_halcyon_caldera); refinery quay with long low tin-roofed sheds and tanks (bg c14_refinery_quay); fleet of grey warships and the unfinished grey hull with scaffolding at dusk (bg c14_harbour_fleet); tea-brown oily harbour water with pilings and rubbish (bg c14_harbour_water)",
+  "The wave (ch14)": "a 200 m wall of green water with a white lip, lit through by sunset, standing still beside a brown volcanic cliff with an arch (bg c14_wave_mouth)",
+  "Open sea and Girdle (ch14)": "grey-green swell at sunrise with rain squalls (bg c14_sea_sunrise); Saltgate's black sea-stacks with the neon dark, crowds on the lock quays (bg c14_girdle_saltgate)",
+  "Meet, Dragon square and archive (ch18)": "Meet, the Nine Towers city risen from the sea: blue dusk, pale paving with a film of seawater, round glass street lamps on pale stone posts all lit (bg c18_meet_empty); ankle-deep high-tide market street with canvas stalls (c18_meet_market); stepped quay with arcade and small boats (c18_waterside_square); canal with a plain table and two stone basins (c18_canal_table); the Dragon lies still in a stone-edged channel in a paved square, ribs dull (c18_dragon_square); archive workshop under the eastern quarter: silent stone hall, grey silt, half-built round air-heart (c18_archive_workshop). Low Anthem terrace at evening, underwater, dome lit all round (c18_terrace_lit, ripple).",
+  "Chapter 17 places": "the dead water (flat dull grey-green sea, grey sky, low grey wall on the horizon: c17_dead_water); the bright road between barges (c17_road_barges); the sixty-metre smooth grey glass wall (c17_wall_face) and the eighty-kilometre pit seen from its top (c17_pit_view); silted city street with lamp-posts that light as Ilan passes (c17_silt_street) and square with the rusty platform on six legs (c17_square_silt); the vault of the ring: round chamber, ring of pale metal forty metres across flush in the floor, grey (c17_vault_grey) then walls turned to light (c17_vault_lit); the flooded square at dawn (c17_square_flooded) and the risen white city at noon (c17_city_risen). All above water or indoors: no ripple.",
+  "Chapter 16 places": "Kelder tank-town behind the sea-wall: concrete troughs, tin sheds, hard white lamps; by day (c16_kelder_day) and evening with the troughs dry and gates open (c16_kelder_evening); Saltgate with the water gone: black stack bottoms with green dripping weed, bare mud canals (c16_saltgate_stacks), the Wet Market basin as mud (c16_market_dry), the Sluice canal as mud (c16_sluice_dry), lockkeeper's box (c16_lock_box), barges on mud at night (c16_barges_lantern); the Girdle at the edge of the dead water: fleet (c16_girdle_fleet), Dace's patchwork boat day and evening (c16_boat_stern, c16_boat_stern_evening), plank raft by lantern (c16_rafts_night). Deep Chorus scenes reuse dc_high_hall, dc_canyon_above, dc_sea_door. All above water: no ripple."
  }
 }

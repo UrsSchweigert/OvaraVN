@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no figures, no text, no letters, no readable signs or marks. A harbour at dusk after sunset, seen from the water: forty grey warships anchored in lines, and in the middle of them one vast grey unfinished hull riding low with scaffolding still standing on its upperworks and a bridge house, a long dark slot along its bow, the water tea-brown with an oily sheen, a dark flooded crater wall with a city of lights behind, dusky violet sky, falling ash. No people visible.

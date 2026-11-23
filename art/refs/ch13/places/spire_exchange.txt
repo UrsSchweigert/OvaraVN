@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text, no letters, no readable marks. Looking up from a plaza at the tallest tower in the world, a very slender glass and steel tower rising out of sight into cloud, at its foot taking up a whole block a huge windowless blank grey stone building like a vault with a single heavy door, cold evening light, clean pavement, tiny figures, no signs.

@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: illustration
+refs: game/game/images/p_sefa_laughing_crying.png, game/game/images/bg/c16_boat_stern.png
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, no text, no letters, no readable marks. Eyes fully drawn with irises, pupils and highlights. Reference 1 is Sefa, a thin girl of sixteen with wet dark hair in a high ponytail with a silver strip, light skin, a wet sleeveless grey-green tunic. Reference 2 is the old patchwork-painted boat on a flat grey sea. Exactly one person. Sefa has just come up to the surface beside the boat, in the water to her shoulders, and holds a double handful of sea up in front of her face in both cupped hands, laughing and crying together, tears and a trembling smile, eyes bright. The water in her hands has gathered into a smooth rounded dome that holds its own shape above her palms, very faintly clear gold, with a soft warm shimmer in the air above it like the heat over a stove. The painted red, yellow, blue and green hull of the boat is just visible at the edge of the frame. Pale grey sea, soft light. Nobody else, no animals.

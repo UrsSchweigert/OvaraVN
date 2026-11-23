@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: illustration
+refs: art/refs/ch02/portraits/okonta.png, art/refs/ch06/portraits/corin_grief.png, art/refs/ch14/places/wave_mouth.png
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, no text, no letters, no readable marks. Eyes fully drawn with irises, pupils and highlights. Reference 1 is Okonta, a spare woman of sixty with dark brown skin and short grey hair in a slate-grey high-collared suit. Reference 2 is Corin, a big broad-shouldered man of sixty-five with warm tan-brown skin, short curly grey-black hair and a short grey beard, in a slate-grey high-collared suit. Reference 3 is a green wave wall at sunset behind a calm sea. Exactly two people: Okonta lies flat on a slim pale silver needle-shaped vessel (pointed at both ends, no windows) and Corin lies flat on a second identical needle, the two needles meeting prow to prow just above the dark calm sea and hanging there, noses almost touching, turning slightly, both looking at each other with hard stern faces, side view. Behind them the huge green wave wall at sunset. Nobody else.

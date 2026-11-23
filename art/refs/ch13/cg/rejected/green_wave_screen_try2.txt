@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: illustration
+refs: 
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, no text, no letters, no readable marks. Eyes fully drawn with irises, pupils and highlights. A news-boat view of a harbour, as a picture on a screen: black sheer cliffs ring a harbour, a city of many tiers is stacked up inside the cliffs, lit windows, a breakwater. Beyond the breakwater the horizon is in the wrong place, far too high: a long perfectly smooth green line of water stands up where the flat sea should be, miles off, glassy and unbroken, no waterfall, no streaks, no foam, a smooth wall-like swell, the low evening sun shining golden through its green translucent top. Calm foreground water, nobody in the picture. No text.

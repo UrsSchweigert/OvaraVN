@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: illustration
+refs: game/game/images/bg/cradles.png
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, no text, no letters, no readable marks. Reference 1 shows rows of vehicle cradles in the Dragon. Different place: a flooded dock deep beneath a huge blank windowless stone building, dim and still, black still water filling the dock and a single pale metal cradle of an old pattern (a low open frame of curved pale ribs that holds one small narrow one-person vehicle) standing alone on the dock floor, completely empty, nothing in it, a thin shaft of cold grey light from a high hatch falling on it. Quiet, forgotten, slightly sad. No people, no figures, no vehicle in the cradle.

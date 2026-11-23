@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no figures, no text, no letters, no readable signs or marks. The stern of a small old wooden boat with patched planking painted in uneven red, yellow, blue and green, seen from just behind the boat's low stern deck at water level: bare wooden thwart and a folded grey blanket on the deck, the low gunwale, and beyond it a flat grey cloudy sea. Under the water, pale ray fish with notched edges wheel slowly in a wide circle, dozens of them, their pale wings turning under the surface, one old large ray close beside the boat with a notch in one wing. In the distance a crowd of other boats and rafts, and a pale flat wall at the far horizon. Soft grey overcast light. No people.

@@ -1,0 +1,5 @@
+model: flux-2-t2i
+purpose: sheet
+refs: 
+
+Anime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view turned toward the viewer's right (the face and nose point to the right edge of the picture), plain light grey background, no text. Both shoulders visible. The eyes are small, normal, realistic, fully drawn with irises, pupils and highlights, not large, not round, not shiny. Restrained realistic face. A man of about sixty-five, a media chairman, a grave handsome face, pale skin, neat swept-back dark hair gone silver-grey at the temples, clean-shaven, dark eyes, a faint lined brow; he wears a perfectly cut charcoal suit, white shirt and dark tie. Grave, dignified, composed expression, mouth level.

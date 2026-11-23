@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: illustration
+refs: game/game/images/bg/dc_canyon_lit60.png, game/game/images/bg/dc_high_hall.png
+
+Anime-style wide illustration, clean line art, soft cel shading, gentle natural colours, cinematic composition, no text, no letters, no readable marks. Eyes fully drawn with irises, pupils and highlights. Reference 1 is the great canyon of the hold of Deep Chorus with tiers of galleries on both walls; reference 2 is its high hall under a clear glass vault. Entirely underwater, no sky, no horizon. Seen from high on the canyon wall looking down the length of the canyon: on every tier of galleries, tier after tier from the top to far below, a row of tiny choir singers in pale robes stand at the rail with their heads lifted and mouths open, and from below to above a single ring of pale gold light spreads up the walls tier by tier, one tier lit after another like a wave of sound, the lowest tiers glowing brightest and the upper tiers just catching it. At the top the clear glass vault shivers with faint rings of light. Swelling, solemn, glad. Only tiny distant singers, no one in the foreground.

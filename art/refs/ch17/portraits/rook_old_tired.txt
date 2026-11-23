@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: sheet
+refs: art/refs/ch04/portraits/anselm_calm.png
+
+Same man as the reference, but now extremely old and worn out: he looks ninety. Same nose, jaw and grey-blue eyes, white hair thinner, face deeply lined and hollow-cheeked, skin pale and papery, faint soft shadows under the tired eyes. He wears a plain pale shirt with an open collar (no suit). Clearly visible: two thin pale pen-line scars, as in the reference, running from the temple past the ear and down the side of the neck into the open collar. Expression: exhausted, drained, eyes heavy and steady, mouth closed. Anime-style character portrait, clean line art, soft cel shading, gentle natural colours. Head and shoulders, three-quarter view turned toward the viewer's right (the face and nose point to the right edge of the picture), plain light grey background, no text. Eyes fully drawn with irises, pupils and highlights. Restrained realistic face.
