@@ -1,0 +1,5 @@
+model: fal-ai/nano-banana-2/edit
+purpose: background
+refs: /Users/ursschweigert/Documents/GitHub/OvaraVN/game/game/images/bg/c18_meet_empty.png, /Users/ursschweigert/Documents/GitHub/OvaraVN/game/game/images/bg/c17_city_risen.png
+
+Edit this picture. Replace the tall thin needle spires and minaret-like towers on the skyline with lower, broader fluted towers that taper gently toward the top, with long vertical ribs, topped by ribbed scallop-shell tops or ribbed shell domes. No needles, no minarets, no mushroom shapes, no onion domes, no bulb tops. Keep the same empty street, all the lit round glass globe lamps on pale posts exactly as they are, the blue dusk, the pale paving with its film of seawater, the lit windows and the line style. Style of the towers and domes as in the reference picture.

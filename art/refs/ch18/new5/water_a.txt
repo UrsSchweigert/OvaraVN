@@ -1,0 +1,5 @@
+model: fal-ai/nano-banana-2/edit
+purpose: background
+refs: /Users/ursschweigert/Documents/GitHub/OvaraVN/game/game/images/bg/c18_waterside_square.png
+
+Edit this picture. Round the pointed arch: every arch and doorway top must be a smooth round semicircle, with no point at the top. Change the light to soft warm early-morning light: a gentle warm peach-gold glow on the stone and water, long soft shadows, and a slightly warmer cream milk tone on the white stone so nothing is blown out or pure white; keep detail visible in the bright areas. Keep the stepped quay, arcade, small boats, towels drying, the shell domes and fluted towers, and the line style.

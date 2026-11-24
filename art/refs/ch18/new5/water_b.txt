@@ -1,0 +1,5 @@
+model: fal-ai/nano-banana-2/edit
+purpose: background
+refs: /Users/ursschweigert/Documents/GitHub/OvaraVN/game/game/images/bg/c18_waterside_square.png
+
+Edit this picture. Round the arched doorway on the left wall: its top must be a smooth round semicircle with no point. Light: gentle warm morning light, subtle: keep the pale blue sky and the calm blue-green water, but give the stone a soft warm cream milk tone (a little warmer than now, not orange, not pink) with a faint golden sun glow from the right and soft shadows, so the white is never blown out and the stone shows soft shading. Keep everything else exactly: stepped quay, arcade, boats, towels, shell domes, fluted towers, line style.

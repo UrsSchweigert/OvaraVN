@@ -1,0 +1,5 @@
+model: fal-ai/nano-banana-2/edit
+purpose: background
+refs: /Users/ursschweigert/Documents/GitHub/OvaraVN/game/game/images/bg/c18_canal_table.png
+
+Edit this picture with minimal change. Only sharpen the outlines: redraw the existing thin dark outline on every building, dome, doorway, table, basin, bench and rope post so it is crisp, clean and sharp, with no soft or blurry edges. Make every doorway and arched opening, especially the ones on the right side, a smooth round semicircle at the top with no pointed tip. Do not add any brick, block or tile joints anywhere: walls, quay and paving stay smooth seamless pale stone. Keep the composition, colours, table, basins, bench, blanket, washing and lantern exactly the same.
