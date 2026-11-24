@@ -46,7 +46,7 @@ translate german ch15_8a3273e4:
 translate german ch15_437d079b:
 
     # "He had lain in its gallery as a young man, and listened to it, year after year, with the best head of the sixty. He could not have mended a hinge on it. He knew it as a blind man knows a house."
-    "Er hatte als junger Mann in seiner Galerie gelegen und ihm zugehört, Jahr um Jahr, mit dem besten Kopf der Sechzig. Er hätte kein Scharnier daran instand setzen können. Er kannte ihn, wie ein Blinder ein Haus kennt."
+    "Er hatte als junger Mann in dessen Galerie gelegen und ihm zugehört, Jahr um Jahr, mit dem besten Kopf der Sechzig. Er hätte kein Scharnier daran instand setzen können. Er kannte ihn, wie ein Blinder ein Haus kennt."
 
 # game/ch15.rpy:31
 translate german ch15_ee7c1b7f:
@@ -82,13 +82,13 @@ translate german ch15_a2597d8d:
 translate german ch15_b6d5f09d:
 
     # "It was a calm voice, and unhurried, and Ilan had heard it across a table once a year since he was sixteen."
-    "Es war eine ruhige, unhastige Stimme, und Ilan hatte sie seit seinem sechzehnten Lebensjahr einmal im Jahr über einen Tisch hinweg gehört."
+    "Es war eine ruhige Stimme, ohne Eile, und Ilan hatte sie seit seinem sechzehnten Lebensjahr einmal im Jahr über einen Tisch hinweg gehört."
 
 # game/ch15.rpy:43
 translate german ch15_0264dbe4:
 
     # "It said that in view of the extraordinary situation, Meridian Assurance was exercising its rights under all outstanding instruments. Every debt was called. Citizens, houses, cities and corporations had thirty days to pay, in scrip or in service."
-    "Sie sagte, angesichts der außerordentlichen Lage mache Meridian Assurance von ihren Rechten aus allen ausstehenden Schuldtiteln Gebrauch. Jede Schuld sei fällig. Bürger, Häuser, Städte und Gesellschaften hätten dreißig Tage Zeit zu zahlen, in Firmengeld oder in Diensten."
+    "Sie sagte, angesichts der außerordentlichen Lage mache Meridian Assurance von seinen Rechten aus allen ausstehenden Schuldtiteln Gebrauch. Jede Schuld sei fällig. Bürger, Häuser, Städte und Konzerne hätten dreißig Tage Zeit zu zahlen, in Firmengeld oder in Diensten."
 
 # game/ch15.rpy:44
 translate german ch15_f957ee01:
@@ -124,13 +124,13 @@ translate german ch15_53a3ba8c:
 translate german ch15_2c3e6eb4:
 
     # "They never reached them. Grey needles came out of the smoke round the eastern head, where forty warships lay canted in their berths. There were twenty of them and more."
-    "Sie erreichten die Wiegen nie. Graue Nadeln kamen aus dem Rauch um die östliche Landspitze, wo vierzig Kriegsschiffe schräg in ihren Liegeplätzen lagen. Es waren zwanzig und mehr."
+    "Sie erreichten die Wiegen nie. Graue Nadeln kamen aus dem Rauch um das Ostkap, wo vierzig Kriegsschiffe schräg in ihren Liegeplätzen lagen. Es waren zwanzig und mehr."
 
 # game/ch15.rpy:62
 translate german ch15_0b96a671:
 
     # "They had been waiting there all afternoon, behind the fleet. They met the silver line over the harbour mouth, in the last of the light, and every camera Orrin owned was pointing at it."
-    "Sie hatten den ganzen Nachmittag dort gewartet, hinter der Flotte. Sie trafen die silberne Linie über der Hafenmündung, im letzten Licht, und jede Kamera, die Orrin besaß, war darauf gerichtet."
+    "Sie hatten den ganzen Nachmittag dort gewartet, hinter der Flotte. Sie trafen über der Hafeneinfahrt auf die silberne Linie, im letzten Licht, und jede Kamera, die Orrin besaß, war darauf gerichtet."
 
 # game/ch15.rpy:66
 translate german ch15_1748e4b8:
@@ -160,7 +160,7 @@ translate german ch15_cc93aeb6:
 translate german ch15_0863dfca:
 
     # "It went out past the breakwater along the white road it had come by. He felt it run west. He felt it for a hundred kilometres, and two hundred, a long bright hum going away. Then it tilted, and went down."
-    "Er glitt an der Mole vorbei hinaus, auf der weißen Straße, auf der er gekommen war. Ilan spürte, wie er nach Westen lief. Er spürte ihn über hundert Kilometer, und über zweihundert, ein langes, helles Summen, das sich entfernte. Dann kippte der Drache und ging unter."
+    "Er glitt an der Mole vorbei hinaus, auf der weißen Straße, auf der er gekommen war. Ilan spürte, wie er nach Westen lief. Er spürte ihn über hundert Kilometer, und über zweihundert, ein langes, helles Summen, das sich entfernte. Dann kippte der Drache und tauchte ab."
 
 # game/ch15.rpy:77
 translate german ch15_49210299:
@@ -268,7 +268,7 @@ translate german ch15_839ad8eb:
 translate german ch15_b7784360:
 
     # c_sefa "Don't sit up. Yes, you're going to. Slowly, then. I'm to tell you in order, Yeva says, or you'll get excited."
-    c_sefa "Setz dich nicht auf. Doch, du wirst es tun. Dann eben langsam. Ich soll es dir der Reihe nach erzählen, sagt Yeva, sonst regst du dich auf."
+    c_sefa "Setz dich nicht auf. Na gut, du tust es ja doch. Dann eben langsam. Ich soll es dir der Reihe nach erzählen, sagt Yeva, sonst regst du dich auf."
 
 # game/ch15.rpy:123
 translate german ch15_b3907df0:
@@ -286,7 +286,7 @@ translate german ch15_9dc00421:
 translate german ch15_237bf788:
 
     # c_yeva "It'll be a month. If you call anything larger than a bathtub before then, you'll go under, and it won't be your memory this time. It'll be all of you. I'd tell you to rest, if I thought you could hear the word."
-    c_yeva "Es dauert einen Monat. Wenn Sie vorher etwas rufen, das größer ist als eine Badewanne, gehen Sie unter, und diesmal ist es nicht Ihr Gedächtnis. Es ist alles von Ihnen. Ich würde Ihnen sagen, Sie sollen ruhen, wenn ich glaubte, Sie könnten das Wort hören."
+    c_yeva "Es dauert einen Monat. Wenn Sie vorher etwas rufen, das größer ist als eine Badewanne, gehen Sie unter, und diesmal ist es nicht Ihr Gedächtnis. Dann sind Sie es ganz. Ich würde Ihnen sagen, Sie sollen ruhen, wenn ich glaubte, Sie könnten das Wort hören."
 
 # game/ch15.rpy:132
 translate german ch15_2e6a40ea:
@@ -298,7 +298,7 @@ translate german ch15_2e6a40ea:
 translate german ch15_ab3ca5eb:
 
     # "The Dragon had run west along the Girdle and gone down in the open sea, at a place where a drilling platform stood on six legs. Okonta had followed it as far as she could. She had come back with eleven needles of her fifteen."
-    "Der Drache war am Gürtel entlang nach Westen gelaufen und im offenen Meer untergegangen, an einer Stelle, wo eine Bohrplattform auf sechs Beinen stand. Okonta war ihm gefolgt, so weit sie konnte. Sie war mit elf ihrer fünfzehn Nadeln zurückgekommen."
+    "Der Drache war am Gürtel entlang nach Westen gelaufen und im offenen Meer abgetaucht, an einer Stelle, wo eine Bohrplattform auf sechs Beinen stand. Okonta war ihm gefolgt, so weit sie konnte. Sie war mit elf ihrer fünfzehn Nadeln zurückgekommen."
 
 # game/ch15.rpy:140
 translate german ch15_9f53bb0c:
@@ -346,7 +346,7 @@ translate german ch15_73bddcfc:
 translate german ch15_066ae8ab:
 
     # c_sefa "There. Round the platform. It's standing back. Okonta saw it. A wall of water, in a ring, grey, quite still, and bare mud inside it. On the first day it was a kilometre across. It's twelve now."
-    c_sefa "Dort. Um die Plattform herum. Es hält Abstand. Okonta hat es gesehen. Eine Wand aus Wasser, in einem Ring, grau, ganz still, und nackter Schlamm darin. Am ersten Tag hatte sie einen Kilometer Durchmesser. Jetzt sind es zwölf."
+    c_sefa "Dort. Um die Plattform herum. Es weicht zurück. Okonta hat es gesehen. Eine Wand aus Wasser, in einem Ring, grau, ganz still, und nackter Schlamm darin. Am ersten Tag hatte sie einen Kilometer Durchmesser. Jetzt sind es zwölf."
 
 # game/ch15.rpy:156
 translate german ch15_dc669f02:
@@ -364,7 +364,7 @@ translate german ch15_2f8c3f83:
 translate german ch15_6544e8d8:
 
     # c_sefa "Dace sent word from Saltgate. The canals are down the height of a man. The Lockkeepers are out on the gates with poles, measuring. They've never seen it. And Odile sent a ray."
-    c_sefa "Dace schickte Nachricht aus Saltgate. Die Kanäle stehen eine Mannshöhe tiefer. Die Schleusenwärter stehen mit Stangen auf den Toren und messen. So etwas haben sie noch nie gesehen. Und Odile schickte einen Rochen."
+    c_sefa "Dace hat Nachricht aus Saltgate geschickt. Die Kanäle stehen eine Mannshöhe tiefer. Die Schleusenwärter stehen mit Stangen auf den Toren und messen. So etwas haben sie noch nie gesehen. Und Odile hat einen Rochen geschickt."
 
 # game/ch15.rpy:162
 translate german ch15_98fedee4:
@@ -442,7 +442,7 @@ translate german ch15_565a0582:
 translate german ch15_198c66bf:
 
     # c_sefa "They read out the deeds. So many paces by so many paces, on the new ground, with your family's name on it."
-    c_sefa "Sie lesen die Urkunden vor. So viele Schritte mal so viele Schritte, auf dem neuen Land, mit dem Namen deiner Familie darauf."
+    c_sefa "Sie lesen die Urkunden vor. So viele Schritte mal so viele Schritte, auf dem neuen Land, mit dem eigenen Familiennamen darauf."
 
 # game/ch15.rpy:195
 translate german ch15_651753e4:
@@ -478,7 +478,7 @@ translate german ch15_f6cb3ebb:
 translate german ch15_d44cdd46:
 
     # "Garran had come round the Girdle on a coal lighter. He stood just inside the schoolroom door with Pim on his arm, turning his cap in his free hand. He looked at the small desks as though they might break."
-    "Garran war mit einem Kohlenkahn um den Gürtel gekommen. Er stand gleich innerhalb der Schultür, Pim auf dem Arm, und drehte seine Mütze in der freien Hand. Er sah die kleinen Bänke an, als könnten sie zerbrechen."
+    "Garran war mit einem Kohlenkahn um den Gürtel gekommen. Er stand gleich hinter der Tür des Schulzimmers, Pim auf dem Arm, und drehte seine Mütze in der freien Hand. Er sah die kleinen Bänke an, als könnten sie zerbrechen."
 
 # game/ch15.rpy:218
 translate german ch15_9feedc6c:
@@ -640,7 +640,7 @@ translate german ch15_8d982520:
 translate german ch15_9d0b24df:
 
     # "Pim was lifted down. She and Bother regarded each other, with great seriousness, for a minute or so. Then Garran took her away down the stair."
-    "Pim wurde hinuntergehoben. Sie und Plagegeist musterten einander eine Minute lang oder so mit großem Ernst. Dann ging Garran mit ihr die Treppe hinunter."
+    "Pim wurde hinuntergehoben. Sie und Plagegeist musterten einander etwa eine Minute lang mit großem Ernst. Dann ging Garran mit ihr die Treppe hinunter."
 
 # game/ch15.rpy:285
 translate german ch15_54f38dde:
@@ -730,13 +730,13 @@ translate german ch15_3a4f7576:
 translate german ch15_41f3a5bc:
 
     # c_crane "He had three men on that hull with glasses, watching the housing, to see what you moved. They couldn't tell him. I was there when he heard. He wasn't angry. He said, {i}then I shall have to run it as it is.{/i}"
-    c_crane "Er hatte drei Männer mit Ferngläsern auf diesem Rumpf, die das Gehäuse beobachteten, um zu sehen, was Sie bewegten. Sie konnten es ihm nicht sagen. Ich war dabei, als er es erfuhr. Er war nicht zornig. Er sagte: {i}Dann muss ich ihn eben so laufen lassen, wie er ist.{/i}"
+    c_crane "Er hatte drei Männer mit Ferngläsern auf diesem Rumpf, die das Gehäuse beobachteten, um zu sehen, was Sie bewegten. Sie konnten es ihm nicht sagen. Ich war dabei, als er es erfuhr. Er war nicht zornig. Er sagte: {i}Dann muss ich den Ring eben so laufen lassen, wie er ist.{/i}"
 
 # game/ch15.rpy:319
 translate german ch15_e019e169:
 
     # c_ilan "It's seated wrong."
-    c_ilan "Er sitzt falsch."
+    c_ilan "Er ist falsch eingesetzt."
 
 # game/ch15.rpy:321
 translate german ch15_599e59e2:
@@ -760,7 +760,7 @@ translate german ch15_6a87b7be:
 translate german ch15_dc96ae71:
 
     # c_crane "There's a great deal of water in a ring sixty metres high and forty kilometres round, and it grows every day. They say it would go over every island on the Girdle."
-    c_crane "Es ist sehr viel Wasser in einem Ring, der sechzig Meter hoch und vierzig Kilometer rund ist, und es wird jeden Tag mehr. Sie sagen, es würde über jede Insel am Gürtel hinweggehen."
+    c_crane "Es ist sehr viel Wasser in einem Ring, der sechzig Meter hoch und vierzig Kilometer Umfang hat, und es wird jeden Tag mehr. Sie sagen, es würde über jede Insel am Gürtel hinweggehen."
 
 # game/ch15.rpy:332
 translate german ch15_2696cf92:
@@ -874,13 +874,13 @@ translate german ch15_e49fdb2b:
 translate german ch15_0280b3dd:
 
     # "He tried to get up at dusk, and the floor came to meet him."
-    "Er versuchte, in der Dämmerung aufzustehen, und der Boden kam ihm entgegen."
+    "In der Dämmerung versuchte er aufzustehen, und der Boden kam ihm entgegen."
 
 # game/ch15.rpy:387
 translate german ch15_ca55a04b:
 
     # "Sefa got him back onto the blanket. She did it with a practised arm, and a look that Ione might have worn."
-    "Sefa brachte ihn zurück auf die Decke. Sie tat es mit geübtem Arm und mit einem Blick, wie Ione ihn hätte tragen können."
+    "Sefa brachte ihn zurück auf die Decke. Sie tat es mit geübtem Arm und mit einem Blick, wie Ione ihn hätte haben können."
 
 # game/ch15.rpy:391
 translate german ch15_bb255152:
@@ -898,7 +898,7 @@ translate german ch15_720b2aed:
 translate german ch15_74b9d533:
 
     # "He laughed, and it hurt his ribs."
-    "Er lachte, und es tat seinen Rippen weh."
+    "Er lachte, und es tat ihm in den Rippen weh."
 
 # game/ch15.rpy:394
 translate german ch15_eb60df9e:
@@ -922,7 +922,7 @@ translate german ch15_17a694e0:
 translate german ch15_2bd080ae:
 
     # "She sat down beside him and held her hands out, palms up, in the last of the light from the window."
-    "Sie setzte sich neben ihn und hielt die Hände mit den Handflächen nach oben hin, im letzten Licht vom Fenster."
+    "Sie setzte sich neben ihn und hielt die Hände hin, die Handflächen nach oben, im letzten Licht vom Fenster."
 
 # game/ch15.rpy:407
 translate german ch15_099e918c:
@@ -1012,7 +1012,7 @@ translate german ch15_44f945b1:
 translate german ch15_8f593f7c:
 
     # c_ilan "They didn't mean to keep the sea out for ever. Nobody who thought like water would have meant that."
-    c_ilan "Sie wollten das Meer nicht für immer draußen halten. Niemand, der wie Wasser dachte, hätte das gemeint."
+    c_ilan "Sie wollten das Meer nicht für immer draußen halten. Niemand, der wie Wasser dachte, hätte das gewollt."
 
 # game/ch15.rpy:451
 translate german ch15_3a551790:
@@ -1030,13 +1030,13 @@ translate german ch15_8494ca12:
 translate german ch15_fad18d0f:
 
     # c_ilan "It's seated wrong. That's all. It's been seated wrong for three thousand years."
-    c_ilan "Er sitzt falsch. Mehr ist es nicht. Er sitzt seit dreitausend Jahren falsch."
+    c_ilan "Er ist falsch eingesetzt. Mehr ist es nicht. Er ist seit dreitausend Jahren falsch eingesetzt."
 
 # game/ch15.rpy:457
 translate german ch15_1d93c391:
 
     # c_sefa "Then seat it right."
-    c_sefa "Dann setz ihn richtig."
+    c_sefa "Dann setz ihn richtig ein."
 
 # game/ch15.rpy:459
 translate german ch15_131131d1:

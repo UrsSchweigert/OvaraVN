@@ -4,7 +4,7 @@
 translate german ch18_46ac48af:
 
     # "Meridian Assurance did not so much fall as cease to matter."
-    "Meridian Assurance fiel nicht so sehr, als dass es aufhörte, etwas zu bedeuten."
+    "Meridian Assurance fiel eigentlich nicht. Es hörte auf, etwas zu bedeuten."
 
 # game/ch18.rpy:9
 translate german ch18_ffb39764:
@@ -16,7 +16,7 @@ translate german ch18_ffb39764:
 translate german ch18_50107338:
 
     # "It had called them all in at once, and promised to pay for the service in ground. The ground was under sixty metres of sea again. Within the thirty days, something like three million people simply left."
-    "Es hatte sie alle auf einmal eingefordert und versprochen, die Gegenleistung mit Land zu bezahlen. Das Land lag wieder unter sechzig Metern Meer. Innerhalb der dreißig Tage gingen etwa drei Millionen Menschen einfach fort."
+    "Es hatte sie alle auf einmal eingefordert und versprochen, die Dienste mit Land zu bezahlen. Das Land lag wieder unter sechzig Metern Meer. Innerhalb der dreißig Tage gingen etwa drei Millionen Menschen einfach fort."
 
 # game/ch18.rpy:11
 translate german ch18_f1b2369f:
@@ -28,7 +28,7 @@ translate german ch18_f1b2369f:
 translate german ch18_e28b7f3e:
 
     # "Its chairman was not seen again. The house put out no statement. Nobody on the islands had ever been shown his face, and so nobody could quite say what was missing."
-    "Ihr Vorsitzender wurde nie wieder gesehen. Das Haus gab keine Erklärung heraus. Niemand auf den Inseln hatte je sein Gesicht zu sehen bekommen, und so konnte auch niemand recht sagen, was fehlte."
+    "Sein Vorsitzender wurde nie wieder gesehen. Das Haus gab keine Erklärung heraus. Niemand auf den Inseln hatte je sein Gesicht zu sehen bekommen, und so konnte auch niemand recht sagen, was fehlte."
 
 # game/ch18.rpy:16
 translate german ch18_bcb39c2b:
@@ -64,7 +64,7 @@ translate german ch18_117a0160:
 translate german ch18_988264fc:
 
     # "Adler Crane walked into it between two fishwives, and told it everything he knew. Caspar Venn sent a statement, which was beautifully worded."
-    "Adler Crane betrat es zwischen zwei Fischfrauen und sagte ihm alles, was er wusste. Caspar Venn schickte eine Erklärung, die wunderbar formuliert war."
+    "Adler Crane trat zwischen zwei Fischfrauen vor das Gericht und sagte alles, was er wusste. Caspar Venn schickte eine Erklärung, die wunderbar formuliert war."
 
 # game/ch18.rpy:28
 translate german ch18_683599f9:
@@ -166,7 +166,7 @@ translate german ch18_b0cd1d6b:
 translate german ch18_54bfc66d:
 
     # "A lean woman came and stood beside him. She had been at the foot of a kelp stem all that afternoon, where a name was cut that had risen a hand's width since he saw it last."
-    "Eine hagere Frau kam und stellte sich neben ihn. Sie hatte den ganzen Nachmittag am Fuß eines Kelpstamms gestanden, wo ein Name eingeschnitten war, der höher gestiegen war, eine Handbreit, seit er ihn zuletzt gesehen hatte."
+    "Eine hagere Frau kam und stellte sich neben ihn. Sie hatte den ganzen Nachmittag am Fuß eines Kelpstamms gestanden, wo ein Name eingeschnitten war, der eine Handbreit höher gestiegen war, seit er ihn zuletzt gesehen hatte."
 
 # game/ch18.rpy:71
 translate german ch18_4ea679cf:
@@ -214,7 +214,7 @@ translate german ch18_785cdbff:
 translate german ch18_2614bd51:
 
     # "She sang it to him, a line at a time. Her voice was rusty. He sang it back and got the words wrong, and somebody on the terrace laughed. It was not unkind."
-    "Sie sang es ihm vor, Zeile für Zeile. Ihre Stimme war rostig. Er sang es zurück und sang die Worte falsch, und jemand auf der Terrasse lachte. Es war nicht unfreundlich."
+    "Sie sang es ihm vor, Zeile für Zeile. Ihre Stimme war rostig. Er sang es nach und sang die Worte falsch, und jemand auf der Terrasse lachte. Es war nicht unfreundlich."
 
 # game/ch18.rpy:98
 translate german ch18_e6129957:
@@ -244,13 +244,13 @@ translate german ch18_49973ea3:
 translate german ch18_aa21ed64:
 
     # "There was a noodle stall from the Sluice. The air smelled of frying oil and of salt."
-    "Es gab einen Nudelstand aus dem Siel. Die Luft roch nach Bratöl und nach Salz."
+    "Es gab einen Nudelstand vom Siel. Die Luft roch nach Bratöl und nach Salz."
 
 # game/ch18.rpy:110
 translate german ch18_2f827869:
 
     # "In a square by the water, agravar children were being taught to dive by mariner children, who found the whole business hilarious. Under an arcade, Teodora Raske was shouting at an apprentice from Deep Chorus about the seating of a coupling."
-    "Auf einem Platz am Wasser brachten Kinder der Meerleute den Kindern der Agravare das Tauchen bei und fanden die ganze Sache urkomisch. Unter einem Arkadengang schrie Teodora Raske einen Lehrling aus Deep Chorus wegen des Sitzes einer Kupplung an."
+    "Auf einem Platz am Wasser brachten Kinder der Meerleute den Kindern der Agravare das Tauchen bei und fanden die ganze Sache urkomisch. Unter einem Arkadengang schrie Teodora Raske einen Lehrling aus Deep Chorus wegen des Einsetzens einer Kupplung an."
 
 # game/ch18.rpy:116
 translate german ch18_bb4c4224:
@@ -316,7 +316,7 @@ translate german ch18_5b4019aa:
 translate german ch18_15f42f0d:
 
     # c_maelis "They'll make a god of you. You know that. They did it to him. He said it was dreadful. People bring you fish."
-    c_maelis "Man wird einen Gott aus dir machen. Das weißt du. Mit ihm hat man es getan. Er sagte, es sei furchtbar. Die Leute bringen dir Fisch."
+    c_maelis "Man wird einen Gott aus dir machen. Das weißt du. Mit ihm hat man es getan. Er sagte, es sei furchtbar. Die Leute bringen einem Fisch."
 
 # game/ch18.rpy:144
 translate german ch18_6b9d4c02:
@@ -448,7 +448,7 @@ translate german ch18_04adad02:
 translate german ch18_3ef8b9d1:
 
     # c_ilan "He said tend, mend, make, and that making was the long one. He was right. It'll take me years. But I finished the housing last week, and it's true. I'm bringing the morning class down here as soon as they're ready."
-    c_ilan "Er sagte: hegen, instandsetzen, erbauen, und das Erbauen sei das lange. Er hatte recht. Es wird mich Jahre kosten. Aber das Gehäuse habe ich letzte Woche fertig bekommen, und es ist im Lot. Sobald sie so weit sind, bringe ich die Morgenklasse hier herunter."
+    c_ilan "Er sagte: hegen, instand setzen, erbauen, und das Erbauen sei das lange. Er hatte recht. Es wird mich Jahre kosten. Aber das Gehäuse habe ich letzte Woche fertig bekommen, und es ist im Lot. Sobald sie so weit sind, bringe ich die Morgenklasse hier herunter."
 
 # game/ch18.rpy:201
 translate german ch18_449a7fb7:
@@ -460,7 +460,7 @@ translate german ch18_449a7fb7:
 translate german ch18_00915b5c:
 
     # c_maelis "He sat in front of these for eleven years,"
-    c_maelis "Er hat elf Jahre vor diesen gesessen,"
+    c_maelis "Er hat elf Jahre vor diesen Wänden gesessen,"
 
 # game/ch18.rpy:206
 translate german ch18_88bbfe8b:

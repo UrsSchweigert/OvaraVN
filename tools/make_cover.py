@@ -25,6 +25,10 @@ def main():
     ap.add_argument("--art", required=True)
     ap.add_argument("--author", default="")
     ap.add_argument("--out", required=True)
+    ap.add_argument("--title-lines", nargs="+", default=["The Man the", "Tide Brought In"],
+                    help="title split into lines (default: the English two lines)")
+    ap.add_argument("--title-scale", type=float, default=0.085,
+                    help="title font size as a fraction of the cover width (default 0.085)")
     a = ap.parse_args()
 
     img = Image.open(a.art).convert("RGBA")
@@ -40,9 +44,11 @@ def main():
     img = Image.alpha_composite(img, shade).convert("RGB")
 
     d = ImageDraw.Draw(img)
-    big = ImageFont.truetype(FONT, int(W * 0.085))
-    for i, line in enumerate(["The Man the", "Tide Brought In"]):
+    big = ImageFont.truetype(FONT, int(W * a.title_scale))
+    for i, line in enumerate(a.title_lines):
         w = d.textlength(line, font=big)
+        if w > W * 0.92:
+            raise SystemExit(f"title line too wide ({int(w)} px): lower --title-scale")
         d.text(((W - w) / 2, H * 0.035 + i * W * 0.105), line, font=big, fill=IVORY,
                stroke_width=2, stroke_fill=(4, 10, 18))
     if a.author:

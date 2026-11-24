@@ -46,7 +46,7 @@ translate german ch03_ff28780d:
 translate german ch03_ead97ccd:
 
     # c_okonta "That's the Thread. It's a thing he puts in, finer than a hair, from here down the back of the neck. After that the old machines know you. There are a hundred or so of us left, and no two of us agree about anything, which is how he likes it."
-    c_okonta "Das ist der Faden. Er setzt ihn ein, feiner als ein Haar, von hier den Nacken hinab. Danach kennen dich die alten Maschinen. Hundert oder so sind wir noch, und keine zwei von uns sind sich über irgendetwas einig, so gefällt es ihm."
+    c_okonta "Das ist der Faden. Er setzt ihn ein, feiner als ein Haar, von hier den Nacken hinab. Danach kennen dich die alten Maschinen. Etwa hundert sind wir noch, und keine zwei von uns sind sich über irgendetwas einig, so gefällt es ihm."
 
 # game/ch03.rpy:30
 translate german ch03_69b3b4c3:
@@ -202,7 +202,7 @@ translate german ch03_6a2ee506:
 translate german ch03_f1a43c38:
 
     # c_okonta "I keep the water between Rime and the Slick. I turn their survey boats round. I cut their trawl lines, and I pull people out of wrecks, theirs as well as ours. I've sunk eleven hulls in thirty years and not one with a crew aboard. He minds about that. It used to make me angry."
-    c_okonta "Ich hüte das Wasser zwischen Rime und dem Schlick. Ich drehe ihre Vermessungsboote um. Ich kappe ihre Schleppnetzleinen, und ich ziehe Menschen aus gesunkenen Schiffen, ihre ebenso wie unsere. Ich habe in dreißig Jahren elf Rümpfe versenkt, und keinen mit einer Besatzung an Bord. Darauf legt er Wert. Früher hat es mich wütend gemacht."
+    c_okonta "Ich hüte das Wasser zwischen Rime und dem Schlick. Ich zwinge ihre Vermessungsboote zur Umkehr. Ich kappe ihre Schleppnetzleinen, und ich ziehe Menschen aus gesunkenen Schiffen, ihre ebenso wie unsere. Ich habe in dreißig Jahren elf Rümpfe versenkt, und keinen mit einer Besatzung an Bord. Darauf legt er Wert. Früher hat es mich wütend gemacht."
 
 # game/ch03.rpy:92
 translate german ch03_f17795e7:
@@ -214,7 +214,7 @@ translate german ch03_f17795e7:
 translate german ch03_4710f9b9:
 
     # c_okonta "I wasn't near enough to Low Anthem. One of me, and a stretch of sea you couldn't swim across in a month. There were three of us on this water when I started."
-    c_okonta "Ich war nicht nah genug an Low Anthem. Eine einzige von mir, und ein Stück Meer, das man in einem Monat nicht durchschwimmen könnte. Als ich anfing, waren wir drei auf diesem Wasser."
+    c_okonta "Ich war nicht nah genug an Low Anthem. Ich bin nur eine, und da ist ein Stück Meer, das man in einem Monat nicht durchschwimmen könnte. Als ich anfing, waren wir drei auf diesem Wasser."
 
 # game/ch03.rpy:99
 translate german ch03_f35ec8f3:
@@ -262,7 +262,7 @@ translate german ch03_1c18e720:
 translate german ch03_94819034:
 
     # c_okonta "Sleds. Halcyon make. That barge crew talked, and somebody ashore has decided they'd like whatever picked up their ship. That's a recovery team. They'll have wreckers with them, to find the way."
-    c_okonta "Schlitten. Halcyon-Bauart. Die Mannschaft von dem Lastkahn hat geredet, und jemand an Land hat beschlossen, dass er gern hätte, was auch immer ihr Schiff aufgefischt hat. Das ist ein Bergungstrupp. Sie haben Plünderer dabei, die ihnen den Weg zeigen."
+    c_okonta "Schlitten. Halcyon-Bauart. Die Mannschaft von dem Lastkahn hat geredet, und jemand an Land hat beschlossen, dass er gern hätte, was auch immer ihr Schiff hochgehoben hat. Das ist ein Bergungstrupp. Sie haben Plünderer dabei, die ihnen den Weg zeigen."
 
 # game/ch03.rpy:123
 translate german ch03_374cfd88:
@@ -322,7 +322,7 @@ translate german ch03_daa9e420:
 translate german ch03_f65cccd0:
 
     # "Okonta slowed to a crawl and the needle's glow went ahead of them like a held lamp. Old wrecks loomed out of the murk."
-    "Okonta verlangsamte bis zum Kriechen, und der Schein der Nadel ging ihnen voraus wie eine hochgehaltene Lampe. Alte gesunkene Schiffe tauchten aus der Trübe auf."
+    "Okonta ließ die Nadel nur noch kriechen, und der Schein der Nadel ging ihnen voraus wie eine hochgehaltene Lampe. Alte gesunkene Schiffe tauchten aus der Trübe auf."
 
 # game/ch03.rpy:144
 translate german ch03_a1851429:
@@ -412,7 +412,7 @@ translate german ch03_656f577a:
 translate german ch03_b8baca3b:
 
     # "The engines followed them in. They were clumsy in the kelp, but there were four of them and they had lamps and patience. By that evening Okonta's mouth had set in a line."
-    "Die Motoren folgten ihnen hinein. Im Kelp waren sie ungeschickt, aber es waren vier, und sie hatten Lampen und Geduld. Bis zum Abend war Okontas Mund zu einem Strich geworden."
+    "Die Motoren folgten ihnen hinein. Im Kelp waren sie schwerfällig, aber es waren vier, und sie hatten Lampen und Geduld. Bis zum Abend war Okontas Mund zu einem Strich geworden."
 
 # game/ch03.rpy:189
 translate german ch03_a47a6a8a:
@@ -466,7 +466,7 @@ translate german ch03_871888d7:
 translate german ch03_7837879e:
 
     # c_okonta "Twenty years of barges, settled in one place by the current. The carrying crews bring the bladders here too; there's nowhere else to take them. Keep your mouth shut as much as you can. We go straight through."
-    c_okonta "Zwanzig Jahre Lastkähne, von der Strömung an einer Stelle abgesetzt. Die Trägertrupps bringen die Blasen auch hierher, es gibt keinen anderen Ort dafür. Halt den Mund, so weit es geht. Wir fahren geradewegs hindurch."
+    c_okonta "Zwanzig Jahre Lastkähne, von der Strömung an einer Stelle abgesetzt. Die Trägertrupps bringen die Blasen auch hierher, es gibt keinen anderen Ort dafür. Halt den Mund geschlossen, so gut es geht. Wir fahren geradewegs hindurch."
 
 # game/ch03.rpy:214
 translate german ch03_ca85df87:
@@ -490,7 +490,7 @@ translate german ch03_4e6956f4:
 translate german ch03_f968bad7:
 
     # c_okonta "They hunt by taste. Hold on."
-    c_okonta "Sie jagen nach Geschmack. Halt dich fest."
+    c_okonta "Sie jagen mit dem Geschmackssinn. Halt dich fest."
 
 # game/ch03.rpy:223
 translate german ch03_56cbecee:
@@ -520,7 +520,7 @@ translate german ch03_9850f53c:
 translate german ch03_f3a849a8:
 
     # "It was not like being ebbed. When he was ebbed, a door had been shut, and he had known there was a house behind it."
-    "Es war nicht wie ausgeebbt zu sein. Wenn er ausgeebbt war, war eine Tür geschlossen gewesen, und er hatte gewusst, dass dahinter ein Haus stand."
+    "Es war nicht wie ausgeebbt zu sein. Als er ausgeebbt war, war eine Tür geschlossen gewesen, und er hatte gewusst, dass dahinter ein Haus stand."
 
 # game/ch03.rpy:233
 translate german ch03_c78f6481:
@@ -592,13 +592,13 @@ translate german ch03_c4c0bc92:
 translate german ch03_8938e75b:
 
     # "He had not known the sea could be killed. And a thought had come to him in the middle of that silence, and would not go away. He had not been surprised. Somewhere under the blank, he had known that place was there."
-    "Er hatte nicht gewusst, dass man das Meer töten kann. Und ein Gedanke war ihm mitten in dieser Lautlosigkeit gekommen und ging nicht mehr weg. Er war nicht überrascht gewesen. Irgendwo unter der Leere hatte er gewusst, dass dieser Ort da war."
+    "Er hatte nicht gewusst, dass man das Meer töten kann. Und ein Gedanke war ihm mitten in dieser Lautlosigkeit gekommen und ging nicht mehr weg. Er war nicht überrascht gewesen. Irgendwo unter der Leere hatte er gewusst, dass es diesen Ort gab."
 
 # game/ch03.rpy:269
 translate german ch03_38c558a5:
 
     # "Greywatch Stone stood on a bare rise above the forest, where the kelp would not grow and the current ran strong and cold."
-    "Greywatch-Stein stand auf einer kahlen Anhöhe über dem Wald, wo der Kelp nicht wuchs und die Strömung stark und kalt lief."
+    "Der Greywatch-Stein stand auf einer kahlen Anhöhe über dem Wald, wo der Kelp nicht wuchs und die Strömung stark und kalt lief."
 
 # game/ch03.rpy:271
 translate german ch03_41981535:
@@ -622,7 +622,7 @@ translate german ch03_8aa222c3:
 translate german ch03_97485ac4:
 
     # c_okonta "There are forty or so, strung round the world along the lines the Dragon runs. It passes each of them once a season, more or less. The world turns under it, you see; it never runs the same line twice running."
-    c_okonta "Es gibt vierzig oder so, rund um die Welt verteilt, entlang der Linien, auf denen der Drache fährt. Er kommt an jedem von ihnen einmal in der Jahreszeit vorbei, ungefähr. Die Welt dreht sich unter ihm, verstehst du; er fährt nie zweimal hintereinander dieselbe Linie."
+    c_okonta "Es gibt etwa vierzig, rund um die Welt verteilt, entlang der Linien, auf denen der Drache fährt. Er kommt an jedem von ihnen einmal pro Jahreszeit vorbei, ungefähr. Die Welt dreht sich unter ihm, verstehst du; er fährt nie zweimal hintereinander dieselbe Linie."
 
 # game/ch03.rpy:279
 translate german ch03_7da93fd9:
@@ -646,7 +646,7 @@ translate german ch03_7b8a3dac:
 translate german ch03_237fcd72:
 
     # c_okonta "When the Dragon's within a day, it sings. You'll know."
-    c_okonta "Wenn der Drache nur noch einen Tag entfernt ist, singt er. Du wirst es merken."
+    c_okonta "Wenn der Drache nur noch einen Tag entfernt ist, singt der Stein. Du wirst es merken."
 
 # game/ch03.rpy:291
 translate german ch03_20f98aec:
@@ -658,13 +658,13 @@ translate german ch03_20f98aec:
 translate german ch03_d0755b5f:
 
     # "She had towed her father here on a sled of kelp-floats, eleven days, because the healer at Fallow had said his lungs needed the Wells, and nothing less. They had been at the stone since before the last pass."
-    "Sie hatte ihren Vater auf einem Schlitten aus Kelpschwimmern hierher geschleppt, elf Tage lang, weil der Heiler in Fallow gesagt hatte, seine Lungen brauchten die Brunnen, und nichts Geringeres. Sie waren schon seit vor der letzten Durchfahrt am Stein."
+    "Sie hatte ihren Vater auf einem Schlitten aus Kelpschwimmern hierher geschleppt, elf Tage lang, weil der Heiler in Fallow gesagt hatte, seine Lungen brauchten die Brunnen, und nichts Geringeres. Sie waren schon vor der letzten Durchfahrt am Stein gewesen."
 
 # game/ch03.rpy:297
 translate german ch03_99f958e1:
 
     # c_fallow "It came, and there was no Threaded to carry us on,"
-    c_fallow "Der Drache kam, und kein Fadenträger war da, der uns hätte weitertragen können,"
+    c_fallow "Der Drache kam, und kein Fadenträger war da, der uns an Bord hätte tragen können,"
 
 # game/ch03.rpy:298
 translate german ch03_f1e2e59c:
@@ -718,7 +718,7 @@ translate german ch03_1d08d336:
 translate german ch03_07b17690:
 
     # c_brask "It's all down the long-call. A stranger's hands."
-    c_brask "Es läuft den ganzen Langruf entlang. Fremde Hände."
+    c_brask "Der ganze Langruf ist voll davon. Fremde Hände."
 
 # game/ch03.rpy:319
 translate german ch03_6fb758bf:
@@ -730,7 +730,7 @@ translate german ch03_6fb758bf:
 translate german ch03_b047a9eb:
 
     # c_brask "You're not much."
-    c_brask "Sie sind nicht viel."
+    c_brask "Sie machen nicht viel her."
 
 # game/ch03.rpy:326
 translate german ch03_a0b841bd:
@@ -748,7 +748,7 @@ translate german ch03_2397e395:
 translate german ch03_6aa0a93d:
 
     # c_brask "Jef's not much either."
-    c_brask "Jef ist auch nicht viel."
+    c_brask "Jef macht auch nicht viel her."
 
 # game/ch03.rpy:334
 translate german ch03_febd73b6:
@@ -832,7 +832,7 @@ translate german ch03_0084f6bd:
 translate german ch03_07d3e3f2:
 
     # "Then her face closed. She brought the gun up again."
-    "Dann schloss sich ihr Gesicht. Sie hob das Gewehr wieder."
+    "Dann verschloss sich ihr Gesicht. Sie hob das Gewehr wieder."
 
 # game/ch03.rpy:373
 translate german ch03_968c061f:
@@ -868,7 +868,7 @@ translate german ch03_8a3274a3:
 translate german ch03_f8eb286e:
 
     # "He had imagined an animal. What came was a river with a spine. A kilometre of pale metal ribs, each one a hoop taller than the dome of Low Anthem, ran one behind another in a long sinuous line, and between them and through them and around them raced water."
-    "Er hatte sich ein Tier vorgestellt. Was kam, war ein Fluss mit einem Rückgrat. Einen Kilometer heller Metallrippen, jede ein Reifen, höher als die Kuppel von Low Anthem, liefen hintereinander in einer langen, gewundenen Linie, und zwischen ihnen und durch sie hindurch und um sie herum raste Wasser."
+    "Er hatte sich ein Tier vorgestellt. Was kam, war ein Fluss mit einem Rückgrat. Ein Kilometer heller Metallrippen, jede ein Reifen, höher als die Kuppel von Low Anthem, liefen hintereinander in einer langen, gewundenen Linie, und zwischen ihnen und durch sie hindurch und um sie herum raste Wasser."
 
 # game/ch03.rpy:388
 translate german ch03_d8284371:
@@ -880,13 +880,13 @@ translate german ch03_d8284371:
 translate german ch03_eecb8d82:
 
     # "That was what gave the thing its body. That was what made it move. It came on faster than anything that size had a right to, and it sang as it came, and the whole forest below it leaned over in its wake."
-    "Das gab dem Ding seinen Körper. Das ließ es sich bewegen. Es kam schneller heran, als irgendetwas dieser Größe es durfte, und es sang im Kommen, und der ganze Wald unter ihm neigte sich in seinem Kielwasser."
+    "Das gab dem Ding seinen Körper. Das trieb es an. Es kam schneller heran, als irgendetwas dieser Größe es durfte, und es sang im Kommen, und der ganze Wald unter ihm neigte sich in seinem Kielwasser."
 
 # game/ch03.rpy:393
 translate german ch03_b9f3ec0f:
 
     # "It never stopped. Okonta had told him so. You matched its speed, and showed your token, and it opened to you or it did not."
-    "Er hielt nie an. Okonta hatte es ihm gesagt. Man glich seine Geschwindigkeit an und zeigte sein Zeichen, und er öffnete sich einem oder auch nicht."
+    "Er hielt nie an. Okonta hatte es ihm gesagt. Man passte sich seiner Geschwindigkeit an und zeigte sein Zeichen, und er öffnete sich einem oder auch nicht."
 
 # game/ch03.rpy:395
 translate german ch03_ebc99158:
@@ -910,7 +910,7 @@ translate german ch03_056bcdba:
 translate german ch03_648359ae:
 
     # "The great blunt head swung round, over the heads of the Halcyon divers, until it was facing Wrack. It had no eyes and no mouth. A panel in it, which he had somehow known was there, slid open like an eyelid."
-    "Der große stumpfe Kopf schwenkte herum, über die Köpfe der Halcyon-Taucher hinweg, bis er Wrack zugewandt war. Er hatte keine Augen und keinen Mund. Ein Paneel in ihm, von dem er irgendwie gewusst hatte, dass es da war, glitt auf wie ein Augenlid."
+    "Der große stumpfe Kopf schwenkte herum, über die Köpfe der Halcyon-Taucher hinweg, bis er Wrack zugewandt war. Er hatte keine Augen und keinen Mund. Ein Paneel in ihm, von dem Wrack irgendwie gewusst hatte, dass es da war, glitt auf wie ein Augenlid."
 
 # game/ch03.rpy:405
 translate german ch03_54609771:
@@ -928,7 +928,7 @@ translate german ch03_f62e65c3:
 translate german ch03_3f45455e:
 
     # c_okonta "Not for me. Not for anyone. Not for Jef."
-    c_okonta "Nicht für mich. Nicht für irgendwen. Nicht für Jef."
+    c_okonta "Nicht für mich. Für niemanden. Nicht für Jef."
 
 # game/ch03.rpy:411
 translate german ch03_e9dc2464:
@@ -1066,7 +1066,7 @@ translate german ch03_53b5dd6e:
 translate german ch03_8fd256e8:
 
     # c_okonta "I've ridden it forty times. I've never once seen it empty of somebody going to the Wells to be mended. That's what it's really become. An ambulance."
-    c_okonta "Ich bin ihn vierzigmal gefahren. Ich habe ihn nie ohne jemanden erlebt, der zu den Brunnen unterwegs war, um geheilt zu werden. Das ist es, was er in Wahrheit geworden ist. Ein Krankenwagen."
+    c_okonta "Ich bin vierzigmal mit ihm gefahren. Ich habe ihn nie ohne jemanden erlebt, der zu den Brunnen unterwegs war, um geheilt zu werden. Das ist es, was er in Wahrheit geworden ist. Ein Krankenwagen."
 
 # game/ch03.rpy:475
 translate german ch03_c9ead59f:
@@ -1132,7 +1132,7 @@ translate german ch03_ba329d5d:
 translate german ch03_5cd2863b:
 
     # "There were six of them, running alongside. They kept pace for an hour without visible effort, rolling to look in through the bound water at the people inside."
-    "Es waren sechs, die nebenher schwammen. Sie hielten eine Stunde lang ohne sichtbare Mühe Schritt und rollten sich, um durch das gebundene Wasser auf die Menschen darin zu blicken."
+    "Es waren sechs, die nebenher schwammen. Sie hielten eine Stunde lang ohne sichtbare Mühe Schritt und drehten sich auf die Seite, um durch das gebundene Wasser auf die Menschen darin zu blicken."
 
 # game/ch03.rpy:502
 translate german ch03_afe62e39:
@@ -1204,7 +1204,7 @@ translate german ch03_65ea3dff:
 translate german ch03_90abd1a7:
 
     # c_brask "Since you're going to the old man's, and southerners know nothing. It's dark half the year. Not black dark. Twilight, with the sun going round the edge of the sky like a hound round a table."
-    c_brask "Da Sie zum Alten wollen, und Leute aus dem Süden wissen nichts. Es ist die Hälfte des Jahres dunkel. Nicht schwarz dunkel. Dämmerung, mit der Sonne, die am Rand des Himmels entlanggeht wie ein Hund um einen Tisch."
+    c_brask "Wo Sie doch zum Alten wollen und Leute aus dem Süden nichts wissen. Es ist die Hälfte des Jahres dunkel. Nicht schwarz dunkel. Dämmerung, mit der Sonne, die am Rand des Himmels entlanggeht wie ein Hund um einen Tisch."
 
 # game/ch03.rpy:531
 translate german ch03_53b50b5e:
@@ -1222,7 +1222,7 @@ translate german ch03_f3c732c6:
 translate german ch03_e06fcaa5:
 
     # c_brask "Rime's the only hold. We're frozen into the bottom of the ice. Six hundred of us. We hunt seal on top and dive under for the fat cod, and we send the best of it down to the Lantern, because they've three hundred healers there and not one of them can catch a fish."
-    c_brask "Rime ist die einzige Halte. Wir sind in die Unterseite des Eises eingefroren. Sechshundert von uns. Wir jagen oben Robben und tauchen darunter nach dem fetten Dorsch, und das Beste davon schicken wir hinunter zur Laterne, weil sie dort dreihundert Heiler haben und keinen einzigen, der einen Fisch fangen kann."
+    c_brask "Rime ist die einzige Halte. Wir sind in die Unterseite des Eises eingefroren. Sechshundert von uns. Wir jagen oben Robben und tauchen darunter nach dem fetten Kabeljau, und das Beste davon schicken wir hinunter zur Laterne, weil sie dort dreihundert Heiler haben und keinen einzigen, der einen Fisch fangen kann."
 
 # game/ch03.rpy:536
 translate german ch03_562eca63:
@@ -1252,7 +1252,7 @@ translate german ch03_78d4e3c0:
 translate german ch03_8c022f40:
 
     # c_brask "I've seen it from above. Everybody has. You look down the Well, and it's black, blacker than anything, and right at the bottom there's a star."
-    c_brask "Ich habe sie von oben gesehen. Jeder hat das. Man schaut den Brunnen hinunter, und er ist schwarz, schwärzer als alles, und ganz unten ist ein Stern."
+    c_brask "Ich habe sie von oben gesehen. Das hat jeder. Man schaut den Brunnen hinunter, und er ist schwarz, schwärzer als alles, und ganz unten ist ein Stern."
 
 # game/ch03.rpy:547
 translate german ch03_a6fef48b:
@@ -1324,7 +1324,7 @@ translate german ch03_8a9ea034:
 translate german ch03_cc50873b:
 
     # "The note of the Dragon had begun to fall. Wrack went to the wall. The ice had drawn back. They were coming up, slowly now, into a great stillness."
-    "Der Ton des Drachen begann zu fallen. Wrack ging zur Wand. Das Eis war zurückgewichen. Sie stiegen jetzt langsam auf, in eine große Stille."
+    "Der Ton des Drachen hatte zu fallen begonnen. Wrack ging zur Wand. Das Eis war zurückgewichen. Sie stiegen jetzt langsam auf, in eine große Stille."
 
 # game/ch03.rpy:581
 translate german ch03_fd061640:

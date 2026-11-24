@@ -52,7 +52,7 @@ translate german ch09_539ddba7:
 translate german ch09_e94a0386:
 
     # c_ilan "Halcyon has an engine and no ship to put it in. Kessler-Vane is building one."
-    c_ilan "Halcyon hat eine Maschine und kein Schiff, um sie einzubauen. Kessler-Vane baut eines."
+    c_ilan "Halcyon hat eine Maschine und kein Schiff, in das man sie einbauen könnte. Kessler-Vane baut eines."
 
 # game/ch09.rpy:29
 translate german ch09_97798a4a:
@@ -76,7 +76,7 @@ translate german ch09_5975372b:
 translate german ch09_48da0cdb:
 
     # "The Kessler Banks had been islands once. They were low and sandy and so thoroughly built over that it was no longer possible to say where one stopped and the next began. There was a sound, too, a steady ringing roar. It was fifty thousand hammers."
-    "Die Kessler-Bänke waren einmal Inseln gewesen. Sie waren niedrig und sandig und so lückenlos überbaut, dass man nicht mehr sagen konnte, wo die eine aufhörte und die nächste begann. Da war auch ein Geräusch, ein stetiges, klingendes Brüllen. Es waren fünfzigtausend Hämmer."
+    "Die Kessler-Bänke waren einmal Inseln gewesen. Sie waren niedrig und sandig und so lückenlos überbaut, dass man nicht mehr sagen konnte, wo die eine aufhörte und die nächste begann. Da war auch ein Geräusch, ein stetiges, klingendes Dröhnen. Es waren fünfzigtausend Hämmer."
 
 # game/ch09.rpy:39
 translate german ch09_403f948d:
@@ -94,7 +94,7 @@ translate german ch09_b6d398a3:
 translate german ch09_e7e9606c:
 
     # c_ilan "They name the hours by them. {i}I'll see you at third siren.{/i} I lived here two years, when I was learning hulls."
-    c_ilan "Danach benennen sie die Stunden. {i}Wir sehen uns zur dritten Sirene.{/i} Ich habe hier zwei Jahre gelebt, als ich Rümpfe lernte."
+    c_ilan "Danach benennen sie die Stunden. {i}Wir sehen uns zur dritten Sirene.{/i} Ich habe hier zwei Jahre gelebt, als ich den Rumpfbau lernte."
 
 # game/ch09.rpy:48
 translate german ch09_8cc1fbbd:
@@ -124,13 +124,13 @@ translate german ch09_1ab045d5:
 translate german ch09_36146732:
 
     # "Okonta had come ashore with him. She had come up out of the harbour after dark, in a cloak, and was drying out by inches. She would not hear of his going alone. They stood on a coal wharf and looked across the water."
-    "Okonta war mit ihm an Land gegangen. Sie war nach Einbruch der Dunkelheit aus dem Hafen heraufgekommen, in einem Umhang, und trocknete Stück für Stück. Sie hatte nichts davon hören wollen, dass er allein ginge. Sie standen auf einer Kohlenmole und sahen über das Wasser."
+    "Okonta war mit ihm an Land gegangen. Sie war nach Einbruch der Dunkelheit aus dem Hafen heraufgekommen, in einem Umhang, und trocknete nach und nach aus. Sie hatte nichts davon hören wollen, dass er allein ginge. Sie standen auf einem Kohlenkai und sahen über das Wasser."
 
 # game/ch09.rpy:61
 translate german ch09_eed9d750:
 
     # "It was the largest hull he had ever seen. It was three hundred metres long and half plated, with the ribs showing forward like a carcass. Amidships there was a void. It was the shape of a thing he had last seen in the lowest vault of a drowned city."
-    "Es war der größte Rumpf, den er je gesehen hatte. Er war dreihundert Meter lang und halb beplankt, mit den Spanten, die vorn wie ein Gerippe herausstanden. Mittschiffs klaffte eine Leere. Sie hatte die Form von etwas, das er zuletzt im tiefsten Gewölbe einer versunkenen Stadt gesehen hatte."
+    "Es war der größte Rumpf, den er je gesehen hatte. Er war dreihundert Meter lang und halb beplattet, mit den Spanten, die vorn wie ein Gerippe herausstanden. Mittschiffs klaffte eine Leere. Sie hatte die Form von etwas, das er zuletzt im untersten Gewölbe einer versunkenen Stadt gesehen hatte."
 
 # game/ch09.rpy:66
 translate german ch09_cf22635d:
@@ -256,7 +256,7 @@ translate german ch09_ce348bb8:
 translate german ch09_34a76b36:
 
     # c_ilan "It's Ilan Voss, Teo."
-    c_ilan "Hier ist Ilan Voss, Teo."
+    c_ilan "Es ist Ilan Voss, Teo."
 
 # game/ch09.rpy:117
 translate german ch09_43551ceb:
@@ -316,7 +316,7 @@ translate german ch09_599f77eb:
 translate german ch09_da346031:
 
     # c_raske "My warm-stone? Twenty years. I paid a wrecker a year's salary for it. I've had it scanned, sectioned on paper, modelled. I had a man in to hit it."
-    c_raske "Meinen Wärmestein? Zwanzig Jahre. Ich habe einem Plünderer ein Jahresgehalt dafür bezahlt. Ich habe ihn scannen, auf dem Papier in Schnitte zerlegen und nachbauen lassen. Ich habe einen Mann kommen lassen, der daraufschlagen sollte."
+    c_raske "Meinen Wärmestein? Seit zwanzig Jahren. Ich habe einem Plünderer ein Jahresgehalt dafür bezahlt. Ich habe ihn scannen, auf dem Papier in Schnitte zerlegen und nachbauen lassen. Ich habe einen Mann kommen lassen, der daraufschlagen sollte."
 
 # game/ch09.rpy:141
 translate german ch09_f8465c9a:
@@ -340,7 +340,7 @@ translate german ch09_ac59bdf3:
 translate german ch09_2f749a63:
 
     # c_ilan "This is seated wrong. It's been dropped. This is the channel; it wants to be clear. You don't need a laboratory. You need to stop assuming it's a machine like yours. Yours push. These flow."
-    c_ilan "Das hier sitzt falsch. Er ist fallen gelassen worden. Das hier ist der Kanal; er muss frei sein. Du brauchst kein Labor. Du musst aufhören anzunehmen, es sei eine Maschine wie eure. Eure drücken. Diese hier fließen."
+    c_ilan "Das hier ist falsch eingesetzt. Er ist fallen gelassen worden. Das hier ist der Kanal; er muss frei sein. Du brauchst kein Labor. Du musst aufhören anzunehmen, es sei eine Maschine wie eure. Eure drücken. Diese hier fließen."
 
 # game/ch09.rpy:152
 translate german ch09_0c81c67b:
@@ -370,7 +370,7 @@ translate german ch09_9abe36f6:
 translate german ch09_d85061c4:
 
     # "He showed her until the fifth siren. Then he told her what Slip Nine was for. He told her what the void amidships would carry, and where it had come from. He told her who he was now, and what he had been, and what his mother had been. He left nothing out."
-    "Er zeigte es ihr bis zur fünften Sirene. Dann sagte er ihr, wofür Helling Neun bestimmt war. Er sagte ihr, was die Leere mittschiffs tragen würde und woher sie stammte. Er sagte ihr, wer er jetzt war und was er gewesen war und was seine Mutter gewesen war. Er ließ nichts aus."
+    "Er zeigte es ihr bis zur fünften Sirene. Dann sagte er ihr, wofür Helling Neun bestimmt war. Er sagte ihr, was die Leere mittschiffs tragen würde und woher es stammte. Er sagte ihr, wer er jetzt war und was er gewesen war und was seine Mutter gewesen war. Er ließ nichts aus."
 
 # game/ch09.rpy:172
 translate german ch09_dd9eaecd:
@@ -388,7 +388,7 @@ translate german ch09_11912523:
 translate german ch09_1a2d2b3f:
 
     # c_ilan "The one man who could is dead. He died before he could teach me. But I can mend. I can teach mending, and I think anyone can learn it. I think that's all it ever was, something nobody was left to teach."
-    c_ilan "Der eine Mann, der es konnte, ist tot. Er starb, bevor er es mich lehren konnte. Aber ich kann instandsetzen. Ich kann das Instandsetzen lehren, und ich glaube, jeder kann es lernen. Ich glaube, mehr war es nie: etwas, das zu lehren niemand mehr übrig war."
+    c_ilan "Der eine Mann, der es konnte, ist tot. Er starb, bevor er es mich lehren konnte. Aber ich kann instand setzen. Ich kann das Instandsetzen lehren, und ich glaube, jeder kann es lernen. Ich glaube, mehr war es nie: etwas, für das niemand mehr da war, der es lehren konnte."
 
 # game/ch09.rpy:179
 translate german ch09_7632176c:
@@ -430,7 +430,7 @@ translate german ch09_354380a9:
 translate german ch09_3d34b563:
 
     # c_raske "Did you ever know that? He put a paper on my desk. He said, make an engineer of this one, and send the account to the Exchange. I told him I didn't take pupils to order. He said he quite understood, and he asked after my father's lungs. By name."
-    c_raske "Haben Sie das je gewusst? Er legte ein Papier auf meinen Schreibtisch. Er sagte, ich solle aus diesem hier einen Ingenieur machen und die Rechnung an die Börse schicken. Ich sagte ihm, ich nähme keine Schüler auf Bestellung. Er sagte, das verstehe er durchaus, und erkundigte sich nach der Lunge meines Vaters. Beim Namen."
+    c_raske "Haben Sie das je gewusst? Er legte ein Papier auf meinen Schreibtisch. Er sagte, ich solle aus diesem hier einen Ingenieur machen und die Rechnung an die Börse schicken. Ich sagte ihm, ich nähme keine Schüler auf Bestellung. Er sagte, das verstehe er durchaus, und erkundigte sich nach der Lunge meines Vaters. Mit Namen."
 
 # game/ch09.rpy:190
 translate german ch09_c7d87ded:
@@ -478,7 +478,7 @@ translate german ch09_7139b45d:
 translate german ch09_3575bb5c:
 
     # "He spent the two days in a net loft over a chandler's shop, which Dace had found. He did not see how the thing was done. He saw only one part of it."
-    "Er verbrachte die zwei Tage auf einem Netzboden über einem Schiffsausrüster, den Dace gefunden hatte. Er sah nicht, wie die Sache bewerkstelligt wurde. Er sah nur einen Teil davon."
+    "Er verbrachte die zwei Tage auf einem Netzboden, den Dace über einem Schiffsausrüster gefunden hatte. Er sah nicht, wie die Sache bewerkstelligt wurde. Er sah nur einen Teil davon."
 
 # game/ch09.rpy:210
 translate german ch09_3349d903:
@@ -496,7 +496,7 @@ translate german ch09_9c117f93:
 translate german ch09_b4cb5021:
 
     # "Raske took the warm-stone out of a canvas bag and set it on a barrel. It was glowing. Nobody spoke. Then the woman from engines stepped forward and held her scarred hands to it, as one does to a fire. Her face crumpled."
-    "Raske nahm den Wärmestein aus einem Segeltuchsack und stellte ihn auf ein Fass. Er glühte. Niemand sprach. Dann trat die Frau aus dem Maschinenbau vor und hielt ihre vernarbten Hände daran, wie man es an einem Feuer tut. Ihr Gesicht fiel in sich zusammen."
+    "Raske nahm den Wärmestein aus einem Segeltuchsack und stellte ihn auf ein Fass. Er glühte. Niemand sprach. Dann trat die Frau aus dem Maschinenbau vor und hielt ihre vernarbten Hände davor, wie man es an einem Feuer tut. Ihr Gesicht fiel in sich zusammen."
 
 # game/ch09.rpy:222
 translate german ch09_93f6bb8e:
@@ -526,13 +526,13 @@ translate german ch09_32627cba:
 translate german ch09_b33e233d:
 
     # "He put it into her hands, and laid Jef's tool in her fingers, and showed her where the seam was. He told her what she was looking for. It took her forty minutes. He did not touch it once."
-    "Er legte sie ihr in die Hände und Jefs Werkzeug in ihre Finger und zeigte ihr, wo die Naht war. Er sagte ihr, wonach sie suchte. Sie brauchte vierzig Minuten. Er rührte sie kein einziges Mal an."
+    "Er legte sie ihr in die Hände und Jefs Werkzeug in ihre Finger und zeigte ihr, wo die Naht war. Er sagte ihr, wonach sie suchen musste. Sie brauchte vierzig Minuten. Er rührte sie kein einziges Mal an."
 
 # game/ch09.rpy:233
 translate german ch09_26014c1f:
 
     # "When it came on she made a sound he had heard only once before, from Elder Oro, under a lamp in Low Anthem."
-    "Als sie aufleuchtete, gab sie einen Laut von sich, den er nur ein einziges Mal zuvor gehört hatte, von Ältester Oro, unter einer Lampe in Low Anthem."
+    "Als die Lampe aufleuchtete, gab die Frau einen Laut von sich, den er nur ein einziges Mal zuvor gehört hatte, vom Ältesten Oro, unter einer Lampe in Low Anthem."
 
 # game/ch09.rpy:234
 translate german ch09_c998d0cc:
@@ -598,7 +598,7 @@ translate german ch09_c4411898:
 translate german ch09_0f3a3620:
 
     # "There were yard tugs at the stage, eleven of them, and Dace's boat. Okonta took the trucks. Ilan never saw how."
-    "An der Anlegestelle lagen Werftschlepper, elf an der Zahl, und Daces Boot. Okonta übernahm die Lastwagen. Ilan sah nie, wie."
+    "An der Anlegestelle lagen Werftschlepper, elf an der Zahl, und Daces Boot. Okonta übernahm die Lastwagen. Ilan sah nicht, wie."
 
 # game/ch09.rpy:266
 translate german ch09_8b4f2d9b:
@@ -658,7 +658,7 @@ translate german ch09_e3385a44:
 translate german ch09_530dd572:
 
     # "He had her back in a fist of water before she had sunk a metre. He was soaked in sweat inside the rain. It was like trying to drink from a waterfall."
-    "Er hatte es in einer Faust aus Wasser zurück, ehe es einen Meter gesunken war. Er war schweißgetränkt, mitten im Regen. Es war, als wollte man aus einem Wasserfall trinken."
+    "Er hatte es mit einer Faust aus Wasser zurückgeholt, ehe es einen Meter gesunken war. Er war schweißgetränkt, mitten im Regen. Es war, als wollte man aus einem Wasserfall trinken."
 
 # game/ch09.rpy:298
 translate german ch09_b3e5ebbe:
@@ -730,7 +730,7 @@ translate german ch09_95469741:
 translate german ch09_9bf76069:
 
     # "The Driftfolk hauled the tugs in without asking a single question. Women came across the planking with blankets. A fat old man in a striped jersey stood on the frigate's bow, counting heads and shouting numbers to someone below."
-    "Das Treibvolk zog die Schlepper ein, ohne eine einzige Frage zu stellen. Frauen kamen mit Decken über die Planken. Ein dicker alter Mann in einem gestreiften Pullover stand auf dem Bug der Fregatte, zählte Köpfe und rief jemandem unten Zahlen zu."
+    "Das Treibvolk holte die Schlepper heran, ohne eine einzige Frage zu stellen. Frauen kamen mit Decken über die Planken. Ein dicker alter Mann in einem gestreiften Pullover stand auf dem Bug der Fregatte, zählte Köpfe und rief jemandem unten Zahlen zu."
 
 # game/ch09.rpy:322
 translate german ch09_328c338f:
@@ -778,13 +778,13 @@ translate german ch09_747a206a:
 translate german ch09_9435068e:
 
     # c_ilan "The mariners say tend, mend, make,"
-    c_ilan "Die Meerleute sagen hegen, instandsetzen, erbauen,"
+    c_ilan "Die Meerleute sagen hegen, instand setzen, erbauen,"
 
 # game/ch09.rpy:348
 translate german ch09_191bd924:
 
     # c_ilan "I can't teach you to make. I can teach you to mend. It begins with finding the seam."
-    c_ilan "Erbauen kann ich euch nicht beibringen. Instandsetzen kann ich euch beibringen. Es beginnt damit, die Naht zu finden."
+    c_ilan "Erbauen kann ich euch nicht beibringen. Instand setzen kann ich euch beibringen. Es beginnt damit, die Naht zu finden."
 
 # game/ch09.rpy:352
 translate german ch09_1225dc1c:
@@ -802,7 +802,7 @@ translate german ch09_27a0d21a:
 translate german ch09_7eeebc2a:
 
     # "They traded at the raft's edge, and had heard, and did not believe it. They hung in the water alongside and watched islanders do what no mariner had done in six hundred years."
-    "Sie handelten am Rand des Floßes, hatten davon gehört und glaubten es nicht. Sie hingen im Wasser daneben und sahen zu, wie Inselbewohner taten, was seit sechshundert Jahren kein Meermensch getan hatte."
+    "Sie handelten am Rand des Floßes, hatten davon gehört und glaubten es nicht. Sie hingen im Wasser daneben und sahen zu, wie Inselleute taten, was seit sechshundert Jahren kein Meermensch getan hatte."
 
 # game/ch09.rpy:355
 translate german ch09_ce875460:
@@ -820,7 +820,7 @@ translate german ch09_109c071f:
 translate german ch09_469e3776:
 
     # "Kessler-Vane was not destroyed. Dace brought word a week later that the yards were still working, after a fashion. But the heart had gone out of the place. The framing on Slip Nine had been found defective, and there was nobody left with the skill to say why."
-    "Kessler-Vane war nicht zerstört. Dace brachte eine Woche später Nachricht, dass die Werften noch arbeiteten, so recht und schlecht. Aber dem Ort war das Herz abhandengekommen. Das Spantenwerk auf Helling Neun war für fehlerhaft befunden worden, und es war niemand mehr da, der gekonnt hätte zu sagen, warum."
+    "Kessler-Vane war nicht zerstört. Dace brachte eine Woche später Nachricht, dass die Werften noch arbeiteten, mehr schlecht als recht. Aber dem Ort war das Herz abhandengekommen. Das Spantenwerk auf Helling Neun war für fehlerhaft befunden worden, und es war niemand mehr da, der hätte sagen können, warum."
 
 # game/ch09.rpy:364
 translate german ch09_3d5ac2fc:

@@ -52,7 +52,7 @@ translate german ch05_f6700c47:
 translate german ch05_949090ea:
 
     # "Messages were coming up from the south, in the slow way they did. A long-call was passed from hold to hold. A Threaded had turned off his patrol to carry word. She gave him the sense of them at supper, shortly."
-    "Aus dem Süden kamen Nachrichten herauf, auf die langsame Art, wie sie es taten. Ein Langruf wurde von Halte zu Halte weitergegeben. Ein Fadenträger war von seiner Streife abgebogen, um Botschaft zu bringen. Beim Abendessen gab sie ihm deren Sinn wieder, knapp."
+    "Aus dem Süden kamen Nachrichten herauf, auf ihre langsame Art. Ein Langruf wurde von Halte zu Halte weitergegeben. Ein Fadenträger war von seiner Streife abgebogen, um Botschaft zu bringen. Beim Abendessen gab sie ihm deren Sinn wieder, knapp."
 
 # game/ch05.rpy:32
 translate german ch05_ecb989f9:
@@ -148,7 +148,7 @@ translate german ch05_c49432f8:
 translate german ch05_da3ec85d:
 
     # c_okonta "I asked the old ones about a Threaded called Anselm. Two of them remembered a name beside a cradle. One had heard that the islanders' great bank is run by a man with scars on his neck. He'd taken it for a wreckers' tale."
-    c_okonta "Ich habe die Alten nach einem Fadenträger namens Anselm gefragt. Zwei von ihnen erinnerten sich an einen Namen neben einer Wiege. Einer hatte gehört, dass die große Bank der Inselleute von einem Mann mit Narben am Hals geführt wird. Er hatte es für eine Plündergeschichte gehalten."
+    c_okonta "Ich habe die Alten nach einem Fadenträger namens Anselm gefragt. Zwei von ihnen erinnerten sich an einen Namen neben einer Wiege. Einer hatte gehört, dass die große Bank der Inselleute von einem Mann mit Narben am Hals geführt wird. Er hatte es für eine Plünderergeschichte gehalten."
 
 # game/ch05.rpy:64
 translate german ch05_c480662a:
@@ -160,7 +160,7 @@ translate german ch05_c480662a:
 translate german ch05_91997f77:
 
     # "He had carried it at the back of his mind since he woke with the Thread: the Dragon, far to the south, a long bright steady note, like a lamp left burning in another room."
-    "Seit er mit dem Faden erwacht war, trug er es im Hinterkopf mit sich: den Drachen, weit im Süden, ein langer, heller, gleichmäßiger Ton, wie eine Lampe, die in einem anderen Zimmer brennen geblieben ist."
+    "Seit er mit dem Faden erwacht war, trug er es im Hinterkopf mit sich: den Drachen, weit im Süden, einen langen, hellen, gleichmäßigen Ton, wie eine Lampe, die in einem anderen Zimmer brennen geblieben ist."
 
 # game/ch05.rpy:69
 translate german ch05_62c66a78:
@@ -214,7 +214,7 @@ translate german ch05_9bca791a:
 translate german ch05_b5e7c765:
 
     # c_okonta "Without it there's no reaching the south. No Maelis. No Wells for anyone who isn't already there. No anything."
-    c_okonta "Ohne ihn kommt man nicht in den Süden. Keine Maelis. Keine Brunnen für jeden, der nicht schon dort ist. Gar nichts."
+    c_okonta "Ohne ihn kommt man nicht in den Süden. Keine Maelis. Keine Brunnen für alle, die nicht schon dort sind. Gar nichts."
 
 # game/ch05.rpy:90
 translate german ch05_f5458492:
@@ -244,7 +244,7 @@ translate german ch05_c57e844b:
 translate german ch05_9bfbd13d:
 
     # "He thought {i}forward{/i} and went into the ice. He thought {i}down{/i} and nearly went into the Well. Okonta shouted at him for the first two hundred kilometres. Somewhere in the third hundred he stopped thinking at it and began simply to lean, as she did."
-    "Er dachte {i}vorwärts{/i} und fuhr ins Eis. Er dachte {i}hinab{/i} und fuhr beinahe in den Brunnen. Okonta schrie ihn auf den ersten zweihundert Kilometern an. Irgendwo im dritten Hundert hörte er auf, auf sie einzudenken, und begann einfach, sich zu neigen, so wie sie es tat."
+    "Er dachte {i}vorwärts{/i} und fuhr ins Eis. Er dachte {i}hinab{/i} und fuhr beinahe in den Brunnen. Okonta schrie ihn auf den ersten zweihundert Kilometern an. Irgendwo im dritten Hundert hörte er auf, sie mit Gedanken zu lenken, und begann einfach, sich zu neigen, so wie sie es tat."
 
 # game/ch05.rpy:104
 translate german ch05_bfb1128f:
@@ -256,7 +256,7 @@ translate german ch05_bfb1128f:
 translate german ch05_bf9e97a7:
 
     # "He could hear through the hull. He could hear the pale singers, and the grind of the ice shelf, and the engines of a ship somewhere far to the east. He heard a hold go by beneath them with its people singing the forty days."
-    "Er konnte durch den Rumpf hören. Er hörte die Blassen Sänger, das Knirschen des Eisschelfs und die Maschinen eines Schiffes weit im Osten. Er hörte eine Halte unter ihnen vorüberziehen, deren Menschen die vierzig Tage sangen."
+    "Er konnte durch den Rumpf hören. Er hörte die Blassen Sänger, das Knirschen des Eisschelfs und die Motoren eines Schiffes weit im Osten. Er hörte eine Halte unter ihnen vorüberziehen, deren Menschen die vierzig Tage sangen."
 
 # game/ch05.rpy:109
 translate german ch05_d6ec4843:
@@ -280,7 +280,7 @@ translate german ch05_554abc38:
 translate german ch05_eea15fa0:
 
     # "It was the bound water coming loose, a little at a time, and going back into the sea it had been drawn from."
-    "Es war das gebundene Wasser, das sich löste, ein wenig nach dem anderen, und in das Meer zurückging, dem es entnommen worden war."
+    "Es war das gebundene Wasser, das sich löste, nach und nach, und in das Meer zurückging, dem es entnommen worden war."
 
 # game/ch05.rpy:122
 translate german ch05_36102ca1:
@@ -316,7 +316,7 @@ translate german ch05_6d47d09d:
 translate german ch05_18621b27:
 
     # "And down both walls of it, from the rim to as far as he could see, ran galleries. It was a city built like the inside of a throat."
-    "Und an beiden Wänden hinab, vom Rand bis, so weit er sehen konnte, zogen sich Galerien. Es war eine Stadt, gebaut wie das Innere einer Kehle."
+    "Und an beiden Wänden hinab, vom Rand hinab, so weit er sehen konnte, zogen sich Galerien. Es war eine Stadt, gebaut wie das Innere einer Kehle."
 
 # game/ch05.rpy:141
 translate german ch05_03d9fbeb:
@@ -352,7 +352,7 @@ translate german ch05_941f11a1:
 translate german ch05_53821afc:
 
     # "He had never heard anything so beautiful. People had lived inside that sound, he thought, all their lives, for a hundred generations. No wonder they were proud."
-    "Er hatte nie etwas so Schönes gehört. Menschen hatten in diesem Klang gelebt, dachte er, ihr ganzes Leben lang, hundert Geschlechter hindurch. Kein Wunder, dass sie stolz waren."
+    "Er hatte nie etwas so Schönes gehört. Menschen hatten in diesem Klang gelebt, dachte er, ihr ganzes Leben lang, hundert Generationen lang. Kein Wunder, dass sie stolz waren."
 
 # game/ch05.rpy:154
 translate german ch05_130ce26a:
@@ -454,7 +454,7 @@ translate german ch05_682288bf:
 translate german ch05_0d4e0ed0:
 
     # "They were shown out. In the corridor a small figure detached itself from the wall, and something heavy and whiskered hit Wrack in the knees."
-    "Man führte sie hinaus. Im Gang löste sich eine kleine Gestalt von der Wand, und etwas Schweres, Struppiges prallte gegen Wracks Knie."
+    "Man führte sie hinaus. Im Gang löste sich eine kleine Gestalt von der Wand, und etwas Schweres mit Schnurrhaaren prallte gegen Wracks Knie."
 
 # game/ch05.rpy:197
 translate german ch05_33acd5d4:
@@ -586,13 +586,13 @@ translate german ch05_3a939f1c:
 translate german ch05_86e82a6d:
 
     # c_sefa "They think if they say it out loud there'll be panic, and the Breakers will take the hold. So they sing. They've got the whole hold singing forty days for Jef. It's very beautiful, and nobody can hear anything else."
-    c_sefa "Sie denken, wenn sie es laut aussprechen, gibt es Panik, und die Brecher nehmen die Halte. Also singen sie. Die ganze Halte singt vierzig Tage für Jef. Es ist sehr schön, und niemand kann etwas anderes hören."
+    c_sefa "Sie denken, wenn sie es laut aussprechen, gibt es Panik, und die Brecher übernehmen die Halte. Also singen sie. Sie lassen die ganze Halte vierzig Tage für Jef singen. Es ist sehr schön, und niemand kann etwas anderes hören."
 
 # game/ch05.rpy:255
 translate german ch05_5e6b147c:
 
     # "He put his hand on the wall. Through it, through the Thread, he could feel them: seven great weights below him in the rock. Three were silent. Four were labouring, and in one of the four the labour had a catch in it that he knew from the Lantern."
-    "Er legte die Hand an die Wand. Durch sie hindurch, durch den Faden, spürte er sie: sieben große Gewichte unter ihm im Fels. Drei waren stumm. Vier arbeiteten mühsam, und in einem der vier hatte die Mühe einen Haken, den er von der Laterne kannte."
+    "Er legte die Hand an die Wand. Durch sie hindurch, durch den Faden, spürte er sie: sieben große Gewichte unter ihm im Fels. Drei waren stumm. Vier arbeiteten mühsam, und in einem der vier hatte die Mühe ein Stocken, den er von der Laterne kannte."
 
 # game/ch05.rpy:260
 translate german ch05_a6c973ea:
@@ -604,7 +604,7 @@ translate german ch05_a6c973ea:
 translate german ch05_f4324773:
 
     # "The heart-chambers were behind a door that had been sealed with wax and an elder's mark. He broke it. Inside, in a vault as big as the meeting hall at Low Anthem, stood an air-heart."
-    "Die Herzkammern lagen hinter einer Tür, die mit Wachs und dem Zeichen eines Ältesten versiegelt war. Er brach sie auf. Dahinter, in einem Gewölbe so groß wie die Versammlungshalle von Low Anthem, stand ein Luftherz."
+    "Die Herzkammern lagen hinter einer Tür, die mit Wachs und dem Zeichen eines Ältesten versiegelt war. Er brach das Siegel. Dahinter, in einem Gewölbe so groß wie die Versammlungshalle von Low Anthem, stand ein Luftherz."
 
 # game/ch05.rpy:269
 translate german ch05_3ad61e59:
@@ -652,13 +652,13 @@ translate german ch05_90306777:
 translate german ch05_c31e3c03:
 
     # "There was no time to do the work and no air to do it in. So he did what had served at the Lantern. He asked the sea to help him cheat."
-    "Es blieb keine Zeit, die Arbeit zu tun, und keine Luft, sie darin zu tun. Also tat er, was im Fall der Laterne geholfen hatte. Er bat das Meer, ihm beim Mogeln zu helfen."
+    "Es blieb keine Zeit, die Arbeit zu tun, und keine Luft, in der man sie hätte tun können. Also tat er, was in der Laterne geholfen hatte. Er bat das Meer, ihm beim Mogeln zu helfen."
 
 # game/ch05.rpy:295
 translate german ch05_153df5b0:
 
     # "He sat on the floor of the heart-chamber with one hand in a channel and reached out into every flooded gallery of the lower hold at once. In each one he asked the water to give up what air it carried, and to gather it against the roof in a great still bubble, and to keep it there."
-    "Er setzte sich auf den Boden der Herzkammer, eine Hand in einem Kanal, und griff gleichzeitig in jede geflutete Galerie der unteren Halte hinaus. In jeder bat er das Wasser, die Luft herzugeben, die es trug, und sie in einer großen stillen Blase unter dem Dach zu sammeln und dort zu halten."
+    "Er setzte sich auf den Boden der Herzkammer, eine Hand in einem Kanal, und griff gleichzeitig in jede geflutete Galerie der unteren Halte hinaus. In jeder bat er das Wasser, die Luft herzugeben, die es trug, und sie in einer großen stillen Blase unter der Decke zu sammeln und dort zu halten."
 
 # game/ch05.rpy:296
 translate german ch05_d71e643e:
@@ -766,7 +766,7 @@ translate german ch05_4d49bcb4:
 translate german ch05_e7762f73:
 
     # "Sefa stared at him. Her eyes filled."
-    "Sefa starrte ihn an. Ihre Augen füllten sich."
+    "Sefa starrte ihn an. Ihre Augen füllten sich mit Tränen."
 
 # game/ch05.rpy:349
 translate german ch05_add3671f:
@@ -814,7 +814,7 @@ translate german ch05_3c138b3b:
 translate german ch05_8acae92e:
 
     # "She said that the air-hearts of Deep Chorus were failing, and had been for six years. She said that three were dead and a fourth was dying. She said that people were suffocating on the lowest tier, eleven that week, and she said their names."
-    "Sie sagte, dass die Luftherzen von Deep Chorus versagten und es seit sechs Jahren taten. Sie sagte, dass drei tot seien und ein viertes im Sterben liege. Sie sagte, dass Menschen auf dem untersten Rang erstickten, elf in dieser Woche, und sie nannte ihre Namen."
+    "Sie sagte, dass die Luftherzen von Deep Chorus versagten, und das schon seit sechs Jahren. Sie sagte, dass drei tot seien und ein viertes im Sterben liege. Sie sagte, dass Menschen auf dem untersten Rang erstickten, elf in dieser Woche, und sie nannte ihre Namen."
 
 # game/ch05.rpy:373
 translate german ch05_68b6ad07:
@@ -850,7 +850,7 @@ translate german ch05_9c0b5b34:
 translate german ch05_80e34e72:
 
     # "The singing of the forty days stopped. In its place the choirmasters called the tiers one to another across the gulf, in short sung phrases, and the canyon carried their orders more quickly than any runner."
-    "Der Gesang der vierzig Tage verstummte. An seiner Stelle riefen die Chormeister die Ränge einander über die Schlucht zu, in kurzen gesungenen Phrasen, und der Kanyon trug ihre Befehle schneller als jeder Läufer."
+    "Der Gesang der vierzig Tage verstummte. An seiner Stelle riefen die Chormeister einander von Rang zu Rang über die Schlucht hinweg zu, in kurzen gesungenen Phrasen, und der Kanyon trug ihre Befehle schneller als jeder Läufer."
 
 # game/ch05.rpy:387
 translate german ch05_44bcd090:
@@ -862,7 +862,7 @@ translate german ch05_44bcd090:
 translate german ch05_0d8916be:
 
     # "When he tired, another caller took it. They worked in shifts, and none of them asked for anything they could not carry."
-    "Wenn er ermüdete, übernahm ein anderer Rufer sie. Sie arbeiteten in Schichten, und keiner von ihnen verlangte etwas, das er nicht tragen konnte."
+    "Wenn er ermüdete, übernahm ein anderer Rufer sie. Sie arbeiteten in Schichten, und keiner von ihnen bat um etwas, das er nicht tragen konnte."
 
 # game/ch05.rpy:392
 translate german ch05_f480352b:
@@ -892,7 +892,7 @@ translate german ch05_eb68af55:
 translate german ch05_0d6574a9:
 
     # "Then he felt air begin to move through the lower tiers, cold and clean. In the gallery overhead a lamp came on."
-    "Dann spürte er Luft durch die unteren Ränge zu strömen beginnen, kalt und sauber. In der Galerie über ihm ging eine Lampe an."
+    "Dann spürte er, wie Luft durch die unteren Ränge zu strömen begann, kalt und sauber. In der Galerie über ihm ging eine Lampe an."
 
 # game/ch05.rpy:404
 translate german ch05_ef29ccdc:

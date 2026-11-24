@@ -4,7 +4,7 @@
 translate german ch08_88e79445:
 
     # "They rode the Dragon north for a day, as far as the edge of the Bright Shelves, and left it there on the needles. Sefa rode behind Ilan with her arms round his waist."
-    "Sie ritten den Drachen einen Tag lang nach Norden, bis an den Rand der Hellen Schelfe, und ließen ihn dort zurück, auf den Nadeln. Sefa ritt hinter Ilan, die Arme um seine Taille gelegt."
+    "Sie ritten den Drachen einen Tag lang nach Norden, bis an den Rand der Hellen Schelfe, und verließen ihn dort auf den Nadeln. Sefa ritt hinter Ilan, die Arme um seine Taille gelegt."
 
 # game/ch08.rpy:19
 translate german ch08_92025598:
@@ -76,7 +76,7 @@ translate german ch08_d12abba9:
 translate german ch08_891cd7fd:
 
     # c_dace "I'm Dace. I'm Driftfolk, out of Lashing. A stingray the size of a customs cutter came up alongside my raft nine days ago and put a picture in my head, and I've not been right since."
-    c_dace "Ich bin Dace. Ich gehöre zum Treibvolk, aus Lashing. Ein Stachelrochen so groß wie ein Zollkutter ist vor neun Tagen neben mein Floß gekommen und hat mir ein Bild in den Kopf gesetzt, und seitdem bin ich nicht mehr richtig."
+    c_dace "Ich bin Dace. Ich gehöre zum Treibvolk, aus Lashing. Ein Stachelrochen so groß wie ein Zollkutter ist vor neun Tagen neben mein Floß gekommen und hat mir ein Bild in den Kopf gesetzt, und seitdem bin ich nicht mehr die Alte."
 
 # game/ch08.rpy:54
 translate german ch08_642bb8ee:
@@ -136,7 +136,7 @@ translate german ch08_96363f97:
 translate german ch08_edb3d384:
 
     # "They were called the Driftfolk, and they had no island. They had rafts, lashed together in floating towns, which followed the calm places through the storms. They carried what the corporations would not carry, to people the corporations did not serve, and asked no questions of anyone."
-    "Man nannte sie das Treibvolk, und sie hatten keine Insel. Sie hatten Flöße, zu schwimmenden Städten zusammengezurrt, die den ruhigen Stellen durch die Stürme folgten. Sie beförderten, was die Konzerne nicht befördern wollten, zu Menschen, denen die Konzerne nicht dienten, und stellten niemandem Fragen."
+    "Man nannte sie das Treibvolk, und sie hatten keine Insel. Sie hatten Flöße, zu schwimmenden Städten zusammengezurrt, die den ruhigen Stellen durch die Stürme folgten. Sie beförderten, was die Konzerne nicht befördern wollten, zu Menschen, die die Konzerne nicht bedienten, und stellten niemandem Fragen."
 
 # game/ch08.rpy:81
 translate german ch08_c3049817:
@@ -184,19 +184,19 @@ translate german ch08_858ccffb:
 translate german ch08_8e1a2c74:
 
     # "They crossed the storms by the Eyes."
-    "Sie querten die Stürme über die Augen."
+    "Sie querten die Stürme von Auge zu Auge."
 
 # game/ch08.rpy:106
 translate german ch08_fc86dd09:
 
     # "Ilan had done it a hundred times on company ships, behind glass, with a drink. He had never done it in an open boat. You ran flat out through wind and black rain toward a patch of calm that you could not yet see."
-    "Ilan hatte es hundertmal auf Firmenschiffen getan, hinter Glas, mit einem Drink. Nie war er es in einem offenen Boot gefahren. Man fuhr mit voller Kraft durch Wind und schwarzen Regen auf eine Stelle der Ruhe zu, die man noch nicht sehen konnte."
+    "Ilan hatte es hundertmal auf Firmenschiffen getan, hinter Glas, mit einem Drink. Nie hatte er es in einem offenen Boot getan. Man fuhr mit voller Kraft durch Wind und schwarzen Regen auf eine Stelle der Ruhe zu, die man noch nicht sehen konnte."
 
 # game/ch08.rpy:107
 translate german ch08_8f341f9c:
 
     # "The calm drifted. There were dozens of them, scattered through the Belt, and they moved on a pattern that took years to learn. The big ships had instruments. The Driftfolk had it by heart, handed down like a song."
-    "Die Ruhe wanderte. Es gab Dutzende davon, über den Sturmgürtel verstreut, und sie zogen nach einem Muster, das man erst in Jahren lernte. Die großen Schiffe hatten Instrumente. Das Treibvolk kannte es auswendig, weitergegeben wie ein Lied."
+    "Die Ruhe wanderte. Es gab Dutzende solcher Stellen, über den Sturmgürtel verstreut, und sie zogen nach einem Muster, das man erst in Jahren lernte. Die großen Schiffe hatten Instrumente. Das Treibvolk kannte es auswendig, weitergegeben wie ein Lied."
 
 # game/ch08.rpy:110
 translate german ch08_3325e1b5:
@@ -226,7 +226,7 @@ translate german ch08_3aab3ede:
 translate german ch08_d6a18067:
 
     # "Grey fins followed the boat, six or eight of them. They were belt sharks, Dace said. They followed anything that floated, for the scraps and the dumping."
-    "Graue Flossen folgten dem Boot, sechs oder acht. Es seien Gürtelhaie, sagte Dace. Sie folgten allem, was schwamm, wegen der Reste und dessen, was über Bord ging."
+    "Graue Flossen folgten dem Boot, sechs oder acht. Es seien Gürtelhaie, sagte Dace. Sie folgten allem, was schwamm, wegen der Reste und des Verklappten."
 
 # game/ch08.rpy:120
 translate german ch08_29972b1f:
@@ -274,7 +274,7 @@ translate german ch08_c2097874:
 translate german ch08_e931c324:
 
     # c_ilan "Start there. Every island on Ovara put together would fit inside the Anthem Waters twenty times over. So every bit of ground is owned. You can't be born without being born on somebody's land."
-    c_ilan "Fang damit an. Alle Inseln auf Ovara zusammen würden zwanzigmal in die Anthem-Gewässer passen. Also gehört jedes Stück Boden jemandem. Man kann nicht geboren werden, ohne auf dem Land von jemandem geboren zu werden."
+    c_ilan "Damit fängt es an. Alle Inseln auf Ovara zusammen würden zwanzigmal in die Anthem-Gewässer passen. Also gehört jedes Stück Land jemandem. Man kann nicht geboren werden, ohne auf dem Land von jemandem geboren zu werden."
 
 # game/ch08.rpy:146
 translate german ch08_691073b7:
@@ -310,7 +310,7 @@ translate german ch08_54cb6d33:
 translate german ch08_114ea28c:
 
     # c_ilan "Halcyon digs. Ore, fuel, anything under the sea bed. Kessler-Vane builds ships and guns for all of them. Brightwater sells food and water and medicine, and it's the one everybody likes. Meridian lends the money and insures the ships. Orrin owns the screens and decides what people hear."
-    c_ilan "Halcyon gräbt. Erz, Treibstoff, alles unter dem Meeresboden. Kessler-Vane baut Schiffe und Kanonen für alle. Brightwater verkauft Essen und Wasser und Medizin, und es ist die, die alle mögen. Meridian verleiht das Geld und versichert die Schiffe. Orrin gehören die Bildschirme, und es entscheidet, was die Leute hören."
+    c_ilan "Halcyon gräbt. Erz, Treibstoff, alles unter dem Meeresboden. Kessler-Vane baut Schiffe und Kanonen für alle. Brightwater verkauft Essen und Wasser und Medizin, und es ist der Konzern, den alle mögen. Meridian verleiht das Geld und versichert die Schiffe. Orrin gehören die Bildschirme, und es entscheidet, was die Leute hören."
 
 # game/ch08.rpy:160
 translate german ch08_a0df3f91:
@@ -370,7 +370,7 @@ translate german ch08_93cbef86:
 translate german ch08_01ef7bbc:
 
     # c_ilan "I liked that there was always a next thing to get. I had a flat with a bluewood table. Do you know what bluewood is? It's the last real tree. The table cost more than my father earned in his life."
-    c_ilan "Mir gefiel, dass es immer etwas Nächstes zu bekommen gab. Ich hatte eine Wohnung mit einem Tisch aus Blauholz. Weißt du, was Blauholz ist? Es ist der letzte echte Baum. Der Tisch kostete mehr, als mein Vater in seinem ganzen Leben verdient hat."
+    c_ilan "Mir gefiel, dass es immer noch etwas zu erreichen gab. Ich hatte eine Wohnung mit einem Tisch aus Blauholz. Weißt du, was Blauholz ist? Es ist der letzte echte Baum. Der Tisch kostete mehr, als mein Vater in seinem ganzen Leben verdient hat."
 
 # game/ch08.rpy:192
 translate german ch08_a0a16463:
@@ -418,7 +418,7 @@ translate german ch08_76e9e286:
 translate german ch08_b8200c44:
 
     # "They built across from stack to stack on stilts and girders and cables, tier on tier, until the city hung over the water like a mass of nests in a dead tree. And every surface of it flashed and crawled with coloured light."
-    "Sie bauten von Säule zu Säule auf Stelzen, Trägern und Kabeln, Stock auf Stock, bis die Stadt wie ein Haufen Nester in einem toten Baum über dem Wasser hing. Und jede Fläche an ihr blitzte und kroch vor farbigem Licht."
+    "Sie bauten von Säule zu Säule auf Stelzen, Trägern und Kabeln, Stock auf Stock, bis die Stadt wie ein Haufen Nester in einem toten Baum über dem Wasser hing. Und jede Fläche an ihr blitzte und wimmelte von farbigem Licht."
 
 # game/ch08.rpy:215
 translate german ch08_846f6cc8:
@@ -496,7 +496,7 @@ translate german ch08_236019b7:
 translate german ch08_00c1eb40:
 
     # c_dace "Now you listen. You stay wet. Canals and the Wet Market, no higher. I've a tub in the deckhouse for when we're tied up. A day in the dry up there and you'll be on your back, and two days you'll be in a box."
-    c_dace "Jetzt hör zu. Du bleibst nass. Kanäle und der Nassmarkt, nicht höher. Ich habe eine Wanne im Deckshaus, für wenn wir festgemacht haben. Einen Tag im Trockenen da oben, und du liegst flach, und nach zwei Tagen liegst du in einer Kiste."
+    c_dace "Jetzt hör zu. Du bleibst nass. Kanäle und der Nassmarkt, nicht höher. Ich habe eine Wanne im Deckshaus, für die Zeit, wenn wir festgemacht haben. Einen Tag im Trockenen da oben, und du liegst flach, und nach zwei Tagen liegst du in einer Kiste."
 
 # game/ch08.rpy:261
 translate german ch08_a8d1e392:
@@ -640,7 +640,7 @@ translate german ch08_9c357a25:
 translate german ch08_1c04ad7b:
 
     # "It was a back canal in the poor quarter, narrow and dim. He knew every door. He knew the noodle stall on the corner, and the smell of it. The tenement was still standing. There was a light in the fourth-floor window, and somebody else's curtain."
-    "Es war ein Hinterkanal im Armenviertel, eng und dämmrig. Er kannte jede Tür. Er kannte den Nudelstand an der Ecke und seinen Geruch. Das Mietshaus stand noch. Im Fenster im vierten Stock brannte ein Licht, und es hing der Vorhang von jemand anderem."
+    "Es war ein Hinterkanal im Armenviertel, eng und dämmrig. Er kannte jede Tür. Er kannte den Nudelstand an der Ecke und seinen Geruch. Die Mietskaserne stand noch. Im Fenster im vierten Stock brannte ein Licht, und es hing der Vorhang von jemand anderem."
 
 # game/ch08.rpy:337
 translate german ch08_60a70eb0:
@@ -700,7 +700,7 @@ translate german ch08_9e78240f:
 translate german ch08_7d5d38b6:
 
     # c_dace "They've no leader and no meetings. It's the only reason any of them are alive."
-    c_dace "Einen Anführer haben sie nicht, und Versammlungen auch nicht. Nur darum ist noch einer von ihnen am Leben."
+    c_dace "Einen Anführer haben sie nicht, und Versammlungen auch nicht. Nur darum sind sie überhaupt noch am Leben."
 
 # game/ch08.rpy:369
 translate german ch08_2ac6d7ef:
@@ -724,7 +724,7 @@ translate german ch08_73759296:
 translate german ch08_fd96ac8e:
 
     # "She had begun in a dockside dispensary, and still kept a stethoscope in her desk. She had once explained to him, kindly, over tea, why a medicine that cured in a single dose was a poor product."
-    "Sie hatte in einer Hafenambulanz angefangen und hielt noch immer ein Stethoskop in ihrem Schreibtisch. Sie hatte ihm einmal freundlich bei einer Tasse Tee erklärt, warum ein Medikament, das mit einer einzigen Dosis heilte, ein schlechtes Produkt war."
+    "Sie hatte in einer Hafenambulanz angefangen und bewahrte noch immer ein Stethoskop in ihrem Schreibtisch auf. Sie hatte ihm einmal freundlich bei einer Tasse Tee erklärt, warum ein Medikament, das mit einer einzigen Dosis heilte, ein schlechtes Produkt war."
 
 # game/ch08.rpy:382
 translate german ch08_0639bce0:
@@ -778,7 +778,7 @@ translate german ch08_f35b5b74:
 translate german ch08_1956b442:
 
     # "The healers of the two great hospitals did not all stay at the bottom of the Wells. Some took a turn at walking the world. They went alone, with nothing. They went from hold to hold, and into the ports, and up onto the beaches of the islands."
-    "Die Heiler der beiden großen Hospitäler blieben nicht alle auf dem Grund der Brunnen. Manche gingen eine Zeit lang durch die Welt. Sie gingen allein, mit nichts. Sie gingen von Halte zu Halte und in die Häfen und hinauf an die Strände der Inseln."
+    "Die Heilerinnen der beiden großen Krankenhäuser blieben nicht alle auf dem Grund der Brunnen. Manche gingen eine Zeit lang durch die Welt. Sie gingen allein, mit nichts. Sie gingen von Halte zu Halte und in die Häfen und hinauf an die Strände der Inseln."
 
 # game/ch08.rpy:401
 translate german ch08_2aabacdb:
@@ -832,7 +832,7 @@ translate german ch08_87e4af8a:
 translate german ch08_f656e10f:
 
     # c_ilan "There's no sea in that building. Nothing that's joined to it. It'll be orphan water, all of it, in pipes and tanks. Whatever I can do in there will be weak, and it won't last."
-    c_ilan "In diesem Gebäude ist kein Meer. Nichts, was mit ihm verbunden ist. Es wird Waisenwasser sein, alles davon, in Rohren und Tanks. Was ich dort drinnen auch tun kann, wird schwach sein, und es wird nicht lange halten."
+    c_ilan "In diesem Gebäude ist kein Meer. Nichts, was mit ihm verbunden ist. Es wird alles Waisenwasser sein, in Rohren und Tanks. Was ich dort drinnen auch tun kann, wird schwach sein, und es wird nicht lange halten."
 
 # game/ch08.rpy:422
 translate german ch08_6cb0bd9d:
@@ -910,7 +910,7 @@ translate german ch08_d8b54394:
 translate german ch08_e412371d:
 
     # c_ilan "For all of it. Can you swim?"
-    c_ilan "Für alles. Kannst du schwimmen?"
+    c_ilan "Alles. Kannst du schwimmen?"
 
 # game/ch08.rpy:464
 translate german ch08_cc719159:
@@ -934,7 +934,7 @@ translate german ch08_bcb5d2cd:
 translate german ch08_c4a52a55:
 
     # "But there was a great deal of it. It was enough to fill a corridor to the knee and take the feet from under four men. It held for a few seconds as a slope of water down thirty flights of the emergency stair."
-    "Aber es war sehr viel davon. Es reichte, um einen Korridor kniehoch zu füllen und vier Männern die Füße wegzureißen. Für ein paar Sekunden hielt es als Wasserhang über dreißig Treppenläufe der Nottreppe hinab."
+    "Aber es gab sehr viel davon. Es reichte, um einen Korridor kniehoch zu füllen und vier Männern die Füße wegzureißen. Für ein paar Sekunden hielt es als Wasserhang über dreißig Treppenläufe der Nottreppe hinab."
 
 # game/ch08.rpy:471
 translate german ch08_5a90c1b2:
@@ -946,7 +946,7 @@ translate german ch08_5a90c1b2:
 translate german ch08_7a1f2abf:
 
     # "They went into the canal from a loading dock as the last of it gave out. Dace's boat was there. Sefa was in the water with her arms up."
-    "Sie gingen von einer Laderampe aus in den Kanal, als das Letzte davon versagte. Daces Boot war da. Sefa war im Wasser, die Arme erhoben."
+    "Sie gingen von einer Laderampe aus in den Kanal, als der letzte Rest versiegte. Daces Boot war da. Sefa war im Wasser, die Arme erhoben."
 
 # game/ch08.rpy:480
 translate german ch08_efcf5564:
@@ -964,7 +964,7 @@ translate german ch08_373f7bb8:
 translate german ch08_994c5a53:
 
     # "She lay for two days in the shadows under the Wet Market, where the sea came in clean on the tide, and let it come back to her. Sefa did not leave her. She fed her broth from a spoon and held her up in the water, and looked at her as Elder Oro had looked at the lamp."
-    "Zwei Tage lag sie in den Schatten unter dem Nassmarkt, wo das Meer mit der Flut sauber hereinkam, und ließ es wieder zu sich kommen. Sefa wich nicht von ihrer Seite. Sie gab ihr löffelweise Brühe, hielt sie im Wasser aufrecht und sah sie an, wie Ältester Oro die Lampe angesehen hatte."
+    "Zwei Tage lag sie in den Schatten unter dem Nassmarkt, wo das Meer mit der Flut sauber hereinkam, und ließ es zu sich zurückkehren. Sefa wich nicht von ihrer Seite. Sie gab ihr löffelweise Brühe, hielt sie im Wasser aufrecht und sah sie an, wie Ältester Oro die Lampe angesehen hatte."
 
 # game/ch08.rpy:487
 translate german ch08_79a97bb7:
@@ -1018,7 +1018,7 @@ translate german ch08_77cb6b62:
 translate german ch08_58481773:
 
     # "She sat up, slowly, against a piling."
-    "Sie setzte sich langsam auf, gegen einen Pfahl gelehnt."
+    "Sie setzte sich langsam auf, an einen Pfahl gelehnt."
 
 # game/ch08.rpy:512
 translate german ch08_ab42ca8c:
@@ -1054,7 +1054,7 @@ translate german ch08_f9dec058:
 translate german ch08_cb42e7c9:
 
     # "He knew why. He wanted very badly to be a man who healed instead of a man who burned. He wanted it so much that the water could feel nothing else in him."
-    "Er wusste, warum. Er wollte so sehr ein Mann sein, der heilte, statt eines Mannes, der verbrannte. Er wollte es so sehr, dass das Wasser nichts anderes mehr in ihm spüren konnte."
+    "Er wusste, warum. Er wollte unbedingt ein Mann sein, der heilte, statt eines Mannes, der verbrannte. Er wollte es so sehr, dass das Wasser nichts anderes mehr in ihm spüren konnte."
 
 # game/ch08.rpy:535
 translate german ch08_3593b270:
@@ -1096,7 +1096,7 @@ translate german ch08_df45ffe9:
 translate german ch08_16aa1af9:
 
     # "She said frankly that he would never be delicate. She said also that she had not felt strength like it outside the Wells."
-    "Sie sagte offen, er werde nie zartfühlend sein. Sie sagte auch, sie habe außerhalb der Brunnen noch nie eine solche Stärke gespürt."
+    "Sie sagte offen, er werde nie feinfühlig sein. Sie sagte auch, sie habe außerhalb der Brunnen noch nie eine solche Stärke gespürt."
 
 # game/ch08.rpy:560
 translate german ch08_6790d698:
@@ -1324,7 +1324,7 @@ translate german ch08_5a9262d7:
 translate german ch08_1c1e5332:
 
     # "She turned back."
-    "Sie wandte sich wieder ab."
+    "Sie wandte sich wieder Yeva zu."
 
 # game/ch08.rpy:652
 translate german ch08_c789d576:
@@ -1348,7 +1348,7 @@ translate german ch08_d24e453b:
 translate german ch08_a309f4c6:
 
     # c_marsh "I have forty hospitals. There are beds in them empty tonight, because the people who need them have no scrip."
-    c_marsh "Ich habe vierzig Hospitäler. Heute Nacht stehen Betten darin leer, weil die, die sie brauchen, kein Firmengeld haben."
+    c_marsh "Ich habe vierzig Krankenhäuser. Heute Nacht stehen Betten darin leer, weil die, die sie brauchen, kein Firmengeld haben."
 
 # game/ch08.rpy:658
 translate german ch08_00d2456f:
@@ -1432,7 +1432,7 @@ translate german ch08_f6a25bdc:
 translate german ch08_bc31cbb4:
 
     # c_marsh "Brightwater's notes are held at the Exchange, like everybody's. I can't give away a bandage without the chairman's leave. I've asked to see him."
-    c_marsh "Brightwaters Schuldscheine liegen an der Börse, wie die von allen. Ich kann keinen Verband verschenken ohne die Erlaubnis des Vorsitzenden. Ich habe darum gebeten, ihn zu sehen."
+    c_marsh "Brightwaters Schuldscheine liegen bei der Börse, wie die von allen. Ich kann keinen Verband verschenken ohne die Erlaubnis des Vorsitzenden. Ich habe darum gebeten, ihn zu sehen."
 
 # game/ch08.rpy:703
 translate german ch08_f103289c:
@@ -1480,19 +1480,19 @@ translate german ch08_12b1b445:
 translate german ch08_e18d0398:
 
     # c_ilan "I've never seen anyone try."
-    c_ilan "Ich habe noch nie jemanden es versuchen sehen."
+    c_ilan "Ich habe noch nie gesehen, dass es jemand versucht."
 
 # game/ch08.rpy:725
 translate german ch08_3962631a:
 
     # "On the ninth day Yeva went back to her road. She kissed Sefa on the forehead, which made Sefa cry. To Ilan she said only,"
-    "Am neunten Tag kehrte Yeva auf ihren Weg zurück. Sie küsste Sefa auf die Stirn, wodurch Sefa weinen musste. Zu Ilan sagte sie nur,"
+    "Am neunten Tag kehrte Yeva auf ihren Weg zurück. Sie küsste Sefa auf die Stirn, und da musste Sefa weinen. Zu Ilan sagte sie nur,"
 
 # game/ch08.rpy:730
 translate german ch08_179c0c57:
 
     # c_yeva "Look at it. All of it. Every day."
-    c_yeva "Sehen Sie es sich an. Alles davon. Jeden Tag."
+    c_yeva "Sehen Sie es sich an. Alles. Jeden Tag."
 
 # game/ch08.rpy:735
 translate german ch08_f857d7ab:

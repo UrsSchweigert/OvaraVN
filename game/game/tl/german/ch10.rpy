@@ -4,7 +4,7 @@
 translate german ch10_5265ee6c:
 
     # "Lashing had one law, and it had never before been asked to keep it for an enemy."
-    "Lashing hatte ein einziges Gesetz, und noch nie hatte man von ihm verlangt, es für einen Feind zu halten."
+    "Lashing hatte ein einziges Gesetz, und noch nie hatte man von ihm verlangt, es für einen Feind einzuhalten."
 
 # game/ch10.rpy:11
 translate german ch10_0213ee26:
@@ -52,13 +52,13 @@ translate german ch10_8126b206:
 translate german ch10_dab2f891:
 
     # c_dace "You're never going,"
-    c_dace "Sie gehen auf keinen Fall,"
+    c_dace "Sie gehen doch nicht etwa hin,"
 
 # game/ch10.rpy:29
 translate german ch10_b6ae2a9a:
 
     # c_ilan "He's come a long way."
-    c_ilan "Er ist weit gekommen."
+    c_ilan "Er hat einen weiten Weg hinter sich."
 
 # game/ch10.rpy:30
 translate german ch10_44fc159d:
@@ -88,7 +88,7 @@ translate german ch10_cfb3e7a8:
 translate german ch10_581f6769:
 
     # "Teodora Raske would not come. She said that she had sat across a desk from the chairman of Meridian twice in her life, and each time had agreed to something."
-    "Teodora Raske wollte nicht mitkommen. Sie sagte, sie habe in ihrem Leben zweimal einem Vorsitzenden von Meridian an einem Schreibtisch gegenübergesessen und beide Male etwas zugestimmt."
+    "Teodora Raske wollte nicht mitkommen. Sie sagte, sie habe in ihrem Leben zweimal dem Vorsitzenden von Meridian an einem Schreibtisch gegenübergesessen und beide Male etwas zugestimmt."
 
 # game/ch10.rpy:45
 translate german ch10_544f2f39:
@@ -142,7 +142,7 @@ translate german ch10_e3af269e:
 translate german ch10_db0b0a97:
 
     # c_anselm "You look a great deal better than you did at his house. You had a face like an empty plate there. It was very hard to see."
-    c_anselm "Du siehst weit besser aus als in seinem Haus. Dort hattest du ein Gesicht wie ein leerer Teller. Es war sehr schwer zu erkennen."
+    c_anselm "Du siehst weit besser aus als in seinem Haus. Dort hattest du ein Gesicht wie ein leerer Teller. Es war sehr schwer mit anzusehen."
 
 # game/ch10.rpy:70
 translate german ch10_f85ede27:
@@ -202,7 +202,7 @@ translate german ch10_83bab7eb:
 translate german ch10_d071463c:
 
     # "Dace's aunt brought the bream herself, on a tin dish, with her mouth shut like a purse. It had been cooked in stormgrass ash, as the Driftfolk cooked. Rook thanked her. He boned it at the table, as he always had."
-    "Daces Tante brachte die Brasse selbst, auf einer Blechplatte, den Mund fest geschlossen wie einen zugezogenen Beutel. Sie war in Sturmgrasasche gegart worden, wie das Treibvolk es kochte. Rook dankte ihr. Er entgrätete sie am Tisch, wie er es immer getan hatte."
+    "Daces Tante brachte die Brasse selbst, auf einer Blechplatte, den Mund fest geschlossen wie einen zugezogenen Beutel. Die Brasse war in Sturmgrasasche gegart worden, wie das Treibvolk es kochte. Rook dankte ihr. Er entgrätete sie am Tisch, wie er es immer getan hatte."
 
 # game/ch10.rpy:92
 translate german ch10_5eba6487:
@@ -244,7 +244,7 @@ translate german ch10_bcc9eb09:
 translate german ch10_19a491ae:
 
     # c_anselm "Ask me what you came to ask. You've never been able to eat until you'd said the thing."
-    c_anselm "Frag mich, weswegen du gekommen bist. Du konntest noch nie essen, ehe du die Sache gesagt hattest."
+    c_anselm "Frag mich, was du fragen wolltest. Du konntest noch nie essen, ehe du die Sache gesagt hattest."
 
 # game/ch10.rpy:103
 translate german ch10_d3e96c02:
@@ -274,7 +274,7 @@ translate german ch10_13cbf373:
 translate german ch10_7dc7109f:
 
     # c_anselm "You told me that the Makers were one people, and that your mother had been a mariner, and that you meant to say so to forty million islanders by the evening bulletin. You were crying. I had never heard you cry. And I knew what was in the lowest vault, because my own people were standing in front of it."
-    c_anselm "Du hast mir gesagt, dass die Erbauer ein einziges Volk waren, dass deine Mutter vom Meervolk gewesen war und dass du das vierzig Millionen Inselbewohnern in den Abendnachrichten sagen wolltest. Du hast geweint. Ich hatte dich nie weinen hören. Und ich wusste, was im untersten Gewölbe war, denn meine eigenen Leute standen davor."
+    c_anselm "Du hast mir gesagt, dass die Erbauer ein einziges Volk waren, dass deine Mutter vom Meervolk gewesen war und dass du das vierzig Millionen Inselleuten bis zu den Abendnachrichten sagen wolltest. Du hast geweint. Ich hatte dich nie weinen hören. Und ich wusste, was im untersten Gewölbe war, denn meine eigenen Leute standen davor."
 
 # game/ch10.rpy:110
 translate german ch10_56e84b2a:
@@ -424,13 +424,13 @@ translate german ch10_7a93e08b:
 translate german ch10_a190ad80:
 
     # c_anselm "A shelf. The islands are only its high places. Two hundred thousand square kilometres of ground, and nowhere on it more than a tall building's depth of water. That is all that stands between forty million people and room to breathe."
-    c_anselm "Ein Schelf. Die Inseln sind nur seine höheren Stellen. Zweihunderttausend Quadratkilometer Grund, und nirgends darauf mehr Wasser als die Tiefe eines hohen Gebäudes. Das ist alles, was zwischen vierzig Millionen Menschen und Platz zum Atmen steht."
+    c_anselm "Ein Schelf. Die Inseln sind nur seine höheren Stellen. Zweihunderttausend Quadratkilometer Land, und nirgends darauf mehr Wasser als die Tiefe eines hohen Gebäudes. Das ist alles, was zwischen vierzig Millionen Menschen und Platz zum Atmen steht."
 
 # game/ch10.rpy:166
 translate german ch10_89b22e11:
 
     # c_anselm "Halcyon thinks it has a gun. Halcyon has only ever had the one idea. My people recorded those walls for four hours before they went dark, and I've had the pictures read."
-    c_anselm "Halcyon glaubt, eine Kanone gefunden zu haben. Halcyon hat immer nur diese eine Idee gehabt. Meine Leute haben diese Wände vier Stunden lang aufgezeichnet, bevor sie dunkel wurden, und ich habe die Bilder auswerten lassen."
+    c_anselm "Halcyon glaubt, eine Kanone zu haben. Halcyon hat immer nur diese eine Idee gehabt. Meine Leute haben diese Wände vier Stunden lang aufgezeichnet, bevor sie dunkel wurden, und ich habe die Bilder auswerten lassen."
 
 # game/ch10.rpy:167
 translate german ch10_6cba293f:
@@ -502,13 +502,13 @@ translate german ch10_000a35e3:
 translate german ch10_e52e037d:
 
     # "It went away from the little pale thing on every side, smoothly, and stood up round the rim of the bowl in a ring as high as a finger. The middle of the bowl was dry. It was not like calling. Ilan had shaped water a thousand times, and it had always been like guiding something alive. This was like watching a nail go into wood."
-    "Es wich von dem kleinen hellen Ding nach allen Seiten, glatt, und stand rund um den Rand der Schale in einem Ring, fingerhoch. Die Mitte der Schale war trocken. Es war kein Rufen. Ilan hatte tausendmal Wasser geformt, und es war immer gewesen, als führe man etwas Lebendiges. Dies war, als sähe man zu, wie ein Nagel in Holz getrieben wird."
+    "Es wich von dem kleinen hellen Ding nach allen Seiten, glatt, und stand rund um den Rand der Schale in einem Ring, fingerhoch. Die Mitte der Schale war trocken. Es war nicht wie Rufen. Ilan hatte tausendmal Wasser geformt, und es war immer gewesen, als führe man etwas Lebendiges. Dies war, als sähe man zu, wie ein Nagel in Holz getrieben wird."
 
 # game/ch10.rpy:201
 translate german ch10_9af47ee0:
 
     # "Below the grating someone caught their breath."
-    "Unter dem Gitter hielt jemand den Atem an."
+    "Unter dem Gitter zog jemand scharf die Luft ein."
 
 # game/ch10.rpy:202
 translate german ch10_a22ba1d9:
@@ -526,7 +526,7 @@ translate german ch10_3941d00f:
 translate german ch10_c9ae2d46:
 
     # "Ilan did not need to. He had felt it go. There was no voice at all now, near or far. It was a bowlful of the Slick, as clear as glass."
-    "Ilan musste es nicht. Er hatte gespürt, wie es verging. Jetzt war überhaupt keine Stimme mehr da, weder nah noch fern. Es war eine Schale voll vom Schlick, klar wie Glas."
+    "Ilan musste es nicht. Er hatte gespürt, wie es verging. Jetzt war überhaupt keine Stimme mehr da, weder nah noch fern. Es war eine Schale voll Schlick, klar wie Glas."
 
 # game/ch10.rpy:217
 translate german ch10_3332f424:
@@ -592,7 +592,7 @@ translate german ch10_495cf207:
 translate german ch10_7e46242c:
 
     # c_ilan "On twenty years' service."
-    c_ilan "Auf zwanzig Jahre Dienst."
+    c_ilan "Gegen zwanzig Jahre Dienst."
 
 # game/ch10.rpy:236
 translate german ch10_2d5a1278:
@@ -610,13 +610,13 @@ translate german ch10_81ded216:
 translate german ch10_cf3361a9:
 
     # c_anselm "Here is what I came to say. That hull at Keelhaven is Halcyon's notion, not mine. I hold Halcyon's paper. I can stop that fleet with a letter. I'd do it this week, if I had no need of a gun."
-    c_anselm "Hier ist, was ich sagen wollte. Dieser Rumpf in Keelhaven ist Halcyons Einfall, nicht meiner. Ich halte Halcyons Schuldscheine. Ich kann diese Flotte mit einem Brief anhalten. Ich würde es diese Woche tun, wenn ich keine Kanone brauchte."
+    c_anselm "Das ist es, was ich sagen wollte. Dieser Rumpf in Keelhaven ist Halcyons Einfall, nicht meiner. Ich halte Halcyons Schuldscheine. Ich kann diese Flotte mit einem Brief anhalten. Ich würde es diese Woche tun, wenn ich keine Kanone brauchte."
 
 # game/ch10.rpy:241
 translate german ch10_ca134b61:
 
     # c_anselm "Come back. Seat the engine properly, in its own city, as only you can. Then nobody boils anyone. You'd have saved your twelve thousand in the canyon by sitting down at a bench."
-    c_anselm "Komm zurück. Setz die Maschine richtig ein, in ihrer eigenen Stadt, so wie nur du es kannst. Dann kocht niemand jemanden. Du hättest deine Zwölftausend im Kanyon gerettet, indem du dich an eine Werkbank gesetzt hättest."
+    c_anselm "Komm zurück. Setz die Maschine richtig ein, in ihrer eigenen Stadt, so wie nur du es kannst. Dann wird niemand gekocht. Du hättest deine Zwölftausend im Kanyon gerettet, indem du dich an eine Werkbank gesetzt hättest."
 
 # game/ch10.rpy:242
 translate german ch10_510a1e83:
@@ -700,7 +700,7 @@ translate german ch10_06e1620f:
 translate german ch10_5622e6eb:
 
     # c_ilan "I've been looking at yours. It's a good chart. There's nobody on it. There's ground, and tonnage, and service owed. I drew eleven of those. I know just how it's done, and how well you sleep after."
-    c_ilan "Ich habe deine angesehen. Es ist eine gute Karte. Es ist niemand darauf. Es gibt Grund und Tonnage und geschuldeten Dienst. Elf davon habe ich gezeichnet. Ich weiß genau, wie das gemacht wird und wie gut man danach schläft."
+    c_ilan "Ich habe deine angesehen. Es ist eine gute Karte. Es ist niemand darauf. Es gibt Land und Tonnage und geschuldeten Dienst. Elf davon habe ich gezeichnet. Ich weiß genau, wie das gemacht wird und wie gut man danach schläft."
 
 # game/ch10.rpy:272
 translate german ch10_f1aa69fa:
@@ -826,7 +826,7 @@ translate german ch10_59d640b5:
 translate german ch10_245f4832:
 
     # c_anselm "If you ever do need to win, Ilan, and not merely to mend, remember the bowl. You gave that barge an order and begged its pardon in the same breath, and the sea did both badly."
-    c_anselm "Wenn du je gewinnen musst, Ilan, und nicht bloß instandsetzen, dann denk an die Schale. Du hast diesem Lastkahn einen Befehl erteilt und im selben Atemzug um Verzeihung gebeten, und das Meer hat beides schlecht getan."
+    c_anselm "Wenn du je gewinnen musst, Ilan, und nicht bloß instand setzen, dann denk an die Schale. Du hast diesem Lastkahn einen Befehl erteilt und im selben Atemzug um Verzeihung gebeten, und das Meer hat beides schlecht getan."
 
 # game/ch10.rpy:323
 translate german ch10_536719cc:
@@ -838,7 +838,7 @@ translate german ch10_536719cc:
 translate german ch10_f6d7ab71:
 
     # "He went down the frigate's side to his launch, unhurried, an old man minding the rungs. Nobody laid a hand on him. Odo stood at the rail with his trumpet and watched the grey boat out of the Eye."
-    "Er ging an der Seite der Fregatte hinunter zu seiner Barkasse, unhastig, ein alter Mann, der auf die Sprossen achtete. Niemand legte Hand an ihn. Odo stand mit seiner Trompete an der Reling und sah dem grauen Boot nach, bis es das Auge verlassen hatte."
+    "Er ging an der Seite der Fregatte hinunter zu seiner Barkasse, ohne Eile, ein alter Mann, der auf die Sprossen achtete. Niemand legte Hand an ihn. Odo stand mit seiner Trompete an der Reling und sah dem grauen Boot nach, bis es das Auge verlassen hatte."
 
 # game/ch10.rpy:329
 translate german ch10_eac1d461:
@@ -862,7 +862,7 @@ translate german ch10_0bea0da1:
 translate german ch10_26073b6b:
 
     # "She stood on the deck with the water running off her, and Bother at her heels. She went straight to the table and put her hand into the soup bowl. She took it out again at once and held it against her chest."
-    "Sie stand mit dem ablaufenden Wasser an sich auf dem Deck, Plagegeist auf den Fersen. Sie ging geradewegs zum Tisch und steckte die Hand in die Suppenschale. Sie zog sie sofort wieder heraus und hielt sie an die Brust."
+    "Sie stand triefend auf dem Deck, Plagegeist auf den Fersen. Sie ging geradewegs zum Tisch und steckte die Hand in die Suppenschale. Sie zog sie sofort wieder heraus und hielt sie an die Brust."
 
 # game/ch10.rpy:346
 translate german ch10_17ab16e5:
@@ -934,7 +934,7 @@ translate german ch10_74388ea4:
 translate german ch10_867054db:
 
     # c_ilan "It runs a kilometre down under the Girdle, in a trench, where nobody from the islands can reach it. It was worn out. He couldn't mend it, and he couldn't have made it run."
-    c_ilan "Es liegt einen Kilometer tief unter dem Gürtel, in einem Graben, wo niemand von den Inseln hinkommt. Es war abgenutzt. Er konnte es nicht instand setzen, und er hätte es nicht zum Laufen bringen können."
+    c_ilan "Es läuft einen Kilometer tief unter dem Gürtel, in einem Graben, wo niemand von den Inseln hinkommt. Es war abgenutzt. Er konnte es nicht instand setzen, und er hätte es nicht zum Laufen bringen können."
 
 # game/ch10.rpy:371
 translate german ch10_31e8c706:
@@ -1024,7 +1024,7 @@ translate german ch10_8a30e7b2:
 translate german ch10_066d2e2c:
 
     # "He sat down on the deck, with his back against the rail. Sefa sat beside him. After a moment she leaned against his arm, as she had not done since before the black sand."
-    "Er setzte sich auf das Deck, mit dem Rücken an der Reling. Sefa setzte sich neben ihn. Nach einem Augenblick lehnte sie sich an seinen Arm, wie sie es seit vor dem schwarzen Sand nicht mehr getan hatte."
+    "Er setzte sich auf das Deck, mit dem Rücken an der Reling. Sefa setzte sich neben ihn. Nach einem Augenblick lehnte sie sich an seinen Arm, wie sie es seit der Zeit vor dem schwarzen Sand nicht mehr getan hatte."
 
 # game/ch10.rpy:408
 translate german ch10_cae8e7a6:
@@ -1036,7 +1036,7 @@ translate german ch10_cae8e7a6:
 translate german ch10_d07365e9:
 
     # c_ilan "With a letter. I believe him. He's right about the hearts, Sefa. Two of them at Deep Chorus are finished, and I can't make. He's right that there are forty million people up here with nowhere to put their feet. I haven't an answer for him."
-    c_ilan "Mit einem Brief. Ich glaube ihm. Er hat recht mit den Herzen, Sefa. Zwei davon in Deep Chorus sind am Ende, und ich kann sie nicht erbauen. Er hat recht, dass es hier oben vierzig Millionen Menschen gibt, die nicht wissen, wohin mit den Füßen. Ich habe keine Antwort für ihn."
+    c_ilan "Mit einem Brief. Ich glaube ihm. Er hat recht mit den Herzen, Sefa. Zwei davon in Deep Chorus sind am Ende, und ich kann nicht erbauen. Er hat recht, dass es hier oben vierzig Millionen Menschen gibt, die nicht wissen, wohin mit den Füßen. Ich habe keine Antwort für ihn."
 
 # game/ch10.rpy:410
 translate german ch10_76bb189f:
@@ -1090,13 +1090,13 @@ translate german ch10_f41e8f1d:
 translate german ch10_7617ac9d:
 
     # c_sefa "Jef asked you things. You said. He asked you why you'd done the coupling backwards."
-    c_sefa "Jef hat dich Dinge gefragt. Du hast geantwortet. Er hat dich gefragt, warum du die Kupplung verkehrt herum angebracht hattest."
+    c_sefa "Jef hat dich Dinge gefragt. Das hast du selbst erzählt. Er hat dich gefragt, warum du die Kupplung verkehrt herum angebracht hattest."
 
 # game/ch10.rpy:429
 translate german ch10_ee81e391:
 
     # "Ilan thought of an old man on a step with a mug. {i}You say that. You don't know yet what you'll want to keep.{/i}"
-    "Ilan dachte an einen alten Mann auf einer Stufe mit einem Becher. {i}Das sagst du. Du weißt noch nicht, was du behalten willst.{/i}"
+    "Ilan dachte an einen alten Mann auf einer Stufe mit einem Becher. {i}Das sagst du. Du weißt noch nicht, was du behalten wollen wirst.{/i}"
 
 # game/ch10.rpy:434
 translate german ch10_dc868a2b:

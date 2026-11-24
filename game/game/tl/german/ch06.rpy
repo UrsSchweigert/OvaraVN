@@ -88,7 +88,7 @@ translate german ch06_75eecf95:
 translate german ch06_846879b3:
 
     # "She blew a thread of clove-water at him."
-    "Sie blies ihm einen Faden Nelkenwasser entgegen."
+    "Sie blies ihm einen dünnen Strahl Nelkenwasser entgegen."
 
 # game/ch06.rpy:46
 translate german ch06_2907604e:
@@ -106,7 +106,7 @@ translate german ch06_615b8d76:
 translate german ch06_a3536522:
 
     # c_claywoman "That's honest, anyway. He'd have said yes and then sworn at it for a week."
-    c_claywoman "Ehrlich ist das immerhin. Er hätte Ja gesagt und dann eine Woche lang darüber geflucht."
+    c_claywoman "Ehrlich ist das immerhin. Er hätte Ja gesagt und ihn dann eine Woche lang angeflucht."
 
 # game/ch06.rpy:55
 translate german ch06_8856d300:
@@ -172,7 +172,7 @@ translate german ch06_76399805:
 translate german ch06_adfd3fa3:
 
     # c_corin "No. Well. You were at the top of the world, burying him."
-    c_corin "Nein. Na ja. Du warst ganz oben auf der Welt und hast ihn begraben."
+    c_corin "Nein. Na ja. Du warst am oberen Ende der Welt und hast ihn begraben."
 
 # game/ch06.rpy:76
 translate german ch06_9bd4466a:
@@ -280,7 +280,7 @@ translate german ch06_d6907d9b:
 translate german ch06_d5dab326:
 
     # "Wrack felt him before anyone spoke. He was lying in the workings with his hand on a wheel, and the hull above him rang, faintly, as a glass rings when another is set down beside it. A needle had come into a cradle. It was an old pattern."
-    "Wrack spürte ihn, bevor jemand sprach. Er lag im Räderwerk, die Hand auf einem Rad, und der Rumpf über ihm klang leise, so wie ein Glas klingt, wenn ein anderes neben es gestellt wird. Eine Nadel war in eine Wiege gekommen. Es war eine alte Bauart."
+    "Wrack spürte ihn, bevor jemand sprach. Er lag im Räderwerk, die Hand auf einem Rad, und der Rumpf über ihm klang leise, so wie ein Glas klingt, wenn man ein anderes daneben abstellt. Eine Nadel war in eine Wiege gekommen. Es war eine alte Bauart."
 
 # game/ch06.rpy:116
 translate german ch06_6d661de9:
@@ -382,7 +382,7 @@ translate german ch06_1469ce4a:
 translate german ch06_2742bb2b:
 
     # c_anselm "Any one of them would have had engines in your forests long ago, if the other four had let it. I'm the reason they didn't. I don't ask to be thanked."
-    c_anselm "Jedes von ihnen hätte längst Maschinen in euren Wäldern gehabt, wenn die anderen vier es zugelassen hätten. Ich bin der Grund, warum nicht. Ich verlange keinen Dank."
+    c_anselm "Jedes von ihnen hätte längst Motoren in euren Wäldern gehabt, wenn die anderen vier es zugelassen hätten. Ich bin der Grund, warum nicht. Ich verlange keinen Dank."
 
 # game/ch06.rpy:154
 translate german ch06_c8850d8b:
@@ -436,7 +436,7 @@ translate german ch06_47de831c:
 translate german ch06_52cd0700:
 
     # c_anselm "I need people who know the bottom. Pilots. Guides. People a frightened hold will trust, to bring it in gently, without anyone being hurt."
-    c_anselm "Ich brauche Leute, die den Grund kennen. Piloten. Lotsen. Leute, denen eine verängstigte Halte vertraut, um sie sanft hereinzubringen, ohne dass jemand zu Schaden kommt."
+    c_anselm "Ich brauche Leute, die den Grund kennen. Lotsen. Führer. Leute, denen eine verängstigte Halte vertraut, um sie sanft hereinzubringen, ohne dass jemand zu Schaden kommt."
 
 # game/ch06.rpy:169
 translate german ch06_510a1e83:
@@ -448,7 +448,7 @@ translate german ch06_510a1e83:
 translate german ch06_83a95f4b:
 
     # c_anselm "I pay. I don't mean scrip. I pay in the thing nobody up there can buy."
-    c_anselm "Ich zahle. Ich meine kein Firmengeld. Ich zahle in dem, was dort oben niemand kaufen kann."
+    c_anselm "Ich zahle. Ich meine kein Firmengeld. Ich zahle mit dem, was dort oben niemand kaufen kann."
 
 # game/ch06.rpy:173
 translate german ch06_e1941d0b:
@@ -514,7 +514,7 @@ translate german ch06_28f5e3f9:
 translate german ch06_9a67bd4c:
 
     # c_wrack "I was there. So was she. It was driven from an old-pattern hull at the ice edge."
-    c_wrack "Ich war dabei, und sie auch. Er wurde von einem Rumpf alter Bauart am Eisrand abgefeuert."
+    c_wrack "Ich war dabei, und sie auch. Er wurde von einem Rumpf alter Bauart am Eisrand aus gelenkt."
 
 # game/ch06.rpy:201
 translate german ch06_9b1672d3:
@@ -556,7 +556,7 @@ translate german ch06_a21c11ba:
 translate german ch06_6463f7e1:
 
     # c_anselm "I don't ask anyone to take my word against hers. I ask you to think about who has a place for your people and who has not."
-    c_anselm "Ich verlange von niemandem, mein Wort gegen ihres zu nehmen. Ich bitte euch, darüber nachzudenken, wer einen Platz für eure Leute hat und wer nicht."
+    c_anselm "Ich verlange von niemandem, mir mehr zu glauben als ihr. Ich bitte euch, darüber nachzudenken, wer einen Platz für eure Leute hat und wer nicht."
 
 # game/ch06.rpy:212
 translate german ch06_0811ad8f:
@@ -568,7 +568,7 @@ translate german ch06_0811ad8f:
 translate german ch06_763c5b27:
 
     # "He went back to the cradle. Then, as though it were an afterthought, he turned to Wrack again. The grille clicked, and the voice that came from it was lower. It was meant for one man."
-    "Er ging zur Wiege zurück. Dann wandte er sich, wie aus einem Nachgedanken heraus, noch einmal Wrack zu. Das Gitter klickte, und die Stimme, die daraus kam, war leiser. Sie war für einen einzigen Mann bestimmt."
+    "Er ging zur Wiege zurück. Dann wandte er sich, als sei es ihm eben noch eingefallen, noch einmal Wrack zu. Das Gitter klickte, und die Stimme, die daraus kam, war leiser. Sie war für einen einzigen Mann bestimmt."
 
 # game/ch06.rpy:222
 translate german ch06_3c42e18b:
@@ -610,7 +610,7 @@ translate german ch06_32a120f4:
 translate german ch06_0c94cb02:
 
     # "Corin's was not among them. He was still sitting in his net with his big hands hanging between his knees. He was looking at nothing."
-    "Corins war nicht darunter. Er saß noch immer in seinem Netz, die großen Hände zwischen den Knien hängend. Er blickte auf nichts."
+    "Corins war nicht darunter. Er saß noch immer in seinem Netz, die großen Hände zwischen den Knien hängend. Er sah ins Leere."
 
 # game/ch06.rpy:241
 translate german ch06_954e1638:
@@ -622,7 +622,7 @@ translate german ch06_954e1638:
 translate german ch06_246e9aee:
 
     # "He was under the floor, on his back, with a strand of lampweed tied to his wrist. He had found the patches by then. They lay on the heart in layers, nine hundred years of them, neat and stubborn and ingenious."
-    "Er lag unter dem Boden auf dem Rücken, einen Strang Lampentang ums Handgelenk gebunden. Inzwischen hatte er die Flicken gefunden. Sie lagen in Schichten auf dem Herzen, neunhundert Jahre davon, ordentlich, starrsinnig und einfallsreich."
+    "Er lag unter dem Boden auf dem Rücken, einen Strang Lampentang ums Handgelenk gebunden. Inzwischen hatte er die Flicken gefunden. Sie lagen in Schichten auf dem Herzen, aus neunhundert Jahren, ordentlich, starrsinnig und einfallsreich."
 
 # game/ch06.rpy:244
 translate german ch06_5f6088a5:
@@ -664,13 +664,13 @@ translate german ch06_f044bec3:
 translate german ch06_59d170c8:
 
     # "That was what he remembered afterwards, with the most shame. He had lifted a ship. He had held three hundred pools still for nine hours. And he could not get to the end of a thought."
-    "Das war es, woran er sich danach am meisten schämte. Er hatte ein Schiff gehoben. Er hatte dreihundert Teiche neun Stunden lang stillgehalten. Und er kam nicht bis zum Ende eines Gedankens."
+    "Das war es, woran er sich danach mit der größten Scham erinnerte. Er hatte ein Schiff gehoben. Er hatte dreihundert Becken neun Stunden lang stillgehalten. Und er kam nicht bis zum Ende eines Gedankens."
 
 # game/ch06.rpy:265
 translate german ch06_e908fffa:
 
     # "Each asking took him a breath, and in a breath a needle crossed the hall. He got one out, a great blind shove of water. It flung the smallest of them against a rib. It also tore six hammock-nets from their moorings, with people sleeping in them, and he heard Sefa cry out. He flinched from it. He let go."
-    "Jedes Bitten kostete ihn einen Atemzug, und in einem Atemzug durchquerte eine Nadel die Halle. Einen Stoß brachte er hervor, einen gewaltigen, blinden Stoß aus Wasser. Er schleuderte die kleinste von ihnen gegen eine Rippe. Er riss auch sechs Hängemattennetze aus ihren Verankerungen, mit schlafenden Menschen darin, und er hörte Sefa aufschreien. Er zuckte davor zurück. Er ließ los."
+    "Jedes Bitten kostete ihn einen Atemzug, und in einem Atemzug durchquerte eine Nadel die Halle. Eine Bitte brachte er heraus, einen gewaltigen, blinden Stoß aus Wasser. Er schleuderte die kleinste von ihnen gegen eine Rippe. Er riss auch sechs Hängemattennetze aus ihren Verankerungen, mit schlafenden Menschen darin, und er hörte Sefa aufschreien. Er zuckte davor zurück. Er ließ los."
 
 # game/ch06.rpy:267
 translate german ch06_1d282393:
@@ -682,19 +682,19 @@ translate german ch06_1d282393:
 translate german ch06_e5bff356:
 
     # "He was being towed. He was on his face in the wake of a needle at full speed, wrapped to the neck in wire, and the water came at him so hard that he could not see or think."
-    "Er wurde geschleppt. Er lag auf dem Gesicht im Kielwasser einer Nadel, die mit voller Fahrt fuhr, bis zum Hals in Draht gewickelt, und das Wasser drang so hart auf ihn ein, dass er weder sehen noch denken konnte."
+    "Er wurde geschleppt. Er lag mit dem Gesicht nach unten im Kielwasser einer Nadel, die mit voller Fahrt fuhr, bis zum Hals in Draht gewickelt, und das Wasser drang so hart auf ihn ein, dass er weder sehen noch denken konnte."
 
 # game/ch06.rpy:272
 translate german ch06_9ad87859:
 
     # "He could not have said {i}please{/i} to save his life. Twice he managed to gather himself and ask the sea for a wall in front of them. Twice it rose, and the needle simply was not where the wall was. He had seen Okonta do that. He had thought it wonderful."
-    "Er hätte um sein Leben nicht {i}bitte{/i} sagen können. Zweimal gelang es ihm, sich zu sammeln und das Meer um eine Wand vor ihnen zu bitten. Zweimal erhob sie sich, und die Nadel war einfach nicht dort, wo die Wand war. Er hatte gesehen, wie Okonta das tat. Er hatte es wunderbar gefunden."
+    "Er hätte nicht {i}bitte{/i} sagen können, und wenn es um sein Leben gegangen wäre. Zweimal gelang es ihm, sich zu sammeln und das Meer um eine Wand vor ihnen zu bitten. Zweimal erhob sie sich, und die Nadel war einfach nicht dort, wo die Wand war. Er hatte gesehen, wie Okonta das tat. Er hatte es wunderbar gefunden."
 
 # game/ch06.rpy:277
 translate german ch06_9126fa09:
 
     # c_corin "Lie still!"
-    c_corin "Bleib liegen!"
+    c_corin "Halt still!"
 
 # game/ch06.rpy:278
 translate german ch06_14e2ccd1:
@@ -712,7 +712,7 @@ translate german ch06_42d9b35f:
 translate german ch06_c0da7aa8:
 
     # c_corin "Lie still, you'll only cut yourself! Nobody's going to hurt you! He wants you whole!"
-    c_corin "Bleib liegen, du schneidest dich nur! Niemand will dir etwas tun! Er will dich unversehrt!"
+    c_corin "Halt still, du schneidest dich nur! Niemand will dir etwas tun! Er will dich unversehrt!"
 
 # game/ch06.rpy:285
 translate german ch06_aa6d7b31:
@@ -730,7 +730,7 @@ translate german ch06_d8d07bdc:
 translate german ch06_3a6ad674:
 
     # "He knew the silence before he saw the water. It closed over his ears like a hand. The sea was the colour of strong tea. He reached, and there was no door and no house, and he remembered that he had already been taught this once."
-    "Er erkannte die Lautlosigkeit, noch ehe er das Wasser sah. Sie schloss sich wie eine Hand über seinen Ohren. Das Meer hatte die Farbe von starkem Tee. Er griff aus, und da war keine Tür und kein Haus, und er erinnerte sich, dass man ihm das schon einmal beigebracht hatte."
+    "Er erkannte die Lautlosigkeit, noch ehe er das Wasser sah. Sie schloss sich wie eine Hand über seinen Ohren. Das Meer hatte die Farbe von starkem Tee. Er griff hinaus, und da war keine Tür und kein Haus, und er erinnerte sich, dass man ihm das schon einmal beigebracht hatte."
 
 # game/ch06.rpy:293
 translate german ch06_cf8113c0:
@@ -766,7 +766,7 @@ translate german ch06_00e1c9f3:
 translate german ch06_398a2685:
 
     # "The boy who had been thrown against the rib was flying rearguard. They took him first. One had the tail of his needle, and another struck him across the body and carried him clean off it. He went down in a knot of them with his mouth open."
-    "Der Junge, der gegen die Rippe geschleudert worden war, flog als Nachhut. Sie nahmen ihn zuerst. Einer packte das Heck seiner Nadel, und ein anderer traf ihn quer über den Körper und riss ihn glatt von ihr herunter. Er ging in einem Knäuel von ihnen unter, den Mund offen."
+    "Der Junge, der gegen die Rippe geschleudert worden war, flog als Nachhut. Ihn holten sie sich zuerst. Einer packte das Heck seiner Nadel, und ein anderer traf ihn quer über den Körper und riss ihn glatt von ihr herunter. Er ging in einem Knäuel von ihnen unter, den Mund offen."
 
 # game/ch06.rpy:310
 translate german ch06_f881850c:
@@ -922,7 +922,7 @@ translate german ch06_64d1e0ef:
 translate german ch06_1b8db05e:
 
     # c_okonta "I've no gift. But I've stood beside the Mighty of six holds when it came to blows, and I've watched how the good ones do it. They don't call in a fight. There isn't time. A fight is over before you've finished saying please."
-    c_okonta "Ich habe keine Gabe. Aber ich habe neben den Mächtigen von sechs Halten gestanden, als es zu Schlägen kam, und ich habe beobachtet, wie die Guten es machen. Im Kampf rufen sie nicht. Dafür ist keine Zeit. Ein Kampf ist vorbei, ehe man mit dem Bitten fertig ist."
+    c_okonta "Ich habe keine Gabe. Aber ich habe neben den Mächtigen von sechs Halten gestanden, als es zum Kampf kam, und ich habe beobachtet, wie die Guten es machen. Im Kampf rufen sie nicht. Dafür ist keine Zeit. Ein Kampf ist vorbei, ehe man mit dem Bitten fertig ist."
 
 # game/ch06.rpy:385
 translate german ch06_32a6a539:
@@ -934,7 +934,7 @@ translate german ch06_32a6a539:
 translate german ch06_e5b44919:
 
     # c_okonta "They do their asking beforehand, when it's quiet. They ask her to stand ready about them. A skin of water, an arm's length out, that's already theirs. Already listening. They hold it there all day, as you'd carry a shield. And then, when something comes, they've only to lean."
-    c_okonta "Sie bitten vorher, wenn es ruhig ist. Sie bitten die See, sich rings um sie bereitzuhalten. Eine Haut aus Wasser, eine Armlänge entfernt, die schon ihnen gehört. Die schon lauscht. Sie halten sie den ganzen Tag dort, so wie man einen Schild trägt. Und wenn dann etwas kommt, müssen sie sich nur noch anlehnen."
+    c_okonta "Sie bitten vorher, wenn es ruhig ist. Sie bitten die See, sich rings um sie bereitzuhalten. Eine Haut aus Wasser, eine Armlänge entfernt, die schon ihnen gehört. Die schon lauscht. Sie halten sie den ganzen Tag dort, so wie man einen Schild trägt. Und wenn dann etwas kommt, müssen sie sich nur noch neigen."
 
 # game/ch06.rpy:387
 translate german ch06_0856b515:
@@ -970,7 +970,7 @@ translate german ch06_48b25aa2:
 translate german ch06_27d2fe3e:
 
     # c_okonta "Every time I find it thin, you'll get a rib like the ones you've got. We'll start when the girl says you can stand."
-    c_okonta "Jedes Mal, wenn ich sie dünn finde, bekommst du eine Rippe ab, wie du sie schon hast. Wir fangen an, wenn das Mädchen sagt, dass du stehen kannst."
+    c_okonta "Jedes Mal, wenn ich sie dünn finde, bekommst du noch so eine Rippe, wie du sie schon hast. Wir fangen an, wenn das Mädchen sagt, dass du stehen kannst."
 
 # game/ch06.rpy:397
 translate german ch06_c19d1edc:
@@ -1006,7 +1006,7 @@ translate german ch06_d3c69753:
 translate german ch06_b4834f3e:
 
     # "Okonta went past him and round and came back, and looked at him without expression."
-    "Okonta fuhr an ihm vorbei, in einem Bogen herum und kam zurück und sah ihn ohne Miene an."
+    "Okonta fuhr an ihm vorbei, in einem Bogen herum und kam zurück und sah ihn mit unbewegter Miene an."
 
 # game/ch06.rpy:420
 translate german ch06_8ebea225:
@@ -1024,7 +1024,7 @@ translate german ch06_8df18712:
 translate german ch06_8f46b515:
 
     # "It had lost two thirds of its water by then. He swam the length of it, a kilometre, with his hand trailing along the ribs. He could feel the great heart through his palm. It was not labouring now. It was still."
-    "Der Drache hatte da schon zwei Drittel seines Wassers verloren. Er durchschwamm ihn der Länge nach, einen Kilometer, die Hand an den Rippen entlangstreichend. Er konnte das große Herz durch die Handfläche spüren. Es mühte sich nicht mehr. Es stand still."
+    "Der Drache hatte da schon zwei Drittel seines Wassers verloren. Wrack schwamm ihn der Länge nach ab, einen Kilometer, die Hand an den Rippen entlangstreichend. Er konnte das große Herz durch die Handfläche spüren. Es mühte sich nicht mehr. Es stand still."
 
 # game/ch06.rpy:429
 translate german ch06_d3bd0ebb:
@@ -1084,7 +1084,7 @@ translate german ch06_bc98e1fe:
 translate german ch06_1e6ed1ec:
 
     # "Then he put it together again differently. He left out one wheel of the three altogether. He turned another end for end. It would be a smaller heart, and a slower one, and it would run on less."
-    "Dann setzte er es anders wieder zusammen. Eines der drei Räder ließ er ganz weg. Ein anderes drehte er Ende für Ende um. Es würde ein kleineres Herz sein, und ein langsameres, und es würde mit weniger auskommen."
+    "Dann setzte er es anders wieder zusammen. Eines der drei Räder ließ er ganz weg. Ein anderes setzte er verkehrt herum ein. Es würde ein kleineres Herz sein, und ein langsameres, und es würde mit weniger auskommen."
 
 # game/ch06.rpy:461
 translate german ch06_c8052651:
@@ -1252,7 +1252,7 @@ translate german ch06_6136a0b9:
 translate german ch06_d4c1261c:
 
     # c_wrack "One old man with a basket of crabs."
-    c_wrack "Ein alter Mann mit einem Korb voll Krabben."
+    c_wrack "Ein alter Mann mit einem Korb voller Krebse."
 
 # game/ch06.rpy:532
 translate german ch06_ba271c7c:
