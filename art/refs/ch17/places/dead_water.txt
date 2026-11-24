@@ -3,3 +3,6 @@ purpose: background
 refs: 
 
 Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text, no letters, no readable marks. The surface of a vast dead sea at eye level just above the water: perfectly flat, glassy, dull grey-green water that does not move at all, no waves, no ripples, no sparkle, no colour patches, the same dull grey-green everywhere, under a flat pale grey overcast sky. Far across the water a low straight grey wall lies along the horizon, half lost in mist. No boat, no objects, nothing else. A still, hushed, sad mood.
+
+
+REVISED 2026-11-24: the wall is held sea water, not stone, glass or metal. Redone with nano-banana-2 (edit of the previous image). Wall now: sheer, smooth, grey, still, glassy standing water, no seams or panels or rock layers; foam only along the top edge, mist at the foot. Previous version: art/refs/ch17/previous/.
