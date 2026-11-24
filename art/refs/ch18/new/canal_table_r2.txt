@@ -1,0 +1,5 @@
+model: fal-ai/nano-banana-2/edit
+purpose: background
+refs: art/refs/ch18/new/canal_table.png, game/game/images/bg/c17_city_risen.png
+
+Reference 1 is a canal side with a wooden table holding two stone basins of water, a bench with a grey blanket, rope posts, washing lines over the canal, and a canal of blue-green water. Keep the wide camera, the table, basins, bench, blanket, rope posts, washing, the canal water, the paving and the warm light exactly. Reference 2 shows the Maker city style. CHANGE only the architecture: all walls on both sides become smooth curving Maker walls of milk-pale glassy stone in set-back tiers, with long vertical ribs, long thin window slits, arched doorways and slender fluted towers with pearly bulges far down the canal; the canal bank on the right, which is built of stone blocks, becomes a smooth seamless pale curved quay wall, no blocks, no joints, no brick, no moss. Anime style, clean line art, soft cel shading.

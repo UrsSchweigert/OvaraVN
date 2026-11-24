@@ -1,0 +1,5 @@
+model: fal-ai/nano-banana-2/edit
+purpose: background
+refs: art/refs/ch17/places/vault_grey.png
+
+Reference 1 is a round Maker vault with a big circular ring set in the floor. Keep the whole picture exactly. CHANGE only the big ring in the floor: it has a raised flange, a bolted rim and rows of rivets and holes; make it instead a single smooth seamless hoop of pale pearly metal, set perfectly flush with the floor, with no flange, no rivets, no bolts, no holes, no seams, no marks, just a clean polished pale band the same level as the floor surface. Everything else stays exactly as in the reference: the walls, light, water, wheels, frame, stair, doorways, bench, lamps, drawings and people (if any), their poses and faces, cracks, colours and composition. Anime style, clean line art, soft cel shading.

@@ -1,0 +1,5 @@
+model: fal-ai/nano-banana-2/edit
+purpose: illustration
+refs: art/refs/ch18/cg/this_sleeves.png, game/game/images/bg/c17_city_risen.png
+
+Reference 1 is a young man in profile in a grey-green long-sleeved tunic with sleeves rolled to the elbows, holding a small curved silver tool with dark red handle in his open palm, in a silent hall in front of a half-built round air-heart. Keep the man, his face, hair, clothes, hand, the tool, the air-heart, the stair, the glowing wall panels and the soft grey silt drifts on the floor exactly. Reference 2 shows the Maker city style. CHANGE only the hall: the rough grey concrete block walls, square pillars and flat ceiling become smooth seamless milk-pale glassy Maker stone, curving walls with soft vertical fluting, rounded pilasters, a ribbed vaulted ceiling, no bricks, no seams. The floor stays plain grey fine silt, with soft drifts, not marble, not patterned. Anime style, clean line art, soft cel shading.
