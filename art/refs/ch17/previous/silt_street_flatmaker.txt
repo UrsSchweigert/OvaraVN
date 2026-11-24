@@ -1,0 +1,5 @@
+model: fal-ai/flux-2
+purpose: background
+refs: 
+
+Anime-style background illustration, clean line art, soft cel shading, gentle natural colours, wide landscape view, no people, no text, no letters, no readable marks. A narrow street in a silted ancient city, low rounded pale-grey buildings coated in dried grey mud, mud on the paving, open grey daylight overhead. Along the street stand tall slender pale metal lamp-posts; the nearest lamp is lit with a steady white light, the next one further along is lit, and more are lit one after another away down the street toward a bright vanishing point, the rest still dark. Quiet, uncanny, welcoming. No people.
