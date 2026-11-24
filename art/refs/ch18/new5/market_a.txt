@@ -1,0 +1,5 @@
+model: fal-ai/nano-banana-2/edit
+purpose: background
+refs: /Users/ursschweigert/Documents/GitHub/OvaraVN/game/game/images/bg/c18_meet_market.png, /Users/ursschweigert/Documents/GitHub/OvaraVN/game/game/images/bg/c17_city_risen.png
+
+Edit this picture. Replace the short rounded towers that look like chef hats with tall, slender-tapering fluted Maker towers: long vertical ribs, narrowing gently toward the top, finished with either a ribbed scallop-shell top or a simple flat top. No mushroom shapes, no chef-hat bulges, no needles, no onion domes. Also make the paving smooth pale milk-white polished stone with no joints and with more colour and depth, not washed out: soft warm pale cream with gentle blue-grey shading and the shallow ankle-deep water reflecting the lanterns. Keep the market stalls, canvas, steam from the noodle stall, washing on balconies, paper lanterns, people-free layout and the line style exactly. Style of the buildings as in the reference picture.

@@ -1,0 +1,5 @@
+model: fal-ai/nano-banana-2/edit
+purpose: background
+refs: /Users/ursschweigert/Documents/GitHub/OvaraVN/game/game/images/bg/c18_dragon_square.png
+
+Edit this picture. Change only the Dragon's head, the smooth blunt rounded shape lying at the front of the rib row. Repaint it as dull matt pale metal, the same warm pale grey-white as the ribs: flat soft shading, no glossy highlight, no shine, no blue or grey-blue tint, no reflections on it, no eyes, no mouth, no seams. Keep its exact shape and position. Keep everything else exactly the same: the ribs, the square, the towers, the water, the sky, the line style.

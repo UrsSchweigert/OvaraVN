@@ -1,0 +1,5 @@
+model: fal-ai/nano-banana-2/edit
+purpose: illustration
+refs: /Users/ursschweigert/Documents/GitHub/OvaraVN/game/game/images/cg/c18_ribs_water.png, /Users/ursschweigert/Documents/GitHub/OvaraVN/art/refs/ch18/new5/dragon_a.png
+
+Edit this picture. Change only the Dragon's head, the smooth blunt rounded prow at the front of the rib row. Repaint it as dull matt pale smooth metal, like the head in the second reference picture: a warm pale grey-white, flat soft shading, no glossy highlight, no shine, no capsule gloss, no eyes, no mouth, no seams, no blue tint. Keep its shape and position. Keep everything else exactly the same: bright water running through the ribs, the sky, the towers, the paving, the line style.

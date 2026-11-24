@@ -1,0 +1,5 @@
+model: fal-ai/nano-banana-2/edit
+purpose: background
+refs: /Users/ursschweigert/Documents/GitHub/OvaraVN/game/game/images/bg/c18_canal_table.png, /Users/ursschweigert/Documents/GitHub/OvaraVN/game/game/images/bg/c18_dragon_square.png
+
+Edit this picture. Redraw the line work crisp: clean, thin, dark, sharp outlines on every building, tower, dome, table, basin and bench, as crisp as the reference picture, with no soft or blurry edges. Make every doorway and arched opening, especially those on the right side, a smooth round semicircle at the top with no pointed tip. Keep the same composition, the table, the stone basins, the bench with the grey blanket, the washing, the lantern, the warm milk-white stone and the colours.

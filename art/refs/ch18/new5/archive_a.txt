@@ -1,0 +1,5 @@
+model: fal-ai/nano-banana-2/edit
+purpose: background
+refs: /Users/ursschweigert/Documents/GitHub/OvaraVN/game/game/images/bg/c18_archive_workshop.png, /Users/ursschweigert/Documents/GitHub/OvaraVN/game/game/images/cg/c18_this_sleeves.png
+
+Edit this picture. Redraw the half-built air-heart so it matches the air-heart in the reference picture: a round house-sized sphere. The lower half is closed: large bulging smooth pearl plates (big, plump, overlapping, not small beads), crossed by several horizontal silver bands, and a vertical gold bar with gold filigree and a visible hinge seam running up the front. The upper half is open: a few slim bare ribs, no thicker than the silver bands, showing the empty inside. Keep the grey silt floor, the smooth shell-shaped pale vault, the glass panels, the stair and the loose parts laid out in rows, exactly as they are.
