@@ -34,13 +34,15 @@ init python:
 
     def paywall_buy():
         if paywall_has_store():
-            iap.purchase("full_story")
+            # Buttons run inside an interaction, and iap waits with renpy.pause,
+            # which needs its own context.
+            renpy.invoke_in_new_context(iap.purchase, "full_story")
         else:
             persistent.vn_sim_unlocked = True
 
     def paywall_restore():
         if paywall_has_store():
-            iap.restore()
+            renpy.invoke_in_new_context(iap.restore)
 
     def _paywall_show():
         renpy.call_screen("paywall_screen")
