@@ -1,0 +1,5 @@
+model: fal-ai/nano-banana-2/edit
+purpose: background
+refs: game/game/images/bg/c18_meet_empty.png, game/game/images/bg/c17_city_risen.png, game/game/images/bg/c18_dragon_square.png
+
+Edit the first picture, keeping the camera, the round glass globe street lamps on pale posts, the lit windows, the blue dusk and the thin film of seawater. Changes. One: the paving is smooth pale stone, nearly seamless, with no visible tile joints and no pink or gold tint, only cool pale blue-white with soft reflections of the lamps. Two: replace the thin needle spires and bulb-topped towers with lower fluted round towers with flat rounded tops and broad scalloped shell domes; no needles, no spires. Crisp clean outlines, flat cel colouring.

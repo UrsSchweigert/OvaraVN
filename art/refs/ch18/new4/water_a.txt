@@ -1,0 +1,5 @@
+model: fal-ai/nano-banana-2/edit
+purpose: background
+refs: game/game/images/bg/c18_waterside_square.png, game/game/images/bg/c17_city_risen.png, game/game/images/bg/c18_dragon_square.png
+
+Edit the first picture, keeping the camera, the stepped quay, the boats, the towels laid out, and the whole composition. Changes. One: the quay, steps and paving are pale milk-white smooth stone, clean, with no tan colour, no cracks and no stains. Two: the water is calm soft sea-blue with a little sea green, not bright mint or yellow-green. Three: the pointed arched doorway in the left building becomes a low rounded arch; the tops of the pilasters are plain rounded caps, not flared. Four: replace the tall thin bulb-and-needle towers in the distance with low broad domes of scalloped shell ribs and a few short fluted round towers with flat rounded tops; no spires. Crisp clean outlines, flat cel colouring.

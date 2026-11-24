@@ -1,0 +1,5 @@
+model: fal-ai/nano-banana-2/edit
+purpose: background
+refs: art/refs/ch18/new4/dragon_a.png, game/game/images/bg/c17_city_risen.png
+
+Keep this picture exactly, with these changes only: add soft cel shading and gentle gradients to the buildings, paving and sky, so it looks as finished and luminous as the second reference picture. Buildings and paving become clean milk-white with soft warm cream light and pale blue-lilac shadows, rather than flat pinkish-grey. The sky becomes a soft pale blue with a little warm haze near the horizon. Keep the water calm grey-blue with sea green. Keep the ribs matt and the head matt, blunt and smooth. Do not add spires, towers with bulbs, or any new objects; same composition.

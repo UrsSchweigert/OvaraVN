@@ -1,0 +1,5 @@
+model: fal-ai/nano-banana-2/edit
+purpose: illustration
+refs: game/game/images/cg/c18_terrace_song.png, game/game/images/p_wrack_assured_calm.png, game/game/images/cg/c18_this_sleeves.png
+
+Edit the first picture. Keep Hesper (the older woman on the right, singing with her mouth open), both grey-green tunics, the underwater terrace scene, glowing dome, lamps and white glowing plants, the colours and the line style exactly as they are. Change only the young man on the left: he is calm and attentive, listening to her sing. His brows are level and relaxed, with no worry lines, his eyes are steady and look toward her, and his mouth is gently closed, with the faintest softness at the corners. Use the face in the second and third reference pictures: same face, same dark hair, same thin pale scar line down the side of his neck. Do not change anything else.

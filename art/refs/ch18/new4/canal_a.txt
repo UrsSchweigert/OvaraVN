@@ -1,0 +1,6 @@
+model: fal-ai/nano-banana-2/edit
+purpose: background
+refs: game/game/images/bg/c18_canal_table.png, game/game/images/bg/c17_city_risen.png, game/game/images/bg/c17_vault_lit.png
+
+Edit this picture into one consistent anime background with crisp, clean dark-grey outlines everywhere (match the clean cel line of the second reference image), flat cel colouring with soft gradients, no painterly or soft-brush look. Keep exactly: the stone table with two stone basins of water, the wooden bench with a grey blanket, the rope posts with rope, the lines of washing, the hanging lantern, the canal and its water, the composition and camera.
+Change the buildings: on both the left and the right side of the canal all buildings are the same pale milk-white smooth Maker stone, with the same warm evening light and the same colour on both sides (the right side must not be greyer than the left). Smooth curved fluted walls with fine vertical grooves. Every doorway and window is a low rounded arch or a soft rounded rectangle, never pointed, with warm light inside. In the far distance replace the onion domes and the tall thin minaret spires with low broad domes made of scalloped shell ribs, plus a few lower fluted round towers with flat rounded tops; no needles, no spires, no onion shapes. The sky stays soft warm evening.

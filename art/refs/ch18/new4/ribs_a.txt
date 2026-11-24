@@ -1,0 +1,5 @@
+model: fal-ai/nano-banana-2/edit
+purpose: illustration
+refs: game/game/images/cg/c18_ribs_water.png, game/game/images/bg/c18_dragon_square.png, game/game/images/bg/c17_city_risen.png
+
+Edit the first picture, keeping the camera, the square, the stone-edged channel, the Dragon's blunt head and glowing ribs with the bright water running through them, and the buildings' main masses. Changes. One: the sky becomes a calm soft pale blue with a little warm haze at the horizon, no pink and purple sunset clouds. Two: replace the tall towers topped with round bulbs and shell caps and the needle spires with lower fluted round towers with flat rounded tops and low scalloped shell domes; no bulbs on sticks, no spires. Three: the paving is smooth pale milk stone, not tan and pink; the water is calm sea-blue with a little sea green. Crisp clean outlines, flat cel colouring.

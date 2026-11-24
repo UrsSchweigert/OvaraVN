@@ -1,0 +1,5 @@
+model: fal-ai/nano-banana-2/edit
+purpose: background
+refs: game/game/images/bg/c18_meet_market.png, game/game/images/bg/c18_dragon_square.png, game/game/images/bg/c17_city_risen.png
+
+Edit the first picture, keeping the camera, the canvas stalls, the noodle stall with steam, the washing, the paper lanterns, the ankle-deep water and the whole composition. Changes. One: replace the thin needle spires and bulb-topped towers in the distance with lower fluted round towers with flat rounded tops and broad scalloped shell domes; no needles, no spires. Two: the paving is smooth pale stone with only faint joints. Keep the warm evening light. Crisp clean outlines, flat cel colouring.

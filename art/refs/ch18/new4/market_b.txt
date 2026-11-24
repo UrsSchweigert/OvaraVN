@@ -1,0 +1,5 @@
+model: fal-ai/nano-banana-2/edit
+purpose: background
+refs: game/game/images/bg/c18_meet_market.png
+
+Keep this picture exactly: the camera, stalls, steam, washing, lanterns, water, the warm evening sky and light, the colours. Change only the tall thin needle spires with round bulbs in the distant skyline: replace them with low broad scalloped shell domes and a few short fluted round towers with soft rounded tops, in the same pale stone and warm light. Do not change the sky colour or anything else.
