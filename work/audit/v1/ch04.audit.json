@@ -1,0 +1,344 @@
+[
+ {
+  "ref": "c04.s01",
+  "line": 64,
+  "pass": "B",
+  "run_len": 4,
+  "after_text": "Brask came on the second, as he had",
+  "tier": 2,
+  "change": "show p brask_gruff as right (Brask arrives with cousins and the sledge of cod)",
+  "why": "Brask, a recurring Rime friend, is brought in by name",
+  "new_image": null
+ },
+ {
+  "ref": "c04.s01",
+  "line": 90,
+  "pass": "B",
+  "run_len": 2,
+  "after_text": "On the twelfth day the Dragon came round",
+  "tier": 2,
+  "change": "show p jef_tired as right (Jef first seen, coming up the path with the basket)",
+  "why": "First appearance of Jef, a lead; narration describes him",
+  "new_image": null
+ },
+ {
+  "ref": "c04.s01",
+  "line": 112,
+  "pass": "B",
+  "run_len": 5,
+  "after_text": "Maelis. He reseated it backwards.",
+  "tier": 2,
+  "change": "after Jef says 'Maelis. He reseated it backwards.' keep right slot: replace the hide with show p maelis_composed as right",
+  "why": "Narration at 117 introduces Maelis, a lead; bring her in on it",
+  "new_image": null
+ },
+ {
+  "ref": "c04.s02",
+  "line": 133,
+  "pass": "B",
+  "run_len": 4,
+  "after_text": "The inside of Kettle House was one long",
+  "tier": 2,
+  "change": "show p jef_tired as right (Jef in his own kitchen, boots off)",
+  "why": "Narration about Jef the lead in his kitchen",
+  "new_image": null
+ },
+ {
+  "ref": "c04.s02",
+  "line": 134,
+  "pass": "B",
+  "run_len": 4,
+  "after_text": "Jef took off his boots with a groan",
+  "tier": 2,
+  "change": "show p maelis_examining as right (Maelis cooks, then looks at Wrack properly)",
+  "why": "Narration about Maelis the lead",
+  "new_image": null
+ },
+ {
+  "ref": "c04.s03",
+  "line": 207,
+  "pass": "A",
+  "run_len": 7,
+  "after_text": "He came up with a dented grey ovoid",
+  "tier": 1,
+  "change": "jef_attentive -> jef_grumbling when he sets the ovoid on the bench",
+  "why": "Turn from the tend/mend/make speech to the first lesson",
+  "new_image": null
+ },
+ {
+  "ref": "c04.s03",
+  "line": 228,
+  "pass": "A",
+  "run_len": 6,
+  "after_text": "Not this. But something. You've stood over drawings.",
+  "tier": 1,
+  "change": "wrack_tunic_attentive -> wrack_tunic_thinking",
+  "why": "Jef reads Wrack's habit of thinking in sections; Wrack takes it in",
+  "new_image": null
+ },
+ {
+  "ref": "c04.s03",
+  "line": 243,
+  "pass": "B",
+  "run_len": 2,
+  "after_text": "In the afternoons, when Jef's hands tired, they",
+  "tier": 2,
+  "change": "show p jef_tired as right (Jef lets pieces of his story fall)",
+  "why": "Narration about Jef's childhood at the Lantern",
+  "new_image": null
+ },
+ {
+  "ref": "c04.s04",
+  "line": 284,
+  "pass": "B",
+  "run_len": 5,
+  "after_text": "The jellies were left behind. The green weed",
+  "tier": 3,
+  "change": "NEW bg: the deep-runner's small light on the black trench wall, with the first gold slotted eye of the well-wardens beginning to uncoil from the wall",
+  "why": "The descent and the first sight of the wardens, a new place, no art so far",
+  "new_image": {
+   "kind": "bg",
+   "name": "c4_well_descent",
+   "prompt_seed": "Inside the black Well shaft, a blunt thick-hulled runner's small light on a sheer dark wall; a gold eye the size of a cartwheel with a slotted pupil regards it, other eyes and arms stirring behind. Nine white points of light far below."
+  }
+ },
+ {
+  "ref": "c04.s04",
+  "line": 321,
+  "pass": "A",
+  "run_len": 7,
+  "after_text": "Don't know. I'm a mechanic.",
+  "tier": 1,
+  "change": "wrack_tunic_awed -> wrack_tunic_thinking",
+  "why": "His question is answered; Jef moves on to why the water is oldest",
+  "new_image": null
+ },
+ {
+  "ref": "c04.s04",
+  "line": 341,
+  "pass": "A",
+  "run_len": 9,
+  "after_text": "Unless somebody could hold the water in five",
+  "tier": 1,
+  "change": "wrack_tunic_troubled -> wrack_tunic_dejected on his reply",
+  "why": "Jef asks the impossible; Wrack answers 'I can't intend'",
+  "new_image": null
+ },
+ {
+  "ref": "c04.s04",
+  "line": 350,
+  "pass": "B",
+  "run_len": 4,
+  "after_text": "It took Wrack six days.",
+  "tier": 4,
+  "change": "NEW cg: Wrack seated at the centre of the ring, hands in a channel of seawater, holding the pools; Jef's lamp glimmers from the crawlway under the floor",
+  "why": "Wrack's defining deed here: Holding three hundred pools for six days (covers the next 3 boxes)",
+  "new_image": {
+   "kind": "cg",
+   "name": "c4_holding_pools",
+   "prompt_seed": "A young man sits in the centre of a ring of nine milk-white glass halls, both hands in a channel of seawater, eyes closed, calm and frightened; around him pools of pale gold water each with a person in it and a healer at the edge; below the floor a small lamp glows in a crawlway."
+  }
+ },
+ {
+  "ref": "c04.s04",
+  "line": 354,
+  "pass": "B",
+  "run_len": 4,
+  "after_text": "One part of him kept three hundred pools",
+  "tier": 4,
+  "change": "at the scene on line 356 use cg c4_lantern_crown instead of bg lantern_hall for the next two boxes",
+  "why": "All nine halls come alight together; reuse the crown of lamps",
+  "new_image": null
+ },
+ {
+  "ref": "c04.s06",
+  "line": 449,
+  "pass": "B",
+  "run_len": 3,
+  "after_text": "He came to know her slowly. She did",
+  "tier": 2,
+  "change": "show p maelis_composed as right",
+  "why": "Narration is about Maelis's past (the Quiet, the Hush, the ray)",
+  "new_image": null
+ },
+ {
+  "ref": "c04.s06",
+  "line": 460,
+  "pass": "A",
+  "run_len": 9,
+  "after_text": "The mariners called me their queen. It's a",
+  "tier": 1,
+  "change": "wrack_tunic_attentive -> wrack_tunic_thinking",
+  "why": "The rays' memory: Wrack takes it in before asking what they are",
+  "new_image": null
+ },
+ {
+  "ref": "c04.s06",
+  "line": 474,
+  "pass": "A",
+  "run_len": 6,
+  "after_text": "Through me, they can. There's a thing I",
+  "tier": 1,
+  "change": "maelis_composed -> maelis_examining",
+  "why": "She will make a thing that can give his loss back",
+  "new_image": null
+ },
+ {
+  "ref": "c04.s07",
+  "line": 521,
+  "pass": "B",
+  "run_len": 2,
+  "after_text": "Out in the Well, the rays had stopped",
+  "tier": 2,
+  "change": "show p maelis_shut as right (Maelis comes to the door and her face shuts)",
+  "why": "Narration about Maelis the lead",
+  "new_image": null
+ },
+ {
+  "ref": "c04.s07",
+  "line": 585,
+  "pass": "A",
+  "run_len": 7,
+  "after_text": "I'll say what I came to say, and",
+  "tier": 1,
+  "change": "wrack_tunic_attentive -> wrack_tunic_troubled",
+  "why": "Anselm names the city under the Girdle",
+  "new_image": null
+ },
+ {
+  "ref": "c04.s07",
+  "line": 624,
+  "pass": "B",
+  "run_len": 2,
+  "after_text": "It went into him like a hook. He",
+  "tier": 2,
+  "change": "show p wrack_tunic_shaken as left (the offer goes in like a hook; his hands shake)",
+  "why": "Narration about Wrack, a lead, at the offer",
+  "new_image": null
+ },
+ {
+  "ref": "c04.s07",
+  "line": 689,
+  "pass": "A",
+  "run_len": 10,
+  "after_text": "Well. He had hands like a pair of",
+  "tier": 1,
+  "change": "jef_tired -> jef_attentive",
+  "why": "Jef finishes Anselm's story and gives why he laid the Thread",
+  "new_image": null
+ },
+ {
+  "ref": "c04.s08",
+  "line": 713,
+  "pass": "B",
+  "run_len": 3,
+  "after_text": "The cold deepened. The sun dropped a little",
+  "tier": 2,
+  "change": "show p jef_tired as right (narration says Jef is slower)",
+  "why": "Narration about Jef's decline",
+  "new_image": null
+ },
+ {
+  "ref": "c04.s08",
+  "line": 737,
+  "pass": "A",
+  "run_len": 8,
+  "after_text": "Wrack picked it up. It fitted his hand",
+  "tier": 1,
+  "change": "wrack_tunic_attentive -> wrack_tunic_soft (he takes the tool)",
+  "why": "The tool fits his hand",
+  "new_image": null
+ },
+ {
+  "ref": "c04.s08",
+  "line": 748,
+  "pass": "A",
+  "run_len": 6,
+  "after_text": "You've ridden behind me. What I've not told",
+  "tier": 1,
+  "change": "okonta_grave -> okonta_listening",
+  "why": "Okonta describes the Thread and the hum of old machines",
+  "new_image": null
+ },
+ {
+  "ref": "c04.s08",
+  "line": 766,
+  "pass": "A",
+  "run_len": 9,
+  "after_text": "I haven't laid a Thread in six years.",
+  "tier": 1,
+  "change": "wrack_tunic_attentive -> wrack_tunic_troubled",
+  "why": "Jef says he has one Thread left in him",
+  "new_image": null
+ },
+ {
+  "ref": "c04.s09",
+  "line": 805,
+  "pass": "A",
+  "run_len": 7,
+  "after_text": "He threw a pebble and watched it sink,",
+  "tier": 1,
+  "change": "wrack_tunic_troubled -> wrack_tunic_dejected",
+  "why": "Jef speaks of Maelis and the cost to himself",
+  "new_image": null
+ },
+ {
+  "ref": "c04.s09",
+  "line": 846,
+  "pass": "B",
+  "run_len": 4,
+  "after_text": "Further off, there was a great slow pulse",
+  "tier": 2,
+  "change": "show p jef_tired as right (Jef asleep in the chair by the bed)",
+  "why": "Narration at 848 is about Jef",
+  "new_image": null
+ },
+ {
+  "ref": "c04.s09",
+  "line": 884,
+  "pass": "B",
+  "run_len": 4,
+  "after_text": "He ran to the lip and put his",
+  "tier": 4,
+  "change": "cg c4_well_star (reuse) for the next two boxes: the star flares, then points go out",
+  "why": "The dart's strike on the Lantern, seen as the star dying",
+  "new_image": null
+ },
+ {
+  "ref": "c04.s09",
+  "line": 923,
+  "pass": "B",
+  "run_len": 2,
+  "after_text": "I'll want my apron.",
+  "tier": 4,
+  "change": "NEW cg: Maelis tying the apron behind Jef, her forehead against the back of his neck",
+  "why": "Intimacy between two leads before the last descent (covers the box after the hide)",
+  "new_image": {
+   "kind": "cg",
+   "name": "c4_apron_tied",
+   "prompt_seed": "An old small man in a nightshirt stands in a doorway while a tall grey-haired woman puts an apron over his head and ties it behind him, her forehead resting against the back of his neck, eyes closed; lamp-lit doorway, night."
+  }
+ },
+ {
+  "ref": "c04.s10",
+  "line": 999,
+  "pass": "A",
+  "run_len": 13,
+  "after_text": "I know what he said.",
+  "tier": 1,
+  "change": "maelis_composed -> maelis_silent",
+  "why": "She lays Jef's hand down and smooths it",
+  "new_image": null
+ },
+ {
+  "ref": "c04.s10",
+  "line": 1004,
+  "pass": "A",
+  "run_len": 13,
+  "after_text": "Her voice was perfectly level.",
+  "tier": 1,
+  "change": "maelis_silent -> maelis_composed (voice 'perfectly level')",
+  "why": "She keeps her grief level and sends him to the Hush",
+  "new_image": null
+ }
+]

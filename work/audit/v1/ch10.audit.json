@@ -1,0 +1,167 @@
+[
+ {
+  "ref": "c10.s01",
+  "line": 39,
+  "pass": "B",
+  "run_len": 2,
+  "after_text": "Sefa said nothing. She was in the water",
+  "tier": 2,
+  "change": "show p sefa_wary as right at head_right (Sefa in the water, gone quiet)",
+  "why": "Narration about Sefa, a lead",
+  "new_image": null
+ },
+ {
+  "ref": "c10.s01",
+  "line": 51,
+  "pass": "B",
+  "run_len": 1,
+  "after_text": "Okonta said only that she would be on",
+  "tier": 2,
+  "change": "show p okonta_flat as right at head_right",
+  "why": "Narration about Okonta, a lead",
+  "new_image": null
+ },
+ {
+  "ref": "c10.s02",
+  "line": 85,
+  "pass": "B",
+  "run_len": 4,
+  "after_text": "Ilan sat.",
+  "tier": 2,
+  "change": "show p wrack_thread_troubled as left at head_left",
+  "why": "Narration about Ilan sitting down with Rook, his old habits",
+  "new_image": null
+ },
+ {
+  "ref": "c10.s02",
+  "line": 97,
+  "pass": "A",
+  "run_len": 7,
+  "after_text": "I offered to take you home. I don't",
+  "tier": 1,
+  "change": "anselm_calm -> anselm_gentle (as he lays the fillet)",
+  "why": "Name exchange ends; Rook softens before \"Ask me what you came to ask\"",
+  "new_image": null
+ },
+ {
+  "ref": "c10.s03",
+  "line": 162,
+  "pass": "A",
+  "run_len": 6,
+  "after_text": "A shelf. The islands are only its high",
+  "tier": 1,
+  "change": "wrack_thread_calm -> wrack_thread_thinking",
+  "why": "The shelf speech lands; Ilan weighs it before the engine talk",
+  "new_image": null
+ },
+ {
+  "ref": "c10.s03",
+  "line": 216,
+  "pass": "A",
+  "run_len": 11,
+  "after_text": "The water goes north and south. My actuaries",
+  "tier": 1,
+  "change": "wrack_thread_troubled -> wrack_thread_attentive; anselm_lowered -> anselm_calm",
+  "why": "Cost of the engine stated; turn to \"And round it?\"",
+  "new_image": null
+ },
+ {
+  "ref": "c10.s03",
+  "line": 220,
+  "pass": "A",
+  "run_len": 11,
+  "after_text": "A wide one. The southern Anthem Waters, and",
+  "tier": 1,
+  "change": "wrack_thread_attentive -> wrack_thread_grieving; anselm_calm -> anselm_gentle",
+  "why": "The ring of dead water; Deep Chorus named, then the kind offer",
+  "new_image": null
+ },
+ {
+  "ref": "c10.s03",
+  "line": 240,
+  "pass": "B",
+  "run_len": 2,
+  "after_text": "It was the cleverest thing Rook had ever",
+  "tier": 2,
+  "change": "show p wrack_thread_troubled as left at head_left",
+  "why": "Narration about Ilan tempted by the offer",
+  "new_image": null
+ },
+ {
+  "ref": "c10.s03",
+  "line": 247,
+  "pass": "A",
+  "run_len": 6,
+  "after_text": "Always. I read the tonnage every quarter.",
+  "tier": 1,
+  "change": "wrack_thread_troubled -> wrack_thread_cold",
+  "why": "\"And you let me draw them\": Ilan turns hard",
+  "new_image": null
+ },
+ {
+  "ref": "c10.s03",
+  "line": 258,
+  "pass": "A",
+  "run_len": 8,
+  "after_text": "I've been looking at yours. It's a good",
+  "tier": 1,
+  "change": "anselm_lowered -> anselm_calm (Rook answers the refusal)",
+  "why": "Ilan finishes his speech; refusal and \"And the forty million?\" follow",
+  "new_image": null
+ },
+ {
+  "ref": "c10.s03",
+  "line": 286,
+  "pass": "A",
+  "run_len": 6,
+  "after_text": "He put the governor back in his pocket.",
+  "tier": 1,
+  "change": "anselm_calm -> anselm_cold",
+  "why": "Rook turns from offer to threat before the news of the clinic fire",
+  "new_image": null
+ },
+ {
+  "ref": "c10.s03",
+  "line": 311,
+  "pass": "B",
+  "run_len": 2,
+  "after_text": "He went down the frigate's side to his",
+  "tier": 3,
+  "change": "bg c10_lamps_swell (reuse), hide left, hide right",
+  "why": "Anselm leaves down the frigate side; Odo watches the launch leave the Eye",
+  "new_image": null
+ },
+ {
+  "ref": "c10.s04",
+  "line": 321,
+  "pass": "B",
+  "run_len": 2,
+  "after_text": "Sefa came up the side like something thrown.",
+  "tier": 2,
+  "change": "show p sefa_shaken as right at head_right",
+  "why": "Narration about Sefa coming up the side",
+  "new_image": null
+ },
+ {
+  "ref": "c10.s04",
+  "line": 345,
+  "pass": "A",
+  "run_len": 6,
+  "after_text": "He was still looking at the place where",
+  "tier": 1,
+  "change": "okonta_grave -> okonta_grim; wrack_thread_attentive -> wrack_thread_troubled",
+  "why": "Ilan names the heart under the Girdle",
+  "new_image": null
+ },
+ {
+  "ref": "c10.s04",
+  "line": 352,
+  "pass": "A",
+  "run_len": 6,
+  "after_text": "He told me to mend it. On the",
+  "tier": 1,
+  "change": "okonta_grim -> okonta_flat",
+  "why": "Okonta says the heart never comes up in these waters",
+  "new_image": null
+ }
+]

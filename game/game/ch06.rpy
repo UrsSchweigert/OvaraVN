@@ -40,6 +40,8 @@ label ch06:
     "That's him,"
     "said the woman with the clay tube."
     "The last one. The one he spent himself on."
+    show p wrack_thread_attentive as left at head_left
+    with qd
     "She blew a thread of clove-water at him."
     "Well? Can you start it?"
     c_wrack "I don't know yet."
@@ -74,6 +76,8 @@ label ch06:
     c_okonta "Corin and I kept the Anthem Waters together for twenty years,"
     "she told Wrack."
     c_okonta "With old Sabel, till the Slick took her. He taught me to fly in kelp. Then the survey boats got thick on the Shoulder, and he went east to see to them."
+    show p okonta_grave as right at head_right
+    with qd
     "She was still looking at the big man."
     c_okonta "Where did they take them?"
     show p corin_grief as right at head_right
@@ -154,6 +158,8 @@ label ch06:
     c_anselm "I ask you to look at where you are."
     "He spread his hands, a little, to take in the dim hall and the thinning walls."
     c_anselm "He's dead. I'm sorry for it. I am sorrier than you'll believe."
+    show p anselm_cold as right at head_right
+    with qd
     c_anselm "The Lantern was struck, I hear, by a dart of his own making, from his own war. He left a great many sharp things lying about the world. And now there are no more of you to come. You know it. In forty years the last Threaded will be an old woman on a slow needle, and there'll be nobody left to hear her go by."
     "No one answered him."
     show p anselm_calm as right at head_right
@@ -161,8 +167,12 @@ label ch06:
     c_anselm "The holds are going dark. You've seen it. You carry the people out. I have somewhere to carry them to. I've air, and lamps, and clean water in tanks. I've eleven thousand in already, and I shall have a hundred thousand by the spring."
     c_anselm "I need people who know the bottom. Pilots. Guides. People a frightened hold will trust, to bring it in gently, without anyone being hurt."
     "He paused."
+    show p wrack_thread_thinking as left at head_left
+    with qd
     c_anselm "I pay. I don't mean scrip. I pay in the thing nobody up there can buy."
     c_anselm "Ground. A piece of it, deeded to you, and to your kin after you. And your own people come first into the refuges, and are housed together. I know where every one of them is."
+    show p corin_staring as right at head_right
+    with qd
     "Wrack saw Corin's head come up."
     show p anselm_gentle as right at head_right
     with qd
@@ -174,7 +184,7 @@ label ch06:
     c_wrack "You sent that dart,"
 
     hide left
-    hide right
+    show p anselm_helmed as right at head_right
     with qd
     "He had not meant to say it. It came out of him too loud, and the gallery gave it back."
 
@@ -220,6 +230,8 @@ label ch06:
     "The grey needle slid out of its cradle and was gone."
 
     "Nobody moved for some time. Then, far down the row, there was a small sharp click. It was a needle leaving its cradle. A moment later there was another. They went one by one, without a word, and nobody tried to stop them. It sounded like a man cracking his knuckles. Wrack counted fourteen."
+    show p corin_staring as right at head_right
+    with qd
 
     "Corin's was not among them. He was still sitting in his net with his big hands hanging between his knees. He was looking at nothing."
 
@@ -246,6 +258,8 @@ label ch06:
     "There were three of them. They did not ride as Okonta had ridden when she had him behind her. They rode as she had ridden at the eel. The needles came in from three sides, and jinked, and were somewhere else. He reached for the sea. {i}Please—{/i}"
 
     "He had not finished the word before he was hit again."
+    scene cg c6_net_falls
+    with dissolve
 
     "That was what he remembered afterwards, with the most shame. He had lifted a ship. He had held three hundred pools still for nine hours. And he could not get to the end of a thought."
     "Each asking took him a breath, and in a breath a needle crossed the hall. He got one out, a great blind shove of water. It flung the smallest of them against a rib. It also tore six hammock-nets from their moorings, with people sleeping in them, and he heard Sefa cry out. He flinched from it. He let go."
@@ -279,6 +293,8 @@ label ch06:
     "Corin had brought him into the Slick, where he could not ask for anything."
 
     "{i}Somebody clever{/i}, he thought. {i}He's been thirty years among callers. He knows just where we stop.{/i} He lay in the net like a fish, and was towed."
+    scene bg c6_slick_inside
+    with dissolve
 
     "He did not see Okonta come. He saw only that the needle ahead of him lurched, and that something was drifting down across their path, small and pale, in a cloud. It was dried fish. It was a whole pouch of it, torn open and flung. The scent of it went out through the dead water like blood."
 
@@ -286,8 +302,6 @@ label ch06:
 
     "The eels came up all together. There were five of them, six."
 
-    scene bg c6_slick_inside
-    with dissolve
     "The boy who had been thrown against the rib was flying rearguard. They took him first. One had the tail of his needle, and another struck him across the body and carried him clean off it. He went down in a knot of them with his mouth open."
 
     show p wrack_thread_dejected as left at head_left
@@ -299,6 +313,8 @@ label ch06:
     hide right
     with qd
     "The tow-line went slack. Corin had cut it. He did not hesitate, and Wrack remembered that afterwards too. He let go of what he had been sent for, and stood his needle on its nose, and went down into the eels after the boy."
+    show p okonta_wincing as right at head_right
+    with qd
 
     "An arm hooked through the mesh. Okonta dragged the net up onto her hull with one hand, and steered with nothing, as she always did. The steel had opened her forearm from wrist to elbow, and the blood was going back along the needle in a ribbon. The eels would have that too, in a moment."
 
@@ -339,6 +355,8 @@ label ch06:
     scene bg c6_gallery_failing
     with fade
     "Sefa stitched the arm. She did it with intended water, in the gallery, with her lip between her teeth, while twenty-seven Threaded pretended not to watch."
+    show p sefa_lip as right at head_right
+    with qd
     "It was the first time she had healed anyone who was not from Low Anthem. The wound closed crooked. Okonta looked at it and said that it would do, and that she had never much cared for that arm."
 
     "His own ribs were cracked. Sefa had seen to those first, and had told him that he was not to be let out by himself."
@@ -362,10 +380,14 @@ label ch06:
     c_okonta "Being ready."
     "She considered him."
     c_okonta "I've no gift. But I've stood beside the Mighty of six holds when it came to blows, and I've watched how the good ones do it. They don't call in a fight. There isn't time. A fight is over before you've finished saying please."
+    show p wrack_thread_attentive as left at head_left
+    with qd
     "She touched the scar at her temple."
     c_okonta "They do their asking beforehand, when it's quiet. They ask her to stand ready about them. A skin of water, an arm's length out, that's already theirs. Already listening. They hold it there all day, as you'd carry a shield. And then, when something comes, they've only to lean."
     c_wrack "As you do on the needle."
     c_okonta "As I do on the needle."
+    show p okonta_grave as right at head_right
+    with qd
     "She got up, stiffly."
     c_okonta "You can Hold. I've seen you hold a lake. Now you'll hold one arm's length of sea, and you'll hold it while you're eating and while you're asleep, and I shall come at you with this."
     "She laid her good hand on the needle's prow."
@@ -379,6 +401,8 @@ label ch06:
     hide right
     with qd
     "He stood."
+    show p okonta_flat as right at head_right
+    with qd
 
     "She was a hard teacher. She was harder than Jef, and she did not sit on a stool. In the days that followed she came at him out of the dark at every hour, and from every side. For the first two days he was struck so often that Sefa stopped apologising for the bruises and began simply to count them."
 
@@ -404,8 +428,12 @@ label ch06:
 
     "The heart of the Dragon lay amidships, under the gallery floor. It was as large as the air-hearts of Deep Chorus and of no kind he had seen. It was not a shell that opened and closed."
     "It was a wheel within a wheel within a wheel, each one ringed with channels finer than hairs. When it turned it took in the plain sea and gave out the bright bound water that was the Dragon's body. He lay down in its workings and looked at it for a long time."
+    show p wrack_thread_troubled as left at head_left
+    with qd
 
     "There was nobody to tell him how. Jef had patched this thing for nine hundred years. Under the patches the wheels were simply worn out. They could not turn as they had been made to turn. There was not enough of them left."
+    show p sefa_tired as right at head_right
+    with qd
 
     "He lay there for two days and a night. Sefa came, and tied a fresh strand of lampweed round his wrist, and went away. The Threaded who had stayed came down by ones and twos, and held lamps for him, and passed him what he pointed at. The old woman with the clay tube sat by the hatch for a whole watch."
 
@@ -479,6 +507,8 @@ label ch06:
     c_wrack "He wanted it mended,"
     c_okonta "Who?"
     c_wrack "Rook. He said so. {i}I should like to see it run.{/i}"
+    show p wrack_thread_troubled as left at head_left
+    with qd
     "He frowned."
     c_wrack "He can't mend anything. He told Jef so himself. So he sent three people to carry me off, and then he asked me, quite politely, to mend the Dragon first."
     show p okonta_frowning as right at head_right
@@ -489,7 +519,7 @@ label ch06:
     c_wrack "I don't know."
 
     hide left
-    hide right
+    show p sefa_eager as right at head_right
     with qd
     "Sefa sat between them with her arms round Bother. She had never been on the Dragon. She had told them that she was coming. She said that they would need a healer. She said that Wrack in particular needed somebody to tell him when he was shouting."
     "Elder Vey, of all people, had settled it. A hold that had been saved by a girl of sixteen, she said, could hardly tell that girl where she might not go, and she would send word to the mother herself."

@@ -1,0 +1,193 @@
+[
+ {
+  "ref": "c03.s01",
+  "line": 52,
+  "pass": "A",
+  "run_len": 5,
+  "after_text": "Every one of them sings its own water.",
+  "tier": 1,
+  "change": "wrack_tunic_attentive -> wrack_tunic_thinking",
+  "why": "Wrack turns to his own question about the islands; splits a run of 5",
+  "new_image": null
+ },
+ {
+  "ref": "c03.s01",
+  "line": 61,
+  "pass": "B",
+  "run_len": 4,
+  "after_text": "So he asked, and she told him, in",
+  "tier": 3,
+  "change": "bg dc_canyon_above (reuse) for Okonta's past at Deep Chorus and the trawler over the canyon mouth",
+  "why": "Deep Chorus is a significant place described in her story",
+  "new_image": null,
+  "also_v1": true
+ },
+ {
+  "ref": "c03.s01",
+  "line": 84,
+  "pass": "A",
+  "run_len": 5,
+  "after_text": "Keep the water. Own nothing you can't carry.",
+  "tier": 1,
+  "change": "okonta_grave -> okonta_flat (she recites the work of the Threaded)",
+  "why": "Splits a run of 5 after the rule is said",
+  "new_image": null
+ },
+ {
+  "ref": "c03.s02",
+  "line": 114,
+  "pass": "A",
+  "run_len": 5,
+  "after_text": "Sleds. Halcyon make. That barge crew talked, and",
+  "tier": 1,
+  "change": "wrack_tunic_attentive -> wrack_tunic_baffled",
+  "why": "Wrack's 'Wreckers?' follows her warning; splits a run of 5",
+  "new_image": null
+ },
+ {
+  "ref": "c03.s02",
+  "line": 164,
+  "pass": "A",
+  "run_len": 5,
+  "after_text": "Six thousand people. It's been like that nine",
+  "tier": 1,
+  "change": "wrack_tunic_attentive -> wrack_tunic_troubled",
+  "why": "Sounding's ruin lands on Wrack; splits a run of 5",
+  "new_image": null
+ },
+ {
+  "ref": "c03.s02",
+  "line": 211,
+  "pass": "A",
+  "run_len": 5,
+  "after_text": "They hunt by taste. Hold on.",
+  "tier": 3,
+  "change": "bg c6_slick_inside (reuse) for the Slick eels in the dead brown water, ending the cg c3_eel",
+  "why": "No portraits can show over the cg; the eel attack needs a second image; splits a run of 5",
+  "new_image": null
+ },
+ {
+  "ref": "c03.s02",
+  "line": 219,
+  "pass": "A+B",
+  "run_len": 6,
+  "after_text": "Nothing.",
+  "tier": 2,
+  "change": "show p wrack_tunic_stunned as left at head_left over bg slick_edge for 'Nothing.' and the narration of the dead water",
+  "why": "Wrack's gift fails: a major turn about him; splits a run of 6",
+  "new_image": null,
+  "narration_portrait": true
+ },
+ {
+  "ref": "c03.s02",
+  "line": 234,
+  "pass": "A",
+  "run_len": 6,
+  "after_text": "Nobody told me anything!",
+  "tier": 1,
+  "change": "okonta_urgent -> okonta_grim",
+  "why": "Okonta's lesson about deaf water turns grave; splits a run of 6",
+  "new_image": null,
+  "also_v1": true
+ },
+ {
+  "ref": "c03.s03",
+  "line": 264,
+  "pass": "A",
+  "run_len": 6,
+  "after_text": "That's what the almanacs are for. Every hold",
+  "tier": 1,
+  "change": "wrack_tunic_attentive -> wrack_tunic_thinking",
+  "why": "Wrack takes in the almanac; splits a run of 6",
+  "new_image": null,
+  "also_v1": true
+ },
+ {
+  "ref": "c03.s03",
+  "line": 289,
+  "pass": "B",
+  "run_len": 2,
+  "after_text": "I'll come back for you when he's aboard.",
+  "tier": 2,
+  "change": "hide right; show p brask_watchful as right at head_right while the narration introduces Brask",
+  "why": "Brask is a lead and is introduced in narration",
+  "new_image": null,
+  "narration_portrait": true,
+  "also_v1": true
+ },
+ {
+  "ref": "c03.s03",
+  "line": 390,
+  "pass": "A",
+  "run_len": 6,
+  "after_text": "Not for me. Not for anyone. Not for",
+  "tier": 3,
+  "change": "bg greywatch_stone (reuse), leaving cg c3_dragon_head, for the divers backing off and Wrack's palm on the metal",
+  "why": "The Dragon stops; the stone and the divers are the scene; splits a run of 6",
+  "new_image": null,
+  "also_v1": true
+ },
+ {
+  "ref": "c03.s03",
+  "line": 401,
+  "pass": "B",
+  "run_len": 2,
+  "after_text": "It's so tired.",
+  "tier": 4,
+  "change": "cg NEW c3_dragon_panel over the three boxes of narration that follow (no portraits)",
+  "why": "Wrack's defining deed: he mends the Dragon with his hands and the sea",
+  "new_image": {
+   "kind": "cg",
+   "name": "c3_dragon_panel",
+   "prompt_seed": "Under water, a man's hands and arms reach into an open panel behind the great blunt eyeless head of a kilometre-long pale-metal ribbed machine; bright bound water streams along its ribs and moves in the channels; warm light from inside"
+  },
+  "also_v1": true
+ },
+ {
+  "ref": "c03.s04",
+  "line": 447,
+  "pass": "A",
+  "run_len": 5,
+  "after_text": "A road, I think. The Makers had cities",
+  "tier": 1,
+  "change": "okonta_grave -> okonta_wry",
+  "why": "The Dragon is 'an ambulance'; splits a run of 5",
+  "new_image": null
+ },
+ {
+  "ref": "c03.s04",
+  "line": 510,
+  "pass": "A",
+  "run_len": 13,
+  "after_text": "The other half, it's the same sun, a",
+  "tier": 1,
+  "change": "brask_watchful -> brask_wry",
+  "why": "Brask moves from the Pale to his people's bargain; splits a run of 13",
+  "new_image": null,
+  "also_v1": true
+ },
+ {
+  "ref": "c03.s04",
+  "line": 513,
+  "pass": "A",
+  "run_len": 13,
+  "after_text": "That's the bargain. They mend our bones for",
+  "tier": 1,
+  "change": "wrack_tunic_attentive -> wrack_tunic_thinking",
+  "why": "Wrack turns to ask about the Lantern; splits a run of 13",
+  "new_image": null,
+  "also_v1": true
+ },
+ {
+  "ref": "c03.s04",
+  "line": 518,
+  "pass": "A",
+  "run_len": 13,
+  "after_text": "Brask said it flatly, as a thing known.",
+  "tier": 1,
+  "change": "brask_wry -> brask_awed",
+  "why": "Brask speaks of the star at the bottom of the Well; splits a run of 13",
+  "new_image": null,
+  "also_v1": true
+ }
+]

@@ -1,0 +1,5 @@
+model: fal-ai/flux-2/edit
+purpose: sheet
+refs: art/refs/ch04/threaded/final/attentive.png
+
+Anime-style character portrait, clean line art, soft cel shading, gentle natural colours. The same man as the reference images: identical face structure, same age, same skin colour, same short messy black hair, same plain grey-green tunic with the same flat muted colour, same single thin pale line on the side of the neck, same lighting, same framing, head and shoulders, three-quarter view facing the viewer's right, plain light grey background, no text. Smooth face with no forehead or eye lines. Nothing changes except the expression: brows level, eyes steady and direct, listening closely and sure of himself; mouth closed and firm; chin a touch higher; shoulders relaxed. The eyes are fully drawn with irises, pupils and highlights. Restrained and realistic: no grin, no glow, no hand visible, no pose change.

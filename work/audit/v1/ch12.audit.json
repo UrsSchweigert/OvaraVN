@@ -1,0 +1,182 @@
+[
+ {
+  "ref": "c12.s01",
+  "line": 13,
+  "pass": "A+B",
+  "run_len": 6,
+  "after_text": "She had chosen the forty by asking who",
+  "tier": 2,
+  "change": "show p wrack_thread_calm as left, show p raske_steady as right",
+  "why": "Narration about Raske choosing the forty and Ilan coming as islanders do",
+  "new_image": null
+ },
+ {
+  "ref": "c12.s01",
+  "line": 15,
+  "pass": "A+B",
+  "run_len": 6,
+  "after_text": "Nobody on the tug asked him about Fallow.",
+  "tier": 4,
+  "change": "cg c12_tug_shelves (reuse; move the existing cg from line 18 up so it also covers line 16), hide portraits",
+  "why": "The Bright Shelves seen from the deck",
+  "new_image": null
+ },
+ {
+  "ref": "c12.s01",
+  "line": 67,
+  "pass": "B",
+  "run_len": 3,
+  "after_text": "He was given a room high in the",
+  "tier": 2,
+  "change": "show p sefa_tired as right at head_right",
+  "why": "Narration about Sefa coming up to the tower room",
+  "new_image": null
+ },
+ {
+  "ref": "c12.s01",
+  "line": 68,
+  "pass": "B",
+  "run_len": 3,
+  "after_text": "Then she went down again, to keep an",
+  "tier": 2,
+  "change": "hide right; show p wrack_thread_troubled as left at head_left",
+  "why": "He sits at the window through the night",
+  "new_image": null
+ },
+ {
+  "ref": "c12.s02",
+  "line": 81,
+  "pass": "A",
+  "run_len": 15,
+  "after_text": "No hold had ever claimed it. The holds",
+  "tier": 2,
+  "change": "show p sefa_easy as right at head_right",
+  "why": "Sefa told him what a Moot was, in the days at Low Anthem",
+  "new_image": null
+ },
+ {
+  "ref": "c12.s02",
+  "line": 85,
+  "pass": "A+B",
+  "run_len": 15,
+  "after_text": "Tidehall could have seated every speaker of every",
+  "tier": 4,
+  "change": "NEW cg c12_bowl_full (hide portraits)",
+  "why": "Tidehall, a major place, first seen as the whole world gathers",
+  "new_image": {
+   "kind": "cg",
+   "name": "c12_bowl_full",
+   "prompt_seed": "Wide view of a vast bowl a kilometre across sunk in white sand under clear green water, terraced in tiers of pale stone, every tier filled with people in dark and pale sea-silk, a small knot of figures at the centre; entirely underwater, no readable marks; no text"
+  }
+ },
+ {
+  "ref": "c12.s02",
+  "line": 90,
+  "pass": "A+B",
+  "run_len": 15,
+  "after_text": "In a block on the eastern side sat",
+  "tier": 3,
+  "change": "bg c12_tidehall_centre (reuse), show p hesper_cold as right at head_right",
+  "why": "Hesper in the front row of the Breaker block",
+  "new_image": null
+ },
+ {
+  "ref": "c12.s02",
+  "line": 125,
+  "pass": "A+B",
+  "run_len": 6,
+  "after_text": "Half the bowl agreed. It was an old",
+  "tier": 2,
+  "change": "show p hesper_cold as right at head_right",
+  "why": "\"Then Hesper stood\"; she enters before she speaks",
+  "new_image": null
+ },
+ {
+  "ref": "c12.s02",
+  "line": 215,
+  "pass": "B",
+  "run_len": 3,
+  "after_text": "Nobody's asked me,",
+  "tier": 2,
+  "change": "show p sefa_shaken as right at head_right",
+  "why": "Sefa comes down onto the sand to speak",
+  "new_image": null
+ },
+ {
+  "ref": "c12.s02",
+  "line": 241,
+  "pass": "A",
+  "run_len": 10,
+  "after_text": "You all know the song. I'll say it",
+  "tier": 1,
+  "change": "hesper_cold -> hesper_teacher",
+  "why": "She explains the song to the islanders",
+  "new_image": null
+ },
+ {
+  "ref": "c12.s02",
+  "line": 244,
+  "pass": "A",
+  "run_len": 10,
+  "after_text": "There's another way, in the songs. Many callers",
+  "tier": 1,
+  "change": "hesper_teacher -> hesper_stern; wrack_thread_attentive -> wrack_thread_wry",
+  "why": "She turns the explanation into a warning about Ilan",
+  "new_image": null
+ },
+ {
+  "ref": "c12.s03",
+  "line": 291,
+  "pass": "B",
+  "run_len": 5,
+  "after_text": "He opened his eyes. Three hundred callers were",
+  "tier": 2,
+  "change": "show p hesper_eased as right at head_right",
+  "why": "Narration: Hesper looking at her own hands after the swell",
+  "new_image": null
+ },
+ {
+  "ref": "c12.s04",
+  "line": 311,
+  "pass": "A",
+  "run_len": 16,
+  "after_text": "I gathered that.",
+  "tier": 1,
+  "change": "wrack_thread_ashamed -> wrack_thread_grieving",
+  "why": "Ione answers the confession; Ilan takes it",
+  "new_image": null
+ },
+ {
+  "ref": "c12.s04",
+  "line": 315,
+  "pass": "A",
+  "run_len": 16,
+  "after_text": "She was silent.",
+  "tier": 1,
+  "change": "ione_grave -> ione_calm",
+  "why": "Turn from the dome to Sefa",
+  "new_image": null
+ },
+ {
+  "ref": "c12.s04",
+  "line": 319,
+  "pass": "A",
+  "run_len": 16,
+  "after_text": "She did. She was right.",
+  "tier": 1,
+  "change": "ione_calm -> ione_pain",
+  "why": "Ione on Deep Chorus: \"she hit you\" and Fallow",
+  "new_image": null
+ },
+ {
+  "ref": "c12.s04",
+  "line": 345,
+  "pass": "A",
+  "run_len": 8,
+  "after_text": "I've listened for them. They're running north by",
+  "tier": 1,
+  "change": "wrack_thread_attentive -> wrack_thread_troubled; okonta_grim -> okonta_urgent",
+  "why": "Twelve Breakers run for the Crown; the needle with them",
+  "new_image": null
+ }
+]

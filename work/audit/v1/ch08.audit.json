@@ -1,0 +1,182 @@
+[
+ {
+  "ref": "c08.s01",
+  "line": 14,
+  "pass": "B",
+  "run_len": 4,
+  "after_text": "They rode the Dragon north for a day,",
+  "tier": 2,
+  "change": "show p wrack_thread_calm as left; show p sefa_dry as right (until line 21)",
+  "why": "Silent ride north; Sefa behind Ilan; narration about two leads",
+  "new_image": null
+ },
+ {
+  "ref": "c08.s01",
+  "line": 66,
+  "pass": "A+B",
+  "run_len": 6,
+  "after_text": "Okonta would not come aboard. She took the",
+  "tier": 4,
+  "change": "cg c8_dace_boat (reuse), back to bg c8_belt_rain before 73",
+  "why": "Patience / Second Wife; the Driftfolk explained over the boat",
+  "new_image": null
+ },
+ {
+  "ref": "c08.s02",
+  "line": 97,
+  "pass": "A",
+  "run_len": 8,
+  "after_text": "The calm drifted. There were dozens of them,",
+  "tier": 3,
+  "change": "bg c8_eye_boat (reuse)",
+  "why": "The Eyes explained: the calm and the ring of sky",
+  "new_image": null
+ },
+ {
+  "ref": "c08.s02",
+  "line": 99,
+  "pass": "A",
+  "run_len": 8,
+  "after_text": "If you misjudged it, you were caught between",
+  "tier": 3,
+  "change": "bg c8_boat_storm (reuse)",
+  "why": "Out again: gale skates and belt sharks",
+  "new_image": null
+ },
+ {
+  "ref": "c08.s03",
+  "line": 197,
+  "pass": "A+B",
+  "run_len": 6,
+  "after_text": "Signs forty metres high sold noodles, loans, cigarettes,",
+  "tier": 2,
+  "change": "show p sefa_amazed as right (carry into 201)",
+  "why": "Sefa open-mouthed at Saltgate's lights; lead's first sight of a city",
+  "new_image": null
+ },
+ {
+  "ref": "c08.s04",
+  "line": 272,
+  "pass": "A",
+  "run_len": 6,
+  "after_text": "The lowest was a metre under water, and",
+  "tier": 3,
+  "change": "bg c8_market_low (reuse)",
+  "why": "From the tiers to the goods and the lowest tier under water",
+  "new_image": null
+ },
+ {
+  "ref": "c08.s05",
+  "line": 341,
+  "pass": "B",
+  "run_len": 4,
+  "after_text": "Brightwater was the corporation people liked. It sold",
+  "tier": 2,
+  "change": "show p marsh_flat as right (until the scene change at 345)",
+  "why": "Linnea Marsh introduced; Brightwater's chief",
+  "new_image": null
+ },
+ {
+  "ref": "c08.s05",
+  "line": 376,
+  "pass": "A",
+  "run_len": 8,
+  "after_text": "It fades in a few days. If they",
+  "tier": 1,
+  "change": "sefa_hard -> sefa_sharp",
+  "why": "Sefa answers 'It stops because she stops minding it'",
+  "new_image": null
+ },
+ {
+  "ref": "c08.s06",
+  "line": 445,
+  "pass": "B",
+  "run_len": 4,
+  "after_text": "She lay for two days in the shadows",
+  "tier": 2,
+  "change": "show p yeva_tired as right (until 449)",
+  "why": "Yeva introduced, lying under the market; narration about a lead",
+  "new_image": null
+ },
+ {
+  "ref": "c08.s07",
+  "line": 553,
+  "pass": "B",
+  "run_len": 3,
+  "after_text": "and I never thought of sitting still in",
+  "tier": 2,
+  "change": "keep p yeva_tired on screen: move the 'hide right' at 555 to after line 558",
+  "why": "The Wellwalker standing behind Sefa's table through sheer obstinacy",
+  "new_image": null
+ },
+ {
+  "ref": "c08.s07",
+  "line": 571,
+  "pass": "A",
+  "run_len": 10,
+  "after_text": "She laid the child in the basin and",
+  "tier": 3,
+  "change": "keep cg c8_porter_child through line 571 (the healing); move 'scene bg c8_market_low' (line 569) to after 571",
+  "why": "Sefa's defining deed on the child lands on the illustration",
+  "new_image": null
+ },
+ {
+  "ref": "c08.s07",
+  "line": 577,
+  "pass": "A",
+  "run_len": 10,
+  "after_text": "The porter came back every day. His name",
+  "tier": 3,
+  "change": "bg c8_lock (reuse)",
+  "why": "The security men stopped by the dock families; the Lockkeeper drinking tea",
+  "new_image": null
+ },
+ {
+  "ref": "c08.s07",
+  "line": 580,
+  "pass": "A+B",
+  "run_len": 10,
+  "after_text": "Garran was in front with his arms folded.",
+  "tier": 3,
+  "change": "NEW bg c8_market_night",
+  "why": "Sixth night, market lamps dimmed, Marsh comes alone; time and light change",
+  "new_image": {
+   "kind": "bg",
+   "name": "c8_market_night",
+   "prompt_seed": "The lowest tier of the Wet Market at night, planking half in the water, market lamps dimmed, a plank table with two basins, a few lamps reflected on dark water, nobody about"
+  }
+ },
+ {
+  "ref": "c08.s07",
+  "line": 582,
+  "pass": "B",
+  "run_len": 10,
+  "after_text": "She came on the sixth night, alone, after",
+  "tier": 2,
+  "change": "show p marsh_flat as right (carry into 587)",
+  "why": "Marsh arrives; narration about a significant character",
+  "new_image": null
+ },
+ {
+  "ref": "c08.s07",
+  "line": 602,
+  "pass": "A",
+  "run_len": 9,
+  "after_text": "Mr Voss. I thought it must be. Nobody",
+  "tier": 1,
+  "change": "wrack_hat_guarded -> wrack_hat_calm",
+  "why": "Marsh knows him; he is unsurprised",
+  "new_image": null
+ },
+ {
+  "ref": "c08.s07",
+  "line": 606,
+  "pass": "A",
+  "run_len": 9,
+  "after_text": "She said it flatly, like a diagnosis.",
+  "tier": 1,
+  "change": "marsh_flat -> marsh_humble",
+  "why": "Her offer: open the wards",
+  "new_image": null
+ }
+]

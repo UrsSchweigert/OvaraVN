@@ -1,0 +1,72 @@
+[
+ {
+  "ref": "c02.s01",
+  "line": 94,
+  "pass": "A",
+  "run_len": 6,
+  "after_text": "There's folk in the wild kelp south of",
+  "tier": 1,
+  "change": "davin_neutral -> davin_patient",
+  "why": "Davin turns from the Breakers to his own wife; splits a run of 6",
+  "new_image": null
+ },
+ {
+  "ref": "c02.s02",
+  "line": 187,
+  "pass": "A",
+  "run_len": 6,
+  "after_text": "I didn't mean\u2014",
+  "tier": 1,
+  "change": "hesper_angry -> hesper_raw",
+  "why": "Hesper's anger turns to something worse; splits a run of 6 after Wrack's reply",
+  "new_image": null
+ },
+ {
+  "ref": "c02.s03",
+  "line": 194,
+  "pass": "B",
+  "run_len": 4,
+  "after_text": "That was a ship. A full ship, lifted,",
+  "tier": 2,
+  "change": "after scene bg hall_day, show p wrack_tunic_shivering as left at head_left (already used at 205) so the ebbing narration has art",
+  "why": "Wrack is a lead; three boxes of narration about his ebbing with no portrait",
+  "new_image": null
+ },
+ {
+  "ref": "c02.s03",
+  "line": 225,
+  "pass": "A",
+  "run_len": 6,
+  "after_text": "Yes.",
+  "tier": 1,
+  "change": "wrack_tunic_troubled -> wrack_tunic_attentive",
+  "why": "He starts to listen to the lesson; splits a run of 6 after question and answer",
+  "new_image": null
+ },
+ {
+  "ref": "c02.s04",
+  "line": 286,
+  "pass": "A+B",
+  "run_len": 5,
+  "after_text": "He tried to ask. He stood on the",
+  "tier": 4,
+  "change": "cg NEW c2_oro_lamp over 'Elder Oro was one of them' (no portraits)",
+  "why": "Oro's death under the lamp he saw lit is a reversal and the story's turn",
+  "new_image": {
+   "kind": "cg",
+   "name": "c2_oro_lamp",
+   "prompt_seed": "A very old man sits dead on the stone floor of a round meeting hall, his stick across his knees, under a tall Maker lamp that is still burning white; the dome overhead is cracked and the hall is dim and quiet"
+  }
+ },
+ {
+  "ref": "c02.s04",
+  "line": 288,
+  "pass": "B",
+  "run_len": 1,
+  "after_text": "Elder Oro was one of them. They found",
+  "tier": 2,
+  "change": "bg terrace_wrecked; show p davin_neutral as right for 'Davin was another.'",
+  "why": "Davin's death is a lead's end; a quiet beat before the burial image",
+  "new_image": null
+ }
+]

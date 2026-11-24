@@ -1,0 +1,190 @@
+[
+ {
+  "ref": "c09.s01",
+  "line": 10,
+  "pass": "B",
+  "run_len": 3,
+  "after_text": "They left Saltgate by the north lock, in",
+  "tier": 2,
+  "change": "show p wrack_thread_troubled as left at head_left (until 14, where the existing show swaps it)",
+  "why": "Narration about Ilan watching the lights fall away and what Halcyon will do; a lead with no portrait up",
+  "narration_portrait": true,
+  "new_image": null
+ },
+ {
+  "ref": "c09.s01",
+  "line": 24,
+  "pass": "A",
+  "run_len": 6,
+  "after_text": "Halcyon has an engine and no ship to",
+  "tier": 1,
+  "change": "wrack_thread_resolved -> wrack_thread_thinking",
+  "why": "'Kessler-Vane is building one': he looks north and works out the timing",
+  "also_v1": true,
+  "new_image": null
+ },
+ {
+  "ref": "c09.s01",
+  "line": 78,
+  "pass": "A",
+  "run_len": 5,
+  "after_text": "There are fifty thousand engineers in this city.",
+  "tier": 1,
+  "change": "okonta_grave -> okonta_frowning",
+  "why": "'So?': Okonta does not follow the plan",
+  "new_image": null
+ },
+ {
+  "ref": "c09.s02",
+  "line": 92,
+  "pass": "B",
+  "run_len": 4,
+  "after_text": "Teodora Raske had been chief designer of Kessler-Vane",
+  "tier": 2,
+  "change": "show p raske_stern as right at head_right (until the scene change at 96)",
+  "why": "Narration about Teodora Raske, who taught him; no portrait up",
+  "also_v1": true,
+  "narration_portrait": true,
+  "new_image": null
+ },
+ {
+  "ref": "c09.s02",
+  "line": 117,
+  "pass": "A",
+  "run_len": 6,
+  "after_text": "He did, the swine.",
+  "tier": 1,
+  "change": "raske_stern -> raske_steady",
+  "why": "'He did, the swine': Raske steadies and asks what he wants",
+  "also_v1": true,
+  "new_image": null
+ },
+ {
+  "ref": "c09.s02",
+  "line": 175,
+  "pass": "A",
+  "run_len": 12,
+  "after_text": "She looked at the warm-stone for a while.",
+  "tier": 1,
+  "change": "raske_stern -> raske_moved",
+  "why": "'Probably': the warm-stone is in her hands; she begins to tell her own part",
+  "also_v1": true,
+  "new_image": null
+ },
+ {
+  "ref": "c09.s02",
+  "line": 179,
+  "pass": "A",
+  "run_len": 12,
+  "after_text": "I've been making things to that man's order",
+  "tier": 1,
+  "change": "wrack_thread_resolved -> wrack_thread_troubled",
+  "why": "Raske says she was never angry-frightened by the man in grey; he hears who she means",
+  "also_v1": true,
+  "new_image": null
+ },
+ {
+  "ref": "c09.s04",
+  "line": 245,
+  "pass": "B",
+  "run_len": 5,
+  "after_text": "Somebody had talked. Somebody always did. The company's",
+  "tier": 2,
+  "change": "show p okonta_urgent as right at head_right (until the scene change at 248)",
+  "why": "'Okonta took the trucks': narration about Okonta, a lead, with no portrait up",
+  "narration_portrait": true,
+  "new_image": null
+ },
+ {
+  "ref": "c09.s05",
+  "line": 301,
+  "pass": "A+B",
+  "run_len": 7,
+  "after_text": "The Driftfolk had built on it as other",
+  "tier": 3,
+  "change": "bg c9_eye_tugs (reuse)",
+  "why": "Lashing hauls the tugs in without a question: tugs lying in the Eye",
+  "new_image": null
+ },
+ {
+  "ref": "c09.s05",
+  "line": 337,
+  "pass": "B",
+  "run_len": 7,
+  "after_text": "Ilan saw one of them, an old pearl-diver,",
+  "tier": 2,
+  "change": "show p sefa_eager as right at head_right (until line 338)",
+  "why": "Narration about Sefa teaching the apprentices to hold their breath; no portrait up",
+  "also_v1": true,
+  "narration_portrait": true,
+  "new_image": null
+ },
+ {
+  "ref": "c09.s05",
+  "line": 338,
+  "pass": "A",
+  "run_len": 7,
+  "after_text": "Sefa had made friends with the two apprentices.",
+  "tier": 3,
+  "change": "bg c9_coal_wharf (reuse); hide right",
+  "why": "The yards of Kessler-Vane and Slip Nine: the heart gone out of the place",
+  "also_v1": true,
+  "new_image": null
+ },
+ {
+  "ref": "c09.s05",
+  "line": 344,
+  "pass": "B",
+  "run_len": 4,
+  "after_text": "She brought something else too, and she did",
+  "tier": 4,
+  "change": "NEW cg c9_flimsy_notice (then back to bg c9_soup_barge before the dialogue at 349)",
+  "why": "Reversal: the flimsy that names him the man who chose where to dump, with the red lines in miniature",
+  "also_v1": true,
+  "new_image": {
+   "kind": "cg",
+   "name": "c9_flimsy_notice",
+   "prompt_seed": "A cheap purple-inked printed notice held in two hands: his smooth portrait in a high collar at the top, columns of routes and tonnages, small charts with red lines, a bold line across the bottom"
+  }
+ },
+ {
+  "ref": "c09.s05",
+  "line": 353,
+  "pass": "B",
+  "run_len": 2,
+  "after_text": "It'll be in every hold in the world",
+  "tier": 2,
+  "change": "show p sefa_shaken as right at head_right in place of the hide at 355-356 (keep wrack_thread_shaken on the left through 358; the show at 361 swaps in okonta_grave)",
+  "why": "'Sefa read it. She went white all the same': a lead reacts, with no portrait up",
+  "narration_portrait": true,
+  "new_image": null
+ },
+ {
+  "ref": "c09.s05",
+  "line": 366,
+  "pass": "A",
+  "run_len": 6,
+  "after_text": "She folded the flimsy and gave it back",
+  "tier": 1,
+  "change": "okonta_grave -> okonta_grim",
+  "why": "'It won't be to see you now. It'll be to try you': the Moot turns from welcome to trial",
+  "also_v1": true,
+  "new_image": null
+ },
+ {
+  "ref": "c09.s05",
+  "line": 393,
+  "pass": "B",
+  "run_len": 4,
+  "after_text": "He says he's come to dine with his",
+  "tier": 4,
+  "change": "NEW cg c9_grey_launch",
+  "why": "Chapter turn: a grey launch with no flag, one old gentleman and a hamper, comes into the Eye",
+  "also_v1": true,
+  "new_image": {
+   "kind": "cg",
+   "name": "c9_grey_launch",
+   "prompt_seed": "A small grey launch with no flag lying in the flat water of an Eye under a ring of blue sky, one old man seated in it beside a hamper, the lantern-lit raft-town in the dark behind"
+  }
+ }
+]

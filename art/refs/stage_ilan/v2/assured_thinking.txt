@@ -1,0 +1,9 @@
+model: fal-ai/nano-banana-2/edit
+purpose: sheet
+refs: art/refs/stage_ilan/v2/ref_attentive.png
+
+model: fal-ai/nano-banana-2/edit
+purpose: sheet
+refs: art/refs/stage_ilan/v2/ref_attentive.png
+
+Edit this exact portrait. Keep the identical face, long face and jaw, age, skin colour, hair, ears, plain grey-green tunic, the thin pale Thread line on the side of the neck exactly where and as thin as it is, the framing, the exact head turn toward the viewer's right and three-quarter view, the pose, the plain light grey background and the art style. Do not make the face younger or smoother. Change ONLY the eyebrows, eyelids, gaze and mouth. The eyes are fully drawn with irises, pupils and highlights. No text. Eyebrows level and relaxed, not raised in the middle; upper eyelids lifted a little so the gaze is open and direct; mouth closed and lightly firm; chin slightly raised. The pupils clearly shifted to look to the side, away from straight ahead, and slightly up as if weighing a thought, calm and untroubled, brows flat, no frown, no worry.

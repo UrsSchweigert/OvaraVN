@@ -10,10 +10,14 @@ label ch16:
     scene bg c16_kelder_day
     with fade
     "He began at the bottom of the hill."
+    show p wrack_thread_troubled as left at head_left
+    with qd
     "It was two hundred paces from the refinery school to the tin roofs, and it took him half the morning. Sefa walked on one side of him and the man in Meridian grey on the other. The dockers of the Waterline watched him pass."
     "Some of them took their caps off. Some did not."
     "The tanks stood behind the sea-wall in rows. Electric lamps hung over them on wires, hard and white, and they did not flicker. That had been in the paper."
     "{i}Lamps that do not fail.{/i} The people of four holds sat in the water in lines, as they had been put. Each wore a brass tag on a cord at the wrist, stamped with a number."
+    show p wrack_strong_attentive as left at head_left
+    with qd
     "Nobody had locked the sheds. There had been no need. There was nowhere to go."
     "Somebody had been at the sluices, all the same. The iron gates at the seaward end of every row hung open, sawn through at the hinge. A big grey-bearded man was sitting on the wall beside the last of them with a hacksaw across his knees."
     "A woman sat against his shoulder, and two girls."
@@ -22,6 +26,8 @@ label ch16:
     with qd
     c_corin "Three days,"
     "He did not get up."
+    show p corin_grief as right at head_right
+    with qd
     c_corin "The dockers lent me the saws. They'd heard the sirens, same as these did. Nobody came to open a door for any of them."
     "He looked at the blade."
     c_corin "He'll have reckoned the cost of that. He'll have had a figure for it."
@@ -78,6 +84,8 @@ label ch16:
 
     scene bg c16_kelder_evening
     with dissolve
+    show p okonta_grave as right at head_right
+    with qd
     "Okonta had watched it all from the wall. Corin came and stood in front of her. He had the hacksaw still in his hand, and seemed not to know it."
 
     show p corin_earnest as right at head_right
@@ -94,15 +102,13 @@ label ch16:
     with qd
     c_corin "No."
 
-    hide right
+    show p okonta_flat as right at head_right
     with qd
     "She was silent."
 
-    show p okonta_flat as right at head_right
-    with qd
     c_okonta "Say it, then."
 
-    hide right
+    show p corin_earnest as right at head_right
     with qd
     "He said it. He was fifty-eight years old, and his voice shook like a boy's. {i}Keep the water. Own nothing you can't carry. Come when you're called.{/i}"
 
@@ -125,6 +131,8 @@ label ch16:
     scene bg c16_kelder_evening
     with fade
     "He could not call. He could ride."
+    show p wrack_thread_dejected as left at head_left
+    with qd
     "The Thread was not the gift, and being ebbed did not touch it. He lay along the needle with Sefa behind him and thought, with some bitterness, that it was the one thing Jef had given him that he could not spoil."
     "Okonta flew on one side, and Corin on the other. They ran west."
 
@@ -168,7 +176,7 @@ label ch16:
     "she said, before he had his breath."
     c_lockkeeper "I'll tell you that at once, and save you the stairs next time. Four hundred years. Halcyon's asked, and Kessler's asked, and your mother's people have asked. We keep the gates."
 
-    show p wrack_thread_attentive as left at head_left
+    show p wrack_strong_attentive as left at head_left
     with qd
     c_ilan "I'm not asking you to take a side. I'm asking you to read me a measurement."
 
@@ -193,10 +201,12 @@ label ch16:
     c_lockkeeper "I can count, young man."
     "She drank her tea."
     c_lockkeeper "No sea, no gates. No gates, no Lockkeepers, and no Saltgate. That isn't a side. That's arithmetic."
+    show p wrack_strong_attentive as left at head_left
+    with qd
     "She reached up and took hold of a brass handle over her head, polished by generations of hands."
     c_lockkeeper "What is it you want carried, and where to?"
 
-    show p wrack_thread_resolved as left at head_left
+    show p wrack_strong_resolved as left at head_left
     with qd
     c_ilan "People. To the edge of it."
 
@@ -244,7 +254,7 @@ label ch16:
     c_vey "You ask,"
     c_vey "You have not told us what you will do for us."
 
-    show p wrack_thread_calm as left at head_left
+    show p wrack_strong_calm as left at head_left
     with qd
     c_ilan "No."
 
@@ -309,10 +319,16 @@ label ch16:
     "Dace said so, when the needles found her. The calm places of the Belt had moved on a pattern since before there were charts. Now they were sliding, all of them, toward one point in the open Girdle, like crumbs toward a hole in a cloth."
     "Lashing had gone with its Eye. It lay now on a flat grey sea, under a ring of sky, at the edge of the dead water."
     "He came to it on the twentieth day, and did not know the place."
+
+    scene cg c16_fleet_gathered
+    with dissolve
     "There were boats to the horizon. Lashing's six thousand hulls were the middle of it. Round them lay the gate barges of Saltgate, and tugs out of Keelhaven, and the fishing smacks of the Stubborns."
     "He saw the boats of Old Tolla, with the first fish of the catch nailed to their bows. There was a white Brightwater hospital ship. Her captain had turned her round at sea, he heard, on the day he learned how Dr Marsh had died."
     "Agravars stood at every rail."
     "And in the water were the mariners. Two hundred holds had sent everyone who could travel. Odile had the Moot there, with her lists. They hung in the warm cloudy sea in their thousands, long-limbed and dark-eyed, looking up."
+
+    scene bg c16_girdle_fleet
+    with dissolve
     "He saw the brass tags of Kelder, still on their cords. Somebody had told them they might take the tags off, and they had said that they would do it afterwards."
     "It was the first time in three thousand years that the two peoples had been within arm's reach, in such numbers, with nothing in anyone's hands. Nobody was speaking. Forty thousand people were looking at each other across a metre of air and water."
     "They were finding out that the other was real."
@@ -341,7 +357,7 @@ label ch16:
     with qd
     c_maelis "Show me your hands,"
 
-    hide right
+    show p maelis_cropped_impassive as right at head_right
     with qd
     "Sefa held them out. Maelis took them in her own and turned them over. She pressed the palms with her thumbs, as Jef had pressed Ilan's fingers under a lamp."
 
@@ -358,7 +374,7 @@ label ch16:
     with qd
     c_maelis "I ask everyone the same question. I asked him. What will you do with the life you get back?"
 
-    hide right
+    show p sefa_lip as right at head_right
     with qd
     "Sefa looked at the bottle. Her mouth worked."
 
@@ -412,7 +428,7 @@ label ch16:
     "She sat down on the thwart."
     c_maelis "Now. They've told me something else. In fifty-five years they have never once told me what they want. I've asked. They thought it was funny."
 
-    hide right
+    show p maelis_cropped_level as right at head_right
     with qd
     "She looked out at the turning wings."
 
@@ -428,7 +444,7 @@ label ch16:
     with qd
     c_maelis "There are walls in that city which remember. They want them lit. They want, for once, to put something down."
 
-    show p wrack_thread_attentive as left at head_left
+    show p wrack_strong_attentive as left at head_left
     with qd
     c_ilan "And you?"
 
@@ -437,7 +453,8 @@ label ch16:
     c_maelis "I'm coming in with you. I knew him when he was fourteen and couldn't speak. He taught me a game with stones."
 
     hide left
-    hide right
+    with qd
+    show p maelis_cropped_grave as right at head_right
     with qd
     "Her face was quite calm."
 
@@ -455,14 +472,20 @@ label ch16:
     "He was in the stern, watching Odile and forty choirmasters sort eleven thousand callers into rings. He had nothing to do with it. Odo of Lashing was doing the same for the boats, through his brass trumpet."
     "Teodora Raske stood on the deck of a tug with her three hundred and eleven, checking the seals on one another's hard suits. Adler Crane was among them, in a borrowed helmet, holding a lamp for Hanne."
     "They looked like people about to sit an examination."
+    show p wrack_strong_calm as left at head_left
+    with qd
     "He had been somebody that people could not do without. He was watching it stop. He found, to his surprise, that it was like setting down a sled rope."
     "\"You've got thin,\" somebody said, in the water."
+    show p hesper_tired as right at head_right
+    with qd
     "Hesper had her arms folded on the gunwale. She looked ten years older than at Low Anthem. The cord was gone from her wrist."
 
     show p hesper_stern as right at head_right
     with qd
     c_hesper "I went back,"
     c_hesper "To where we built it, off the Crown. And then I went to Fallow. I wanted to see it properly. I'd only seen that it worked."
+    show p hesper_raw as right at head_right
+    with qd
     "She was not looking at him."
     c_hesper "There's nothing. No weed. No fish. I put my hand in, and it was like putting it into a dead mouth. I did one of those. I stood in front of two million people and told the sea to stand, and it never spoke again."
     "Her jaw was tight."
@@ -486,6 +509,8 @@ label ch16:
 
     scene bg c16_boat_stern_evening
     with dissolve
+    show p hesper_stern as right at head_right
+    with qd
     "Hesper looked at that for a long moment. Something went out of her shoulders."
 
     show p hesper_eased as right at head_right
@@ -493,7 +518,7 @@ label ch16:
     c_hesper "Then it wasn't the wrong one,"
     c_hesper "It was only lent."
 
-    show p wrack_thread_attentive as left at head_left
+    show p wrack_strong_attentive as left at head_left
     with qd
     c_ilan "You said you'd stop me yourself, if I did it again without learning."
 
@@ -502,6 +527,8 @@ label ch16:
     c_hesper "I did. I'll hold to it."
     "She almost smiled."
     c_hesper "You're not to try lifting that city, Wrack. I can see you thinking about it. You'd die of it, and it'd come up crooked."
+    show p hesper_teacher as right at head_right
+    with qd
     c_hesper "You showed three hundred of us a thing at Tidehall that had never been done, and then you went off to do everything by yourself, as usual. You can't. {i}We{/i} can. You've only to be the place it goes through."
     "She pushed off from the gunwale."
     c_hesper "I've twelve who know how a great weight is built. And how it isn't. Odile's put us in the first ring."
@@ -525,12 +552,13 @@ label ch16:
     c_garran "Is that it?"
     c_garran "The other field?"
 
-    show p wrack_thread_calm as left at head_left
+    show p wrack_strong_calm as left at head_left
     with qd
     c_ilan "It's under that."
 
     hide left
-    hide right
+    with qd
+    show p garran_pensive as right at head_right
     with qd
     "The porter studied it for a while, as he might have studied a crate too heavy for one."
 

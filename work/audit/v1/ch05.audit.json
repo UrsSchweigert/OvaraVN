@@ -1,0 +1,98 @@
+[
+ {
+  "ref": "c05.s01",
+  "line": 13,
+  "pass": "A+B",
+  "run_len": 9,
+  "after_text": "In the workshop the warm-stone they had been",
+  "tier": 2,
+  "change": "show p wrack_thread_thinking as left (Wrack alone with the air-heart, trying to learn to make)",
+  "why": "Narration about Wrack at Jef's bench",
+  "new_image": null
+ },
+ {
+  "ref": "c05.s01",
+  "line": 18,
+  "pass": "A+B",
+  "run_len": 9,
+  "after_text": "Somewhere there was a first step, and Jef",
+  "tier": 2,
+  "change": "wrack_thread_thinking -> wrack_thread_dejected; show p okonta_grave as right (narration turns to Okonta staying)",
+  "why": "Okonta, a lead, enters narration",
+  "new_image": null
+ },
+ {
+  "ref": "c05.s01",
+  "line": 58,
+  "pass": "B",
+  "run_len": 4,
+  "after_text": "On the ninth evening he was at the",
+  "tier": 2,
+  "change": "show p wrack_thread_stunned as left (the hum goes wrong)",
+  "why": "Narration about Wrack at the bench",
+  "new_image": null
+ },
+ {
+  "ref": "c05.s02",
+  "line": 142,
+  "pass": "A",
+  "run_len": 6,
+  "after_text": "He had never heard anything so beautiful. People",
+  "tier": 3,
+  "change": "NEW bg: Deep Chorus galleries below the twentieth tier, lamps dark, long swags of weak greenish-yellow lampweed hanging",
+  "why": "Lampweed is the reveal of the hold's failure; a new view of a significant place",
+  "new_image": {
+   "kind": "bg",
+   "name": "c5_lampweed_galleries",
+   "prompt_seed": "Inside the great canyon-city, tier after tier of gallery below the lit tiers; the pale Maker lamps are dark and in their place hang long swags of a weak greenish-yellow glowing weed; blue depth below."
+  }
+ },
+ {
+  "ref": "c05.s02",
+  "line": 187,
+  "pass": "B",
+  "run_len": 1,
+  "after_text": "Bother, leave it. Hello, Wrack.",
+  "tier": 2,
+  "change": "keep sefa_tired on the right through the next narration (drop the hide at line 189-191)",
+  "why": "Narration at 192 is about Sefa, a lead",
+  "new_image": null
+ },
+ {
+  "ref": "c05.s04",
+  "line": 349,
+  "pass": "A+B",
+  "run_len": 12,
+  "after_text": "She went by the main stair, not the",
+  "tier": 4,
+  "change": "NEW cg: Sefa, grey healer's band on her arm, standing in the high hall before the seven elders on their stone seats, a net-maker beside her, the canyon showing through the clear glass vault",
+  "why": "Sefa's defining deed: she shames the council in their own hall (covers 351 to 358)",
+  "new_image": {
+   "kind": "cg",
+   "name": "c5_sefa_high_hall",
+   "prompt_seed": "A thin sixteen-year-old girl in a healer's grey band on her upper arm stands in a high hall under a vault of clear glass; seven elders sit on seven stone seats; beside her a plain net-maker woman in grief; beyond the glass the canyon waters are green; the girl speaks, steady, to the elders."
+  }
+ },
+ {
+  "ref": "c05.s04",
+  "line": 358,
+  "pass": "A",
+  "run_len": 12,
+  "after_text": "There was no panic. Elder Vey had been",
+  "tier": 3,
+  "change": "bg dc_canyon_above (reuse) for the lower hold moved up tier by tier",
+  "why": "The choirs organise; the hold is moved up",
+  "new_image": null
+ },
+ {
+  "ref": "c05.s04",
+  "line": 424,
+  "pass": "A",
+  "run_len": 6,
+  "after_text": "I did. I have wondered every day since",
+  "tier": 1,
+  "change": "wrack_thread_attentive -> wrack_thread_troubled",
+  "why": "Vey admits she has wondered every day whether she had the right",
+  "new_image": null
+ }
+]

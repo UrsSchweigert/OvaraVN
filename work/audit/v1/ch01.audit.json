@@ -1,0 +1,189 @@
+[
+ {
+  "ref": "c01.s01",
+  "line": 28,
+  "pass": "A",
+  "run_len": 11,
+  "after_text": "He lay still and looked up. He was",
+  "tier": 3,
+  "change": "bg kelp_forest (reuse), replacing cg wake for the forest description",
+  "why": "The forest is first seen and heard here; 11 boxes ran on one image",
+  "new_image": null
+ },
+ {
+  "ref": "c01.s01",
+  "line": 31,
+  "pass": "A",
+  "run_len": 11,
+  "after_text": "He felt it in his teeth.",
+  "tier": 2,
+  "change": "show p bother_alert as bother at bother_corner (Bother enters on 'Something bumped his ribs')",
+  "why": "The animal arrives; breaks the run at the story's own turn",
+  "new_image": null
+ },
+ {
+  "ref": "c01.s01",
+  "line": 36,
+  "pass": "A+B",
+  "run_len": 11,
+  "after_text": "It wore a collar of plaited cord. It snuffled",
+  "tier": 2,
+  "change": "hide bother; show p sefa_wary as right at head_right for the girl described in the next box",
+  "why": "Sefa is a lead and is described in narration; bring her in",
+  "new_image": null
+ },
+ {
+  "ref": "c01.s02",
+  "line": 96,
+  "pass": "A",
+  "run_len": 6,
+  "after_text": "Then the ground began to step upward in",
+  "tier": 3,
+  "change": "bg terrace_work (reuse) for the people cutting fronds and the singing",
+  "why": "First sight of the hold's people at work; splits a run of 6",
+  "new_image": null
+ },
+ {
+  "ref": "c01.s02",
+  "line": 108,
+  "pass": "B",
+  "run_len": 4,
+  "after_text": "We herd them. That's the nursery terrace, and",
+  "tier": 3,
+  "change": "bg dome_dark_half (reuse) for 'At the top of the terraces stood a dome', half lit and half dark",
+  "why": "Low Anthem's dome is first seen and is the central place; its lit and dark halves are in the text",
+  "new_image": null
+ },
+ {
+  "ref": "c01.s03",
+  "line": 201,
+  "pass": "A",
+  "run_len": 6,
+  "after_text": "He did not know when he had last",
+  "tier": 2,
+  "change": "show p wrack_puzzled as left and p sefa_dry as right (Sefa reports the argument)",
+  "why": "Breaks the run at the turn from the meals to the argument; Sefa is the reporter",
+  "new_image": null
+ },
+ {
+  "ref": "c01.s03",
+  "line": 218,
+  "pass": "B",
+  "run_len": 2,
+  "after_text": "Eat your sea-grapes.",
+  "tier": 2,
+  "change": "hide Sefa; show p wrack_blank as left and p oro_gentle as right for 'It was Elder Oro who ended the argument'",
+  "why": "Oro is introduced in narration; bring him in",
+  "new_image": null
+ },
+ {
+  "ref": "c01.s03",
+  "line": 243,
+  "pass": "B",
+  "run_len": 4,
+  "after_text": "No. Well. It'll come or it won't. In",
+  "tier": 2,
+  "change": "hide Oro; show p ione_calm as right (keep Wrack) for the narration about Ione, her scars and her calm",
+  "why": "Ione is introduced in narration; bring her in before the healing image",
+  "new_image": null
+ },
+ {
+  "ref": "c01.s04",
+  "line": 347,
+  "pass": "A+B",
+  "run_len": 8,
+  "after_text": "Everything in this hold is up and across.",
+  "tier": 2,
+  "change": "hide Davin and Wrack; show p hesper_stern as right at head_right for 'His wife was called Hesper'",
+  "why": "Hesper is a lead and is described in narration; also splits a run of 8",
+  "new_image": null
+ },
+ {
+  "ref": "c01.s04",
+  "line": 354,
+  "pass": "A",
+  "run_len": 8,
+  "after_text": "She was the only one for two hundred",
+  "tier": 3,
+  "change": "bg sea_door (reuse) for the singer at the sea-door and the watches",
+  "why": "Turn from Hesper to the shape of the days; place change",
+  "new_image": null
+ },
+ {
+  "ref": "c01.s04",
+  "line": 358,
+  "pass": "A",
+  "run_len": 8,
+  "after_text": "Work was done in the water. Eating, sleeping",
+  "tier": 3,
+  "change": "bg dome_dark_half (reuse) for the evening lamps dimming and the dark side with its weed",
+  "why": "The dimming lamps and the dark side are the images the text names; leads into the lampweed talk",
+  "new_image": null
+ },
+ {
+  "ref": "c01.s04",
+  "line": 387,
+  "pass": "A+B",
+  "run_len": 18,
+  "after_text": "You don't know who Jef is either.",
+  "tier": 2,
+  "change": "scene bg long_dry_hall; show p wrack_tunic_attentive as left and p jef_attentive as right while the night crew describes Jef (hearsay; remove at 399)",
+  "why": "Jef is a lead, spoken of for five boxes; first sight of him as legend",
+  "new_image": null
+ },
+ {
+  "ref": "c01.s04",
+  "line": 399,
+  "pass": "A",
+  "run_len": 18,
+  "after_text": "More of them spoke of him as a",
+  "tier": 2,
+  "change": "hide Jef; keep Wrack alone, listening",
+  "why": "End of the Jef legend; breaks the run of 18 at the turn to the boy's talk",
+  "new_image": null
+ },
+ {
+  "ref": "c01.s04",
+  "line": 405,
+  "pass": "A",
+  "run_len": 18,
+  "after_text": "He tells it who to let in, though.",
+  "tier": 2,
+  "change": "show p davin_neutral as right (Davin saw the Dragon as a boy) for the Dragon boxes",
+  "why": "Turn to the Dragon; Davin is the witness named in the text",
+  "new_image": null
+ },
+ {
+  "ref": "c01.s04",
+  "line": 409,
+  "pass": "A",
+  "run_len": 18,
+  "after_text": "He said that it had looked like a",
+  "tier": 2,
+  "change": "hide Davin; wrack_tunic_attentive -> wrack_tunic_thinking",
+  "why": "End of the Dragon talk; turn to the Threaded",
+  "new_image": null
+ },
+ {
+  "ref": "c01.s04",
+  "line": 416,
+  "pass": "A",
+  "run_len": 18,
+  "after_text": "There's not enough of them, the old woman",
+  "tier": 1,
+  "change": "wrack_tunic_thinking -> wrack_tunic_troubled",
+  "why": "Turn to the one who went up and never came down; last break in the run of 18",
+  "new_image": null
+ },
+ {
+  "ref": "c01.s04",
+  "line": 438,
+  "pass": "A+B",
+  "run_len": 7,
+  "after_text": "A wreath of fresh weed hung on it.",
+  "tier": 4,
+  "change": "Keep bg meeting_hall for the lamp description; show cg lamp_seam (reuse) only from 'His hands reached up on their own.' (move the cg change from before 436 to after this box)",
+  "why": "The seam opens: Wrack's defining deed; the cg now covers the deed instead of the description",
+  "new_image": null
+ }
+]

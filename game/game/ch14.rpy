@@ -12,6 +12,9 @@ label ch14:
     scene bg c14_concord_avenue
     with dissolve
     "A man in a good coat turned from one of them and saw Ilan. He opened his mouth. Then he stepped back, off the pavement, to let him by. Others turned. They made a lane for him the whole length of the avenue, in silence."
+
+    show p raske_steady as right at head_right
+    with qd
     "He walked down it with an old woman in lipstick at his elbow, and he did not know whether they would cheer him or tear him apart. Neither did they."
 
     show p raske_fierce as right at head_right
@@ -19,10 +22,16 @@ label ch14:
     c_raske "I'm for Lashing,"
     "Raske said, at the seawall. Dace's boat was there, with the engine running."
     c_raske "I've three hundred people there who can open a lamp, and I think you're going to want them."
+
+    show p raske_moved as right at head_right
+    with qd
     "She gripped his arm, hard."
     c_raske "Don't die. You've not finished teaching me."
 
     hide right
+    with qd
+
+    show p okonta_urgent as right at head_right
     with qd
     "He had called Okonta from the service stair of the Spire, through the Thread, the moment he could feel anything at all. He had not known he could do that. She came up out of the harbour with both needles as he reached the wall."
     "Sefa slid off Dace's deck and onto the needle behind her, with Bother under one arm, and nobody had the time to argue."
@@ -42,7 +51,7 @@ label ch14:
     "She was shouting over the hull-song."
     c_okonta "It doesn't come to the Girdle, Wrack. You saw. It goes under, a kilometre down, and it doesn't turn aside for anything. It runs pole to pole and nowhere else. It's run that line since before there were holds."
 
-    show p wrack_thread_resolved as left at head_left
+    show p wrack_strong_resolved as left at head_left
     with qd
     c_ilan "It's coming,"
     c_ilan "I asked it."
@@ -52,8 +61,15 @@ label ch14:
     with qd
     "He had felt it turn. He was still feeling it. Far to the south-west a long bright hum was bending off a line it had held for three thousand years."
     "He had rebuilt that heart himself, on the floor of the gallery, with a strand of lampweed round his wrist. He knew every wheel in it. It knew him."
+
+    show p jef_tired as right at head_right
+    with qd
     "That was what the Thread was for. Jef had seen it. The old man had sat on a step with a mug, with his hands shaking and his heart failing."
     "He had looked at a stranger who could push the Dragon's water about from outside, and he had thought: {i}he ought to be able to drive it.{/i} He had spent the last of himself on that."
+
+    hide right
+    show p wrack_strong_resolved as left at head_left
+    with qd
     "Ilan knew what he was doing. He had turned it over on a frigate's deck at Lashing, and on most nights since. There was one heart on Ovara large enough. For three thousand years it had run where no islander could lay a hand on it."
     "He was bringing it up into the light. There were two million people under a wave, and he could not think of another way to reach them."
 
@@ -94,6 +110,9 @@ label ch14:
     # c14.s02
     "The Crown was a ring of volcanoes. The largest had blown its side out long ago, and the sea had come in. That was the harbour. The city was inside."
     "He had lived in it for fifteen years, and had never once seen it from the water."
+
+    scene bg c14_refinery_quay
+    with dissolve
     "It climbed the inner wall of the caldera in tiers. At the bottom was the Waterline. That was refineries and quays and tank farms, and the barracks of the people who worked them. Above it were the Stacks."
     "They were a thousand grey tenement blocks, built so close that the streets between them were stairs. Two million people lived there. And at the top, along the crater's lip, was the Rim. It had clean air. He could see his own office window."
     "Ash was falling over all of it, soft and grey, as it fell most days. On the Rim, men were paid to sweep it."
@@ -178,17 +197,20 @@ label ch14:
     "Her breath came in gasps."
     c_hesper "They sailed, did you know? This morning. With the engine. They were always going to. So don't tell me about children."
 
-    show p wrack_thread_resolved as left at head_left
+    show p wrack_strong_resolved as left at head_left
     with qd
     c_ilan "The fleet's been recalled. It's coming back here to shoot at you. I've perhaps half an hour."
     "He swam round until he was in front of her, between her and the city."
     c_ilan "Look at me. I drew the line over Low Anthem. Me. Not that city. It was my chart and my pen. If somebody has to be under this when it comes down, I'm here. I won't move."
 
+    show p hesper_stricken as right at head_right
+    with qd
+
     "Her eyes came to his face."
 
     c_hesper "I can't forgive you."
 
-    show p wrack_thread_calm as left at head_left
+    show p wrack_strong_calm as left at head_left
     with qd
     c_ilan "I know. I'm not asking you to."
 
@@ -197,6 +219,9 @@ label ch14:
     c_hesper "And I can't let go."
     "It burst out of her."
     c_hesper "Don't you see? None of us can! We built it too big. We learned something from you at Tidehall. How to hand strength on, one to the next. And we learned something at Fallow. We didn't ask for this, Wrack. Each of us told our piece of it to stand."
+
+    show p hesper_stricken as right at head_right
+    with qd
     c_hesper "It went up like a wall going up. Six days, and we were so proud. Now Calla's failing on the left root, and Brin's been bleeding from the ears since noon. If one of us drops, the lot goes, on them and on us. And it won't hear us."
     c_hesper "We told it to stand, and it's standing, and it has stopped listening. I've been trying for three hours to think how to put it down. There's no way to put it down!"
 
@@ -205,13 +230,16 @@ label ch14:
     with qd
     "He thought, quite clearly, {i}I know what that's like.{/i}"
 
-    show p wrack_thread_resolved as left at head_left
+    show p wrack_strong_resolved as left at head_left
     with qd
     c_ilan "Then give it to me,"
 
     c_hesper "You can't carry—"
 
     c_ilan "I'm not going to carry it. I'm going to be a place for it to pass through. You've felt me do it."
+
+    show p wrack_strong_calm as left at head_left
+    with qd
     "He opened his hands."
     c_ilan "One at a time. Calla first. Whatever you can't hold. I'll only take what I'm given."
 
@@ -229,7 +257,7 @@ label ch14:
     "she whispered."
     c_hesper "Do not order."
 
-    show p wrack_thread_calm as left at head_left
+    show p wrack_strong_calm as left at head_left
     with qd
     c_ilan "Please,"
     "Ilan said to the sea."
@@ -244,6 +272,9 @@ label ch14:
 
     scene bg c14_wave_mouth
     with dissolve
+
+    show p hesper_tired as right at head_right
+    with qd
     "Hesper had folded up in the water with her arms round her knees. Davin had said that it was boys on those boats. Ilan thought that she was hearing him."
     "Then the horizon flashed."
 
@@ -260,9 +291,15 @@ label ch14:
 
     scene bg c14_harbour_water
     with dissolve
+
+    show p wrack_thread_stunned as left at head_left
+    with qd
     "He reached for the sea to shield the city, and there was nothing."
     "He knew the feeling at once. It was the feeling from the Slick. There was no door, and no house. He looked down. The water of Port Halcyon harbour was the colour of tea, and an oily sheen slid on it."
     "The whole of it was deaf, from the breakwater to the refinery quays. It was two hundred years of what ran off those tiers. Some of it was his."
+
+    show p wrack_thread_straining as left at head_left
+    with qd
     "The light in the slot was building again. He could feel the engine through the Thread. It was a hot hard knot of Maker work, and it was badly wrong. They were turning it toward the harbour mouth, and toward everything behind it."
     "{i}You can't mend anything you won't look at,{/i} Yeva had said. {i}Purging is your one.{/i}"
 
@@ -283,6 +320,9 @@ label ch14:
     "The second shot came straight. He raised the harbour to meet it. It was a wall of clean sea a kilometre thick, between the beam and the city. The beam struck it, and boiled into it, and guttered."
     "In the same moment he reached out along the Thread with the craft, across eleven kilometres, into a machine he had once stood inside. It was seated wrong."
     "It had been dragged out of its vault and bolted into a hull by people who thought it was a machine like theirs."
+
+    show p wrack_thread_trying as left at head_left
+    with qd
     "He moved three small things."
     "The light in the slot went out."
 
@@ -317,6 +357,9 @@ label ch14:
     with qd
     "He meant to obey her. He was sliding down into the dark already, and it was almost pleasant."
     "Then something rang in his head, faintly, as a glass rings when another is set down beside it."
+
+    show p wrack_strong_attentive as left at head_left
+    with qd
     "The sea was shut to him. But the Thread was not the gift, and it had never been shut. He could still feel the lamps of the Rim, far up, and the dead knot of the engine."
     "He could feel the Dragon lying across the harbour mouth behind him, a kilometre of slow bright hum."
     "A needle had come into one of its cradles. It was an old pattern."

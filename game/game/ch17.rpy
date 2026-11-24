@@ -55,6 +55,8 @@ label ch17:
     with qd
     "Six thousand healers sat down in the water."
     "For an hour nothing happened. The boats rocked. On the decks, forty thousand islanders watched a line of people doing nothing, and did not understand what they were looking at."
+    show p wrack_thread_exhausted as left at head_left
+    with qd
     "Ilan lay in the stern of Dace's boat and understood it very well. He had stood waist deep in a canal for an hour once, with a cupful of water in his hands, wanting too much."
 
     show p sefa_understanding as right at head_right
@@ -67,6 +69,8 @@ label ch17:
     "A hand's width of the dead water had begun to hear."
     "It was slow. By noon the line had gone forward the length of a boat. Then it went a little faster, and then faster again."
     "The sea behind the healers leaned in over their shoulders, as the old water of the Well had once leaned in over three hundred pools, and helped."
+    show p wrack_strong_attentive as left at head_left
+    with qd
     "It went like a thaw. First there was a wet patch on the ice, and then a channel, and then the sound of running."
     "They did not need the whole ring. They needed a road."
     "The islanders gave it to them. It was Garran who saw how. A healer who had sat four hours with her hands in dead water could not then swim a kilometre and do it again."
@@ -84,6 +88,8 @@ label ch17:
     scene bg c17_road_barges
     with fade
     "Rook's Threaded came on the first afternoon."
+    show p wrack_thread_dejected as left at head_left
+    with qd
     "Ilan saw the grey needles lift out of the mist along the top of the wall, twenty-two of them, and drop toward the line of barges. He saw the silver ones go up to meet them. He could do nothing. He lay and watched Okonta fly."
 
     scene cg c17_corin_calls
@@ -111,7 +117,7 @@ label ch17:
     "His voice went over the water like a crate being set down."
     c_odo "Forty paces by twenty. I can tell you whose it'll be. Come and look at what he's done to get it."
 
-    hide right
+    show p marit_hard as right at head_right
     with qd
     "Marit Coyle had a camera on the gunboat from a smack alongside. The Lockkeepers' horns were sounding from every gate barge in the line."
     "The gunboat's captain stood on his bridge for some time. Then the crest came down from her mast, and she swung in behind the barges, and rowed."
@@ -142,9 +148,15 @@ label ch17:
     "They came over the top, and he saw what Anselm Rook had made."
     "It was a pit. It was eighty kilometres across, and the sea stood round it in a ring, like the rim of a bowl. The floor was mud."
     "There were fish beyond counting, lying where the water had left them, and the smell came up to him even at that height. Far off, absurdly, a drilling platform stood on six rusty legs in the middle of a plain."
+
+    scene cg c17_pit_city
+    with dissolve
     "Under the platform was the city."
     "It had come part of the way out of the silt, as the sea drew off it. Round the central hall lay a ring of great hoops, one behind another, with nothing between them. He did not know them at first. They were ribs."
     "The bright water had gone out of them. The Dragon lay coiled on the mud like something a tide had left, and it made no sound at all."
+
+    scene bg c17_pit_view
+    with dissolve
 
     show p raske_steady as right at head_right
     with qd
@@ -169,7 +181,7 @@ label ch17:
     c_hanne "It knows you,"
     "Hanne whispered."
 
-    show p wrack_thread_attentive as left at head_left
+    show p wrack_strong_attentive as left at head_left
     with qd
     c_ilan "It knows a pair of hands,"
     c_ilan "It would know yours. Go and find it some seams."
@@ -198,15 +210,15 @@ label ch17:
     "Beyond them the vault went down into the rock like the inside of a bell. In its floor was the ring. It was forty metres across, a single hoop of the pale metal, set flush with the stone."
     "Water ran round it in a sheet. It was not the bright water of the Dragon's ribs. It was grey, and it ran in jerks."
     "At the centre, bolted into a frame of raw agravar steel, two wheels were turning, one inside the other."
-    "Anselm Rook was sitting at a bench beside them, in his shirt. There were drawings all round him, hundreds of sheets, pinned and weighted. He looked ninety. His hands were wrapped in rags, and the rags were stained."
-
     show p rook_old_tired as right at head_right
     with qd
+    "Anselm Rook was sitting at a bench beside them, in his shirt. There were drawings all round him, hundreds of sheets, pinned and weighted. He looked ninety. His hands were wrapped in rags, and the rags were stained."
+
     c_anselm "You came the long way,"
     "He did not seem surprised."
     c_anselm "I heard horns."
 
-    show p wrack_thread_resolved as left at head_left
+    show p wrack_strong_resolved as left at head_left
     with qd
     c_ilan "I asked."
 
@@ -229,6 +241,8 @@ label ch17:
     show p rook_old_tired as right at head_right
     with qd
     c_anselm "I know. I—"
+    show p maelis_cropped_impassive as right at head_right
+    with qd
     "He did not finish it. She had come down the last step and was standing with her hands in her pockets, looking at him. She did not look angry. She looked as she had looked across a bowl of soup, taking stock."
 
     show p maelis_cropped_level as right at head_right
@@ -254,22 +268,26 @@ label ch17:
     with qd
     "Ilan took the panel. He turned it over. It had been done clumsily, and by force, and it had been done."
 
-    show p wrack_thread_resolved as left at head_left
+    show p wrack_strong_resolved as left at head_left
     with qd
     c_ilan "It's seated wrong,"
     c_ilan "All of it."
 
     c_anselm "It runs."
+    show p wrack_thread_troubled as left at head_left
+    with qd
 
     c_ilan "It runs like a man shouting. Every time the wall jumps, a little more of it goes soft. Your own engineers told you so. Crane said."
 
     c_anselm "Crane."
     "Rook glanced at him without interest."
     c_anselm "Yes. They told me. I had a figure for it. I judged that I should have it steady before it mattered."
+    show p rook_old_sharp as right at head_right
+    with qd
     "He nodded toward the roof, and the eighty kilometres of mud above it."
     c_anselm "Listen to that, Ilan. Nothing. That's ground. It's the first new ground on Ovara in three thousand years. I've read forty thousand names onto it already."
 
-    show p wrack_thread_calm as left at head_left
+    show p wrack_strong_calm as left at head_left
     with qd
     c_ilan "I've come to seat it."
 
@@ -278,7 +296,7 @@ label ch17:
     "That reached him. The dark eyes sharpened."
     c_anselm "For me?"
 
-    show p wrack_thread_resolved as left at head_left
+    show p wrack_strong_resolved as left at head_left
     with qd
     c_ilan "No. Right."
     "Ilan went to the edge of the ring and knelt, and put his palm flat on the metal. He could feel it, as he had felt the Dragon's brow under his hand at Greywatch Stone. It was labouring."
@@ -289,13 +307,13 @@ label ch17:
     with qd
     c_anselm "That gives me one city."
 
-    show p wrack_thread_calm as left at head_left
+    show p wrack_strong_calm as left at head_left
     with qd
     c_ilan "It gives everybody one city. Two million rooms, and no landlord."
 
     c_anselm "And the other thirty-eight million?"
 
-    show p wrack_thread_attentive as left at head_left
+    show p wrack_strong_attentive as left at head_left
     with qd
     c_ilan "The Dragon ran between cities,"
     c_ilan "Hundreds of them. Jef only ever looked for this one. The rays remember where the others lie. They've been waiting three thousand years for somebody to ask."
@@ -303,6 +321,8 @@ label ch17:
     "Rook was silent. Then he shook his head, slowly."
 
     c_anselm "It isn't ground,"
+    show p wrack_strong_calm as left at head_left
+    with qd
 
     c_ilan "No. It's better. It's somewhere to go."
 
@@ -354,9 +374,15 @@ label ch17:
     with dissolve
     "The pictures moved. They showed the ring, new, and the city standing round it under a clean sea. They showed the hoop turning, bright. A street rose out of the water as gently as a breath, with children sitting on the steps."
     "They showed it done a hundred times, over a hundred years, as the sea came up."
+
+    scene cg c17_makers_quarrel
+    with dissolve
     "Then they showed a man. He stood where Rook was sitting. He was shouting at the others in the vault. He did something to the ring, quickly, by force."
     "The sea stood back from the city. It went grey. The pictures showed the wall, and the pit, and the fish."
     "They showed it fall."
+
+    scene bg c17_vault_grey
+    with dissolve
     "They showed what was left afterwards, and how long nothing lived there. They showed the three doors being shut."
     "And they showed the people who had shut them, parting on a shore. Some went down into the water. Some climbed away. They did not look at one another."
 
@@ -390,7 +416,7 @@ label ch17:
     "He looked at the plum stone in his fingers, as a man looks at a column that will not add. Then he set it down on the bench, among the drawings, quite gently."
     c_anselm "Seat it."
 
-    show p wrack_thread_calm as left at head_left
+    show p wrack_strong_calm as left at head_left
     with qd
     c_ilan "Take the tool. I'll show you where."
 
@@ -406,14 +432,22 @@ label ch17:
     scene bg c17_vault_lit
     with fade
     "It took eleven hours. It was the largest thing Ilan ever mended, and he did it with his hands."
+
+    scene cg c17_seating_ring
+    with dissolve
     "Hanne held the lamp. Raske called the sections, in the voice she used across a design loft. Crane fetched and carried."
     "Ilan cut the wheels out of their steel frame and seated them where the Makers had meant a heart to sit. He turned one of them end for end, and it ran cooler."
     "Under the ring there were channels as fine as hairs, and they were silted, and he cleared them one at a time."
     "When he closed the last seam, the grey water dropped into its channel. For a moment the ring was dry. Then the water came again, and it was bright."
+
+    scene bg c17_pit_view
+    with dissolve
     "Above them, forty kilometres away on every side, the wall let go."
     "It did not fall. He had been sure, and not sure. It sank. It came down a hand's width at a time, as the ring bade it, and the sea it had held back walked in across the mud at the pace of a tide."
     "The healers met it as it came. They were ready now, and there were six thousand of them. They sat in the shallows with their hands in it, and it came in hearing."
 
+    scene bg c17_vault_lit
+    with dissolve
     show p wrack_thread_exhausted as left at head_left
     with qd
     c_ilan "It'll be here by morning,"
@@ -446,7 +480,7 @@ label ch17:
     with qd
     c_anselm "Go on. They'll want you in the water. It's the only thing I taught you that I'm not ashamed of. Knowing where you're wanted."
 
-    hide right
+    show p maelis_cropped_grave as right at head_right
     with qd
     "Maelis had taken off her coat. She folded it, and laid it on the stone, and sat down beside him at the edge of the ring. She put out her hand. After a moment he gave her his, rags and all."
 
@@ -466,16 +500,29 @@ label ch17:
     scene bg c17_square_flooded
     with fade
     "The sea reached the city at dawn."
+    show p wrack_thread_exhausted as left at head_left
+    with qd
     "He was standing in the central square when it came. It ran in along the streets ankle deep, and then to the knee. It was warm, and it was clean."
     "He could not hear it. He was ebbed to the bone, and Yeva's hand was on the back of his neck, and Sefa's arm was round him. He was not to ask for anything. He was the empty place and the way through, and that was all."
     "He never afterwards managed to tell anyone properly what it was like."
+
+    scene cg c17_the_way_through
+    with dissolve
     "The callers of the Moot came first, three hundred of them, as before. He knew them now. He felt Aurel's held chord, and the boy from Rime."
     "Then every Touched child and net-mender from two hundred holds came after them, with their one small room's worth of sea apiece. There were thousands of those. Each gave a thimbleful, and it went through him like rain."
     "The callers of Kelder gave, with their brass tags on. Hesper's twelve came in last, hard and bright and exact. They knew how a great weight is built."
     "Something colder and older came up under all of it."
+
+    scene bg c17_square_flooded
+    with dissolve
+    show p wrack_assured_thinking as left at head_left
+    with qd
     "The rays did not lend strength. They lent memory. They showed him the sea floor as it had lain before the Sinking."
     "He saw every street and every foundation. He saw where the rock was sound and where it was not. He had been holding a guess. Now he had a drawing."
     "He gave it all to the ring, and the ring knew what to do with it."
+
+    scene bg c17_silt_street
+    with dissolve
     "In three hundred places, in the dark streets, the engineers had found their seams. A lamp came on under the silt, and then a street of them. Air-hearts that had been still for three thousand years began to open and close."
     "The city drew a breath. It shook off its mud, as a sleeper shrugs off a blanket, and it began to help."
     "It rose."
@@ -511,7 +558,11 @@ label ch17:
     scene bg c17_city_risen
     with dissolve
     "It happened all along the rails after that. Ilan saw Brask hauled onto a coal barge by six stokers, and heard him laugh. He saw the old woman who kept the shrine at Old Tolla lean out of a smack and touch a mariner child's face."
+    show p garran_accepting as right at head_right
+    with qd
     "And he saw Garran lift Ione of Low Anthem bodily up onto a gate barge. The big man stood there holding her scarred arms in his two hands, and saying something. Ione was nodding."
+    show p maelis_cropped_level as right at head_right
+    with qd
     "Maelis came up the vault stair at noon, when the water in it was still. She was alone. She had her coat over her arm."
     "She did not say anything about it, then or later. But she stood for a while in the square, looking up at the lit walls. And she said that the third tower was out of true."
 

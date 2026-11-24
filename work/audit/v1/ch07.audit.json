@@ -1,0 +1,260 @@
+[
+ {
+  "ref": "c07.s01",
+  "line": 11,
+  "pass": "B",
+  "run_len": 5,
+  "after_text": "It was four days to the bottom of",
+  "tier": 2,
+  "change": "show p wrack_thread_exhausted as left; show p sefa_eager as right (keep until the Okonta box at line 16)",
+  "why": "Sefa and Wrack's first days on the Dragon; narration about two leads with no portrait up",
+  "new_image": null
+ },
+ {
+  "ref": "c07.s01",
+  "line": 31,
+  "pass": "A",
+  "run_len": 6,
+  "after_text": "It's never once come up in these waters.",
+  "tier": 1,
+  "change": "wrack_thread_attentive -> wrack_thread_troubled",
+  "why": "Okonta turns from the Girdle to what Jef never faced; Wrack takes it in",
+  "new_image": null
+ },
+ {
+  "ref": "c07.s02",
+  "line": 163,
+  "pass": "B",
+  "run_len": 4,
+  "after_text": "The door was open. On the table inside",
+  "tier": 4,
+  "change": "NEW cg c7_jef_cairn (then back to bg c7_ember_house before the dialogue at line 169)",
+  "why": "Jef's cairn, the apron, Okonta standing, Sefa kneeling with lampweed: grief and a first meeting that never happened",
+  "new_image": {
+   "kind": "cg",
+   "name": "c7_jef_cairn",
+   "prompt_seed": "Behind Ember House where the spring runs into the sea, a cairn of black stones with a folded leather apron held down by a rock; an old woman with a hand at her temple stands before it, a young mariner girl kneels laying a strand of lampweed among the stones; steam, black sand, dusk"
+  }
+ },
+ {
+  "ref": "c07.s03",
+  "line": 226,
+  "pass": "A",
+  "run_len": 17,
+  "after_text": "He saw the sea as it had been.",
+  "tier": 4,
+  "change": "NEW cg c7_old_sea",
+  "why": "The showing: the sea as it was, forests Tip to Tip, lit Maker cities with children swimming, the Dragon new",
+  "new_image": {
+   "kind": "cg",
+   "name": "c7_old_sea",
+   "prompt_seed": "Lit Maker towers under clean bright water, children swimming between them, unbroken kelp forests behind, a young Dragon with a web of bright roads leading away"
+  }
+ },
+ {
+  "ref": "c07.s03",
+  "line": 229,
+  "pass": "A",
+  "run_len": 17,
+  "after_text": "He saw the Sinking. It was not the",
+  "tier": 4,
+  "change": "cg c7_wheel (reuse)",
+  "why": "Back to the ring for the first mariner answered, the war and the ferry boy",
+  "new_image": null
+ },
+ {
+  "ref": "c07.s03",
+  "line": 239,
+  "pass": "A+B",
+  "run_len": 17,
+  "after_text": "They showed him everything. The Slick was there,",
+  "tier": 4,
+  "change": "NEW cg c7_red_line_chart",
+  "why": "Reveal: the hand drawing the red line over a small dome in a golden forest, signed; the hand is his own",
+  "new_image": {
+   "kind": "cg",
+   "name": "c7_red_line_chart",
+   "prompt_seed": "Close on a chart on a desk: a hand drawing a red line across it, passing over a small dome in a golden kelp forest, the hand about to sign at the bottom"
+  }
+ },
+ {
+  "ref": "c07.s03",
+  "line": 242,
+  "pass": "A",
+  "run_len": 17,
+  "after_text": "He could not read the name. He knew",
+  "tier": 4,
+  "change": "cg c7_ray_eye (reuse)",
+  "why": "The showing ends; the old notched-wing ray's question",
+  "new_image": null
+ },
+ {
+  "ref": "c07.s04",
+  "line": 269,
+  "pass": "B",
+  "run_len": 3,
+  "after_text": "One of the healers took him by the",
+  "tier": 2,
+  "change": "show p maelis_cropped_impassive as right (carry into the dialogue at 275)",
+  "why": "Maelis first seen with her hair cut off; narration about a lead",
+  "new_image": null
+ },
+ {
+  "ref": "c07.s04",
+  "line": 281,
+  "pass": "A",
+  "run_len": 15,
+  "after_text": "She folded her hands.",
+  "tier": 1,
+  "change": "wrack_thread_grieving -> wrack_thread_troubled",
+  "why": "Maelis turns from Jef to what the rays weighed in him",
+  "new_image": null
+ },
+ {
+  "ref": "c07.s04",
+  "line": 285,
+  "pass": "A",
+  "run_len": 15,
+  "after_text": "On the floor between them was a small",
+  "tier": 1,
+  "change": "maelis_cropped_level -> maelis_cropped_grave",
+  "why": "The clay bottle on the floor: his memory",
+  "new_image": null
+ },
+ {
+  "ref": "c07.s04",
+  "line": 288,
+  "pass": "A",
+  "run_len": 15,
+  "after_text": "He looked at the bottle.",
+  "tier": 1,
+  "change": "wrack_thread_troubled -> wrack_thread_thinking",
+  "why": "He looks at the bottle and considers",
+  "new_image": null
+ },
+ {
+  "ref": "c07.s05",
+  "line": 329,
+  "pass": "B",
+  "run_len": 6,
+  "after_text": "His mother's name was Nerys, and she was",
+  "tier": 2,
+  "change": "show p nerys_earnest as right (hide at 334 after her speech, as now)",
+  "why": "His mother introduced; a mariner hiding in Saltgate",
+  "new_image": null
+ },
+ {
+  "ref": "c07.s05",
+  "line": 356,
+  "pass": "B",
+  "run_len": 4,
+  "after_text": "He met the chairman a month later, in",
+  "tier": 2,
+  "change": "show p anselm_calm as right (until the scene change at 362)",
+  "why": "Anselm Rook first met in Concord; narration about a lead",
+  "new_image": null
+ },
+ {
+  "ref": "c07.s05",
+  "line": 376,
+  "pass": "B",
+  "run_len": 2,
+  "after_text": "He stood in the light, and the water",
+  "tier": 3,
+  "change": "bg c7_halcyon_office -> bg c17_vault_grey (reuse) at line 378",
+  "why": "The engine in the lowest vault of the drowned city; the office does not show it",
+  "new_image": null
+ },
+ {
+  "ref": "c07.s05",
+  "line": 385,
+  "pass": "B",
+  "run_len": 5,
+  "after_text": "He said that all of it must stop,",
+  "tier": 4,
+  "change": "NEW cg c7_crane_rail (before 387; kelp_forest bg follows at 391)",
+  "why": "Betrayal and drowning: Crane walks the bound Ilan to the rail at night",
+  "new_image": {
+   "kind": "cg",
+   "name": "c7_crane_rail",
+   "prompt_seed": "Night on a survey ship deck: a tall man in a coat with his wrists bound by a cable tie, a heavy security chief beside him at the rail, black water below, nobody else on deck"
+  }
+ },
+ {
+  "ref": "c07.s06",
+  "line": 424,
+  "pass": "A",
+  "run_len": 19,
+  "after_text": "She folded her hands.",
+  "tier": 3,
+  "change": "bg c7_hush_hall (reuse)",
+  "why": "Maelis tells of the boy Anselm at the Hush: the hand on the wall, the sweeping",
+  "new_image": null
+ },
+ {
+  "ref": "c07.s06",
+  "line": 428,
+  "pass": "A",
+  "run_len": 19,
+  "after_text": "He was the cleverest person I had ever",
+  "tier": 3,
+  "change": "bg c7_hush_room (reuse); show p wrack_thread_dejected as left; show p maelis_cropped_level as right",
+  "why": "Back in the room as Jef takes Anselm north",
+  "new_image": null
+ },
+ {
+  "ref": "c07.s06",
+  "line": 433,
+  "pass": "A",
+  "run_len": 19,
+  "after_text": "Jef had sworn never to build, and would",
+  "tier": 1,
+  "change": "maelis_cropped_level -> maelis_cropped_grave",
+  "why": "Anselm took his needle and went up; she moves to Jef's shame",
+  "new_image": null
+ },
+ {
+  "ref": "c07.s06",
+  "line": 438,
+  "pass": "A",
+  "run_len": 19,
+  "after_text": "Sounding.",
+  "tier": 3,
+  "change": "bg sounding_ruin (reuse)",
+  "why": "Jef's hold Sounding and the darts: the story's own turn to the ruin",
+  "new_image": null
+ },
+ {
+  "ref": "c07.s06",
+  "line": 441,
+  "pass": "A",
+  "run_len": 19,
+  "after_text": "He built them darts. Maker darts, armed, the",
+  "tier": 3,
+  "change": "bg c7_hush_room (reuse); show p wrack_thread_attentive as left; show p maelis_cropped_level as right",
+  "why": "Return to the room before 'The ember hissed' (line 446)",
+  "new_image": null
+ },
+ {
+  "ref": "c07.s07",
+  "line": 469,
+  "pass": "B",
+  "run_len": 3,
+  "after_text": "It was morning when the ray set him",
+  "tier": 2,
+  "change": "show p sefa_tired as right (replaced by sefa_wary at 476)",
+  "why": "Sefa waits on the step all night; narration about a lead",
+  "new_image": null
+ },
+ {
+  "ref": "c07.s07",
+  "line": 527,
+  "pass": "A",
+  "run_len": 9,
+  "after_text": "She glared at him.",
+  "tier": 1,
+  "change": "sefa_hard -> sefa_fierce",
+  "why": "Her anger turns from hatred to the demand: you owe us more than a dome",
+  "new_image": null
+ }
+]

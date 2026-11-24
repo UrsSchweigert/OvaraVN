@@ -1,0 +1,167 @@
+[
+ {
+  "ref": "c15.s01",
+  "line": 11,
+  "pass": "B",
+  "run_len": 2,
+  "after_text": "He knew which cradle. It was the last",
+  "tier": 2,
+  "change": "show sefa_afraid as right for box 12 (her arms round his chest); gone with cg at 14",
+  "why": "Sefa is a lead; narration is about her",
+  "new_image": null
+ },
+ {
+  "ref": "c15.s01",
+  "line": 24,
+  "pass": "A",
+  "run_len": 14,
+  "after_text": "He had lain in its gallery as a",
+  "tier": 4,
+  "change": "cg c15_dragon_ribs (reuse) for 25-27 (head swings, ribs groan); scene back to bg c15_harbour_sunset after 27",
+  "why": "Break 1 of 2 in the 14-box run; the Dragon turns",
+  "new_image": null
+ },
+ {
+  "ref": "c15.s01",
+  "line": 28,
+  "pass": "A",
+  "run_len": 14,
+  "after_text": "Above the city, the big screens changed.",
+  "tier": 3,
+  "change": "bg c14_refinery_quay (reuse), people looking up at the screens, for 29-33; scene back to c15_harbour_sunset at line 34",
+  "why": "Break 2; Meridian calls the debts. This leaves 29-33 at exactly 5",
+  "new_image": null
+ },
+ {
+  "ref": "c15.s01",
+  "line": 41,
+  "pass": "B",
+  "run_len": 4,
+  "after_text": "He could not answer her. The door was",
+  "tier": 2,
+  "change": "show okonta_urgent as right for 42-44 (she goes for the cradles); hide before cg at 46",
+  "why": "Okonta is a lead; narration is about her",
+  "new_image": null
+ },
+ {
+  "ref": "c15.s02",
+  "line": 111,
+  "pass": "B",
+  "run_len": 2,
+  "after_text": "Sefa told him.",
+  "tier": 2,
+  "change": "show okonta_grave as right for 112 (she followed the Dragon); replaced by sefa_thoughtful at 114",
+  "why": "Okonta is a lead; narration is about her",
+  "new_image": null
+ },
+ {
+  "ref": "c15.s02",
+  "line": 132,
+  "pass": "A",
+  "run_len": 7,
+  "after_text": "It jumps. It stands a while, and then",
+  "tier": 1,
+  "change": "sefa_afraid -> sefa_shaken",
+  "why": "Run of 7 (131-139); she twists the blanket. Leaves 133-139 at 5",
+  "new_image": null
+ },
+ {
+  "ref": "c15.s03",
+  "line": 173,
+  "pass": "B",
+  "run_len": 1,
+  "after_text": "With a little girl. He says he knows",
+  "tier": 2,
+  "change": "show garran_pensive as right for box 178 (Garran arrives with Pim); same sprite re-shown at 180",
+  "why": "Garran is a lead; narration about his arrival",
+  "new_image": null
+ },
+ {
+  "ref": "c15.s03",
+  "line": 190,
+  "pass": "A",
+  "run_len": 6,
+  "after_text": "He said the figures as a man says",
+  "tier": 1,
+  "change": "wrack_thread_calm -> wrack_thread_attentive",
+  "why": "Run of 6 (187-193); Garran says the figures like a prayer",
+  "new_image": null
+ },
+ {
+  "ref": "c15.s03",
+  "line": 203,
+  "pass": "A",
+  "run_len": 15,
+  "after_text": "The people who were under it go into",
+  "tier": 1,
+  "change": "wrack_thread_troubled -> wrack_thread_resolved",
+  "why": "Break 1 of 2 in the 15-box run; Ilan has said what is wrong with the deed",
+  "new_image": null
+ },
+ {
+  "ref": "c15.s03",
+  "line": 210,
+  "pass": "A",
+  "run_len": 15,
+  "after_text": "he said at last.",
+  "tier": 1,
+  "change": "garran_pensive -> garran_wary",
+  "why": "Break 2; Garran admits he knew, then pushes back",
+  "new_image": null
+ },
+ {
+  "ref": "c15.s05",
+  "line": 329,
+  "pass": "B",
+  "run_len": 2,
+  "after_text": "He tried to get up at dusk, and",
+  "tier": 2,
+  "change": "show sefa_tired as right for box 330 (she puts him back on the blanket); same sprite at 339",
+  "why": "Sefa is a lead; narration is about her",
+  "new_image": null
+ },
+ {
+  "ref": "c15.s05",
+  "line": 367,
+  "pass": "A",
+  "run_len": 7,
+  "after_text": "The city.",
+  "tier": 3,
+  "change": "bg dc_high_hall (reuse), hide portraits, for 369-370 (dry halls, wet halls); scene back to c15_school_dusk before line 372",
+  "why": "Run of 7 (361-370); the Maker city is described but never shown",
+  "new_image": null
+ },
+ {
+  "ref": "c15.s05",
+  "line": 381,
+  "pass": "A",
+  "run_len": 7,
+  "after_text": "They didn't mean to keep the sea out",
+  "tier": 1,
+  "change": "wrack_thread_attentive -> wrack_thread_resolved",
+  "why": "Run of 7 (378-384); he works out the city was built to come up",
+  "new_image": null
+ },
+ {
+  "ref": "c15.s05",
+  "line": 394,
+  "pass": "A",
+  "run_len": 12,
+  "after_text": "Nobody.",
+  "tier": 1,
+  "change": "wrack_thread_attentive -> wrack_thread_thinking",
+  "why": "Break 1 of 2 in the 12-box run; after Nobody, before Everybody",
+  "new_image": null
+ },
+ {
+  "ref": "c15.s05",
+  "line": 399,
+  "pass": "A",
+  "run_len": 12,
+  "after_text": "Both peoples. All at once. And I can't",
+  "tier": 1,
+  "change": "sefa_understanding -> sefa_thoughtful",
+  "why": "Break 2; Both peoples, all at once; leaves 3 boxes to the next show",
+  "new_image": null
+ }
+]

@@ -1,0 +1,79 @@
+[
+ {
+  "ref": "c14.s01",
+  "line": 14,
+  "pass": "B",
+  "run_len": 2,
+  "after_text": "A man in a good coat turned from",
+  "tier": 2,
+  "change": "show raske_steady as right (old woman in lipstick at his elbow)",
+  "why": "Raske is a lead; narration about her before she speaks at 19",
+  "new_image": null
+ },
+ {
+  "ref": "c14.s01",
+  "line": 23,
+  "pass": "B",
+  "run_len": 3,
+  "after_text": "Don't die. You've not finished teaching me.",
+  "tier": 2,
+  "change": "raske_fierce leaves; show okonta_urgent as right for narration boxes 27-28 (Okonta comes up out of the harbour)",
+  "why": "Okonta is a lead and is introduced in narration",
+  "new_image": null
+ },
+ {
+  "ref": "c14.s01",
+  "line": 54,
+  "pass": "A+B",
+  "run_len": 6,
+  "after_text": "He had rebuilt that heart himself, on the",
+  "tier": 2,
+  "change": "show jef_tired as right for boxes 55-56 (Jef on the step with a mug); hide right after 56",
+  "why": "Run of 6 (53-58); narration about Jef",
+  "new_image": null
+ },
+ {
+  "ref": "c14.s02",
+  "line": 96,
+  "pass": "A",
+  "run_len": 7,
+  "after_text": "He had lived in it for fifteen years,",
+  "tier": 3,
+  "change": "bg c14_refinery_quay (reuse) for the Waterline description; scene back to c14_wave_mouth at 102",
+  "why": "Run of 7 (92-100); city is already shown by c14_halcyon_caldera, so move in to the Waterline",
+  "new_image": null
+ },
+ {
+  "ref": "c14.s02",
+  "line": 199,
+  "pass": "A",
+  "run_len": 6,
+  "after_text": "Don't you see? None of us can! We",
+  "tier": 1,
+  "change": "hesper_broken -> hesper_stricken",
+  "why": "Run of 6 (197-203); Hesper explains they cannot let go",
+  "new_image": null
+ },
+ {
+  "ref": "c14.s02",
+  "line": 223,
+  "pass": "B",
+  "run_len": 4,
+  "after_text": "He felt her part of it come into",
+  "tier": 2,
+  "change": "show hesper_stricken as right for 224 (Hesper the last to give)",
+  "why": "Hesper is a lead; narration is about her",
+  "new_image": null
+ },
+ {
+  "ref": "c14.s02",
+  "line": 247,
+  "pass": "B",
+  "run_len": 2,
+  "after_text": "Hesper had folded up in the water with",
+  "tier": 2,
+  "change": "show hesper_tired as right from this box (folded in the water)",
+  "why": "Hesper is a lead; narration is about her",
+  "new_image": null
+ }
+]

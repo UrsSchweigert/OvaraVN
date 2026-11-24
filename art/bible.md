@@ -286,3 +286,61 @@ Known flaws: see the Open points in art/refs/ch17/merge_notes.md (neon-green hea
 
 ## Chapter 16 additions
 New speaking characters: the Speaker of Kelder, the Senior Lockkeeper, the noodle-stall old man (looks are choices; the text is silent beyond the quoted phrases). New expressions: corin_earnest, brask_wry, sefa_laughing_crying, hesper_eased, maelis_cropped_amused. Places: Kelder tank-town (day, evening), Saltgate with the water gone, the Girdle at the dead-water edge; eight illustrations in art/refs/ch16/cg/. Choices where silent: grey-green tunics, pale grey-white rays, cream choir robes. Known flaws (art/refs/ch16/merge_notes.md): c16_kelder_exit is a wide far view of small adults with no brass tags and a youthful look, on the wall-top not climbing out of troughs; c16_sefa_asleep has both arms hanging into the water; the wall in c16_grey_wall and c16_girdle_fleet is a plain slab with visible ends; a few neon signs are still faintly lit in c16_saltgate_stacks; hesper_eased reads as a half-smile.
+
+## Staging pass, group a: new images
+
+Illustrations (art/refs/stage_a/cg/) and backgrounds (art/refs/stage_a/places/). Choices are marked **choice** where the text is silent.
+
+- `c1_night_crew` (c01.s03 night-crew talk about Jef, "lying in his hammock in the dark hall with the others talking round him"): Wrack in a hammock, six villagers in grey-green tunics, a boy who calls out, an old woman with her fingers raised in the small sign. Jef and the Dragon not shown. **choice**: brown skin and mixed ages for the crew; stone hall, one low lamp; a few others also raise fingers.
+- `c2_oro_lamp` (c02.s04 "They found him in the meeting hall, under the lamp, with his stick across his knees. The lamp was still burning."): Oro seated on the floor against the lit lamp, head bowed, stick across his knees. **choice**: the dome is not shown cracked (the text does not say so).
+- `c3_deaf_water` (c03 "Nothing." at the Slick edge): Wrack alone in heavy brown water with open empty hands, an eel's jaws far off. Dead water drawn as flat brown-grey.
+- `c3_dragon_panel` (c03.s03 "His hands went into the open panel and found the worst of it."): Wrack from behind, arms into the panel in the Dragon's blunt head, ribs with streaming water behind. **choice**: the ribs read as pale tubular channels; the Dragon's full length is not shown.
+- `c4_well_descent` (c04.s04 "Halfway down something uncoiled from the wall."): well-warden squid, gold eye with slotted pupil, small light, white star below. No Jef in frame.
+- `c4_holding_pools` (c04.s04 "He sat in the centre of the ring with his hands in a channel of seawater"): Wrack (pre-Thread, tunic) in a hall of milk-white glass with sleeping people in round gold pools; lamp in a crawlway hatch. **choice**: the pools are shown as shallow round basins with one sleeper each.
+- `c4_apron_tied` (c04.s09 "she stood with her forehead against the back of his neck"): Jef from behind in nightshirt and leather apron, Maelis tying it; stone kitchen at night.
+- `c5_lampweed_galleries` (c05.s02 "Below that the Maker lamps were dark... long swags of something that glowed a weak greenish yellow"). The weed reads brighter than "weak"; the lamps are drawn as small dark wall lanterns.
+- `c5_sefa_high_hall` (c05.s04 "seven elders on seven stone seats", net-maker from the lower tier): Sefa with the grey band, a net-maker, seven elders. **choice**: elders in black robes; net-maker in a worn grey-brown smock.
+- `c6_net_falls` (c06.s03 "A net came down over him in that moment"): Wrack (with the Thread line on his neck) in the failing gallery, a net falling, needles closing from the sides. **choice**: no riders drawn on the needles; the net reads as rope-like mesh.
+
+## Stage art, group b (chapters 7, 8, 9, 11, 12)
+
+| Image | From the text | Choices (text silent) |
+|---|---|---|
+| cg c7_jef_cairn | "Behind the house, where the largest spring ran down into the sea, somebody had built a cairn of black stones. A leather apron was folded on top of it, held down with a rock." "Okonta stood in front of it ... with her hand on her temple. Sefa ... knelt and laid a strand of lampweed from her own wrist among the stones." (c07.s02, ref line 163 ff.) | Dusk with a red sky; the spring runs as a small fall beside the cairn; apron dark brown; lampweed is green; Okonta barefoot in the grey suit. |
+| cg c7_old_sea | "He saw the sea as it had been. There were forests that ran from Tip to Tip ... lit cities ... children swimming between the towers ... the Dragon new" (c07.s03, line 224 ff.) | Dragon drawn per canon (pale ribs, bound water streaming back, blunt prow, no eyes); children about six to ten, plain pale wraps; towers of the Makers lit warm gold. |
+| cg c7_red_line_chart | "a chart. A hand was drawing a line across it in red, and the line passed over a small dome in a golden forest. The hand signed its name at the bottom." (c07.s03, line 239 ff.) | Only hand and cuff of a dark suit; the dome is drawn as a small grey round dome; no readable marks. |
+| cg c7_crane_rail | "Crane put a cable tie round Ilan's wrists in the control hall ... He walked him to the rail. It was night, and the water was deep, and no one was looking." (c07.s05, line 385 ff.) | Ilan (before the Thread, no neck line) in a plain dark-grey surveyor's work jacket, wrists tied with a white plastic cable tie; Crane in his dark security jacket; deck of the survey ship by the control hall window. |
+| cg c7_engine_vault | "There was an engine in its lowest vault. The Makers had sealed it there themselves, behind three doors. It could boil a sea." (c07.s05, ch07.rpy around line 377) | No people; the engine is a pale-metal drum with coils and pipes; three round doors in a row down a passage. Looks of the engine are a choice. |
+| bg c8_market_night | "after the market lamps were dimmed ... She came down the steps to the lowest tier ... the edge of the planking" (c08.s07, line 580 ff.) | Dry, night, dimmed lanterns, light rain; three basins. |
+| cg c9_flimsy_notice | "a flimsy, printed in the cheap purple ink ... His own face was at the top, the smooth one, in the collar ... charts ... each had its red line, and each was signed." (c09.s05, line 344 ff.) | Two hands (no faces) hold it; portrait is a smooth printed likeness of Wrack without Thread line; text drawn as meaningless dash lines; the bottom bold line shown as solid purple blocks so nothing is readable. |
+| cg c9_grey_launch | "Grey. No flag. One old gentleman in it, and a hamper." (c09.s05, line 393 ff.) | Old man seen from behind and small, white hair; wicker hamper; calm flat water in the Eye under a ring of blue sky, raft-town lanterns behind (evening). The launch is a small plain open motor boat. |
+| cg c11_column_valley | "It lay along a valley in the kelp for nearly a kilometre. Nine hundred people ... sleds of kelp-floats. The old rode on them, and the babies. Tide hounds worked up and down the flanks ... Over them, like clouds, hung the shadows of twelve hulls." (c11.s02, line 60 ff.) | Hulls drawn as grey ship shadows with decks; more than 12 are visible (about 12 large ones plus small farther ones). |
+| cg c11_trawl_nets | "They were trawl nets, the great ones ... low to the ground ... He saw a net close. It was full. There were forty people in it, and it went up toward the stern ramp of a white-painted transport. A child's arm stuck out through the mesh to the shoulder." (c11.s02, line 87 ff.) | Net shown on the sand just before rising; the transport is drawn from below, hanging in murky green water; the child's arm reads weakly. |
+| cg c11_sefa_holds | "Two hands closed on the back of his neck." "No, you don't. I've got you. Stay there." (c11.s02, line 144 ff.) | Wrack kneeling and slumped, Sefa kneeling behind him with both hands on his neck; Wrack in the grey-green tunic with the Thread line on his neck. |
+| cg c12_bowl_full | "Tidehall could have seated every speaker of every hold in the world. It never had. It was full now." (c12.s02, line 85 ff.) | Faceless crowd of seated people in dark and pale robes, a small knot of figures at the centre; walls plain, no carvings. |
+
+# Stage art group c: illustrations (art/refs/stage_c/cg/, prompts in the .txt files beside them)
+
+- `c16_fleet_gathered` (c16.s04, "There were boats to the horizon", "And in the water were the mariners"): grey-green milky sea; Lashing's timber hulls with patched sails in the middle, dark gate barges, tugs, smacks, boats with fish nailed to the bows, one all-white hospital ship with no markings; islanders along every rail; adult mariners in the water to the shoulders, black hair, pale skin, large dark eyes, a brass tag on a cord on some (the "brass tags of Kelder"). Choices where the text is silent: mariners wear grey-green tunics; "Agravars" drawn as ordinary islanders in grey-green and brown plain clothes; the wall is left out (narrated after the panorama).
+- `c17_pit_city` (c17.s03, "It was a pit. It was eighty kilometres across", "The Dragon lay coiled on the mud"): view from above; sea standing in a ring round the rim; fish scattered on grey mud; rust-coloured platform on six legs; pale stone houses round a central hall, ring of pale metal hoops (the ribs); Dragon dark and coiled. Choice: houses drawn as plain pale stone blocks. Flaw: Dragon's head shows a faint eye glint (Dragon has no eyes).
+- `c17_makers_quarrel` (c17.s04, "Then they showed a man. He stood where Rook was sitting. He was shouting"): Makers = ordinary people, long limbs, large dark eyes, broad hands, weathered brown skin ("ordinary people, with children", c17.s05). Choices: plain pale tunics, short dark hair; one man forcing the ring, four others standing back; wall pictures show a pit with dead fish; ring water grey.
+- `c17_seating_ring` (c17.s05, "It took eleven hours. It was the largest thing Ilan ever mended"): Ilan, Hanne (lamp), Raske (calling sections, pointing), Crane (carrying). Rook, who said he would watch from the rim, is not drawn (not in the seed). Choice: vault drawn as dark round stone brick; the ring is a pale metal hoop with its sections lying in view; bright water just starting.
+- `c17_the_way_through` (c17.s06, "He was standing in the central square when it came ... Yeva's hand was on the back of his neck, and Sefa's arm was round him"): Ilan barefoot, eyes lowered, still, hands open; Yeva behind with a hand at his neck and shoulder; Sefa with an arm round him; callers as tiny wading figures in the streets with threads of light running to him; colder pale light rising from the water beneath his feet. Flaw: water is about ankle deep, not knee deep; Yeva's hand rests on neck and shoulder together.
+
+# Wrack (Ilan): confidence portraits (stage_ilan, round 2)
+
+Edited from the real p_wrack_thread_attentive (on light grey) with nano-banana-2; only eyebrows, eyelids, gaze and mouth change. Same face, hair, plain grey-green tunic, thin pale Thread line. Cut out with birefnet-heavy. Prompts and sources: v2/. Rejects: rejected/.
+
+Assured (after Saltgate, he told a stranger his name and nothing bad happened): level relaxed brows, open direct gaze, closed lightly firm mouth, chin slightly raised.
+- wrack_assured_calm: quiet self-possession.
+- wrack_assured_attentive: listening and sure.
+- wrack_assured_thinking: gaze shifted aside and up, weighing a thought without worry.
+- wrack_assured_easy: the faintest lift at one mouth corner, restrained.
+
+Strong (after the Great Moot, stood alone and was heard): the same plus firmer jaw, wide clear direct eyes, chin higher, face held still; no frown, scowl or smile.
+- wrack_strong_calm: settled inner strength.
+- wrack_strong_attentive: same, listening.
+- wrack_strong_resolved: a firm decision, mouth pressed a little firmer.
+- wrack_strong_steady: steadiness under pressure, chin a touch higher.
+
+Known: strong_* differ from assured_* mostly in brow and jaw, so subtly.

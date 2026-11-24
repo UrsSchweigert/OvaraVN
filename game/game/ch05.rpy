@@ -11,11 +11,17 @@ label ch05:
 
     "That was what Wrack found hardest. The kettle sat on the step. The washing hung on the line."
     "In the workshop the warm-stone they had been working on lay open on the bench, with the old man's mug beside it and a ring of dried tea in the bottom. Wrack could not bring himself to move the mug. He worked round it."
+    show p wrack_thread_thinking as left at head_left
+    with qd
 
     "He was trying to teach himself to make. He had the tool, and he had two months of watching. He took a dead air-heart out of the store behind the workshop."
     "It was a small one, the size of a barrel, of the kind that served a single dry room. He laid it out in pieces and tried to see how a man might begin to build such a thing from nothing."
     "He could see how each part fitted the next. He could not see how any of them had come to be. The pale metal did not look cast, or forged, or cut. It looked grown."
     "Somewhere there was a first step, and Jef had been going to show it to him tomorrow, or the day after."
+    show p wrack_thread_dejected as left at head_left
+    with qd
+    show p okonta_grave as right at head_right
+    with qd
 
     "Okonta stayed. She did not say why, and he did not ask. She mended her suit, and cleaned her needle, and stood for long stretches at the edge of the Well with her head tilted, listening to things a long way off."
     "Messages were coming up from the south, in the slow way they did. A long-call was passed from hold to hold. A Threaded had turned off his patrol to carry word. She gave him the sense of them at supper, shortly."
@@ -56,6 +62,8 @@ label ch05:
     hide right
     with qd
     "On the ninth evening he was at the bench when the hum went wrong."
+    show p wrack_thread_stunned as left at head_left
+    with qd
 
     "He had carried it at the back of his mind since he woke with the Thread: the Dragon, far to the south, a long bright steady note, like a lamp left burning in another room."
     "Now it went ragged. It slowed. He put down the tool and stood with his hands flat on the bench and felt it labour, a thousand kilometres away, like a heart missing beats."
@@ -140,6 +148,8 @@ label ch05:
     "He heard it as they went down between the walls. Somewhere a choir was singing the mourning for Jef, forty voices or so, slow and grave. The canyon took it, and gave it back from the far wall a moment later."
     "Then it came back again from below, deeper, and from above, and the echoes sang with the singers. The forty were four hundred, and the water rang like the inside of a bell."
     "He had never heard anything so beautiful. People had lived inside that sound, he thought, all their lives, for a hundred generations. No wonder they were proud."
+    scene bg c5_lampweed_galleries
+    with dissolve
 
     "Then they passed the twentieth tier, and the white light of the windows gave out."
 
@@ -187,7 +197,6 @@ label ch05:
     c_sefa "Bother, {i}leave{/i} it. Hello, Wrack."
 
     hide left
-    hide right
     with qd
     "Sefa was thinner. She had grown, or something in her face had. She wore a healer's grey band on her upper arm now."
     show p bother_excited as bother at bother_corner
@@ -202,6 +211,8 @@ label ch05:
     c_wrack "You're a healer,"
     "Wrack said, stupidly."
     c_sefa "Somebody had to be. Mother stayed at Low Anthem with the ones who couldn't travel. A hundred and ten of us came here, after the dome. I was the only one who could close a cut, so they gave me the band on the road."
+    show p sefa_dry as right at head_right
+    with qd
     "She had Ione's flat way of delivering bad news, he saw; she had not had it two months ago."
     c_sefa "They put us at the bottom. Come and see. Come quietly. We're not supposed to be up here."
 
@@ -234,6 +245,8 @@ label ch05:
     "Sefa's voice had gone hard and quiet."
     c_sefa "They've been hiding it. They moved everyone who complained down here, where it's worst, because the lower tiers don't send speakers to the council. They hung the weed and called it tradition. I've had eleven people die this week of nothing but breathing."
     "She was sixteen years old."
+    show p sefa_sharp as right at head_right
+    with qd
     c_sefa "They think if they say it out loud there'll be panic, and the Breakers will take the hold. So they sing. They've got the whole hold singing forty days for Jef. It's very beautiful, and nobody can hear anything else."
 
     hide left
@@ -292,8 +305,12 @@ label ch05:
     scene cg c5_airheart_tool
     with dissolve
     "Then he found the real fault, deep in. It was a thing not slipped but broken. He took out Jef's tool and found that the old man had been right. It fitted. He worked."
+    scene bg dc_heart_chamber
+    with dissolve
 
     "Some time on the second day he noticed that he could not remember the tending song."
+    show p wrack_thread_dazed as left at head_left
+    with qd
 
     "It was not that he had forgotten a line. The song was not there. He reached for it, idly, as you reach for a tune while your hands are busy, and there was a smooth place where it had been. He reached for the name of the tide hound that was leaning against his leg, and that was gone too."
 
@@ -347,6 +364,8 @@ label ch05:
     "It was Sefa who went up to the high hall. He heard about it afterwards, from several people. They told it differently, and all of them told it as the thing they would remember about that year."
 
     "She went by the main stair, not the back ways. She took with her a net-maker from the lower tier whose son had died four days before. She walked into the council of the seven elders with the grey band on her arm, and nobody stopped her, because nobody could believe it was happening."
+    scene cg c5_sefa_high_hall
+    with dissolve
 
     "Deep Chorus had been built to sing in. Every word spoken in the high hall went out through the glass vault into the canyon, and the canyon gave it to every gallery. That was how the elders had made their announcements for three thousand years. It had not occurred to any of them that the hall would do the same for a girl."
 
@@ -354,12 +373,16 @@ label ch05:
     "She said the man who had lit the Lantern was on his knees in the heart-chamber, trying to mend them, and that he had nearly gone into the undertow doing the elders' work for them. Then she asked what the choirs of Deep Chorus intended to do about it."
 
     "Twelve thousand people heard her, twice, and then a third time from below."
+    scene bg dc_canyon_above
+    with dissolve
 
     "There was no panic. Elder Vey had been wrong about that."
 
     "The choirs did what choirs do. They organised. Deep Chorus had forty choirs, and each had a master, and each master knew every voice in it and where that voice lived."
     "In six hours the whole lower hold had been moved up. They went tier by tier, the sick carried on litters across the bridges, into the galleries where the living hearts could still serve them. People were packed into the high halls."
     "The singing of the forty days stopped. In its place the choirmasters called the tiers one to another across the gulf, in short sung phrases, and the canyon carried their orders more quickly than any runner."
+    scene bg dc_lowest_halls
+    with dissolve
 
     "The Mighty of Deep Chorus came down to the infirmary. He was a quiet grey man named Aurel, and he could have stopped a ship. He held one small bubble of clean air over the forty worst cases, and that was all."
     "When he tired, another caller took it. They worked in shifts, and none of them asked for anything they could not carry."
@@ -397,6 +420,8 @@ label ch05:
     c_vey "We were afraid,"
     c_wrack "I know."
     c_vey "My grandmother was speaker when the first heart stopped. She told my mother, and my mother told me, as you hand down a debt. Each of us thought it would last our time."
+    show p vey_tight as right at head_right
+    with qd
     "She was silent a moment."
     c_vey "A child shamed us in our own hall. I've been trying to be angry about it, and I find I can't."
     show p wrack_thread_calm as left at head_left
@@ -422,6 +447,8 @@ label ch05:
     c_vey "Service. Twenty years of it, from each of us, to pay for the passage."
     c_wrack "And you sent him away."
     c_vey "I did. I have wondered every day since whether I had the right."
+    show p wrack_thread_troubled as left at head_left
+    with qd
     "Her mouth tightened."
     c_vey "Three holds to the north of us did not send him away."
 
