@@ -10,6 +10,9 @@ label ch12:
     with fade
     "He caught up with the tug on the edge of the Bright Shelves."
     "It was six days out of Lashing, with Dace's boat ahead of it to find the Eyes. Raske had chosen forty of her people to come. The rest stayed at Lashing with their lamps."
+    show p wrack_assured_calm as left at head_left
+    show p raske_steady as right at head_right
+    with qd
     "She had chosen the forty by asking who was willing to be looked at by two hundred holds of people who had every reason to hate them, and taking the first forty hands. The two apprentices were among them. The woman from engines was another. Her name was Hanne, and she had not put her lamp down since Keelhaven."
     "The storm had thinned behind them and fallen away, and they lay under a clean sky. Ilan left his needle with Okonta and went up the side. He thought it right to come to the Moot as the islanders came, on a deck, in plain view."
     "Nobody on the tug asked him about Fallow. Raske looked at his face, and at Sefa's hands, and sent the apprentices below."
@@ -22,7 +25,7 @@ label ch12:
 
     scene bg c12_shelves_deck
     with dissolve
-    show p wrack_thread_calm as left at head_left
+    show p wrack_assured_calm as left at head_left
     show p hanne_awed as right at head_right
     with qd
     c_hanne "There's nowhere to hide,"
@@ -45,7 +48,7 @@ label ch12:
     "It had fed and housed the speakers of two hundred holds for a week, and it was quietly pleased with itself."
     "Its speaker met them at the apron. She was a brisk, handsome woman of fifty named Odile. She had the air of a person with a great many lists. She looked at the tug, and at the forty islanders on its deck in their borrowed hard suits."
 
-    show p wrack_thread_attentive as left at head_left
+    show p wrack_assured_attentive as left at head_left
     show p odile_brisk as right at head_right
     with qd
     c_odile "Well,"
@@ -55,6 +58,8 @@ label ch12:
     with qd
     c_odile "You're him. I've read the paper. I can read their script; most of us can. And I've had the long-call from Fallow, which came quicker."
     "She let it stand a moment."
+    show p wrack_thread_ashamed as left at head_left
+    with qd
     c_odile "You'll be lodged apart. Nobody will harm you. I've given my word on that to the north, and I've given my word to the Breakers that you won't leave. Your engineers are guests of this hold. They may go where they like. They'll find my people ask a great many questions."
     c_ilan "Thank you."
     c_odile "Don't. I'm a hostess. It isn't the same as a friend."
@@ -65,7 +70,12 @@ label ch12:
     scene bg c12_tower_room
     with fade
     "He was given a room high in the eastern tower, with a window on the sea. A guard stood at the door. He was plainly dying to ask about the Dragon. Sefa came up at dusk to say that her mother was not among the northern speakers who had arrived, and that she did not know whether she was glad."
+    show p sefa_tired as right at head_right
+    with qd
     "Then she went down again, to keep an eye on the apprentices. She had kept the band on her arm. She had told nobody at Nine Spires why she no longer used it."
+    hide right
+    show p wrack_thread_troubled as left at head_left
+    with qd
     "He sat at the window through most of the night."
 
     scene cg c12_raske_lamp
@@ -79,25 +89,38 @@ label ch12:
     "They went out to it in the morning, the whole of them, in a great slow crowd. The speakers swam, and the people of Nine Spires, and Driftfolk in boats overhead. The engineers walked along the sea floor in their hard suits, each with a mariner at the elbow. It was like a pilgrimage, or a fair."
     "The Makers had built it. Nobody knew what for. It was a bowl sunk into the white sand, a kilometre across, and terraced all the way round in tiers of the pale stone. And it had a voice. A word spoken at the centre could be heard on the highest tier, as clearly as if the speaker stood at your shoulder."
     "No hold had ever claimed it. The holds of the south met here in Moot once a year, a few dozen speakers, and rattled about in it like peas in a drum."
+    show p sefa_easy as right at head_right
+    with qd
     "Sefa had told him what a Moot was, in the days at Low Anthem, when it had only been another strange word. The mariners had no king and no parliament. Each hold was ruled by its elders, and no hold could command another. They had learned that at Sounding."
     "When a matter touched many holds, each sent a speaker, and the speakers met and talked until they agreed. They did not vote. They talked, for days if need be, until nobody was left who would not go along. If they could not agree, they did nothing."
     "It was slow, and it had kept the peace for nine hundred years. There had been Moots of the north and of the south. There had never been a Moot of all the waters. The world was too wide, and until now there had been nothing all of it needed to say."
     "Tidehall could have seated every speaker of every hold in the world. It never had."
+    scene cg c12_bowl_full
+    with dissolve
     "It was full now."
     "They had come from everywhere. He saw the people of Deep Chorus, grave and formal in dark sea-silk, with Elder Vey at their head and the grey caller Aurel beside her. He saw Rime, forty of them in sealskin, sweating and scornful in the warm water. Brask was among them, a head taller than the rest."
     "Pearl Stair had sent twelve small holds with one speaker between them. She was a tiny fierce woman with pearls in her hair, and she looked as if she had not agreed with anything since childhood."
     "There were holds he had never heard of. There were holds with their lamps out, and their speakers sat very upright and did not look at anyone. On the upper tiers, behind the speakers, thousands more had come to watch."
+    scene bg c12_tidehall_centre
+    with dissolve
+    show p hesper_cold as right at head_right
+    with qd
     "In a block on the eastern side sat a hundred or so who wore no hold's colours at all. Each had a knotted cord at the wrist. Hesper was in the front row."
+    hide right
+    with qd
     "He had asked to stand alone. Okonta, Sefa and Dace were somewhere behind him. So was Teodora Raske, with her forty, the first agravars ever to attend a Moot. Nobody had quite known what to do about that. In the end they had been put on the lowest tier, in front, where everyone could see them."
     "Odile called for quiet, and got it. She held up a purple flimsy."
 
-    show p wrack_thread_attentive as left at head_left
+    show p wrack_assured_attentive as left at head_left
     show p odile_brisk as right at head_right
     with qd
     c_odile "This has gone to every hold,"
     "Her voice came back from the far rim a second later."
     c_odile "Some of us can read agravar script. For those who can't: it says that the man called Wrack, who lit the Lantern, restarted the Dragon and mended Deep Chorus, is an agravar officer named Ilan Voss. It says he chose the places where Halcyon dumps. The man himself is here. The Moot will ask him if it's true."
     "She laid the flimsy down."
+    show p wrack_thread_troubled as left at head_left
+    show p odile_cool as right at head_right
+    with qd
     c_odile "There is a second matter, and it isn't on any paper. Seven days ago, in the valley south of Fallow, twelve agravar ships were sunk in a breath. Ten kilometres of the Anthem Waters have been deaf ever since. Fallow's caller is here, and will tell you what he felt. The Moot will ask about that too."
 
     hide left
@@ -123,6 +146,8 @@ label ch12:
     "The noise that followed was not shouting. Mariners do not shout much. It was a low sound from several thousand throats, and it went on a long time."
     "A man from one of the dark holds rose. He said that the thing was simple. This man should be put out of the sea, onto the land he came from, and no hold should receive him again. The speaker of Pearl Stair said the same, more sharply. She added that a hold which let its lamps be mended by its poisoner deserved to sit in the dark."
     "Half the bowl agreed. It was an old punishment and a mild one. He could feel that many of them would be relieved to have it over."
+    show p hesper_cold as right at head_right
+    with qd
     "Then Hesper stood."
     "She had changed. When she spoke, nobody else did."
 
@@ -131,6 +156,8 @@ label ch12:
     with qd
     c_hesper "I knew him as Wrack,"
     c_hesper "I taught him the first rule, on the floor of a hold he'd got bombed. I buried my husband four days after. His name was Davin. He mended nets. I've more right than anyone here to want this man put out."
+    show p hesper_shut as right at head_right
+    with qd
     "She looked down at Ilan without any expression."
     c_hesper "I don't want him put out. That's waste. I was at Fallow. I saw twelve ships go under while he drew one breath. There's no caller in this bowl who could have sunk the smallest of them."
     c_hesper "He owes us. So give him to us. Give him to the Breakers, and we'll point him at Port Halcyon. He can pay what he owes in the only coin they've ever understood."
@@ -156,7 +183,7 @@ label ch12:
     hide right
     with qd
     "He turned, slowly, so that he was speaking to the whole bowl."
-    show p wrack_thread_resolved as left at head_left
+    show p wrack_assured_calm as left at head_left
     with qd
     c_ilan "And I'm not asking to be let off. I'm asking to be put to work. I've no defence. All I've got is what I've done since. The Lantern is lit, eight halls of the nine. The Dragon runs. Deep Chorus breathes, and Elder Vey is here to tell you how near it came. There's a Wellwalker walking again who spent eight months in a tank."
     "He pointed to the lowest tier."
@@ -181,7 +208,7 @@ label ch12:
 
     hide right
     with qd
-    "So'll Rime,"
+    c_brask "So'll Rime,"
     "said a voice like a slab being dropped."
 
     show p brask_gruff as right at head_right
@@ -192,7 +219,7 @@ label ch12:
 
     hide right
     with qd
-    "So will I,"
+    c_ione "So will I,"
     "said somebody on the northern side."
     "It was a broad woman with scarred forearms. She spoke as the speaker of Low Anthem. She must have come in that morning, with the last of the north. Ilan heard Sefa make a small sound behind him. He could not look at the woman, and then he made himself."
 
@@ -202,6 +229,8 @@ label ch12:
     c_ione "I'm Ione,"
     c_ione "I've twenty-one dead and a third of my hold under water, and these."
     "She held up her arms, and turned them, so that the upper tiers could see."
+    show p ione_pain as right at head_right
+    with qd
     c_ione "And since Fallow I've a daughter whose hands are empty. She held him up when the sea came for him, and it took hers. She tells me she'd do it again. I've not decided whether to believe her."
     c_ione "I'm not forgiving him. I want that understood. I'm a healer. I looked inside his head before he knew what was in it. What I found was a man who'd thrown away everything he was, because he couldn't bear it. Then I watched him get up and work a kelp terrace, badly, for nineteen days."
     show p ione_calm as right at head_right
@@ -212,8 +241,10 @@ label ch12:
     hide left
     hide right
     with qd
-    "Nobody's asked me,"
+    c_sefa "Nobody's asked me,"
     "said a voice behind him."
+    show p sefa_shaken as right at head_right
+    with qd
     "Sefa had come down onto the sand. She had the band on her arm, and she held her hands a little away from her sides, as if they belonged to somebody else."
 
     show p wrack_thread_ashamed as left at head_left
@@ -233,15 +264,20 @@ label ch12:
     "Nobody spoke for some time."
     "There was an old law, Odile said at length, for when a Moot could not agree about a caller. The caller might ask the sea to speak for them."
 
-    show p wrack_thread_attentive as left at head_left
+    show p wrack_assured_attentive as left at head_left
     show p hesper_cold as right at head_right
     with qd
     c_hesper "It means a shared calling,"
     "Hesper said flatly."
     c_hesper "You all know the song. I'll say it for the islanders."
+    show p hesper_teacher as right at head_right
+    with qd
     "She turned her head toward Raske's forty."
     c_hesper "When callers work together, we work in chorus. Each of us holds a piece. I hold this end of the net, and you hold that end. It's strong, and it's brittle. If one drops their piece, it all comes down."
     c_hesper "There's another way, in the songs. Many callers pour their strength into one, and that one does the asking. One will, and a hundred people's strength behind it. It's never once been done. Every caller who's tried to carry other people's strength has gone into the undertow. Some of them took the others along."
+    show p wrack_thread_troubled as left at head_left
+    show p hesper_stern as right at head_right
+    with qd
     "She looked at Ilan."
     c_hesper "You went under at Deep Chorus. I heard. You'll go under here, and I'll have had my way without lifting a hand."
     c_ilan "Probably,"
@@ -252,7 +288,7 @@ label ch12:
     with qd
     "For a moment he thought she would refuse. Then she showed her teeth, in something that was not quite a smile."
 
-    show p wrack_thread_attentive as left at head_left
+    show p wrack_assured_attentive as left at head_left
     show p hesper_stern as right at head_right
     with qd
     c_hesper "Oh, yes,"
@@ -289,6 +325,8 @@ label ch12:
     with dissolve
     "Nobody was lost. He looked for the cold in his feet, and it was not there."
     "He opened his eyes. Three hundred callers were looking at him. None of them looked like someone who had just seen a power. They looked as if they had been listened to."
+    show p hesper_eased as right at head_right
+    with qd
     "Hesper was looking at her own hands."
     "The Moot sat until dark. In the end Odile gave its judgement, and nobody was left who would not go along. Ilan Voss was bound to the mending of the holds for the rest of his life, beginning with the eleven routes."
     "He was never again to command the sea. If he did, any caller who saw it might put him down, and no hold would ask why. The engineers were to be received as guests of all the waters, and any hold might send its people to learn beside them. And the holds were to act together, for the first time ever, in whatever came next."
@@ -309,17 +347,25 @@ label ch12:
     c_ilan "It was my hand,"
     c_ilan "The line over Low Anthem. I drew it eleven years ago, in an office. It took me about a minute. I'd like to tell you I didn't know there were people there. I knew. I'd decided not to know."
     c_ione "I gathered that."
+    show p wrack_thread_grieving as left at head_left
+    with qd
     c_ilan "I'm sorry isn't—"
     c_ione "No. It isn't."
     c_ione "Don't say it to me again. I've heard it, and it's no use to me. Mend the dome."
     "She was silent."
+    show p ione_calm as right at head_right
+    with qd
     c_ione "She's grown. Sefa. She went away a child with a band she hadn't earned. She's earned it now, and she's nothing to wear it with. A Wellwalker taught her, she says. In a canal."
     "She shook her head slowly."
     c_ione "She says you nearly died at Deep Chorus, and she hit you."
     c_ilan "She did. She was right."
+    show p ione_pain as right at head_right
+    with qd
     c_ione "And at Fallow she held you."
     c_ilan "Yes."
     c_ione "I'd like to hate you for that more than for the dome. She won't let me."
+    show p ione_calm as right at head_right
+    with qd
     "Ione breathed out."
     c_ione "She's usually right. She gets it from her father."
     show p ione_gentle as right at head_right
@@ -327,6 +373,8 @@ label ch12:
     "For a moment something moved in her face that was not anger."
     c_ione "I meant what I said in there. Every word. But I'll tell you one thing more. I didn't say it in the bowl, because it's nobody's business. When I laid that water on your head, I felt what was under the blank."
     c_ione "I didn't know what it was. I knew it was eating you. I thought, whatever this man's done, he's the only one who'll never let himself off."
+    show p wrack_assured_thinking as left at head_left
+    with qd
     "She turned to go."
     c_ione "Keep on not letting yourself off. And come and eat with us. Sefa's found some islanders she wants me to meet."
 
@@ -336,13 +384,16 @@ label ch12:
     "He looked for Hesper after that. He wanted to thank her. She had given more than anyone."
     "The eastern block was empty. So were eleven other places in the tiers."
 
-    show p wrack_thread_attentive as left at head_left
+    show p wrack_strong_attentive as left at head_left
     show p okonta_grim as right at head_right
     with qd
     c_okonta "They left at dusk,"
     c_okonta "Twelve of them, all Mighty, and every one a Breaker. I asked a girl from Pearl Stair where they were bound, and she laughed at me."
     "She drew a breath."
     c_okonta "I've listened for them. They're running north by east, fast. It's the straight line for the Crown."
+    show p wrack_thread_troubled as left at head_left
+    show p okonta_urgent as right at head_right
+    with qd
     "She paused."
     c_okonta "There's a needle with them. I know the hull."
     c_ilan "Corin."

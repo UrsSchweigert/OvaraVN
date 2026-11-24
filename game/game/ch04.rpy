@@ -88,6 +88,8 @@ label ch04:
     scene bg kettle_house
     with dissolve
     "On the twelfth day the Dragon came round again. An old man came up the path from the landing with a basket of crabs. He was arguing mildly with the woman beside him about whether they had left a window open at the other house."
+    show p jef_tired as right at head_right
+    with qd
 
     "He was small. He was older than anything Wrack had ever seen, older than the lamp in Low Anthem, with skin like paper that has been folded many times. He walked like a man whose feet hurt. He glanced at Okonta, nodded, glanced at Wrack, and put the basket down."
 
@@ -109,10 +111,12 @@ label ch04:
     "Jef said slowly."
     c_jef "It does. I've been meaning to try that for two hundred years."
     "He turned to the woman."
+    show p jef_grumbling as right at head_right
+    with qd
     c_jef "Maelis. He reseated it backwards."
 
     hide left
-    hide right
+    show p maelis_composed as right at head_right
     with qd
     "The Queen of the Stingrays was tall and straight and grey-haired, and she wore a patched coat with the pockets full of something. Behind her, out in the dark water of the Well, shapes the size of ships were turning slowly. Wrack felt himself looked at by minds a great deal older than the house."
 
@@ -131,7 +135,11 @@ label ch04:
     "Okonta had said he would be disappointed, and he was, for about an hour."
 
     "The inside of Kettle House was one long room with a stove at one end and a table that had been mended many times. There were shelves of jars and a box bed behind a curtain. A lantern jelly no bigger than a fist pulsed in a glass bowl on the windowsill; Maelis fed it crumbs."
+    show p jef_tired as right at head_right
+    with qd
     "Jef took off his boots with a groan and put his feet on the stove rail. He complained about the crabs, the damp, and the state of his knees. He asked Okonta whether the Rime people had been leaving fish again and whether anybody had thought to bring up the washing. He was a tired old man in his own kitchen. There was no god in the room anywhere."
+    show p maelis_examining as right at head_right
+    with qd
 
     "Maelis cooked. She split the crabs with a short knife and put them in a pot with weed from the garden. When she set a bowl in front of Wrack she looked at him properly for the first time. Her gaze went over his face as Ione's intended water had gone through his skull."
 
@@ -155,6 +163,8 @@ label ch04:
     c_jef "I am not frightened,"
     "Jef said, from the stove."
     c_jef "I'm nine hundred years old. I've been frightened of everything already."
+    show p jef_attentive as right at head_right
+    with qd
     "But when the bowls were empty he pushed his own aside and said,"
     c_jef "Well. Let's see them."
 
@@ -205,6 +215,8 @@ label ch04:
     "Jef said, on the first morning. He was hunting for something under a bench."
     c_jef "Tend is what the holds do. Wipe it, sing to it, don't poke it. I've nothing against that. It's kept the machines alive three thousand years, which is more than poking would have. Mend is what I do. Find out why it's stopped, and stop it stopping. Make."
     "He came up with a dented grey ovoid and blew dust off it."
+    show p jef_grumbling as right at head_right
+    with qd
     c_jef "Make is building a new one from nothing. I can do that too. Slowly. One air-heart takes me four years. There are two thousand air-hearts in the world, and they're all the same age."
     "He set the thing on the bench."
     c_jef "This is a warm-stone. It heats a room. It's the simplest thing they made. Tell me what's wrong with it."
@@ -226,6 +238,8 @@ label ch04:
     c_jef "You've done this before,"
     "he said once."
     c_jef "Not {i}this{/i}. But something. You've stood over drawings. You've told other people where to put things. You think in sections, look, you always start by working out where you'd cut it."
+    show p wrack_tunic_thinking as left at head_left
+    with qd
     "He sniffed."
     c_jef "Agravar training. All those straight lines."
     c_wrack "Is that bad?"
@@ -241,6 +255,8 @@ label ch04:
     scene bg kettle_house
     with dissolve
     "In the afternoons, when Jef's hands tired, they sat on the step, and it was then that the old man talked. He did not tell his story. He let pieces of it fall, like a man emptying his pockets."
+    show p jef_tired as right at head_right
+    with qd
 
     "He had been a sick child. That was how he had come to the Lantern. He had had a wasting fever at six years old, and had been carried north on the Dragon by an aunt, and left in a pool in the fourth hall. The healers cured him in a season. Nobody came to fetch him."
     show p wrack_tunic_attentive as left at head_left
@@ -260,6 +276,8 @@ label ch04:
     c_jef "Archive walls,"
     c_jef "You've not seen one working. Hardly anyone alive has. You'd put your hand on the glass and it would light, and there'd be pictures. Moving. How a thing was built. Every part, one after another, as slow as you liked."
     "He held his palm up flat, remembering it."
+    show p wrack_tunic_awed as left at head_left
+    with qd
     c_jef "The healers thought it was pretty. I thought it was the only thing in the world. I sat in front of those walls for eleven years. I learned their writing off them. I'd get a tool out of a store nobody'd opened in two thousand years and hold it up to the picture to see which way round it went."
     c_wrack "Where are the walls now?"
     show p jef_tired as right at head_right
@@ -268,6 +286,8 @@ label ch04:
     "He turned the mug in his hands."
     c_jef "So it's all in here now."
     "He tapped his forehead."
+    show p jef_grumbling as right at head_right
+    with qd
     c_jef "One old head. I've told the elders for six centuries that it's a stupid place to keep it."
 
     hide left
@@ -282,6 +302,8 @@ label ch04:
 
     "They went on a deep-runner, which was a needle's stout cousin, blunt and thick-hulled and slow. Jef rode it as Okonta rode hers, without touching anything. The descent took nine hours. The water grew cold, and then colder, and so heavy that Wrack's bones ached and each breath was like lifting a weight."
     "The jellies were left behind. The green weed gave out. There was nothing but the runner's small light on the black wall of the trench, going by, and the star below them, which did not seem to grow."
+    scene bg c4_well_descent
+    with dissolve
 
     "Halfway down something uncoiled from the wall."
 
@@ -319,6 +341,8 @@ label ch04:
     c_wrack "Why here?"
     c_wrack "Why is it stronger?"
     c_jef "Don't know. I'm a mechanic."
+    show p wrack_tunic_thinking as left at head_left
+    with qd
     "Jef was walking slowly, nodding to healers, who bowed to him in a way he clearly disliked."
     c_jef "Maelis says it's because it's the oldest water there is. It went down at the Tips before there were people and it's never been anywhere else. Nothing's ever been put in it but care."
     "He stopped at a tall archway."
@@ -337,8 +361,12 @@ label ch04:
     c_jef "Five hundred years I've been patching this place,"
     "He did not grumble it. He said it quietly, with his hand on the cold glass of the arch."
     c_jef "There's one great heart under the middle of the ring that feeds all nine halls. It's going. I can't get at it without shutting down the five that still work, and if I shut them down, the water in those pools goes dead in an hour, and so do some of the people in them. So I've mended round the edges. And every hundred years or so, another hall goes."
+    show p jef_watching as right at head_right
+    with qd
     "He looked at Wrack sidelong."
     c_jef "Unless somebody could hold the water in five halls just as it is. Warm, and still, and cared for. While somebody else had his hands in the works."
+    show p wrack_tunic_dejected as left at head_left
+    with qd
     c_wrack "I can't intend. I don't know how."
     c_jef "You don't need to. The healers will go on intending. You only need to keep the water from knowing the heart's stopped."
     "He scratched his chin."
@@ -348,16 +376,20 @@ label ch04:
     hide right
     with qd
     "It took Wrack six days."
+    scene cg c4_holding_pools
+    with dissolve
 
     "He sat in the centre of the ring with his hands in a channel of seawater, and asked the sea, pool by pool, to stay as it was. That was Holding. He had done it at Kettle House with a cupful. Here there were three hundred pools, and a person in each. He did not shout. He was too frightened to shout."
     "He asked, and went on asking, hour after hour, and felt the Well lean in around him and take the weight. Under the floor Jef worked, with a lamp between his teeth, calling up for tools. On the fourth day Wrack went down to help him, still holding, and discovered that he could do both."
     "One part of him kept three hundred pools still, and another lay on its back in a crawlway beside a nine-hundred-year-old man, handing him things."
 
-    scene bg lantern_hall
+    scene cg c4_lantern_crown
     with dissolve
     "On the seventh day all nine halls came alight together."
 
     "The healers stood in the covered ways and wept. A very old one, a woman who had been at the Lantern sixty years, went into the fourth hall and stood in the middle of it, turning round and round."
+    scene bg lantern_hall
+    with dissolve
     show p jef_grumbling as right at head_right
     with qd
     c_jef "Hm,"
@@ -377,6 +409,8 @@ label ch04:
     "He was sitting on the step with a cup of something hot, watching. It had become his habit."
     c_jef "Never had. I'm a mechanic. The sea doesn't talk to me; I just fix her plumbing. The callers have the gift, and they can't tell a coupling from a clam. That's how it's always been. Makers' craft in one skin and sea's gift in another, and never the two together."
     "He drank."
+    show p jef_watching as right at head_right
+    with qd
     c_jef "Then you."
 
     hide left
@@ -447,6 +481,8 @@ label ch04:
     scene bg kettle_interior
     with fade
     "He came to know her slowly. She did not let fall pieces of herself as Jef did. She answered what she was asked, exactly, and then stopped."
+    show p maelis_composed as right at head_right
+    with qd
 
     "She had been born at the other end of the world, in the Quiet, and trained as a healer at the Hush, the southern hospital. At twenty she had been sent to gather venom. The great rays lived in those waters, and their sting killed in seconds, and a drop of it rightly used could wake a stopped heart."
     "The healers took it from the spines the rays shed. She had gone to the place where they gathered, and one of them had come and looked at her."
@@ -458,10 +494,14 @@ label ch04:
     c_maelis "It looked at me. For about a day. When it had finished I knew things I hadn't known, and I could tell what it wanted. They don't speak. They remember, and they can put a memory into you as you'd put a cup in someone's hand. They wanted somebody who could say it in words to the rest of us, now and then. I was standing there."
     "She was stripping weed for the pot."
     c_maelis "The mariners called me their queen. It's a silly word. I'm their mouth."
+    show p wrack_tunic_thinking as left at head_left
+    with qd
 
     c_wrack "What are they?"
     c_maelis "Older than the Makers. Older than the holds. They've watched everything that ever happened in the sea, and they've kept it."
     "She glanced at the window, where the long shapes turned."
+    show p maelis_sidelong as right at head_right
+    with qd
     c_maelis "They keep what the undertow takes, too. Did Ione tell you that? No, she wouldn't know. Nothing the sea is given is ever lost. It goes to them."
 
     "He set down the knife he was holding."
@@ -472,6 +512,8 @@ label ch04:
     c_maelis "Yes."
     c_wrack "Can they give it back?"
     c_maelis "Through me, they can. There's a thing I make."
+    show p maelis_examining as right at head_right
+    with qd
     "She went on with the weed."
     c_maelis "I'm not going to make it yet. You're not ready to want it, and he hasn't finished with you. And there's a question I ask first. I ask everyone. You've not got an answer to it."
 
@@ -486,6 +528,8 @@ label ch04:
     c_maelis "He came south to mend the warm-stones at the Hush, fifty-one years ago. He was eight hundred and something. I was twenty-four and I'd been the rays' mouth for four years, and everyone I met either knelt to me or ran away. He asked me to hold a lamp for him. Then he told me I was holding it wrong."
     "She shook her head."
     c_maelis "There were wives before me. Seven. He remembers every one of them, and he's never once called me by the wrong name. I asked the rays if it would be a foolish thing to do. They showed me him at twenty. So I did it."
+    show p wrack_tunic_soft as left at head_left
+    with qd
     c_wrack "What was he like at twenty?"
 
     "Maelis did not answer for some time."
@@ -519,6 +563,8 @@ label ch04:
     hide right
     with qd
     "Out in the Well, the rays had stopped turning. Wrack had never seen them still. They hung in the black water all facing one way, like weathervanes."
+    show p maelis_shut as right at head_right
+    with qd
 
     "Maelis came to the door with a cloth in her hands. She looked at the rays, and her face shut. It was like a house with the shutters put up."
 
@@ -567,6 +613,8 @@ label ch04:
     hide right
     with qd
     "So the three of them sat on the step in the fog, with soup. Okonta stood a little way off with her arms folded, and did not sit at all. The visitor ate neatly. He praised the crab. He asked after Jef's knees. He might have been a nephew on a duty call."
+    show p anselm_calm as right at head_right
+    with qd
     "Only his eyes kept coming back to Wrack. They had gone to him in the first moment, and rested there, as a man's eyes rest on something of his own that he has come upon in a neighbour's yard. He had not seemed surprised."
 
     show p wrack_tunic_attentive as left at head_left
@@ -583,6 +631,8 @@ label ch04:
     c_anselm "So I had always understood."
     "The visitor set down his bowl."
     c_anselm "I'll say what I came to say, and then I'll go. I've found your city. The one under the Girdle. You told me about it when I was twenty-three. You'd looked for it for a hundred years, you said, and given it up. It's there. It's whole. It lit from end to end, once, for one man, and went dark again when he left it."
+    show p wrack_tunic_troubled as left at head_left
+    with qd
     "He did not look at Wrack as he said it."
     c_anselm "There's an engine in the lowest vault. My people have had the half of it out, like a tooth, and bolted it to a frame. It runs about as well as a tooth would. I want it seated as it was meant to be, and I've nobody now who can. Come south and do it. Or tell me how."
     c_wrack "What does it do?"
@@ -615,6 +665,8 @@ label ch04:
     "Wrack's mouth had gone dry."
     c_wrack "No."
     c_anselm "I do. I could tell it to you now, in a breath. I could tell you what you were, and what you were paid, and what you're worth. It's a great deal."
+    show p anselm_calm as right at head_right
+    with qd
     "He held Wrack's eyes."
     c_anselm "Come south with me, and I'll tell you all of it on the way. You'd be home in a week. You'd know your own front door."
 
@@ -622,6 +674,8 @@ label ch04:
     hide right
     with qd
     "It went into him like a hook. He had told himself for weeks that he no longer thought of the blank every hour. He found that his hands were shaking. He put them between his knees."
+    show p wrack_tunic_shaken as left at head_left
+    with qd
 
     "Jef said nothing. He was looking at the water."
 
@@ -667,6 +721,8 @@ label ch04:
     c_anselm "I was twenty."
     "He settled the helmet on its ring, and his voice came out of the suit flat and small."
     c_anselm "I shan't come again."
+    show p jef_tired as right at head_right
+    with qd
     c_jef "No,"
     c_jef "I don't expect I'd be in."
 
@@ -686,9 +742,13 @@ label ch04:
     "Jef had not moved."
     c_jef "He was the fifty-ninth. The best head of the lot. He could draw anything he'd seen once. He's an islander. The rays pulled him out of a wreck when he was a boy and left him at the Hush, and he grew up sweeping it, as I swept the Lantern. I thought—"
     "He stopped."
+    show p jef_attentive as right at head_right
+    with qd
     c_jef "Well. He had hands like a pair of feet. Eight years, and he never opened a seam. I gave him the Thread in the end. I thought that if he could hear the machines, his hands might learn. He heard them very well."
     c_wrack "What does he do now?"
     c_jef "Owns things."
+    show p wrack_tunic_troubled as left at head_left
+    with qd
     c_wrack "He knows who I am."
     c_jef "Yes."
     c_wrack "You could have let him say it."
@@ -711,6 +771,8 @@ label ch04:
     scene bg kettle_house
     with fade
     "The cold deepened. The sun dropped a little lower each day on its round, and the ice above the house groaned at night. Wrack had been at Kettle House two months. He could strip an air-heart and put it back. He could hear a crab walking at the bottom of the Well. Somewhere in those weeks he had stopped thinking of the blank in his head every hour, and thought of it only every day."
+    show p jef_tired as right at head_right
+    with qd
 
     "Jef was slower. Wrack saw it, because he was watching for it. The old man sat down more often. He let Wrack carry things. One morning he could not close his hand on a tool, and he stood looking at his fingers with a kind of detached annoyance, as at a machine that had been well maintained and had no excuse."
 
@@ -735,9 +797,13 @@ label ch04:
     c_jef "That's for you,"
     c_jef "I took it out of a store at the Lantern when I was nine years old. Don't thank me. It's a thing for getting into seams, and you get into them without it, so you need it less than I did. But it's the one that'll do the job you couldn't do at Low Anthem. The lamp that was broken, not slipped. You felt there was a tool for it. That's the tool."
     "Wrack picked it up. It fitted his hand as though it had been waiting."
+    show p wrack_tunic_soft as left at head_left
+    with qd
     c_jef "I haven't taught you to make,"
     "Jef went on."
     c_jef "Tend, mend, make: that's the order, and making's the long one. We'll start tomorrow, or the day after. But there's something I want done first, while I've the hands for it."
+    show p jef_watching as right at head_right
+    with qd
     "He glanced at Okonta."
     c_jef "Tell him what it's like. He'll not believe me."
 
@@ -746,6 +812,8 @@ label ch04:
     "Okonta turned her cup round on the table."
     c_okonta "You know what I can do with it,"
     c_okonta "You've ridden behind me. What I've not told you is what it's like to have it."
+    show p okonta_listening as right at head_right
+    with qd
     "She touched the scar at her temple."
     c_okonta "He lays a thread along the nerves, from here to the base of the skull. It's Maker stuff, he draws it himself. It takes a night. You sleep through it. When you wake, the old machines aren't things any more. They're more of you. I know where my needle is now, down at the landing, the way I know where my left hand is. When I'm riding, I hear through it for eighty kilometres."
     "She paused."
@@ -762,8 +830,12 @@ label ch04:
     c_jef "You steered my Dragon's water from the outside,"
     "Jef said to Wrack,"
     c_jef "like a man pushing a cart. It let you, because it's a patient old thing. You ought to be able to drive it. Feel it from the inside. Know what's wrong with it from a thousand kilometres off, before it stops."
+    show p jef_attentive as right at head_right
+    with qd
     "He rubbed his eyes."
     c_jef "I haven't laid a Thread in six years. There was a boy from Fallow; he was the last. It takes more out of me each time. I think I've one more."
+    show p wrack_tunic_troubled as left at head_left
+    with qd
     c_wrack "Do I have to swear? The rule?"
     c_jef "No. I'm not making a monk of you. You've enough to carry."
     "He almost smiled."
@@ -784,6 +856,8 @@ label ch04:
     c_maelis "Tomorrow night,"
     "she said to Wrack."
     c_maelis "Eat nothing after noon. I'll give you something to make you sleep."
+    show p wrack_tunic_dejected as left at head_left
+    with qd
     "She took her coat from its peg."
     c_maelis "I'm going down to talk to the rays."
 
@@ -803,6 +877,8 @@ label ch04:
     c_jef "She thinks it'll finish me,"
     c_jef "She's probably right. She generally is. I told her I'd rather be finished doing the one thing nobody else can do than last another year complaining about my knees."
     "He threw a pebble and watched it sink, down and down, until it was gone."
+    show p wrack_tunic_dejected as left at head_left
+    with qd
     c_jef "She said that was a selfish thing to say to a woman. I said it was. Fifty-one years. You'd think I'd have learned to argue with her."
     c_wrack "Then don't do it. Teach me to make instead. I'd rather have that."
     c_jef "You'd rather. Yes. So would I."
@@ -844,6 +920,8 @@ label ch04:
 
     "His head ached from the temples to the nape, as Okonta had promised. But it was the other thing he noticed. He could feel the needle moored at the landing as if it were his own foot. He could feel the deep-runner beside it, and the warm-stone on the workshop bench. Every lamp in the house was a small bright pressure, like sun on closed eyelids."
     "Further off, there was a great slow pulse below him that was the heart of the Lantern. And a thousand kilometres south, moving, was a long bright hum that he would have known anywhere."
+    show p jef_tired as right at head_right
+    with qd
 
     "Jef was asleep in the chair beside the bed, with his chin on his chest and his apron still on."
 
@@ -882,6 +960,8 @@ label ch04:
     "It went under the house. He felt it pass, like a draught under a door. Then it tipped, and went down the Well."
 
     "He ran to the lip and put his hand in the water. He felt the wardens rise. They came off the walls all together, a kilometre down, a whole forest of arms closing across the shaft. The thing went through them. He felt that too, and wished he had not."
+    scene cg c4_well_star
+    with dissolve
 
     "Far below, the star flared white. Then it shrank. Two of its points went out, and then a third."
 
@@ -925,6 +1005,8 @@ label ch04:
     hide left
     hide right
     with qd
+    scene cg c4_apron_tied
+    with dissolve
     "Maelis had it in her hand already. She put it over his head and tied it behind him. Her fingers were quite steady. For a moment she stood with her forehead against the back of his neck. Neither of them said anything. Then she took down her coat."
 
     scene bg well_lip
@@ -946,6 +1028,8 @@ label ch04:
     with qd
     c_jef "Lend me that,"
     "Wrack did not understand. Then he took the tool out of his pocket and put it into the old man's hand."
+    show p wrack_thread_troubled as left at head_left
+    with qd
     c_jef "I'll want it back,"
     c_jef "Don't come down. You've enough to do."
     "He put the lamp between his teeth, and went in."
@@ -995,13 +1079,19 @@ label ch04:
     c_maelis "He said it on the runner, while you were busy. He said: {i}he has to ask for his memory himself.{/i} Not be told it. Not by Anselm, and not by me. He said you'd understand it when it was time."
     c_wrack "He hadn't finished teaching me."
     c_maelis "No."
+    show p wrack_thread_dejected as left at head_left
+    with qd
     c_wrack "I can't make. He said tomorrow. Or the day after."
     c_maelis "I know what he said."
     "She laid Jef's hand down and smoothed it."
     c_maelis "I'm taking him south. He liked the hot springs. He always said he was never once warm enough in this house."
+    show p maelis_silent as right at head_right
+    with qd
     c_wrack "Who is he? The man who came."
     c_maelis "A boy I grew up with."
     "Her voice was perfectly level."
+    show p maelis_composed as right at head_right
+    with qd
     c_maelis "Don't ask me now. When you're ready for my question, come to the Hush. I'll tell you about him then. It's the same story."
     "She stood. She seemed taller than before, and much further away."
     c_maelis "Not before."

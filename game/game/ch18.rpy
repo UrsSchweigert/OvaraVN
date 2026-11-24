@@ -9,6 +9,9 @@ label ch18:
     "It held every debt in the world. Every one of them was priced, in the end, on a single fact. Land was scarce, and a person who left the island they owed on had nowhere else to stand."
     "It had called them all in at once, and promised to pay for the service in ground. The ground was under sixty metres of sea again. Within the thirty days, something like three million people simply left."
     "They walked onto boats with what they could carry. They came to a city that had no owner and no charter. The streets were empty, and the lamps were on."
+
+    scene bg c13_spire_lobby
+    with dissolve
     "Its chairman was not seen again. The house put out no statement. Nobody on the islands had ever been shown his face, and so nobody could quite say what was missing."
     "Meridian's mercenaries were owed back pay. They looked at the screens, and at the sea, and they recalled a certain evening at Port Halcyon. A good many of them went too."
     "The captain from Studio One was among the first. He brought his daughter."
@@ -41,6 +44,9 @@ label ch18:
     "He went to Low Anthem first."
     "He went on the Dragon, on its old course, to Greywatch Stone. He read the names on the benches again. He had twenty people with him."
     "Ten were engineers of Keelhaven, with Hanne at their head. Ten were mariners from Deep Chorus, who had sat beside them at Lashing for a month. Sefa came, and Ione, and Bother."
+
+    scene bg kelp_forest
+    with dissolve
     "The forest was humming. He stood in it for a while before he went on."
     "It took them forty days. Hanne looked at it for a morning and said that she would not know how to begin. A boy from Deep Chorus said that it looked to him like a slipped seam, only very large, and he was right."
     "They closed it between them, a hand's width a day. Ilan held the sea back from the flooded third while they worked. He asked for no more than he needed."
@@ -90,7 +96,11 @@ label ch18:
     scene bg c18_meet_market
     with fade
     "They called the city Meet. Nobody decided it. One day it was simply what people said."
+    show p maelis_composed as right at head_right
+    with qd
     "Maelis came in the spring, on the Dragon. She walked the wet streets for a morning with her hands behind her back, looking at everything. He walked beside her. He found that he was more nervous than he had been at Tidehall."
+    hide right
+    with qd
     "There was a great deal to look at. Three million people had come to a city built for two, and had fitted themselves in. Islanders had taken the high towers, and at once begun to hang washing from them."
     "Mariners from the dark holds had taken the water quarters. The streets between, which were ankle deep at high tide and dry at low, had turned into a market without anybody's leave."
     "There was a noodle stall from the Sluice. The air smelled of frying oil and of salt."
@@ -101,6 +111,8 @@ label ch18:
 
     scene bg c18_canal_table
     with dissolve
+    show p sefa_easy as right at head_right
+    with qd
     "Sefa was at a table by the canal with two basins and a queue. She wore a Wellwalker's grey now. Bother was asleep under her chair."
     "Maelis stopped, and looked up."
 
@@ -108,13 +120,15 @@ label ch18:
     with qd
     c_maelis "The third tower is still out of true,"
 
-    show p wrack_thread_wry as left at head_left
+    show p wrack_assured_easy as left at head_left
     with qd
     c_ilan "I know. I've been busy."
 
     show p maelis_composed as right at head_right
     with qd
     c_maelis "He'd not have left it a season. He'd have said so before he said good morning."
+    show p maelis_silent as right at head_right
+    with qd
     "She was silent a while."
     c_maelis "He'd have liked the lamps. He'd have said the workmanship was shocking, and he'd have gone round touching them all."
     "She walked on a few paces."
@@ -125,7 +139,7 @@ label ch18:
     "She looked at him sidelong."
     c_maelis "They'll make a god of you. You know that. They did it to him. He said it was dreadful. People bring you fish."
 
-    show p wrack_thread_wry as left at head_left
+    show p wrack_assured_easy as left at head_left
     with qd
     c_ilan "They've started. I gave it to the noodle stall."
 
@@ -133,7 +147,7 @@ label ch18:
     with qd
     c_maelis "What else are you doing about it?"
 
-    show p wrack_thread_attentive as left at head_left
+    show p wrack_strong_attentive as left at head_left
     with qd
     c_ilan "There are four hundred people in this city who can open a seam. There'll be four thousand in a year. I teach a class every morning, and I've made it a rule that anybody who passes has to teach one."
     "He hesitated."
@@ -172,13 +186,13 @@ label ch18:
 
     scene bg c18_archive_workshop
     with dissolve
-    show p wrack_thread_calm as left at head_left
+    show p wrack_strong_calm as left at head_left
     with qd
     c_ilan "Archive walls,"
     c_ilan "They still read. They show how. Step by step. I've been coming down at night."
     "He touched the half-built heart."
 
-    show p wrack_thread_resolved as left at head_left
+    show p wrack_strong_resolved as left at head_left
     with qd
     c_ilan "He said tend, mend, make, and that making was the long one. He was right. It'll take me years. But I finished the housing last week, and it's true. I'm bringing the morning class down here as soon as they're ready."
 

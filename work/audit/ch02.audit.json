@@ -1,0 +1,90 @@
+[
+ {
+  "ref": "c02.s01",
+  "line": 94,
+  "pass": "A",
+  "run_len": 6,
+  "after_text": "There's folk in the wild kelp south of",
+  "tier": 1,
+  "change": "davin_neutral -> davin_patient",
+  "why": "Davin's talk turns from the barges to the Breakers; splits a run of 6",
+  "new_image": null,
+  "also_v1": true
+ },
+ {
+  "ref": "c02.s02",
+  "line": 187,
+  "pass": "A",
+  "run_len": 6,
+  "after_text": "I didn't mean—",
+  "tier": 1,
+  "change": "hesper_angry -> hesper_raw",
+  "why": "Wrack's 'I didn't mean' lands; Hesper's anger shows its hurt; splits a run of 6",
+  "new_image": null,
+  "also_v1": true
+ },
+ {
+  "ref": "c02.s03",
+  "line": 199,
+  "pass": "A+B",
+  "run_len": 4,
+  "after_text": "He was ebbed for three days.",
+  "tier": 2,
+  "change": "show p wrack_tunic_shivering as left at head_left for the ebbing narration",
+  "why": "Wrack is the subject of the narration of being ebbed",
+  "new_image": null,
+  "narration_portrait": true,
+  "also_v1": true
+ },
+ {
+  "ref": "c02.s03",
+  "line": 214,
+  "pass": "B",
+  "run_len": 3,
+  "after_text": "Davin brought him broth and sat with him",
+  "tier": 2,
+  "change": "show p hesper_tired as right at head_right (keep Wrack off) for 'Hesper came on the second day' and her tired face",
+  "why": "Hesper is a lead and is described in narration",
+  "new_image": null,
+  "narration_portrait": true
+ },
+ {
+  "ref": "c02.s03",
+  "line": 225,
+  "pass": "A",
+  "run_len": 6,
+  "after_text": "Yes.",
+  "tier": 1,
+  "change": "wrack_tunic_troubled -> wrack_tunic_attentive",
+  "why": "Wrack's 'Yes' turns to listening; splits a run of 6",
+  "new_image": null,
+  "also_v1": true
+ },
+ {
+  "ref": "c02.s04",
+  "line": 286,
+  "pass": "A+B",
+  "run_len": 5,
+  "after_text": "He tried to ask. He stood on the",
+  "tier": 4,
+  "change": "cg NEW c2_oro_lamp over 'Elder Oro was one of them' (no portraits)",
+  "why": "Reversal: the elder and Davin are among the dead; splits a run of 5",
+  "new_image": {
+   "kind": "cg",
+   "name": "c2_oro_lamp",
+   "prompt_seed": "A very old man sits dead on the stone floor of a round meeting hall, his stick across his knees, under a tall Maker lamp that is still burning white; the dome overhead is cracked and the hall is dim and quiet"
+  },
+  "also_v1": true
+ },
+ {
+  "ref": "c02.s04",
+  "line": 311,
+  "pass": "A",
+  "run_len": 5,
+  "after_text": "Her face was like a shut door.",
+  "tier": 1,
+  "change": "hesper_shut -> hesper_raw",
+  "why": "Her shut face gives way as she speaks of netting their filth; splits a run of 5",
+  "new_image": null
+ }
+]

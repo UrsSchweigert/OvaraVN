@@ -1,0 +1,142 @@
+[
+ {
+  "ref": "c09.s01",
+  "line": 24,
+  "pass": "A",
+  "run_len": 6,
+  "after_text": "Halcyon has an engine and no ship to",
+  "tier": 1,
+  "change": "wrack_thread_resolved -> wrack_thread_thinking",
+  "why": "Ilan looks north and names his plan against Slip Nine",
+  "new_image": null
+ },
+ {
+  "ref": "c09.s02",
+  "line": 92,
+  "pass": "B",
+  "run_len": 4,
+  "after_text": "Teodora Raske had been chief designer of Kessler-Vane",
+  "tier": 2,
+  "change": "show p raske_stern as right (until scene change at 96)",
+  "why": "Teodora Raske introduced; her portrait up for the narration about her",
+  "new_image": null
+ },
+ {
+  "ref": "c09.s02",
+  "line": 117,
+  "pass": "A",
+  "run_len": 6,
+  "after_text": "He did, the swine.",
+  "tier": 1,
+  "change": "raske_stern -> raske_steady",
+  "why": "She takes off her spectacles and asks what he wants",
+  "new_image": null
+ },
+ {
+  "ref": "c09.s02",
+  "line": 175,
+  "pass": "A",
+  "run_len": 12,
+  "after_text": "She looked at the warm-stone for a while.",
+  "tier": 1,
+  "change": "raske_stern -> raske_moved",
+  "why": "She looks at the warm-stone before her confession",
+  "new_image": null
+ },
+ {
+  "ref": "c09.s02",
+  "line": 179,
+  "pass": "A",
+  "run_len": 12,
+  "after_text": "I've been making things to that man's order",
+  "tier": 1,
+  "change": "wrack_thread_resolved -> wrack_thread_troubled",
+  "why": "He hears about the man in grey who sent her the order",
+  "new_image": null
+ },
+ {
+  "ref": "c09.s05",
+  "line": 302,
+  "pass": "A",
+  "run_len": 7,
+  "after_text": "It had a law. Nobody who reached it",
+  "tier": 3,
+  "change": "bg c9_eye_tugs (reuse)",
+  "why": "From Lashing's law to the tugs hauled in",
+  "new_image": null
+ },
+ {
+  "ref": "c09.s05",
+  "line": 335,
+  "pass": "A",
+  "run_len": 7,
+  "after_text": "It was slow. For three days nobody opened",
+  "tier": 3,
+  "change": "bg c9_lashing_water (reuse)",
+  "why": "Mariners watch from the raft's edge; the pearl-diver swims south",
+  "new_image": null
+ },
+ {
+  "ref": "c09.s05",
+  "line": 337,
+  "pass": "B",
+  "run_len": 7,
+  "after_text": "Ilan saw one of them, an old pearl-diver,",
+  "tier": 2,
+  "change": "show p sefa_eager as right",
+  "why": "Sefa teaching the apprentices to hold their breath",
+  "new_image": null
+ },
+ {
+  "ref": "c09.s05",
+  "line": 338,
+  "pass": "A",
+  "run_len": 7,
+  "after_text": "Sefa had made friends with the two apprentices.",
+  "tier": 3,
+  "change": "bg c9_coal_wharf (reuse; hide portraits)",
+  "why": "News of Kessler-Vane and Slip Nine's unfinished hull",
+  "new_image": null
+ },
+ {
+  "ref": "c09.s05",
+  "line": 344,
+  "pass": "B",
+  "run_len": 4,
+  "after_text": "She brought something else too, and she did",
+  "tier": 4,
+  "change": "NEW cg c9_flimsy_notice (then back to bg c9_soup_barge before dialogue at 349)",
+  "why": "Reversal: the printed flimsy that exposes him, his face, the charts, the headline",
+  "new_image": {
+   "kind": "cg",
+   "name": "c9_flimsy_notice",
+   "prompt_seed": "A cheap printed flimsy in purple ink held in two hands: at the top a smooth portrait of a man in a high collar, below it columns of routes and dates, small chart reproductions each with a red line and a signature, a bold headline across the bottom"
+  }
+ },
+ {
+  "ref": "c09.s05",
+  "line": 366,
+  "pass": "A",
+  "run_len": 6,
+  "after_text": "She folded the flimsy and gave it back",
+  "tier": 1,
+  "change": "okonta_grave -> okonta_grim",
+  "why": "The Moot will try him, not honour him",
+  "new_image": null
+ },
+ {
+  "ref": "c09.s05",
+  "line": 393,
+  "pass": "B",
+  "run_len": 4,
+  "after_text": "He says he's come to dine with his",
+  "tier": 4,
+  "change": "NEW cg c9_grey_launch",
+  "why": "Chapter hook: the grey launch with no flag and one old gentleman with a hamper has come into the Eye",
+  "new_image": {
+   "kind": "cg",
+   "name": "c9_grey_launch",
+   "prompt_seed": "A small plain grey launch on calm water inside an Eye at dusk, no flag, one old man in a high collar seated aft with a wicker hamper beside him, the lantern-lit barges of a raft-town beyond"
+  }
+ }
+]

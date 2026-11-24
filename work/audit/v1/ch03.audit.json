@@ -1,0 +1,116 @@
+[
+ {
+  "ref": "c03.s01",
+  "line": 61,
+  "pass": "B",
+  "run_len": 2,
+  "after_text": "So he asked, and she told him, in",
+  "tier": 3,
+  "change": "bg dc_canyon_above (reuse) for Okonta's past at Deep Chorus and the trawler over the canyon mouth",
+  "why": "Okonta's defining loss, told in narration with no art; Deep Chorus is a significant place",
+  "new_image": null
+ },
+ {
+  "ref": "c03.s02",
+  "line": 219,
+  "pass": "A",
+  "run_len": 6,
+  "after_text": "Nothing.",
+  "tier": 3,
+  "change": "bg c6_slick_inside (reuse) for the dead water, replacing slick_edge",
+  "why": "The deaf water is the turn of the scene; they are a kilometre inside the Slick",
+  "new_image": null
+ },
+ {
+  "ref": "c03.s02",
+  "line": 234,
+  "pass": "A",
+  "run_len": 6,
+  "after_text": "Nobody told me anything!",
+  "tier": 1,
+  "change": "okonta_urgent -> okonta_grim",
+  "why": "Her tone drops from shouting to the hard lesson; splits a run of 6",
+  "new_image": null
+ },
+ {
+  "ref": "c03.s03",
+  "line": 264,
+  "pass": "A",
+  "run_len": 6,
+  "after_text": "That's what the almanacs are for. Every",
+  "tier": 1,
+  "change": "wrack_tunic_attentive -> wrack_tunic_thinking",
+  "why": "Wrack turns to ask about the stone; splits a run of 6 before the question and answer",
+  "new_image": null
+ },
+ {
+  "ref": "c03.s03",
+  "line": 289,
+  "pass": "B",
+  "run_len": 1,
+  "after_text": "I'll come back for you when he's aboard.",
+  "tier": 2,
+  "change": "show p brask_watchful as right at head_right while the narration introduces Brask",
+  "why": "Brask is introduced in narration with no portrait",
+  "new_image": null
+ },
+ {
+  "ref": "c03.s03",
+  "line": 390,
+  "pass": "A",
+  "run_len": 6,
+  "after_text": "Not for me. Not for anyone. Not for Jef.",
+  "tier": 3,
+  "change": "bg greywatch_stone (reuse), leaving cg c3_dragon_head, for the divers backing off and Wrack's palm on the metal",
+  "why": "Turn from the Dragon's stop to Wrack's approach; splits a run of 6",
+  "new_image": null
+ },
+ {
+  "ref": "c03.s03",
+  "line": 401,
+  "pass": "B",
+  "run_len": 3,
+  "after_text": "It's so tired.",
+  "tier": 4,
+  "change": "cg NEW c3_dragon_panel over the three boxes of narration that follow (no portraits)",
+  "why": "Wrack mends the Dragon: his defining deed in this chapter, narrated with only a background",
+  "new_image": {
+   "kind": "cg",
+   "name": "c3_dragon_panel",
+   "prompt_seed": "Under water, a man's hands and arms reach into an open panel behind the great blunt eyeless head of a kilometre-long pale-metal ribbed machine; bright bound water streams along its ribs and moves in the channels; warm light from inside"
+  }
+ },
+ {
+  "ref": "c03.s04",
+  "line": 510,
+  "pass": "A",
+  "run_len": 13,
+  "after_text": "The other half, it's the same sun, a",
+  "tier": 1,
+  "change": "brask_watchful -> brask_wry",
+  "why": "Brask's dry account of the Pale; first break in a run of 13",
+  "new_image": null
+ },
+ {
+  "ref": "c03.s04",
+  "line": 513,
+  "pass": "A",
+  "run_len": 13,
+  "after_text": "That's the bargain. They mend our bones for",
+  "tier": 1,
+  "change": "wrack_tunic_attentive -> wrack_tunic_thinking",
+  "why": "Turn to the Lantern; second break in the run of 13, just before Wrack's question",
+  "new_image": null
+ },
+ {
+  "ref": "c03.s04",
+  "line": 518,
+  "pass": "A",
+  "run_len": 13,
+  "after_text": "Brask said it flatly, as a thing known.",
+  "tier": 1,
+  "change": "brask_wry -> brask_awed",
+  "why": "The Well and the star: the awe in Brask's account; third break in the run of 13",
+  "new_image": null
+ }
+]

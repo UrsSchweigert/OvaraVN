@@ -1,0 +1,166 @@
+[
+ {
+  "ref": "c05.s01",
+  "line": 13,
+  "pass": "A+B",
+  "run_len": 9,
+  "after_text": "In the workshop the warm-stone they had been",
+  "tier": 2,
+  "change": "show p wrack_thread_thinking as left (Wrack alone with the air-heart, trying to learn to make)",
+  "why": "Narration about Wrack at the bench",
+  "new_image": null,
+  "narration_portrait": true,
+  "also_v1": true
+ },
+ {
+  "ref": "c05.s01",
+  "line": 18,
+  "pass": "A+B",
+  "run_len": 9,
+  "after_text": "Somewhere there was a first step, and Jef",
+  "tier": 2,
+  "change": "wrack_thread_thinking -> wrack_thread_dejected; show p okonta_grave as right",
+  "why": "Narration turns to Okonta staying",
+  "new_image": null,
+  "narration_portrait": true,
+  "also_v1": true
+ },
+ {
+  "ref": "c05.s01",
+  "line": 58,
+  "pass": "B",
+  "run_len": 4,
+  "after_text": "On the ninth evening he was at the",
+  "tier": 2,
+  "change": "show p wrack_thread_stunned as left (the hum goes wrong)",
+  "why": "Narration about Wrack feeling the Dragon fail",
+  "new_image": null,
+  "narration_portrait": true,
+  "also_v1": true
+ },
+ {
+  "ref": "c05.s02",
+  "line": 142,
+  "pass": "A",
+  "run_len": 6,
+  "after_text": "He had never heard anything so beautiful. People",
+  "tier": 3,
+  "change": "NEW bg: Deep Chorus galleries below the twentieth tier, lamps dark, long swags of weak greenish-yellow lampweed hanging",
+  "why": "The white light gives out: the first sight of the decay",
+  "new_image": {
+   "kind": "bg",
+   "name": "c5_lampweed_galleries",
+   "prompt_seed": "Galleries of Chorus Canyon below the twentieth tier, Maker lamps dark, long swags of weak greenish-yellow lampweed hanging, the blue depths below"
+  },
+  "also_v1": true
+ },
+ {
+  "ref": "c05.s02",
+  "line": 187,
+  "pass": "B",
+  "run_len": 1,
+  "after_text": "Bother, leave it. Hello, Wrack.",
+  "tier": 2,
+  "change": "replace 'hide left / hide right' with 'hide left' only so sefa_tired stays on the right",
+  "why": "Narration about Sefa, a lead",
+  "new_image": null,
+  "narration_portrait": true,
+  "also_v1": true
+ },
+ {
+  "ref": "c05.s02",
+  "line": 204,
+  "pass": "A",
+  "run_len": 5,
+  "after_text": "Somebody had to be. Mother stayed at Low",
+  "tier": 1,
+  "change": "sefa_tired -> sefa_dry",
+  "why": "She has Ione's flat way of giving bad news",
+  "new_image": null
+ },
+ {
+  "ref": "c05.s02",
+  "line": 236,
+  "pass": "A",
+  "run_len": 5,
+  "after_text": "She was sixteen years old.",
+  "tier": 1,
+  "change": "sefa_hard -> sefa_sharp",
+  "why": "Sefa, sixteen, names the elders' lie",
+  "new_image": null
+ },
+ {
+  "ref": "c05.s03",
+  "line": 296,
+  "pass": "A+B",
+  "run_len": 5,
+  "after_text": "Some time on the second day he noticed",
+  "tier": 2,
+  "change": "show p wrack_thread_dazed as left (the tending song is gone)",
+  "why": "Wrack's memory begins to slip",
+  "new_image": null,
+  "narration_portrait": true
+ },
+ {
+  "ref": "c05.s04",
+  "line": 349,
+  "pass": "A+B",
+  "run_len": 12,
+  "after_text": "She went by the main stair, not the",
+  "tier": 4,
+  "change": "NEW cg: Sefa, grey healer's band on her arm, standing in the high hall before the seven elders on their stone seats, a net-maker beside her, the canyon beyond the glass vault",
+  "why": "A lead's defining deed: Sefa shames the council",
+  "new_image": {
+   "kind": "cg",
+   "name": "c5_sefa_high_hall",
+   "prompt_seed": "Sefa, sixteen, grey healer's band on her upper arm, standing in the high hall before seven elders on stone seats, a net-maker woman beside her, the green canyon waters beyond the clear glass vault"
+  },
+  "also_v1": true
+ },
+ {
+  "ref": "c05.s04",
+  "line": 356,
+  "pass": "A",
+  "run_len": 12,
+  "after_text": "Twelve thousand people heard her, twice, and then",
+  "tier": 3,
+  "change": "bg dc_canyon_above (reuse): the canyon carries her words and the hold organises tier by tier",
+  "why": "Her words go out through the canyon",
+  "new_image": null,
+  "also_v1": true
+ },
+ {
+  "ref": "c05.s04",
+  "line": 362,
+  "pass": "A",
+  "run_len": 12,
+  "after_text": "The singing of the forty days stopped. In",
+  "tier": 3,
+  "change": "bg dc_lowest_halls (reuse): the infirmary where the sick are moved up and Aurel holds the air",
+  "why": "Turn from the choirs to the infirmary",
+  "new_image": null
+ },
+ {
+  "ref": "c05.s04",
+  "line": 399,
+  "pass": "A",
+  "run_len": 5,
+  "after_text": "My grandmother was speaker when the first heart",
+  "tier": 1,
+  "change": "vey_shaken -> vey_tight",
+  "why": "Vey recalls the debt handed down",
+  "new_image": null
+ },
+ {
+  "ref": "c05.s04",
+  "line": 424,
+  "pass": "A",
+  "run_len": 6,
+  "after_text": "I did. I have wondered every day since",
+  "tier": 1,
+  "change": "wrack_thread_attentive -> wrack_thread_troubled",
+  "why": "Vey says three holds did not send him away",
+  "new_image": null,
+  "also_v1": true
+ }
+]

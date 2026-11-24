@@ -9,6 +9,10 @@ label ch07:
     scene bg gallery
     with fade
     "It was four days to the bottom of the world, and Sefa watched all of it."
+    show p wrack_thread_exhausted as left at head_left
+    with qd
+    show p sefa_eager as right at head_right
+    with qd
 
     "She had never been further from Low Anthem than Deep Chorus. She hung at the bright wall of the gallery, with Bother beside her, and would not come away to eat. Wrack sat with her when he was not asleep."
     "He had been ordered to sleep; she had taken the grey band off her own arm and shaken it at him. He found that he could look at things properly, for the first time since the Pale, with someone beside him who had never seen them either."
@@ -29,6 +33,8 @@ label ch07:
     "She had come to stand behind them."
     c_okonta "The middle of the world. All the islands are up there, and all the islanders, and the storms. The Dragon goes under it. Deep, a kilometre down, along a trench the Makers must have known."
     c_okonta "It's never once come up in these waters. There's not a calling stone between the two Shoulders."
+    show p wrack_thread_troubled as left at head_left
+    with qd
     "She folded her arms."
     c_okonta "He never came here either. Nor she. They'd ride through underneath, asleep, as you'd ride through a bad part of a town. I told him so more than once."
 
@@ -161,10 +167,14 @@ label ch07:
     "Ember House stood on an islet of black sand, with hot springs smoking among the rocks. It was the twin of Kettle House, down to the washing line. There was a garden in the shallows, and a step with a kettle on it. Where the other house had its workshop, this one had a long still-room."
 
     "The door was open. On the table inside were two cups. One of them was clean, and turned upside down."
+    scene cg c7_jef_cairn
+    with dissolve
 
     "Behind the house, where the largest spring ran down into the sea, somebody had built a cairn of black stones. A leather apron was folded on top of it, held down with a rock."
 
     "Okonta stood in front of it for a long time with her hand on her temple. Sefa, who had never met him, knelt and laid a strand of lampweed from her own wrist among the stones."
+    scene bg c7_ember_house
+    with dissolve
 
     show p wrack_thread_grieving as left at head_left
     show p sefa_dismayed as right at head_right
@@ -222,24 +232,34 @@ label ch07:
     "They turned around him. And then, without any words at all, they began to show him."
 
     "It was not like seeing. It was like remembering something he had not been there for."
+    scene cg c7_old_sea
+    with dissolve
 
     "He saw the sea as it had been."
 
     "There were forests that ran from Tip to Tip, unbroken. The water was so full of life that it was never dark. He saw the Makers' cities, lit, under clean water, with children swimming between the towers. He saw the Dragon new, and a hundred like it, a web of bright roads round the world."
     "He saw the Sinking. It was not the wave he had imagined. It was slow, a long patient drowning that took generations. Some people walked down into the water as it rose, and some climbed away from it. He saw two sisters part on a shore, one going each way."
+    scene cg c7_wheel
+    with dissolve
 
     "He saw the first mariner who was ever answered. She was a woman kneeling in a kelp bed with a dying child in her arms, asking and asking and asking. He saw the sea turn toward her, as a sleeper turns toward a voice."
 
     "He saw a war. Domes cracked like eggs, and the water was full of the dead. In the middle of it he saw a boy of about twenty, small and dark-eyed, standing in the ruins of a hold with a tool in his hand and his mouth open."
 
     "He saw a black sea under a storm, with cases and cork floats and coats drifting on it. One boy was among them, alone, in a ferryman's jacket far too big for him. A wing rose under the boy and lifted him."
+    scene bg c7_hush_above
+    with dissolve
 
     "Then he saw the sea as it was."
 
     "They showed him everything. The Slick was there, and eleven other places like it that he had not known existed. He saw the black bitterwrack and the eels. He saw the snow falling under the Girdle. He saw a hold with its lamps out and its people sitting in the dark."
+    scene cg c7_red_line_chart
+    with dissolve
     "And he saw, with a clarity that was almost gentle, a sheet of paper. It was a chart. A hand was drawing a line across it in red, and the line passed over a small dome in a golden forest. The hand signed its name at the bottom."
 
     "He could not read the name. He knew the hand. He had been looking at it for months."
+    scene cg c7_ray_eye
+    with dissolve
 
     "He did not know how long it went on. When it stopped, the largest of them was hanging directly before him. It was older than the others, and scarred, and one wing was notched."
     "One eye, dark and ancient and entirely without anger, was level with his face. It was waiting. He understood that the showing had been a question. They wanted to know what he was going to do with the answer."
@@ -247,6 +267,8 @@ label ch07:
     "He had nothing to give it except the truth."
 
     "{i}I want to know,{/i} he thought. {i}Even that. I want to know all of it.{/i}"
+    scene bg c7_hush_above
+    with dissolve
 
     "The eye regarded him a moment longer. Then the ring opened. He saw a faint warm glow far below."
 
@@ -267,6 +289,8 @@ label ch07:
     scene bg c7_hush_room
     with dissolve
     "One of the healers took him by the sleeve. She led him through the quiet to a small room where a single ember of light burned in a dish."
+    show p maelis_cropped_level as right at head_right
+    with qd
 
     "Maelis sat beside it. She had cut off her hair."
 
@@ -279,14 +303,20 @@ label ch07:
     "she said at last, very quietly. Even she kept her voice down here."
     c_maelis "You'll have seen. He liked that spring. He'd sit in it for hours and complain that it was too hot."
     "She folded her hands."
+    show p wrack_thread_attentive as left at head_left
+    with qd
     c_maelis "They weighed you."
     c_wrack "Yes."
     c_maelis "They don't often trouble to."
     "On the floor between them was a small clay bottle, stopped with wax."
+    show p maelis_cropped_grave as right at head_right
+    with qd
     c_maelis "You know what this is. It's venom, and heat-moss from the Smokers, and water I've sat with for nine days. And one other thing, that isn't mine."
     c_maelis "They've been keeping it for you. You gave it to the sea yourself, all at once, the night you went into the water. The sea doesn't lose what it's given."
     "He looked at the bottle."
     c_wrack "{i}He has to ask for his memory himself,{/i}"
+    show p wrack_thread_troubled as left at head_left
+    with qd
     c_maelis "Yes. He was very firm about it. He said a man who is handed his past will spend his life wishing he could hand it back."
     "Her eyes rested on him."
     c_maelis "I ask everyone the same question. What will you do with the life you get back?"
@@ -327,6 +357,8 @@ label ch07:
     "He had been born in Saltgate, the free port, in a tenement on a canal called the Sluice. His father, Tomas, was a dock engineer, a big gentle man with oil in the creases of his hands. He could mend any crane on the waterfront, and he read his son the manuals at bedtime because they were the only books in the house."
 
     "His mother's name was Nerys, and she was a mariner."
+    show p nerys_worn as right at head_right
+    with qd
 
     "She had come up through the locks one evening when she was nineteen, to see the lights. She had seen a young man mending a winch. She had stayed for him. She stayed twenty years, in four rooms on the fourth floor, drying out slowly."
     "She wore high collars and long sleeves. She kept a basin of salt water under the kitchen table and sat with her feet in it in the evenings, humming songs with no words. She never told anyone what she was."
@@ -354,6 +386,8 @@ label ch07:
     scene bg c7_concord_room
     with dissolve
     "He met the chairman a month later, in Concord, in a room with no windows. He had expected a banker. He found a broad, square, quiet man of fifty in a high collar, who gave him fish and asked what he thought of the tide tables. He listened to the answer for an hour."
+    show p anselm_calm as right at head_right
+    with qd
     "{i}I am going to pay for you,{/i} Anselm Rook said at the end of it. {i}School, and Keelhaven, and whatever comes after. I shall want nothing back but your attention. Do you understand what an investment is?{/i} Ilan said that he did. He was sixteen, and nobody else on Ovara wanted him for anything."
 
     "They dined together once a year after that, on the day the paper was signed, for twenty-two years. Rook chose the fish. He chose Keelhaven, and the woman who would teach Ilan hulls. He chose Halcyon, because Halcyon dug, and a man who could feel the sea floor ought to be where the digging was."
@@ -362,6 +396,8 @@ label ch07:
     scene bg c7_halcyon_office
     with dissolve
     "He was a surveyor at twenty-two. At thirty-eight Ilan Voss was Chief Surveyor of Halcyon Dredge & Mineral, the youngest in its history. He had an office on the rim at Port Halcyon and a view over the ash. He knew the sea floor of the Girdle and both Shoulders better than any agravar living. People said that he could look at a blank chart and tell you the depth."
+    show p wrack_thread_ashamed as left at head_left
+    with qd
 
     "He planned the dumping routes. It was a small part of the work, a matter of an afternoon each quarter. Tonnage came in from the refineries, and had to go somewhere. He chose deep water in the north, over ground that Halcyon's own old surveys marked as {i}native settlement, unconfirmed{/i}."
     "He chose it because the people down there, if they existed, had no way to complain. He drew the lines in red. He signed them. He never went to see. And he never once let himself wonder how he knew, so exactly, where the holds were."
@@ -375,7 +411,7 @@ label ch07:
     "He was the first to walk into its central hall, in a hard suit, with a lamp, and it woke. Lamps came on down every street. The walls turned to light. They showed him the people who had built it, and they did not have mariner faces or agravar faces. They had both. Long limbs and broad hands, and large dark eyes in weathered skin. One people."
     "He stood in the light, and the water in the flooded hall rose around his gloves and moved, for the first time since he was seven. And he understood what his mother had been. He understood what he had been drawing lines across for fifteen years."
 
-    scene bg c7_halcyon_office
+    scene cg c7_engine_vault
     with dissolve
     "The city showed the men who came in behind him something else. There was an engine in its lowest vault. The Makers had sealed it there themselves, behind three doors. It could boil a sea."
 
@@ -383,6 +419,8 @@ label ch07:
     with dissolve
     "He tried to shut the dig down. He went first to the one man who would understand. He told Rook everything, on a closed line from the survey ship. He told him about the faces on the walls, and his mother, and the lines on the charts."
     "He said that all of it must stop, and that he meant to tell the islands why. There was a long silence on the line. {i}I see,{/i} Rook said. {i}Stay where you are, Ilan. I'll send someone.{/i}"
+    scene cg c7_crane_rail
+    with dissolve
 
     "He sent Adler Crane. Crane put a cable tie round Ilan's wrists in the control hall. He was Ilan's own chief of security. He had eaten at Ilan's table a hundred times and had taught him to play cards. He walked him to the rail."
     "It was night, and the water was deep, and no one was looking. Crane said he was sorry, and seemed to mean it. {i}It's the chairman's order,{/i} he said. {i}I asked him twice.{/i}"
@@ -402,6 +440,8 @@ label ch07:
     with qd
     c_ilan "I did it,"
     c_ilan "Low Anthem. All of them. The burns. Davin. It was a line on a chart. I never even went to {i}see{/i}."
+    show p wrack_thread_dejected as left at head_left
+    with qd
     c_maelis "Yes."
     c_ilan "He should have had a better successor."
     c_maelis "Probably."
@@ -424,18 +464,30 @@ label ch07:
     "She folded her hands."
     c_maelis "I said I would tell you about him. I was seventeen when the rays brought him to the Hush. He was fourteen. A ferry had gone down in the Belt with nine hundred people in it, and he was the only one they carried out. I don't know why him."
     c_maelis "He didn't speak for a year. He sat in the dark with his hand on the wall. Then he began to sweep. I taught him our script. He taught me a game from the islands, played with stones."
+    show p wrack_thread_attentive as left at head_left
+    with qd
     "Her voice did not change."
     c_maelis "He was the cleverest person I had ever met, and the most afraid. He had seen how little there is to stand on. He never got over it."
     c_maelis "When Jef came south and found a boy sweeping a hospital, he thought the sea had sent him his own self to do over. He took Anselm north the same season he took me."
     c_ilan "And he couldn't learn it."
+    show p maelis_cropped_impassive as right at head_right
+    with qd
     c_maelis "He learned everything but the one thing. He learned where the holds lie, and that the machines were failing, and that the elders hid it. He learned there had been a city."
     c_maelis "He wanted Jef to build. Engines, pumps, anything, for the islands, so that there would be ground enough and nobody need be afraid again."
     c_maelis "Jef had sworn never to build, and would not tell him why. They fought about it for a year. Then Anselm took his needle and went up."
     "She looked at the ember."
+    show p wrack_thread_troubled as left at head_left
+    with qd
     c_maelis "Jef never spoke of him as a failure. He spoke of him as a thing he had made badly."
     c_ilan "Why wouldn't he tell him?"
     c_maelis "Because he was ashamed. I'll tell you, since he's past minding. You'll have passed a ruin, coming north. In the wild kelp. Okonta will have told you its name."
     c_ilan "Sounding."
+    scene bg sounding_ruin
+    with dissolve
+    show p wrack_thread_attentive as left at head_left
+    with qd
+    show p maelis_cropped_level as right at head_right
+    with qd
     c_maelis "He was born there. When he was nineteen he came home from the Lantern with eleven years of the walls in his head. He was the cleverest boy in the world, and his hold was at war with its neighbours over a kelp boundary. He wanted them to be proud of him."
     "She said it evenly."
     c_maelis "He built them darts. Maker darts, armed, the first new ones in two thousand years. They were very good. When it was over there were eleven holds fewer than when it started. The last to go was Sounding. The other side had taken two of his darts and learned to ride them."
@@ -443,6 +495,8 @@ label ch07:
     hide left
     hide right
     with qd
+    scene bg c7_hush_room
+    with dissolve
     "The ember hissed in its dish."
 
     show p wrack_thread_attentive as left at head_left
@@ -467,6 +521,8 @@ label ch07:
     scene bg c7_ember_house
     with fade
     "It was morning when the ray set him down at the black sand. Okonta was asleep against the wall of the house. Sefa was sitting on the step with Bother's head in her lap. She had not slept."
+    show p sefa_tired as right at head_right
+    with qd
 
     "She looked at his face, and stood up."
 
@@ -525,9 +581,15 @@ label ch07:
     "She wiped her nose on her wrist, furiously."
     c_sefa "I hit you in the face ten days ago to stop you dying for a lot of strangers. You didn't even know what you'd done then, and you nearly died for them anyway. I can't make it fit."
     "She glared at him."
+    show p sefa_sharp as right at head_right
+    with qd
     c_sefa "You said you owed us a dome."
     c_ilan "I do."
     c_sefa "You owe us a lot more than a dome now. I'm coming with you to see you pay it. Every bit. And you tell my mother yourself, to her face. I'm not doing that for you."
+    show p sefa_understanding as right at head_right
+    with qd
+    show p wrack_thread_resolved as left at head_left
+    with qd
     c_ilan "I will."
     c_sefa "Good."
 

@@ -14,6 +14,10 @@
 
 define config.name = _("The Man the Tide Brought In")
 
+## Save sync is switched off: it would upload saves to Ren'Py's public server.
+## This hides the Upload Sync and Download Sync buttons on the save and load screens.
+define config.has_sync = False
+
 
 ## Determines if the title given above is shown on the main menu screen. Set
 ## this to False to hide the title.

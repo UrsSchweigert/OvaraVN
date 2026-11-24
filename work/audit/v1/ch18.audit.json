@@ -1,0 +1,35 @@
+[
+ {
+  "ref": "c18.s01",
+  "line": 11,
+  "pass": "A",
+  "run_len": 8,
+  "after_text": "They walked onto boats with what they could",
+  "tier": 3,
+  "change": "bg c13_spire_lobby (reuse) for boxes 12-15 (the house, the chairman, the building with no windows)",
+  "why": "Run 8-15: from the exodus to Meridian's own house falling quiet",
+  "new_image": null
+ },
+ {
+  "ref": "c18.s03",
+  "line": 43,
+  "pass": "A",
+  "run_len": 6,
+  "after_text": "Ten were engineers of Keelhaven, with Hanne at",
+  "tier": 3,
+  "change": "bg kelp_forest (reuse) for boxes 44-46 (the humming forest and the forty days)",
+  "why": "Run 41-46: from the journey to the work at Low Anthem",
+  "new_image": null
+ },
+ {
+  "ref": "c18.s04",
+  "line": 92,
+  "pass": "B",
+  "run_len": 0,
+  "after_text": "They called the city Meet. Nobody decided it.",
+  "tier": 2,
+  "change": "show p maelis_composed as right for her arrival narration; hide right after box 93",
+  "why": "Narration about Maelis, a lead",
+  "new_image": null
+ }
+]

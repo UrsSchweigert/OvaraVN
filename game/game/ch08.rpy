@@ -12,6 +12,10 @@ label ch08:
     scene bg c8_belt_under
     with fade
     "They rode the Dragon north for a day, as far as the edge of the Bright Shelves, and left it there on the needles. Sefa rode behind Ilan with her arms round his waist."
+    show p wrack_thread_calm as left at head_left
+    with qd
+    show p sefa_dry as right at head_right
+    with qd
     "She did not speak to him for the first two hundred kilometres. In the third hundred she said that he leaned too hard into his turns, and he took it for the beginning of a peace."
 
     "He was Ilan now. It sat on him like a coat he had not worn for years, familiar and the wrong size. Sefa and Okonta went on calling him Wrack, out of habit or on purpose, and he found that he was glad of it."
@@ -23,6 +27,8 @@ label ch08:
     with qd
     c_okonta "The Belt,"
     c_okonta "That's the south edge of the storms. From here to the far side it's three hundred kilometres of weather, and every island on Ovara is somewhere in it. I can take a needle under."
+    show p okonta_frowning as right at head_right
+    with qd
     c_okonta "You can't take a girl who's never seen an agravar into Saltgate on one, and walk her up out of a canal in a Threaded's wake. You'd have every wrecker in the port on you by noon."
     "She looked up."
     c_okonta "There should be a boat. The rays said a boat."
@@ -68,6 +74,10 @@ label ch08:
     "The boat was named {i}Patience{/i} on the bow, {i}Second Wife{/i} on the stern, and something else again on her papers. She was eleven metres of patched timber with a deckhouse and a mast and an engine that Dace addressed as an equal."
     "Ilan knew her kind. Every harbour on the Girdle had a hundred. They belonged to the people with no corporation, the ones who lived on the water because every scrap of land was owned."
     "They were called the Driftfolk, and they had no island. They had rafts, lashed together in floating towns, which followed the calm places through the storms. They carried what the corporations would not carry, to people the corporations did not serve, and asked no questions of anyone."
+    show p wrack_thread_calm as left at head_left
+    with qd
+    show p sefa_amazed as right at head_right
+    with qd
     "Halcyon's security manuals classed them as a nuisance. He had signed off on those manuals."
 
     "Sefa had never been above the surface for more than a few minutes. She sat in the bows with her feet trailing in the sea, at Dace's order, and stared at the sky. Rain came across the water in walls."
@@ -95,8 +105,12 @@ label ch08:
 
     "Ilan had done it a hundred times on company ships, behind glass, with a drink. He had never done it in an open boat. You ran flat out through wind and black rain toward a patch of calm that you could not yet see."
     "The calm drifted. There were dozens of them, scattered through the Belt, and they moved on a pattern that took years to learn. The big ships had instruments. The Driftfolk had it by heart, handed down like a song."
+    scene bg c8_eye_boat
+    with dissolve
     "You reached your Eye, and the wind dropped as though a door had shut. You sat in flat water under a ring of blue sky, with the storm standing all round you like a wall, and you waited for the next Eye to come within reach."
     "If you misjudged it, you were caught between two with nowhere to go. Ships were lost that way every season."
+    scene bg c8_boat_storm
+    with dissolve
 
     "Gale skates went over them in thousands. They threw themselves out of the wave-tops and glided on the wind for a kilometre at a time. Dace read them like a newspaper."
     "When they flew high, she said, the Eye was near. When they turned all together, like a shaken cloth, the wind was about to change."
@@ -140,6 +154,8 @@ label ch08:
     with qd
     c_ilan "Land. Each other's. There isn't any left that's spare."
     "He looked at the wall of cloud."
+    show p sefa_thoughtful as right at head_right
+    with qd
     c_ilan "Halcyon digs. Ore, fuel, anything under the sea bed. Kessler-Vane builds ships and guns for all of them. Brightwater sells food and water and medicine, and it's the one everybody likes. Meridian lends the money and insures the ships. Orrin owns the screens and decides what people hear."
     "He rubbed his wrists; it had become a habit."
     c_ilan "They're not wicked, Sefa. Most of them. They work twelve hours and go home to two rooms. They like music and fried food, and they love their children. They've been told all their lives that there's nothing down here but fish and a fairy tale. And so what they throw away, they throw in the sea."
@@ -191,10 +207,14 @@ label ch08:
     "Saltgate came up out of the rain on the fifth evening."
 
     "Ilan had forgotten it, and then remembered it. Now he saw it for the first time, all at once."
+    scene bg c16_saltgate_stacks
+    with dissolve
 
     "A hundred sea-stacks stood in the gap between two corporate waters. On every one of them people had built. They had built up, and then out."
     "They built across from stack to stack on stilts and girders and cables, tier on tier, until the city hung over the water like a mass of nests in a dead tree. And every surface of it flashed and crawled with coloured light."
     "Signs forty metres high sold noodles, loans, cigarettes, and a singer with silver eyelids. He smelled smoke and frying oil. He heard ten thousand engines, and music from a hundred doors, and over all of it the horns of ships."
+    show p sefa_amazed as right at head_right
+    with qd
 
     "Sefa had her mouth open."
 
@@ -221,6 +241,8 @@ label ch08:
     c_dace "Lockkeepers,"
     c_dace "They're the only law there is here. They own the gates, and they take a toll off everyone who comes through. Halcyon, Driftfolk, your people, all the same rate."
     c_dace "They won't take a side for any money. That's why it's a free port. If the Lockkeepers shut the gates, the whole city starves in a week, so nobody's ever cared to annoy them."
+    show p dace_cheerful as right at head_right
+    with qd
     "She raised two fingers to the nearest box. A badge raised two fingers back."
     c_dace "Your folk come in by the locks, love. Right into the middle of town. It's the only place in the world they can."
 
@@ -270,6 +292,8 @@ label ch08:
 
     "It was a basin a hundred metres across, roofed over, high above, by the floors of buildings. The stalls stood round it on three tiers of planking. The top tier was dry. The middle one was awash at high tide."
     "The lowest was a metre under water, and the stallholders there sat in the sea up to their chests, or were mariners and sat in it altogether. The water was full of light and legs."
+    scene bg c8_market_low
+    with dissolve
 
     "Everything was sold here. Agravars in plastic capes sold steel knives and needles and coils of wire, and glass beads, and small cheap radios sealed in wax."
     "Mariners from holds along the Shoulder sold sea-silk by the bolt, and pearls, and smoked silverback. Driftfolk sold whatever they had found. There was shouting in three languages."
@@ -287,6 +311,8 @@ label ch08:
     c_sefa "They're just {i}talking{/i} to each other,"
     "she said, surfacing beside the boat."
     c_sefa "They're cheating each other over fish. That one called that one a thief, and then they both laughed."
+    show p sefa_amused as right at head_right
+    with qd
     "She pushed her wet hair back."
     c_sefa "Nobody told me there was anywhere it was like this."
 
@@ -303,6 +329,10 @@ label ch08:
     "He had not meant to go to the Sluice. His feet took him, that night, as his hands had once gone to a lamp."
 
     "It was a back canal in the poor quarter, narrow and dim. He knew every door. He knew the noodle stall on the corner, and the smell of it. The tenement was still standing. There was a light in the fourth-floor window, and somebody else's curtain."
+    show p wrack_hat_melancholy as left at head_left
+    with qd
+    show p nerys_worn as right at head_right
+    with qd
 
     "He stood on the towpath in the rain and looked up. She had sat at that window with her feet in a basin, humming. She had put her hands on either side of his face when he was seven."
     "He had thought that he was ashamed of where he came from. It had been easier than knowing that he was afraid of what he was."
@@ -337,6 +367,8 @@ label ch08:
     scene bg c8_brightwater_ext
     with dissolve
     "Across the water the Brightwater Wellness Centre rose thirty storeys, white-tiled, softly lit. Its sign was a blue drop and a smiling sun."
+    show p marsh_flat as right at head_right
+    with qd
 
     "Brightwater was the corporation people liked. It sold bread, and bottled water, and the pills that every agravar child took for the lungs. Its shops were clean and its staff were kind. Its advertisements showed grandmothers."
     "Ilan had dealt with its board for ten years, and they were the only people on Ovara who had ever frightened him. Its chief was a physician named Linnea Marsh."
@@ -349,6 +381,8 @@ label ch08:
     with qd
     c_ilan "It's listed as plant,"
     c_ilan "I signed a requisition for that floor once, as a favour between companies. Sixty thousand litres a week of filtered seawater, trucked up in sealed tanks. I thought it was for a pool."
+    show p pell_earnest as right at head_right
+    with qd
 
     c_pell "It's a woman,"
     "He spoke almost too low to hear."
@@ -374,6 +408,8 @@ label ch08:
 
     c_ilan "They're trying to find out why intended water stops working,"
     c_ilan "It fades in a few days. If they could make it keep, they could bottle it. It would be worth more than everything else they sell."
+    show p sefa_sharp as right at head_right
+    with qd
 
     c_sefa "It stops because she stops minding it. Any child knows that."
 
@@ -394,6 +430,8 @@ label ch08:
     with dissolve
     "It was the most frightening thing he had done since he woke up, and the easiest. He walked into the white lobby in a suit that Dace had procured without explanation. There was soft music, and a smell of lemons."
     "He gave his name and his grade and an eleven-digit authority code that his mouth knew better than he did. Then he watched a receptionist's face do what the lieutenant's had done at Greywatch Stone."
+    show p wrack_suit_cool as left at head_left
+    with qd
 
     "Chief Surveyor Voss was not dead. He had been on a confidential assignment."
     "He was here to inspect the plant on twenty-two, on behalf of a partner corporation that was, he let it be understood, extremely displeased. He would not be signing in."
@@ -443,6 +481,8 @@ label ch08:
 
     "She had been walking the world for thirty years when they took her. They had found her on a beach in the Green Terraces, setting a fisherman's leg."
     "She lay for two days in the shadows under the Wet Market, where the sea came in clean on the tide, and let it come back to her. Sefa did not leave her. She fed her broth from a spoon and held her up in the water, and looked at her as Elder Oro had looked at the lamp."
+    show p yeva_tired as right at head_right
+    with qd
 
     "On the third day Yeva opened her eyes properly. She had a long worn face and a dry manner. She looked at Sefa, and at the band on her arm."
 
@@ -566,20 +606,26 @@ label ch08:
 
     "Sefa held out her arms. He looked at her wet hair and her dark eyes for a long moment, and then he put his daughter into them."
 
+    "She laid the child in the basin and put her hands in the water. The market went quiet around them. It took about as long as boiling an egg. The child sat up, and looked at the lamps, and asked for noodles."
     scene bg c8_market_low
     with dissolve
-    "She laid the child in the basin and put her hands in the water. The market went quiet around them. It took about as long as boiling an egg. The child sat up, and looked at the lamps, and asked for noodles."
 
     "By nightfall the queue went round the lock and up the stair."
 
     "They healed anyone. They asked nothing. They said, to everyone who asked, that it could not be bottled or sold and would not keep, and that anybody claiming otherwise was a thief."
     "Ilan worked at the second basin with his hat on. He purged lungs and blood and old infections. In nine days he saw more of what the refineries did to people than he had seen in fifteen years of sitting above them."
     "The porter came back every day. His name was Garran, and the child's was Pim. He appointed himself to keep the queue in order, and nobody argued with him."
+    scene bg c8_lock
+    with dissolve
 
     "Brightwater's security came on the fourth day. There were twelve of them, in white, with batons. They found three hundred dock families standing between them and the table."
     "Garran was in front with his arms folded. Above them, in a glass box, a Lockkeeper was drinking his tea with great attention. The men in white went away again."
+    scene bg c8_market_night
+    with dissolve
 
     "She came on the sixth night, alone, after the market lamps were dimmed."
+    show p marsh_flat as right at head_right
+    with qd
 
     "Ilan knew her walk before he saw her face. She came down the steps to the lowest tier in a plain raincoat, with no guard, and stood at the edge of the planking where Garran had stood."
     "She looked at the two basins. She looked at Yeva for a long time."
@@ -600,10 +646,14 @@ label ch08:
     c_marsh "Yes. I expect you could."
     "She did not flinch. Her eyes moved to Ilan, under his hat, and rested there without surprise."
     c_marsh "Mr Voss. I thought it must be. Nobody else knew which floor."
+    show p wrack_hat_calm as left at head_left
+    with qd
     "She turned back."
     c_marsh "I've watched this table for three days from a window. I saw that child's lungs. I trained eleven years to do less than that girl did in four minutes."
     c_marsh "I've spent thirty more working out what people will pay not to watch their children die."
     "She said it flatly, like a diagnosis."
+    show p marsh_humble as right at head_right
+    with qd
     c_marsh "I have forty hospitals. There are beds in them empty tonight, because the people who need them have no scrip."
     c_marsh "I want to open the wards. To you, and to any healer of yours who'll come. No charge at the door."
 

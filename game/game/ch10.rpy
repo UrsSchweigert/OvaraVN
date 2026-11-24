@@ -10,7 +10,7 @@ label ch10:
     "Lashing had one law, and it had never before been asked to keep it for an enemy."
     "The trumpet-man's name was Odo. He had been harbourmaster of the raft-town for thirty years, which meant that he counted heads and settled quarrels about moorings. He stood on the planking and explained it to them twice. He looked as though he would have liked someone to explain it to him."
 
-    show p wrack_thread_calm as left at head_left
+    show p wrack_assured_calm as left at head_left
     show p fatman_unhappy as right at head_right
     with qd
     c_odo "He came in under his own power and he asked for the law. {i}I've reached you, and I ask not to be handed back.{/i} Those are the words. It doesn't say who's to ask them."
@@ -28,25 +28,24 @@ label ch10:
     c_dace "You're never going,"
     c_ilan "He's come a long way."
     c_dace "He had you thrown off a ship with your wrists tied!"
-    show p wrack_thread_attentive as left at head_left
+    show p wrack_assured_attentive as left at head_left
     with qd
     c_ilan "Yes,"
     c_ilan "I'd like to ask him about that."
 
     hide left
-    hide right
+    show p sefa_wary as right at head_right
     with qd
     "Sefa said nothing. She was in the water beside the barge, and she had gone very quiet. He had told her on the black sand who Anselm Rook was. She had asked him then whether he had loved the man, and he had said that he supposed so, and she had not asked anything else."
     "Teodora Raske would not come. She said that she had sat across a desk from the chairman of Meridian twice in her life, and each time had agreed to something."
 
-    show p wrack_thread_calm as left at head_left
+    show p wrack_assured_calm as left at head_left
     show p raske_stern as right at head_right
     with qd
     c_raske "I'd end by asking his opinion of my framing,"
     c_raske "Go on. Don't drink his wine."
 
-    hide left
-    hide right
+    show p okonta_flat as right at head_right
     with qd
     "Okonta said only that she would be on the roof."
 
@@ -63,7 +62,7 @@ label ch10:
 
     scene bg c10_frigate_deck
     with dissolve
-    show p wrack_thread_attentive as left at head_left
+    show p wrack_assured_attentive as left at head_left
     show p anselm_smile as right at head_right
     with qd
     c_anselm "You look well,"
@@ -79,8 +78,8 @@ label ch10:
     with qd
     c_anselm "Sit down, Ilan. It's the day. I have not missed it in twenty-two years, and I didn't care to begin."
 
-    hide left
     hide right
+    show p wrack_thread_troubled as left at head_left
     with qd
     "Ilan sat."
     "It was what he had not been ready for. He had been ready for the calm and the courtesy, and for being afraid. He had not been ready for how well he knew it all."
@@ -93,11 +92,13 @@ label ch10:
     c_ilan "You could have told me my name,"
     c_ilan "On the step."
     c_anselm "I offered."
+    show p wrack_thread_cold as left at head_left
+    with qd
     c_ilan "You offered to sell it to me."
     c_anselm "I offered to take you home. I don't see the difference, but I know that he would have."
     "Rook laid a fillet on Ilan's plate."
     c_anselm "Ask me what you came to ask. You've never been able to eat until you'd said the thing."
-    show p wrack_thread_attentive as left at head_left
+    show p wrack_assured_attentive as left at head_left
     with qd
     c_ilan "You gave Crane the order."
     c_anselm "Yes."
@@ -117,7 +118,7 @@ label ch10:
     c_anselm "I had talked to you for twenty-two years. You stopped listening the moment those walls lit up. I heard it happen."
     "He said it without reproach."
     c_anselm "I asked Crane to be quick. I understand that he was not. I'm sorry for that."
-    show p wrack_thread_attentive as left at head_left
+    show p wrack_assured_attentive as left at head_left
     with qd
     c_ilan "And do you regret it?"
     c_anselm "I regretted it every day until the barge went up. I sat in my office and I couldn't add."
@@ -141,7 +142,7 @@ label ch10:
     "Under the grating the sea moved, and the lantern light slid on it. Something else moved there too, small and still. Ilan did not look down."
 
     # c10.s03
-    show p wrack_thread_attentive as left at head_left
+    show p wrack_assured_attentive as left at head_left
     show p anselm_calm as right at head_right
     with qd
     c_anselm "I'll show you what I want,"
@@ -153,20 +154,22 @@ label ch10:
     with qd
     "He took a chart from inside his coat and spread it between the glasses. It was Ilan's own work. He knew the hand."
 
-    show p wrack_thread_calm as left at head_left
+    show p wrack_assured_calm as left at head_left
     show p anselm_calm as right at head_right
     with qd
     c_anselm "Tell me the depths,"
     c_anselm "You always could."
     c_ilan "Sixty metres. Forty here. A hundred and ten on the sill."
+    show p anselm_gentle as right at head_right
+    with qd
     c_anselm "A shelf. The islands are only its high places. Two hundred thousand square kilometres of ground, and nowhere on it more than a tall building's depth of water. That is all that stands between forty million people and room to breathe."
     c_anselm "Halcyon thinks it has a gun. Halcyon has only ever had the one idea. My people recorded those walls for four hours before they went dark, and I've had the pictures read."
     c_anselm "It was never a gun. The Makers built it when the sea first began to come up. It keeps water out. It tells the sea where it may not be, and the sea is not there. They meant to stand their city dry behind it for ever."
-    show p wrack_thread_attentive as left at head_left
+    show p wrack_assured_attentive as left at head_left
     with qd
     c_ilan "Then why is it behind three doors?"
     c_anselm "Because they lost their nerve."
-    show p wrack_thread_thinking as left at head_left
+    show p wrack_assured_thinking as left at head_left
     with qd
     c_ilan "Or they saw what it left."
     c_anselm "Yes. You'd see that. Fetch me some of the sea, would you? In the soup bowl. I can't reach."
@@ -177,7 +180,7 @@ label ch10:
     "Ilan knelt at the grating and dipped the bowl. He felt the water as he lifted it, as he felt all water now. It dwindled as it left the sea. It was like a voice heard from the next room, and then from down a passage."
     "Rook had taken something from his pocket. It was no bigger than a plum stone, pale and ribbed. Ilan's hands knew it at once for Maker work, and knew that it was a piece of something much larger."
 
-    show p wrack_thread_attentive as left at head_left
+    show p wrack_assured_attentive as left at head_left
     show p anselm_calm as right at head_right
     with qd
     c_anselm "The governor,"
@@ -198,7 +201,7 @@ label ch10:
     "Below the grating someone caught their breath."
     "Rook lifted the governor out between finger and thumb. The ring slumped, and the water lay flat in the bowl."
 
-    show p wrack_thread_attentive as left at head_left
+    show p wrack_assured_attentive as left at head_left
     show p anselm_calm as right at head_right
     with qd
     c_anselm "Now ask it for something,"
@@ -214,10 +217,16 @@ label ch10:
     c_anselm "It will never answer anyone again,"
     c_anselm "That is the cost, and I don't hide it. The engine as Halcyon has it would dry a harbour. Seated where it belongs, in the city, with a heart large enough to drive it, it would hold the sea off the whole shelf."
     c_anselm "The water goes north and south. My actuaries say a metre and a half on the Shoulders. Nine Spires will get its feet wet."
+    show p wrack_assured_attentive as left at head_left
+    show p anselm_calm as right at head_right
+    with qd
     c_ilan "And round it?"
     c_anselm "A ring of that."
     "He nodded at the bowl."
     c_anselm "A wide one. The southern Anthem Waters, and the near half of the Bright Shelves. They'd not die in a day. The kelp would go quiet, and then it would go."
+    show p wrack_thread_grieving as left at head_left
+    show p anselm_gentle as right at head_right
+    with qd
     c_ilan "Deep Chorus is in the southern Anthem Waters."
     c_anselm "I have tanks for Deep Chorus. I have tanks for all of them, and lamps that work, and wages."
     c_anselm "They are going dark anyway, Ilan. You've lain under those hearts. You know better than I do how many of them want making, and that nobody alive can make. I am offering two million people an end that isn't the dark."
@@ -227,14 +236,16 @@ label ch10:
     c_anselm "Everyone owes something. It's how a person knows where they belong."
     "He folded the chart."
     c_anselm "Here is what I came to say. That hull at Keelhaven is Halcyon's notion, not mine. I hold Halcyon's paper. I can stop that fleet with a letter. I'd do it this week, if I had no need of a gun."
+    show p wrack_thread_troubled as left at head_left
+    with qd
     c_anselm "Come back. Seat the engine properly, in its own city, as only you can. Then nobody boils anyone. You'd have saved your twelve thousand in the canyon by sitting down at a bench."
     "He paused."
     show p anselm_gentle as right at head_right
     with qd
     c_anselm "Without you I have only the gun, and men like Crane to point it. I'd much rather have you."
 
-    hide left
     hide right
+    show p wrack_thread_troubled as left at head_left
     with qd
     "Ilan did not answer at once."
     "It was the cleverest thing Rook had ever offered him, and it was kindly meant. That was the worst of it. He could stop the fleet tonight, with a word. He would be home. He would know his own front door. And Rook was right about the hearts."
@@ -245,18 +256,22 @@ label ch10:
     c_ilan "How long have you known?"
     c_ilan "About the routes. That there were holds under them."
     c_anselm "Always. I read the tonnage every quarter."
+    show p wrack_thread_cold as left at head_left
+    with qd
     c_ilan "And you let me draw them."
     c_anselm "I thought you knew what you were, and had made your peace with it. As I had."
     "Rook's eyes were steady."
     show p anselm_lowered as right at head_right
     with qd
     c_anselm "I was wrong about that. It's the only thing about you I ever got wrong."
-    show p wrack_thread_resolved as left at head_left
+    show p wrack_assured_calm as left at head_left
     with qd
     c_ilan "You taught me to look at a blank chart and tell you the depth,"
     "Ilan said slowly."
     c_ilan "I've been looking at yours. It's a good chart. There's nobody on it. There's ground, and tonnage, and service owed. I drew eleven of those. I know just how it's done, and how well you sleep after."
     "He pushed the bowl an inch across the table."
+    show p anselm_calm as right at head_right
+    with qd
     c_ilan "I won't seat it."
     c_anselm "And the forty million?"
     c_ilan "I'll find them somewhere."
@@ -277,13 +292,15 @@ label ch10:
 
     scene bg c10_frigate_deck
     with dissolve
-    show p wrack_thread_attentive as left at head_left
+    show p wrack_assured_attentive as left at head_left
     show p anselm_calm as right at head_right
     with qd
     c_anselm "The paper was mine,"
     c_anselm "The purple one. I had it printed in the week you walked out of that clinic."
     c_anselm "Your mariners are going to try you at their Moot, and half of them will want you dead. I'd sooner they were done with you quickly. When they are, come to any Meridian door."
     "He put the governor back in his pocket."
+    show p anselm_cold as right at head_right
+    with qd
     c_anselm "One more thing, since you'll hear it. Linnea Marsh came to see me. She wished to open her wards to your little girl with the basins. I told her that I could not release the notes."
     c_anselm "There was a fire at her clinic in Clearwell on Tuesday night. She was working late. The board has named a successor."
 
@@ -319,6 +336,8 @@ label ch10:
     scene bg c10_frigate_overturned
     with dissolve
     "Sefa came up the side like something thrown."
+    show p sefa_shaken as right at head_right
+    with qd
     "She stood on the deck with the water running off her, and Bother at her heels. She went straight to the table and put her hand into the soup bowl. She took it out again at once and held it against her chest."
 
     show p wrack_thread_grieving as left at head_left
@@ -327,6 +346,8 @@ label ch10:
     c_sefa "I felt it go,"
     c_sefa "From down there. It was like when a patient goes. You've got your hands on them, and there's somebody in the room, and then there isn't."
     "Her voice shook."
+    show p sefa_hard as right at head_right
+    with qd
     c_sefa "He did that to show you. He killed it to {i}show{/i} you."
     c_ilan "Yes."
 
@@ -336,13 +357,16 @@ label ch10:
     "Ilan took the bowl to the rail and tipped it over. The water did not mix. It lay on the swell for a moment in a flat patch, like oil, before the sea closed over it."
     "Okonta had come down off the deckhouse roof."
 
-    show p wrack_thread_attentive as left at head_left
+    show p wrack_assured_attentive as left at head_left
     show p okonta_grave as right at head_right
     with qd
     c_okonta "A heart large enough,"
     c_okonta "I've good ears. What heart?"
     c_ilan "There's only one that size."
     "He was still looking at the place where the water had gone."
+    show p wrack_thread_grieving as left at head_left
+    show p okonta_grim as right at head_right
+    with qd
     c_ilan "It runs a kilometre down under the Girdle, in a trench, where nobody from the islands can reach it. It was worn out. He couldn't mend it, and he couldn't have made it run."
     c_okonta "And now it runs."
     show p wrack_thread_troubled as left at head_left
@@ -350,6 +374,8 @@ label ch10:
     c_ilan "On two wheels. Yes."
     "He turned round."
     c_ilan "He told me to mend it. On the Dragon, in front of all of you. {i}I should like to see it run.{/i}"
+    show p okonta_flat as right at head_right
+    with qd
     c_okonta "It never comes up,"
     c_okonta "Not in these waters. Not in three thousand years."
     c_ilan "No,"
@@ -360,12 +386,14 @@ label ch10:
     "Neither of them said anything more about it."
     "Raske had been waiting at the foot of the frigate's ladder with a shawl over her head. She looked at the overturned chair."
 
-    show p wrack_thread_calm as left at head_left
+    show p wrack_assured_calm as left at head_left
     show p raske_steady as right at head_right
     with qd
     c_raske "Well?"
     c_raske "Did you agree to anything?"
     c_ilan "No."
+    show p raske_stern as right at head_right
+    with qd
     c_raske "That's more than I ever managed."
     c_raske "But you wanted to."
 
@@ -385,6 +413,8 @@ label ch10:
     with qd
     c_sefa "I know. I could see your feet through the grating. You'd turned them toward him."
     c_ilan "Had I?"
+    show p wrack_thread_ashamed as left at head_left
+    with qd
     c_sefa "He's right about lots of things,"
     c_sefa "So were you. You knew exactly how deep it was everywhere. Mother's arms didn't come out of somebody being wrong about the depth."
     "She pulled Bother's ears through her fingers."
@@ -405,6 +435,8 @@ label ch10:
     "Sefa said, very low."
     c_sefa "I told you she did."
     c_ilan "Yes."
+    show p sefa_thoughtful as right at head_right
+    with qd
     c_sefa "I was going to go and look at the tank. With the lid off."
 
     hide left

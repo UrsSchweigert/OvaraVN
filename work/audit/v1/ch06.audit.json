@@ -1,0 +1,149 @@
+[
+ {
+  "ref": "c06.s01",
+  "line": 42,
+  "pass": "A",
+  "run_len": 6,
+  "after_text": "The last one. The one he spent himself",
+  "tier": 1,
+  "change": "wrack_thread_troubled -> wrack_thread_attentive",
+  "why": "Before the woman asks 'Can you start it?'",
+  "new_image": null
+ },
+ {
+  "ref": "c06.s02",
+  "line": 162,
+  "pass": "A",
+  "run_len": 6,
+  "after_text": "I need people who know the bottom. Pilots.",
+  "tier": 1,
+  "change": "wrack_thread_troubled -> wrack_thread_thinking",
+  "why": "Anselm moves from his claim to his offer",
+  "new_image": null
+ },
+ {
+  "ref": "c06.s02",
+  "line": 165,
+  "pass": "A+B",
+  "run_len": 6,
+  "after_text": "Ground. A piece of it, deeded to you,",
+  "tier": 2,
+  "change": "swap right slot to corin_staring (Corin's head comes up at the promise of ground)",
+  "why": "Corin is named in narration at 166",
+  "new_image": null
+ },
+ {
+  "ref": "c06.s02",
+  "line": 174,
+  "pass": "B",
+  "run_len": 1,
+  "after_text": "You sent that dart,",
+  "tier": 2,
+  "change": "replace the hide with show p anselm_helmed as right (Rook turns the glass helmet toward him)",
+  "why": "Narration at 181 is about Anselm, a lead",
+  "new_image": null
+ },
+ {
+  "ref": "c06.s02",
+  "line": 222,
+  "pass": "B",
+  "run_len": 3,
+  "after_text": "Nobody moved for some time. Then, far down",
+  "tier": 2,
+  "change": "show p corin_staring as right (Corin sits in his net, looking at nothing)",
+  "why": "Narration at 224 is about Corin",
+  "new_image": null
+ },
+ {
+  "ref": "c06.s03",
+  "line": 248,
+  "pass": "A+B",
+  "run_len": 7,
+  "after_text": "He had not finished the word before he",
+  "tier": 4,
+  "change": "NEW cg: Wrack in the dim gallery, a steel mesh net dropping over him as three needles close from three sides",
+  "why": "Violence and reversal: he is taken (covers 250 to 253)",
+  "new_image": {
+   "kind": "cg",
+   "name": "c6_net_falls",
+   "prompt_seed": "In a dim long gallery between pale ribs, a young man in a thread-scarred tunic is struck down while a heavy steel mesh net falls over him; three slender needle-craft with riders close from three sides; sleepers in hammocks beyond."
+  }
+ },
+ {
+  "ref": "c06.s03",
+  "line": 281,
+  "pass": "A+B",
+  "run_len": 6,
+  "after_text": "Somebody clever, he thought. He's been thirty years",
+  "tier": 3,
+  "change": "bg c6_slick_inside (reuse) for the dried fish drifting down and the eels rising",
+  "why": "Okonta's rescue begins: new place after the towed-silence cg",
+  "new_image": null
+ },
+ {
+  "ref": "c06.s03",
+  "line": 301,
+  "pass": "B",
+  "run_len": 2,
+  "after_text": "The tow-line went slack. Corin had cut it.",
+  "tier": 2,
+  "change": "show p okonta_wincing as right (Okonta drags the net aboard, forearm opened)",
+  "why": "Narration at 303 is about Okonta",
+  "new_image": null
+ },
+ {
+  "ref": "c06.s04",
+  "line": 341,
+  "pass": "B",
+  "run_len": 3,
+  "after_text": "Sefa stitched the arm. She did it with",
+  "tier": 2,
+  "change": "show p sefa_lip as right (Sefa stitches the arm with her lip between her teeth)",
+  "why": "Sefa, a lead, is the subject of the narration",
+  "new_image": null
+ },
+ {
+  "ref": "c06.s04",
+  "line": 365,
+  "pass": "A",
+  "run_len": 12,
+  "after_text": "She touched the scar at her temple.",
+  "tier": 1,
+  "change": "wrack_thread_thinking -> wrack_thread_attentive",
+  "why": "Okonta explains the skin of water",
+  "new_image": null
+ },
+ {
+  "ref": "c06.s04",
+  "line": 370,
+  "pass": "A",
+  "run_len": 12,
+  "after_text": "You can Hold. I've seen you hold a",
+  "tier": 1,
+  "change": "okonta_flat -> okonta_grave",
+  "why": "She sets the hard training",
+  "new_image": null
+ },
+ {
+  "ref": "c06.s05",
+  "line": 405,
+  "pass": "A+B",
+  "run_len": 6,
+  "after_text": "The heart of the Dragon lay amidships, under",
+  "tier": 4,
+  "change": "cg c7_wheel (reuse) if it shows the Dragon's wheel-within-wheel heart; otherwise bg c6_heart_under stays and mark NEW",
+  "why": "The first sight of the Dragon's heart, a major place",
+  "new_image": null
+ },
+ {
+  "ref": "c06.s05",
+  "line": 489,
+  "pass": "B",
+  "run_len": 4,
+  "after_text": "I don't know.",
+  "tier": 2,
+  "change": "replace the hide with show p sefa_eager as right",
+  "why": "Narration at 494 is about Sefa joining them",
+  "new_image": null
+ }
+]

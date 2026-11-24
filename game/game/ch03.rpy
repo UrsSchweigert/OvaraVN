@@ -50,6 +50,8 @@ label ch03:
     c_okonta "Whales. White ones, as big as a hold's dome. They come down from the ice at this season to calve. That one's two hundred kilometres north of us, and the one answering is further."
     "She listened with her eyes closed."
     c_okonta "Every one of them sings its own water. The old pilots learned the songs, and so did I. If I hear that cow, I know where the Greywatch rise is from here without looking. Agravars have instruments for it. I've seen them. Dials."
+    show p wrack_tunic_thinking as left at head_left
+    with qd
 
     c_wrack "You've been on the islands?"
     show p okonta_wry as right at head_right
@@ -60,12 +62,13 @@ label ch03:
 
     "So he asked, and she told him, in a voice with no decoration in it."
 
-    hide left
-    hide right
-    with qd
+    scene bg dc_canyon_above
+    with dissolve
     "She had been born in Deep Chorus, the great canyon hold, three days south. She had been a herder's daughter and then a herder. When she was twenty-six an agravar trawler had come over the canyon mouth with its gear down."
     "It was fishing where the charts said nobody lived. It took four hundred silverbacks, and her brother, who had been among them. The elders of Deep Chorus had sung for him and held a council and done nothing, because there was nothing they could do."
 
+    scene bg kelp_night
+    with dissolve
     show p wrack_tunic_attentive as left at head_left
     show p okonta_grave as right at head_right
     with qd
@@ -82,6 +85,8 @@ label ch03:
     with qd
     c_okonta "And then there's a rule. It isn't long."
     c_okonta "{i}Keep the water. Own nothing you can't carry. Come when you're called.{/i} You say it to him once and he never mentions it again."
+    show p okonta_flat as right at head_right
+    with qd
     "She shifted."
     c_okonta "I keep the water between Rime and the Slick. I turn their survey boats round. I cut their trawl lines, and I pull people out of wrecks, theirs as well as ours. I've sunk eleven hulls in thirty years and not one with a crew aboard. He minds about that. It used to make me angry."
     "She was quiet for a time."
@@ -112,6 +117,8 @@ label ch03:
     c_okonta "Four. Behind us, coming on a line."
     "She listened a moment longer, with her head tilted, to something he could not hear."
     c_okonta "Sleds. Halcyon make. That barge crew talked, and somebody ashore has decided they'd like whatever picked up their ship. That's a recovery team. They'll have wreckers with them, to find the way."
+    show p wrack_tunic_baffled as left at head_left
+    with qd
 
     c_wrack "Wreckers?"
     show p okonta_grave as right at head_right
@@ -162,6 +169,8 @@ label ch03:
     with qd
     c_okonta "That was a hold called Sounding,"
     c_okonta "Six thousand people. It's been like that nine hundred years."
+    show p wrack_tunic_troubled as left at head_left
+    with qd
     "She put her hand flat on the hull and the needle moved on."
     c_okonta "The last time mariners went to war with each other, that's what it looked like. There were eleven of those when it was over. It's why we've no army, and no king, and no hold that tells another what to do. We frightened ourselves."
     "She glanced back at him over her shoulder."
@@ -209,10 +218,12 @@ label ch03:
     "Wrack looked back and saw it. It was an eel as thick as his body and as long as the needle. A second came up out of the silt beneath them. A third."
     c_okonta "Slick eels,"
     c_okonta "They hunt by taste. Hold on."
+    scene bg slick_edge
+    with dissolve
     "She threw the needle sideways. The first eel lost its grip, and the second struck the hull so hard that Wrack's hands tore free."
     "He was in the water, spinning. The taste of it was in his mouth, oily and sweet. An eel turned towards him with its jaws opening like a split hose."
 
-    scene bg slick_edge
+    scene cg c3_deaf_water
     with dissolve
     "He reached for the sea. {i}Please{/i}, he thought, as Hesper had taught him. {i}Please.{/i}"
 
@@ -220,6 +231,9 @@ label ch03:
 
     "It was not like being ebbed. When he was ebbed, a door had been shut, and he had known there was a house behind it."
     "Here there was no door and no house. He was asking a dead thing to speak. The water around him was only water, heavy and filthy, and he was a man in a borrowed tunic with nothing in his hands."
+
+    scene bg slick_edge
+    with dissolve
 
     "The eel came on. Then the needle went through it. Okonta had turned in her own length, impossibly."
     "She took the thing behind the head with the needle's prow and carried it thirty metres. She came round again and hooked an arm through Wrack's as she passed."
@@ -232,6 +246,8 @@ label ch03:
     c_okonta "The gift doesn't answer here. Did nobody tell you?"
 
     c_wrack "Nobody told me anything!"
+    show p okonta_grim as right at head_right
+    with qd
 
     c_okonta "Then you've learned it cheap. Remember it. There's water that's fouled, where she hears you badly. And there's water like this, where she isn't. Where they've killed her."
     "The needle was running flat out and the dead brown fog streamed past them."
@@ -262,6 +278,8 @@ label ch03:
     c_okonta "There are forty or so, strung round the world along the lines the Dragon runs. It passes each of them once a season, more or less. The world turns under it, you see; it never runs the same line twice running."
     "She took a little book of sea-silk leaves from her suit and turned it, frowning."
     c_okonta "That's what the almanacs are for. Every hold keeps one, and it's handed down. This was my teacher's. It says the sixth day from when we started, at the turn of the morning watch."
+    show p wrack_tunic_thinking as left at head_left
+    with qd
 
     c_wrack "And the stone?"
 
@@ -276,9 +294,9 @@ label ch03:
     show p wrack_tunic_attentive as left at head_left
     show p fallow_woman_weary as right at head_right
     with qd
-    "It came, and there was no Threaded to carry us on,"
+    c_fallow "It came, and there was no Threaded to carry us on,"
     "She had a tired, flat, capable way of speaking."
-    "So we stayed. He won't last another season. I thought, if one of you came by this time."
+    c_fallow "So we stayed. He won't last another season. I thought, if one of you came by this time."
     show p fallow_woman_hopeful as right at head_right
     with qd
     "She looked at the needle, and then, hopefully, at Okonta."
@@ -288,8 +306,7 @@ label ch03:
     c_okonta "I've a passenger,"
     c_okonta "I'll come back for you when he's aboard. It's in the rule."
 
-    hide left
-    hide right
+    show p brask_watchful as right at head_right
     with qd
     "There was a third traveller. He was sitting on a bale as big as himself, and he had not stopped watching Wrack since they arrived. His name was Brask. He was an ice-diver of Rime, the one hold at the top of the world, going home with a season's trade of kelp-cake and rope."
 
@@ -346,15 +363,15 @@ label ch03:
     show p wrack_tunic_baffled as left at head_left
     show p officer_shocked as right at head_right
     with qd
-    "{i}Sir?{/i}"
+    c_officer "{i}Sir?{/i}"
 
     "Nobody moved."
 
     show p officer_hard as right at head_right
     with qd
     "Then her face closed. She brought the gun up again."
-    "Take him,"
-    "Alive. He wants him breathing. That's the order. Leave the others."
+    c_officer "Take him,"
+    c_officer "Alive. He wants him breathing. That's the order. Leave the others."
 
     hide left
     hide right
@@ -389,24 +406,26 @@ label ch03:
     "Okonta said, very quietly."
     c_okonta "Not for me. Not for anyone. Not for Jef."
 
+    scene bg greywatch_stone
+    with dissolve
     "The divers had backed off to the edge of the rise. Not one of them had a gun up."
 
     "Wrack swam forward and laid his palm on the metal. It was warm. And under his hand he could feel what was wrong with it, the way you feel a splinter. There were a hundred small failures. Bearings were worn and channels silted, and at the centre a great heart was labouring."
 
-    scene bg greywatch_stone
-    with dissolve
     show p wrack_tunic_soft as left at head_left
     with qd
     c_wrack "It's tired,"
     c_wrack "It's so tired."
 
-    hide left
-    with qd
+    scene cg c3_dragon_panel
+    with dissolve
     "He did not think about what he did next. He asked the sea, gently this time, and the bound water in the Dragon's ribs moved for him. It flushed the silted channels one by one."
     "His hands went into the open panel and found the worst of it. Then both things were happening at once. The water worked where his fingers could not reach, and his fingers worked where water was no use, and for a little while he was not afraid of anything."
 
     "The note rose again. It was clearer than before."
 
+    scene bg greywatch_stone
+    with dissolve
     show p wrack_tunic_awed as left at head_left
     show p okonta_urgent as right at head_right
     with qd
@@ -445,6 +464,8 @@ label ch03:
     c_okonta "Nobody knows what it was for,"
     "She had hung a hammock with the ease of long habit."
     c_okonta "A road, I think. The Makers had cities all round the world and this went between them. Now it's all the road there is. There's no other way from one end of Ovara to the other that doesn't take half a year and likely kill you."
+    show p okonta_wry as right at head_right
+    with qd
     "She looked up the long shining hall."
     c_okonta "I've ridden it forty times. I've never once seen it empty of somebody going to the Wells to be mended. That's what it's really become. An ambulance."
 
@@ -456,9 +477,9 @@ label ch03:
     show p wrack_tunic_troubled as left at head_left
     show p fallow_woman_relieved as right at head_right
     with qd
-    "It stopped for him,"
+    c_fallow "It stopped for him,"
     "she said to Okonta afterwards, not quite out of his hearing."
-    "It {i}stopped{/i}. What is he?"
+    c_fallow "It {i}stopped{/i}. What is he?"
 
     show p okonta_wry as right at head_right
     with dissolve
@@ -508,14 +529,20 @@ label ch03:
     c_brask "You'll want to know about the Pale,"
     c_brask "Since you're going to the old man's, and southerners know nothing. It's dark half the year. Not black dark. Twilight, with the sun going round the edge of the sky like a hound round a table."
     c_brask "The other half, it's the same sun, a bit higher. The water's still. No current up there, no kelp. So everything that lives there makes its own light, or it'd never find anything to eat."
+    show p brask_wry as right at head_right
+    with qd
     "He scratched his beard."
     c_brask "Rime's the only hold. We're frozen into the bottom of the ice. Six hundred of us. We hunt seal on top and dive under for the fat cod, and we send the best of it down to the Lantern, because they've three hundred healers there and not one of them can catch a fish."
     c_brask "That's the bargain. They mend our bones for nothing, and we feed them for nothing, and nobody's written it down."
+    show p wrack_tunic_thinking as left at head_left
+    with qd
 
     c_wrack "What's the Lantern like?"
 
     c_brask "You'll see, if he lets you down the Well. My mother's brother had his back broken under a floe. They sent him down there carried by four men, and he walked home."
     "Brask said it flatly, as a thing known."
+    show p brask_awed as right at head_right
+    with qd
     c_brask "I've seen it from above. Everybody has. You look down the Well, and it's black, blacker than anything, and right at the bottom there's a star."
     "He was silent."
     c_brask "There's fewer points on the star than when I was a boy. Nobody says so."

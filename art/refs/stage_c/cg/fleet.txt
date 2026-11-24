@@ -1,0 +1,13 @@
+model: fal-ai/flux-2/edit
+purpose: illustration
+refs: /Users/ursschweigert/Documents/GitHub/OvaraVN/game/game/images/bg/c16_girdle_fleet.png
+
+model: fal-ai/flux-2/edit
+purpose: illustration
+refs: /Users/ursschweigert/Documents/GitHub/OvaraVN/game/game/images/bg/c16_girdle_fleet.png
+
+model: fal-ai/flux-2/edit
+purpose: illustration
+refs: /Users/ursschweigert/Documents/GitHub/OvaraVN/game/game/images/bg/c16_girdle_fleet.png
+
+Anime-style wide illustration, clean dark line art, soft cel shading, gentle natural colours, cinematic composition, restrained realistic mood, no text, no letters, no readable marks. Reference 1 shows the fleet on a flat grey sea. A wide view from a low viewpoint just above the water, no boat deck or hull in the foreground, over a flat milky grey-green sea under a pale overcast sky, packed with boats to the horizon: in the middle a dense mass of low timber hulls with patched sails, round them dark flat gate barges, small tugs, small fishing smacks, a few boats with dried fish nailed to the bows, and one tall white hospital ship with a plain all-white hull and no markings of any kind, no cross. Many small figures of islanders in plain grey-green tunics and plain brown work clothes, standing along the rails in a row on every boat stand at the rails. In the warm cloudy water between the boats, thousands of adult long-limbed mariners, grown men and women with tall slim bodies and long faces (not children), black hair, pale skin and large dark eyes (eyes fully drawn with irises, pupils and highlights) float with only heads, shoulders and arms above the surface, all looking up at the boats; some wear a small brass tag on a cord. Nobody holds anything, nobody speaks. A hushed, huge, quiet gathering. Boats float ON the surface with the waterline across each hull. No wall, no city.

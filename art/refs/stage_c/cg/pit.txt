@@ -1,0 +1,9 @@
+model: fal-ai/flux-2/edit
+purpose: illustration
+refs: /Users/ursschweigert/Documents/GitHub/OvaraVN/game/game/images/bg/c17_pit_view.png
+
+model: fal-ai/flux-2/edit
+purpose: illustration
+refs: /Users/ursschweigert/Documents/GitHub/OvaraVN/game/game/images/bg/c17_pit_view.png
+
+Anime-style wide illustration, clean dark line art, soft cel shading, gentle natural colours, cinematic composition, restrained realistic mood, no text, no letters, no readable marks. Reference 1 shows the pit and the city. A view from high above looking down into a vast round pit of grey mud, eighty kilometres across, its rim a ring of standing sea like the rim of a bowl, grey sky. Many small silver fish lie scattered where the water left them across the mud floor. In the middle a drilling platform with a rust-coloured deck stands on six rusty legs. Under the platform a pale stone city is half out of the silt: a ring of great pale metal hoops one behind another round a central hall, with nothing between the hoops, like the ribs of a huge animal, and a dark coiled spine-like Dragon of dull metal lying coiled and dark on the mud, silent, no light in it. Closer and lower viewpoint than the reference, the city and platform large in the frame. No people, no boats, no sky glow.

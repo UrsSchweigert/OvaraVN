@@ -1,0 +1,194 @@
+[
+ {
+  "ref": "c17.s01",
+  "line": 57,
+  "pass": "B",
+  "run_len": 0,
+  "after_text": "For an hour nothing happened. The boats rocked.",
+  "tier": 2,
+  "change": "show p wrack_thread_exhausted as left for the 'Ilan lay in the stern' narration",
+  "why": "Narration about Ilan watching and understanding",
+  "new_image": null
+ },
+ {
+  "ref": "c17.s01",
+  "line": 68,
+  "pass": "A",
+  "run_len": 7,
+  "after_text": "It was slow. By noon the line had",
+  "tier": 4,
+  "change": "cg c17_healers_line (reuse) for boxes 69-72",
+  "why": "Run 66-72: the road of living water opens; the line advances",
+  "new_image": null
+ },
+ {
+  "ref": "c17.s02",
+  "line": 86,
+  "pass": "B",
+  "run_len": 0,
+  "after_text": "Rook's Threaded came on the first afternoon.",
+  "tier": 2,
+  "change": "show p wrack_thread_dejected as left for 'He could do nothing. He lay and watched Okonta fly.'",
+  "why": "Narration about Ilan, ebbed, watching",
+  "new_image": null
+ },
+ {
+  "ref": "c17.s02",
+  "line": 112,
+  "pass": "B",
+  "run_len": 0,
+  "after_text": "Forty paces by twenty. I can tell you",
+  "tier": 2,
+  "change": "show p marit_hard as right for 'Marit Coyle had a camera on the gunboat'",
+  "why": "Narration about Marit, a lead, at the standoff",
+  "new_image": null
+ },
+ {
+  "ref": "c17.s03",
+  "line": 144,
+  "pass": "A+B",
+  "run_len": 6,
+  "after_text": "There were fish beyond counting, lying where the",
+  "tier": 4,
+  "change": "cg NEW c17_pit_city (covers boxes 145-147)",
+  "why": "Run 142-147: first sight of the lost city under the platform, with the Dragon's ribs half out of the silt",
+  "new_image": {
+   "kind": "cg",
+   "name": "c17_pit_city",
+   "prompt_seed": "A vast pit of grey mud, fish lying where the water left them. In the middle of a plain, a drilling platform on six rusty legs. Beneath it the city, partly out of the silt: a central hall ringed by great hoops, one behind another, with nothing between them, which are ribs. The Dragon lies coiled on the mud, dark and silent. The sea stands round the pit in a ring like the rim of a bowl."
+  }
+ },
+ {
+  "ref": "c17.s04",
+  "line": 200,
+  "pass": "B",
+  "run_len": 0,
+  "after_text": "At the centre, bolted into a frame of",
+  "tier": 2,
+  "change": "show p rook_old_tired as right for 'Anselm Rook was sitting at a bench'",
+  "why": "First sight of Anselm Rook, a lead",
+  "new_image": null
+ },
+ {
+  "ref": "c17.s04",
+  "line": 231,
+  "pass": "B",
+  "run_len": 0,
+  "after_text": "I know. I\u2014",
+  "tier": 2,
+  "change": "show p maelis_cropped_impassive as right (replace Rook) for 'She did not look angry...'",
+  "why": "Narration about Maelis; she and Anselm meet",
+  "new_image": null
+ },
+ {
+  "ref": "c17.s04",
+  "line": 264,
+  "pass": "A",
+  "run_len": 9,
+  "after_text": "It runs like a man shouting. Every time",
+  "tier": 1,
+  "change": "wrack_thread_resolved -> wrack_thread_troubled",
+  "why": "Run 259-270: Ilan's 'like a man shouting' turn before Anselm's 'Crane.'",
+  "new_image": null
+ },
+ {
+  "ref": "c17.s04",
+  "line": 305,
+  "pass": "A",
+  "run_len": 6,
+  "after_text": "It isn't ground,",
+  "tier": 1,
+  "change": "wrack_thread_attentive -> wrack_thread_calm",
+  "why": "Run 300-309: 'It isn't ground' / 'No. It's better. It's somewhere to go.'",
+  "new_image": null
+ },
+ {
+  "ref": "c17.s04",
+  "line": 356,
+  "pass": "A",
+  "run_len": 7,
+  "after_text": "They showed it done a hundred times, over",
+  "tier": 4,
+  "change": "cg NEW c17_makers_quarrel (covers boxes 357-361)",
+  "why": "Run 355-361: the ring's memory shows the ancient quarrel, the fall and the parting; a reveal",
+  "new_image": {
+   "kind": "cg",
+   "name": "c17_makers_quarrel",
+   "prompt_seed": "Inside a vault of pale glowing walls, a long-limbed, dark-eyed man shouting at others and forcing something on a metal ring in the floor, by hand. The sea outside the city turns grey. Others stand back, watching. Same room as the ring vault, lit by the pictures on the walls."
+  }
+ },
+ {
+  "ref": "c17.s05",
+  "line": 411,
+  "pass": "A",
+  "run_len": 8,
+  "after_text": "Under the ring there were channels as fine",
+  "tier": 4,
+  "change": "cg NEW c17_seating_ring (covers boxes 409-412)",
+  "why": "Run 408-415: Ilan's largest mending, done with his hands",
+  "new_image": {
+   "kind": "cg",
+   "name": "c17_seating_ring",
+   "prompt_seed": "A bell-shaped vault with a forty-metre ring of pale metal set flush in the floor. A thin barefoot young man in a sea-silk tunic kneels at the ring with his hands in the works, a small tool beside him. A young woman engineer holds a lamp. A woman in a hard suit points and calls. A tidy man in a plain suit carries tools. Bright water running round the ring."
+  }
+ },
+ {
+  "ref": "c17.s05",
+  "line": 412,
+  "pass": "A",
+  "run_len": 8,
+  "after_text": "When he closed the last seam, the grey",
+  "tier": 3,
+  "change": "bg c17_pit_view (reuse) for 'the wall let go' (boxes 413-415)",
+  "why": "Run 408-415: the wall sinks and the sea walks back across the mud",
+  "new_image": null
+ },
+ {
+  "ref": "c17.s06",
+  "line": 471,
+  "pass": "A",
+  "run_len": 14,
+  "after_text": "He never afterwards managed to tell anyone properly",
+  "tier": 4,
+  "change": "cg NEW c17_the_way_through (covers boxes 472-476)",
+  "why": "Run 468-481: the gathering of all the strength through Ilan, the chapter's climax",
+  "new_image": {
+   "kind": "cg",
+   "name": "c17_the_way_through",
+   "prompt_seed": "A flooded square of the silted city, water to the knee. A barefoot young man stands still, worn thin, an older woman's hand on the back of his neck and a girl's arm round him. Around him thousands of callers in the water, each giving a thimbleful that runs toward him like rain, and below it a colder pale light rising from beneath."
+  }
+ },
+ {
+  "ref": "c17.s06",
+  "line": 476,
+  "pass": "A",
+  "run_len": 14,
+  "after_text": "The rays did not lend strength. They lent",
+  "tier": 3,
+  "change": "bg c17_silt_street (reuse) for boxes 477-481, lamps coming on under the silt",
+  "why": "Run 468-481: from Ilan receiving the drawing to the engineers' lamps and the city waking",
+  "new_image": null
+ },
+ {
+  "ref": "c17.s06",
+  "line": 513,
+  "pass": "B",
+  "run_len": 0,
+  "after_text": "It happened all along the rails after that.",
+  "tier": 2,
+  "change": "show p garran_accepting as right for the Ione/Garran narration",
+  "why": "Narration about Garran and Ione, leads",
+  "new_image": null
+ },
+ {
+  "ref": "c17.s06",
+  "line": 514,
+  "pass": "B",
+  "run_len": 0,
+  "after_text": "And he saw Garran lift Ione of Low",
+  "tier": 2,
+  "change": "swap right to p maelis_composed for 'Maelis came up the vault stair at noon'",
+  "why": "Narration about Maelis returning; closes her thread",
+  "new_image": null
+ }
+]

@@ -92,6 +92,8 @@ label ch02:
     c_davin "A Breaker."
     "He glanced toward the dome, where his wife was."
     c_davin "There's folk in the wild kelp south of here who say we should stop netting and start sinking. Put a few of those barges on the bottom, and see if the islanders learn. Some of them have done it."
+    show p davin_patient as right at head_right
+    with qd
     "He threaded the needle again."
     c_davin "Hesper could sink a barge. She's never said she wants to. But I know what she thinks about when she's netting. I've been married to her nineteen years."
 
@@ -185,6 +187,8 @@ label ch02:
     c_hesper "You {i}shouted{/i}. Do you understand? You stood in the sea and screamed an order at it, and it obeyed you, and it very nearly went through us to do it."
 
     c_wrack "I didn't mean—"
+    show p hesper_raw as right at head_right
+    with qd
 
     c_hesper "No. That's the trouble."
     "She let go of him. She was looking at him the way Ione had, and worse."
@@ -197,6 +201,8 @@ label ch02:
     scene bg hall_day
     with fade
     "He was ebbed for three days."
+    show p wrack_tunic_shivering as left at head_left
+    with qd
 
     "That was the word for it. He lay in his hammock under every blanket the hall could spare and shook. He drank until his stomach hurt and was still dry. Worst was the silence."
     "He had not known, until it stopped, that he had been hearing the sea since the moment he woke in the kelp. It had been a presence at the edge of things, like someone else in the house. Now a door had shut. The water at the sea-door was only water."
@@ -212,6 +218,8 @@ label ch02:
     hide bother
     with qd
     "Davin brought him broth and sat with him without saying anything, which was what he wanted."
+    show p hesper_tired as right at head_right
+    with qd
 
     "Hesper came on the second day. She shut the door of the hall and sat down on the floor by his hammock with her back against the wall."
     "Up close she was younger than he had thought, forty perhaps. She had a strong tired face and a caller's hands."
@@ -223,6 +231,8 @@ label ch02:
     c_hesper "It'll take as long as it takes to say. Then I'm going to go on being angry with you. Understood?"
 
     c_wrack "Yes."
+    show p wrack_tunic_attentive as left at head_left
+    with qd
 
     c_hesper "You think it came out of you. It didn't. There's no power in you, or in me. It's in her."
     "She tipped her head toward the wall, and the forest beyond it."
@@ -285,6 +295,8 @@ label ch02:
 
     "He tried to ask. He stood on the broken terrace with his hands open and said {i}please{/i} to the sea, over and over, like a child. He was still ebbed. It did not answer him at all."
 
+    scene cg c2_oro_lamp
+    with dissolve
     "When the gunboats left, a third of Low Anthem was flooded and dark. Twenty-one people were dead. Elder Oro was one of them. They found him in the meeting hall, under the lamp, with his stick across his knees. The lamp was still burning."
 
     "Davin was another."
@@ -309,6 +321,8 @@ label ch02:
     c_hesper "I know it wasn't you who dropped them,"
     c_hesper "I want you to know that I know that."
     "Her face was like a shut door."
+    show p hesper_raw as right at head_right
+    with qd
     c_hesper "I've been a Tender my whole life. I've netted their filth for twenty-five years and sung while I did it. He'd want me to go on. He'd say it's boys on those boats."
     "Her mouth moved."
     show p hesper_tired as right at head_right
@@ -384,9 +398,9 @@ label ch02:
     show p wrack_tunic_troubled as left at head_left
     show p sefa_fierce as right at head_right
     with qd
-    "\"Come back,\""
+    c_sefa "Come back,"
     "It was not a request."
-    "\"You owe us a dome.\""
+    c_sefa "You owe us a dome."
 
     show p wrack_tunic_resolved as left at head_left
     with qd

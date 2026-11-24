@@ -10,7 +10,7 @@ label ch13:
     # c13.s01
     scene bg c13_tolla_loft
     with fade
-    show p wrack_thread_attentive as left at head_left
+    show p wrack_strong_attentive as left at head_left
     with qd
     c_ilan "A chorus of twelve,"
     c_ilan "How long?"
@@ -22,6 +22,9 @@ label ch13:
     "They had run north for six days. The needles went under the storm, and Dace's boat over it, and they had met again at a rock."
     "It was one of the Stubborns. There were forty or fifty of those, scattered through the eastern Girdle. They were small islands, too steep or too poor for any corporation to want."
     "They had never signed a charter. The people on them fished, and grew brack rice on terraces no wider than a table, and owed nothing to anybody."
+
+    show p wrack_strong_calm as left at head_left
+    with qd
     "Ilan had flown over them often. He had thought of them, when he thought of them at all, as a gap in the map."
     "This one was called Old Tolla. Rain blew through it sideways."
     "At the top of the village, where the path ended, was a shrine. Sefa found it on the first morning and came down white."
@@ -32,7 +35,7 @@ label ch13:
 
     scene bg c13_tolla_shrine
     with dissolve
-    show p wrack_thread_attentive as left at head_left
+    show p wrack_strong_attentive as left at head_left
     show p sefa_shaken as right at head_right
     with qd
     c_sefa "They leave her the first fish of every catch,"
@@ -60,7 +63,7 @@ label ch13:
     show p dace_questioning as right at head_right
     with qd
     c_dace "So which?"
-    show p wrack_thread_resolved as left at head_left
+    show p wrack_strong_resolved as left at head_left
     with qd
     c_ilan "Neither. Not yet."
     "He spread the purple flimsy on the table."
@@ -88,6 +91,9 @@ label ch13:
     with qd
     scene bg c13_tolla_loft
     with fade
+
+    show p marit_pleasant as right at head_right
+    with qd
     "Marit Coyle was thirty-four, and had presented the evening bulletin on Orrin One for six years."
     "She had silver on her eyelids. Ilan realised that he had seen her forty metres high on a wall in Saltgate, selling something. Hers was the best-known face on Ovara."
     "She arrived at Old Tolla in a fishing smack, in borrowed oilskins. She was sick over the side before she said anything."
@@ -98,41 +104,69 @@ label ch13:
     "She looked at Ilan for some time, and it was not a friendly look."
     c_marit "Do you know how I started? I was twenty-two. They gave me a pile of Halcyon shipping returns to make into a nice story about exports. The figures didn't add up."
     c_marit "There were eighty thousand tonnes a year going out of the Crown and not arriving anywhere."
+
+    show p wrack_thread_ashamed as left at head_left
+    with qd
     "She took off her gloves, finger by finger."
     c_marit "It took me a year to find out where it went. Then I found a name on the routing orders. I used to imagine meeting you. I had a speech."
-    show p wrack_thread_attentive as left at head_left
+    show p wrack_strong_attentive as left at head_left
     with qd
     c_ilan "I'd like to hear it one day."
     c_marit "You wouldn't."
     "She unrolled a plan of a building."
     c_marit "The Spire. Two hundred and twelve floors. Studio One is on the hundred and fortieth. There's a seven-second delay on everything, and a censor with his hand on a switch."
+
+    show p wrack_assured_thinking as left at head_left
+    with qd
     c_marit "Above him is a duty director who can cut the whole floor from the Exchange. I can get you into the chair. Guests are my business."
     c_marit "I can't keep you on air once you open your mouth. Thirty seconds, if we're lucky."
     c_ilan "I need twenty minutes."
     c_marit "I know what you need."
+
+    show p marit_white as right at head_right
+    with qd
     "She tapped the plan."
     c_marit "There's a backup transmitter on the hundred and ninetieth. It's there for typhoons. It isn't on the delay, and it can't be cut from below."
     c_marit "It takes three people to bring it up. They'd all have to be willing to lose their jobs and very likely go to prison."
+
+    show p wrack_strong_attentive as left at head_left
+    with qd
     c_ilan "Do you have three people?"
     c_marit "I have a sound engineer whose brother was on a ship the Breakers sank. He wants to know why they're sinking ships. I have a floor manager who's Shallowborn, and nobody knows it but me."
     "She glanced at Ilan."
     c_marit "That's the word for you, too, isn't it? One parent from each side. There are more of them than you'd think. They wear high collars."
+
+    show p marit_hard as right at head_right
+    with qd
     "She went on."
     c_marit "And I have a transmitter technician who is simply very tired of lying."
     "She rolled up the plan."
     c_marit "It isn't much of a conspiracy. It's four people who work in a building."
+
+    show p wrack_assured_easy as left at head_left
+    with qd
     c_ilan "That's what the sea was short of,"
     c_marit "There's something else, and I don't like it."
     "She took a card from inside her oilskin."
     c_marit "Caspar Venn owns the Spire. He owns me, come to that. He's sent word by three different people that he wants out. He says he has read the tonnage too."
+
+    show p wrack_thread_troubled as left at head_left
+    with qd
     c_marit "He'll give you the main channel, with no delay and no censor, for as long as you like. He says he'll introduce you himself."
     c_ilan "Do you believe him?"
     c_marit "I've worked for him eleven years. He has never given away a thing he could charge for."
     "She turned the card over."
+
+    show p marit_pleasant as right at head_right
+    with qd
     c_marit "But it takes you in by the front door, under your own name, and it puts every screen on Ovara on you from the first word. So we say yes. And my three people bring the backup up anyway, and I watch what actually goes out."
     c_ilan "He'll have asked the Exchange,"
     c_marit "He asks the Exchange what to have for lunch."
     c_marit "One more thing. You'll be a hundred and forty floors up, in a glass box. I'm told you can do remarkable things with water."
+
+    show p marit_hard as right at head_right
+    show p wrack_strong_resolved as left at head_left
+    with qd
     "She glanced at Sefa, who had come up the loft ladder dripping and was sitting on the top rung, staring at the silver eyelids."
     c_marit "There's a jug on the desk. That's all the water there'll be."
     c_ilan "I know,"
@@ -150,13 +184,16 @@ label ch13:
 
     scene bg c13_tolla_village
     with dissolve
-    show p wrack_thread_calm as left at head_left
+    show p wrack_strong_calm as left at head_left
     show p marit_red as right at head_right
     with qd
     c_marit "Six years,"
     "she said to Ilan, on the smack."
     c_marit "Six years I've read out that they don't exist. She told me about her friend. The net-mender."
     "She pulled her hood up."
+
+    show p marit_hard as right at head_right
+    with qd
     c_marit "Don't waste my three people, Mr Voss."
 
     # c13.s03
@@ -168,6 +205,9 @@ label ch13:
     "Concord was three small islands joined by bridges, and nobody was poor there."
     "They were called the Sovereigns. Two hundred years ago the trading houses had fought their wars to a standstill and found they needed somewhere to sign the peace. They had made the three islands neutral ground."
     "No corporation owned them. All five kept their boards there. The streets were washed twice a day. There were trees in the squares, real ones, each with a brass plate and a guard."
+
+    show p wrack_strong_calm as left at head_left
+    with qd
     "Ilan had kept a flat here. He had walked these pavements in good shoes, thinking about tonnage."
     "Screens the size of buildings hung between the towers. That week every one of them showed the same footage. A freighter was burning on a dark sea."
     "A line of text ran under it, about sea terrorists, and the protective fleet that would sail to deal with them. People stood in the squares with their faces turned up. Some of them cheered when the fleet was shown."
@@ -182,6 +222,9 @@ label ch13:
     "Marit said, not looking at it. She was in her own clothes now, and her own face, and people turned to watch her pass."
     c_marit "Meridian Assurance. Orrin tells people what to think. Meridian's what happens if they don't. Every debt in the world is in there. Every indenture, every mortgage on every island. Every loan the other four have ever taken to build a ship."
     c_marit "When two companies go to war, Meridian lends to both and insures both. It hires out the soldiers as well."
+
+    show p marit_hard as right at head_right
+    with qd
     "She walked a little faster."
     c_marit "Don't stare. It notices."
 
@@ -192,6 +235,9 @@ label ch13:
     "She took him in by the front, on Caspar Venn's card. Teodora Raske came with him, carrying a document case. She had put on lipstick for it, and looked furious."
     "Venn met them himself, on the blue marble of the lobby. He had a beautiful voice, and he held Ilan's hand in both of his. He said that it was a brave thing, and long overdue."
     "He said that Orrin Signal was proud to be the house that told the truth at last. He said it very well. He had been saying things well for forty years."
+
+    show p wrack_thread_troubled as left at head_left
+    with qd
     "The lift went up for a long time. His ears hurt. He felt the sea go from him, floor by floor, as it had in the Brightwater tower, but further."
     "By the hundredth floor it was a whisper. By the hundred and fortieth there was nothing. He had not been so alone since the Slick."
 
@@ -212,6 +258,9 @@ label ch13:
     c_ilan "I didn't think about them,"
     c_ilan "I slept very well. That's the thing I can't get over."
     "She was silent. Then she nodded, once."
+
+    show p marit_pleasant as right at head_right
+    with qd
     c_marit "That's worse than what I'd imagined,"
     c_marit "Good. Say it like that. Don't dress it."
     "She straightened his collar, impersonally, like a nurse."
@@ -223,11 +272,14 @@ label ch13:
     scene bg c13_studio_one
     with fade
     "He was walked down a corridor, into the cold bright box of Studio One. He sat down, and looked into a lens."
+
+    show p wrack_thread_nervous as left at head_left
+    with qd
     "A hundred and forty floors below him was the sea, and he could not feel it at all."
     "Venn took the second chair himself. He had insisted on it. He looked into the lens with his grave, handsome face, and said that tonight Orrin One would set aside its schedule."
     "A man believed dead had come forward with a confession, he said, and the islands should hear it without interruption. He turned to Ilan with an open hand."
 
-    show p wrack_thread_resolved as left at head_left
+    show p wrack_strong_resolved as left at head_left
     with qd
     c_ilan "My name is Ilan Voss,"
     c_ilan "I was Chief Surveyor of Halcyon Dredge & Mineral. The company told you I drowned. I'd like to tell you why I didn't."
@@ -235,6 +287,9 @@ label ch13:
     hide left
     with qd
     "Nobody cut him off. The red light stayed on. He talked for six minutes, and Venn nodded gravely beside him. It was going so smoothly that the back of his neck had begun to crawl."
+
+    show p marit_white as right at head_right
+    with qd
     "Marit was not looking at him. She stood behind the camera with a monitor in her hand, the small kind that the floor staff carried. She had gone white under the silver."
     "She turned it toward him."
 
@@ -270,6 +325,9 @@ label ch13:
     hide right
     with qd
     "Venn sat down again, slowly. He seemed to be trying to decide what expression to wear. He had not found one when the camera left him."
+
+    show p wrack_strong_calm as left at head_left
+    with qd
     "Ilan went on."
     "He did it as he had done it at Tidehall, with no explanations. He gave his name and his grade."
 
@@ -279,7 +337,7 @@ label ch13:
 
     scene bg c13_studio_one
     with dissolve
-    show p wrack_thread_resolved as left at head_left
+    show p wrack_strong_resolved as left at head_left
     with qd
     c_ilan "This is what your islands put into the sea every night,"
     c_ilan "where you were told nobody lives. People live there. There are two million of them. They breathe water, and they farm kelp. They've been netting your filth with their bare hands for two hundred years. These are the arms of a healer called Ione."
@@ -298,9 +356,12 @@ label ch13:
     c_ilan "That was real too. Nobody made that picture up. They were taking a mariner town in trawl nets. Nine hundred people, to be put in tanks on a Meridian shore and worked for twenty years."
     c_ilan "I tried to stop it, and I couldn't, and I was frightened. So I did what I was trained to do. I gave an order."
     c_ilan "A hundred and sixty-one of your sons and daughters died of it, in about the time it takes to shut a door. I looked at every one of them afterwards. I have their names, from the ones who lived. I'll read them to anybody who asks me."
+
+    show p wrack_thread_grieving as left at head_left
+    with qd
     "He kept his eyes on the lens."
     c_ilan "I'm not the leader of anything. I'm a man who has now killed people both of the ways there are. With a pen, and with a word. I slept very well after the first. I haven't slept since the second."
-    show p wrack_thread_resolved as left at head_left
+    show p wrack_strong_resolved as left at head_left
     with qd
     c_ilan "Now the ships,"
     c_ilan "You've been shown ships burning. They're real. There are mariners called Breakers who have stopped being patient, and I can't tell you they've no cause."
@@ -310,7 +371,7 @@ label ch13:
     with qd
     "It was the last sheet. Raske held it up for a long time."
 
-    show p wrack_thread_resolved as left at head_left
+    show p wrack_strong_resolved as left at head_left
     with qd
     c_ilan "This is a Maker engine. Halcyon took it from a drowned city under the Girdle. I led that dig. It turns seawater to steam, as much as you point it at."
     c_ilan "Kessler-Vane built the hull to carry it."
@@ -347,6 +408,9 @@ label ch13:
     c_marit "I can't,"
     "said Marit pleasantly."
     c_marit "It isn't in this room. It isn't on this floor."
+
+    show p marit_hard as right at head_right
+    with qd
     "She had picked up the small camera from the desk and was pointing it at him. The red light on it was on."
     c_marit "You're live, Captain. So is your face. To every screen on Ovara, including the one in your mother's kitchen. What would you like to do?"
 
@@ -374,8 +438,14 @@ label ch13:
     with dissolve
     "Somebody in the studio made a small sound."
     "{i}Ten days, perhaps twelve{/i}, Okonta had said. It had been six. He saw now why."
+
+    show p hesper_stricken as right at head_right
+    with qd
     "Hesper had stood in a ring of three hundred callers at Tidehall, and felt how strength could be passed from hand to hand."
     "Before that she had stood at the edge of a silent valley, and watched how quickly a thing can be done by somebody who does not ask. She had taken both away with her."
+
+    hide right
+    with qd
     "He stood up."
 
     show p wrack_thread_frightened as left at head_left
@@ -383,6 +453,9 @@ label ch13:
     c_ilan "That wave was raised by mariners,"
     "he said to Marit's camera."
     c_ilan "Twelve of them. I know the woman who leads them. Halcyon killed her husband. If it falls, two million of you die. Then your fleet boils two million of them. After that nobody will be left who remembers how any of it began."
+
+    show p wrack_strong_resolved as left at head_left
+    with qd
     "He was already unclipping the microphone."
     c_ilan "I can stop it. I think I can stop both. I have to go now."
 
@@ -394,7 +467,7 @@ label ch13:
     with qd
     c_captain "My daughter's at the refinery school,"
     c_captain "On the waterline."
-    show p wrack_thread_resolved as left at head_left
+    show p wrack_strong_resolved as left at head_left
     with qd
     c_ilan "Then let me by,"
 

@@ -1,0 +1,10 @@
+{
+ "places": {
+  "Wet Market, lowest tier at night (ch8)": "roofed market basin at night, long plank table, three wide shallow basins on the stone at the water's edge, dimmed lamps on chains, steps going up to the higher tiers across the dark canal, a few lanterns, wet planks (bg c8_market_night). Dry, no ripple.",
+  "Engine vault (ch7 telling)": "dry sealed Maker vault, one huge dormant pale-metal engine with coils and pipes, three massive round sealed doors one behind another in a passage (cg c7_engine_vault). No people."
+ },
+ "objects": {
+  "The red-line chart (ch7)": "pale chart paper with fine contour lines, ONE red ink line running across it over a small grey dome in a patch of golden kelp, held by a hand in a dark suit cuff with a pen about to sign (cg c7_red_line_chart)",
+  "The purple flimsy (ch9)": "cheap coarse paper notice in purple ink: small smooth printed portrait in a high stiff collar at the top, greeked rows of dashes, three small charts with a red line and a squiggle signature, a bar of solid blocks at the bottom; no readable text (cg c9_flimsy_notice)"
+ }
+}

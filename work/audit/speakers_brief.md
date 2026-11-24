@@ -1,0 +1,12 @@
+# Name the speakers (find spoken lines that show as narration and give them a speaker)
+
+For YOUR chapters only, game/game/chNN.rpy. Read CLAUDE.md, work/audit/apply_brief.md (staging conventions) and tools/check_script.py (how speaker names and dropped speech tags are handled).
+
+Task: find every spoken line (quoted speech, in a plain narrator line like `"..."` with no `c_name` before it) that belongs to a character, and give it a speaker the way the rest of the script does: `c_NAME "text"`.
+- Use an existing character wherever one fits: run `grep -n "^define c_" game/game/*.rpy` (Ione is c_ione, Sefa c_sefa, Hesper c_hesper, Corin c_corin etc.). Only if the speaker has no character yet, use a NEW name `c_<lowercase descriptor>` and give it a label that the novel's own text uses for that person (look at work/cut/chNN.md: e.g. 'Man in grey', 'Captain', 'Fallow youth' or 'Woman with the clay tube'; no invented names, no invented facts; if the text names them, use the name). Reuse the same new name for the same person across all your chapters.
+- Do NOT define new characters in any rpy file. Write them to work/audit/speakers_chNN.json: {"c_name": "Label"} for each new speaker (one file per chapter, {} if none). The lead defines them centrally afterwards.
+- Text is the owner's: never change, add, drop or reorder any word, punctuation or `{i}` markup of the text. If a speech tag such as `she said.` follows the quote, KEEP it as it is (it stays as narration) unless the chapter already has the same pattern listed in ALLOWED_DROPS in tools/check_script.py; do not edit tools/check_script.py.
+- Do not touch lines that are thoughts, remembered or quoted speech inside a longer narration line, or text in italics that is not spoken aloud. Several speakers' lines in one narration line: leave it as it is and report it.
+- Keep the visual staging as it is (no show/hide/scene changes), except that where you give a line to a character who already has a portrait up, nothing else changes.
+- Verify: copy tools/check_script.py to your scratchpad folder, add your new c_ names to its SPEAKERS dict there, and run that copy for each of your chapters: it must still say the script matches the approved text. Do not run Ren'Py lint (the new characters are not defined yet).
+- Edit only your chapter files and work/audit/speakers_chNN.json. Report in under 150 words: per chapter, lines changed, new speakers (name, label, why that label), anything left unresolved and why.

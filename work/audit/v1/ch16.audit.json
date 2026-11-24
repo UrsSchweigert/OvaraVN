@@ -1,0 +1,171 @@
+[
+ {
+  "ref": "c16.s01",
+  "line": 12,
+  "pass": "B",
+  "run_len": 0,
+  "after_text": "He began at the bottom of the hill.",
+  "tier": 2,
+  "change": "show p wrack_thread_troubled as left (Ilan walks the tanks; narration is about him)",
+  "why": "Lead character is the subject of the opening narration",
+  "new_image": null
+ },
+ {
+  "ref": "c16.s01",
+  "line": 15,
+  "pass": "A",
+  "run_len": 8,
+  "after_text": "The tanks stood behind the sea-wall in rows.",
+  "tier": 1,
+  "change": "wrack_thread_troubled -> wrack_thread_attentive",
+  "why": "Run 12-19: turn from the walk to the lamps and the tagged people",
+  "new_image": null
+ },
+ {
+  "ref": "c16.s01",
+  "line": 95,
+  "pass": "B",
+  "run_len": 0,
+  "after_text": "No.",
+  "tier": 2,
+  "change": "keep okonta_flat on screen (do not hide right) for 'She was silent.'",
+  "why": "Narration about Okonta, a lead",
+  "new_image": null
+ },
+ {
+  "ref": "c16.s01",
+  "line": 103,
+  "pass": "B",
+  "run_len": 0,
+  "after_text": "Say it, then.",
+  "tier": 2,
+  "change": "show p corin_earnest as right for 'He said it...' (hold through the speech)",
+  "why": "Narration about Corin, a lead, at the turn of his pledge",
+  "new_image": null
+ },
+ {
+  "ref": "c16.s02",
+  "line": 127,
+  "pass": "B",
+  "run_len": 0,
+  "after_text": "He could not call. He could ride.",
+  "tier": 2,
+  "change": "show p wrack_thread_dejected as left",
+  "why": "Narration is about Ilan: 'He could not call. He could ride.'",
+  "new_image": null
+ },
+ {
+  "ref": "c16.s04",
+  "line": 311,
+  "pass": "A",
+  "run_len": 11,
+  "after_text": "He came to it on the twentieth day,",
+  "tier": 4,
+  "change": "cg NEW c16_fleet_gathered (covers boxes 312-315)",
+  "why": "First sight of the gathered fleet and both peoples at the dead water: a major place and a turning point",
+  "new_image": {
+   "kind": "cg",
+   "name": "c16_fleet_gathered",
+   "prompt_seed": "A flat grey sea under a ring of sky. Boats to the horizon: Lashing's hulls in the middle, gate barges of Saltgate, tugs of Keelhaven, fishing smacks, a white hospital ship, with agravars at every rail. In the warm cloudy water, thousands of long-limbed, dark-eyed mariners hang looking up, some with brass tags on cords at the wrist. A metre of air and water between the two peoples."
+  }
+ },
+ {
+  "ref": "c16.s04",
+  "line": 315,
+  "pass": "A",
+  "run_len": 11,
+  "after_text": "And in the water were the mariners. Two",
+  "tier": 3,
+  "change": "bg c16_girdle_fleet (reuse), back from the cg",
+  "why": "Run 308-318: close of the fleet panorama, then the quiet between the two peoples",
+  "new_image": null
+ },
+ {
+  "ref": "c16.s05",
+  "line": 342,
+  "pass": "B",
+  "run_len": 0,
+  "after_text": "Show me your hands,",
+  "tier": 2,
+  "change": "show p maelis_examining as right (do not hide) for the hands-turning narration at 346",
+  "why": "Narration about Maelis and Sefa's hands, both leads",
+  "new_image": null
+ },
+ {
+  "ref": "c16.s05",
+  "line": 359,
+  "pass": "B",
+  "run_len": 0,
+  "after_text": "I ask everyone the same question. I asked",
+  "tier": 2,
+  "change": "replace hide right with show p sefa_lip as right for 'Sefa looked at the bottle. Her mouth worked.'",
+  "why": "Narration about Sefa, a lead, just before she speaks",
+  "new_image": null
+ },
+ {
+  "ref": "c16.s05",
+  "line": 413,
+  "pass": "B",
+  "run_len": 0,
+  "after_text": "Now. They've told me something else. In fifty-five",
+  "tier": 2,
+  "change": "show p maelis_cropped_grave as right (do not hide) for 'She looked out at the turning wings.'",
+  "why": "Narration about Maelis ahead of the rays' speech",
+  "new_image": null
+ },
+ {
+  "ref": "c16.s05",
+  "line": 437,
+  "pass": "B",
+  "run_len": 0,
+  "after_text": "I'm coming in with you. I knew him",
+  "tier": 2,
+  "change": "show p maelis_cropped_grave as right for 'Her face was quite calm.'",
+  "why": "Narration about Maelis, the strong beat before 'I should like him to see mine.'",
+  "new_image": null
+ },
+ {
+  "ref": "c16.s06",
+  "line": 458,
+  "pass": "A+B",
+  "run_len": 7,
+  "after_text": "He had been somebody that people could not",
+  "tier": 2,
+  "change": "show p hesper_tired as right (she 'looked ten years older', arrives in the water)",
+  "why": "Run 454-460: Hesper arrives; narration about a lead",
+  "new_image": null
+ },
+ {
+  "ref": "c16.s06",
+  "line": 466,
+  "pass": "A",
+  "run_len": 6,
+  "after_text": "She was not looking at him.",
+  "tier": 1,
+  "change": "hesper_stern -> hesper_raw",
+  "why": "Run 464-469: turn into 'There's nothing. No weed. No fish.'",
+  "new_image": null
+ },
+ {
+  "ref": "c16.s06",
+  "line": 504,
+  "pass": "A",
+  "run_len": 6,
+  "after_text": "You're not to try lifting that city, Wrack.",
+  "tier": 1,
+  "change": "hesper_eased -> hesper_teacher",
+  "why": "Run 502-507: Hesper turns from warning to teaching ('You showed three hundred of us...')",
+  "new_image": null
+ },
+ {
+  "ref": "c16.s06",
+  "line": 530,
+  "pass": "B",
+  "run_len": 0,
+  "after_text": "It's under that.",
+  "tier": 2,
+  "change": "show p garran_pensive as right (do not hide) for 'The porter studied it for a while'",
+  "why": "Narration about Garran, a lead, ahead of the chapter's last line",
+  "new_image": null
+ }
+]

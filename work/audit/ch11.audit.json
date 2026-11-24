@@ -1,0 +1,239 @@
+[
+ {
+  "ref": "c11.s01",
+  "line": 21,
+  "pass": "A",
+  "run_len": 9,
+  "after_text": "So they went. All of them. Nine hundred,",
+  "tier": 1,
+  "change": "fallowyoung_exhausted -> fallowyoung_sorry",
+  "why": "The grey ships come up behind the column",
+  "new_image": null
+ },
+ {
+  "ref": "c11.s01",
+  "line": 24,
+  "pass": "A",
+  "run_len": 9,
+  "after_text": "It's their mark. And they've a pilot. Somebody",
+  "tier": 1,
+  "change": "wrack_thread_troubled -> wrack_thread_attentive",
+  "why": "The pilot is named by his mark; Ilan listens",
+  "new_image": null
+ },
+ {
+  "ref": "c11.s01",
+  "line": 45,
+  "pass": "A",
+  "run_len": 5,
+  "after_text": "Take the forty. I'll meet you at Nine",
+  "tier": 1,
+  "change": "raske_steady -> raske_stern",
+  "why": "Raske asks \"And if you're late?\"",
+  "new_image": null
+ },
+ {
+  "ref": "c11.s02",
+  "line": 60,
+  "pass": "A+B",
+  "run_len": 8,
+  "after_text": "Then they came over the last rise, and",
+  "tier": 4,
+  "change": "NEW cg c11_column_valley (covers lines 61-64; no portraits)",
+  "why": "First sight of the column in the gold valley, nine hundred people",
+  "new_image": {
+   "kind": "cg",
+   "name": "c11_column_valley",
+   "prompt_seed": "Wide view of a long valley in a golden kelp forest, entirely underwater, no sky, no horizon; nine hundred people swimming and hauling sleds of kelp floats at the pace of the slowest, old people and babies riding on the sleds, tide hounds working the flanks; twelve large grey ship hulls hang as shadows high above like clouds; no text"
+  },
+  "also_v1": true
+ },
+ {
+  "ref": "c11.s02",
+  "line": 87,
+  "pass": "A+B",
+  "run_len": 6,
+  "after_text": "Then the nets came down.",
+  "tier": 4,
+  "change": "NEW cg c11_trawl_nets (covers lines 88-91; no portraits)",
+  "why": "Reversal: the nets take the column; a child arm through the mesh",
+  "new_image": {
+   "kind": "cg",
+   "name": "c11_trawl_nets",
+   "prompt_seed": "Great trawl nets coming through a brown-clouded kelp valley low to the ground into the tail of a column of people, one full net with forty people rising toward the stern ramp of a white painted transport, a child's arm reaching out through the mesh to the shoulder, brown refinery water falling in a curtain, entirely underwater, no sky; no text"
+  },
+  "also_v1": true
+ },
+ {
+  "ref": "c11.s02",
+  "line": 106,
+  "pass": "A+B",
+  "run_len": 18,
+  "after_text": "It answered him as the pipes had answered",
+  "tier": 2,
+  "change": "show p wrack_thread_straining as left at head_left (no one speaks)",
+  "why": "He goes in and the sea answers faintly; Ilan alone against the brown water",
+  "new_image": null,
+  "narration_portrait": true
+ },
+ {
+  "ref": "c11.s02",
+  "line": 110,
+  "pass": "A",
+  "run_len": 18,
+  "after_text": "He put both hands into the brown and",
+  "tier": 1,
+  "change": "wrack_thread_straining -> wrack_thread_cold",
+  "why": "\"He wanted them dead\": Ilan turns cold",
+  "new_image": null,
+  "also_v1": true
+ },
+ {
+  "ref": "c11.s02",
+  "line": 114,
+  "pass": "A",
+  "run_len": 18,
+  "after_text": "The engine isn't sorry. There is nothing in",
+  "tier": 1,
+  "change": "wrack_thread_cold -> wrack_thread_resolved",
+  "why": "\"The engine isn't sorry\": he chooses to give the order",
+  "new_image": null
+ },
+ {
+  "ref": "c11.s02",
+  "line": 116,
+  "pass": "A+B",
+  "run_len": 18,
+  "after_text": "He stopped asking.",
+  "tier": 3,
+  "change": "bg c11_valley_gold (reuse); hide left",
+  "why": "\"He stopped asking\": he reaches past the wall into the clean singing forest",
+  "new_image": null,
+  "also_v1": true
+ },
+ {
+  "ref": "c11.s02",
+  "line": 133,
+  "pass": "A+B",
+  "run_len": 8,
+  "after_text": "It stood all round him, leaning in the",
+  "tier": 2,
+  "change": "show p wrack_thread_fading as left at head_left (no one speaks)",
+  "why": "The chord is gone; Ilan reaches for the sea and finds no door",
+  "new_image": null,
+  "narration_portrait": true,
+  "also_v1": true
+ },
+ {
+  "ref": "c11.s02",
+  "line": 144,
+  "pass": "B",
+  "run_len": 3,
+  "after_text": "No, you don't. I've got you. Stay there.",
+  "tier": 4,
+  "change": "NEW cg c11_sefa_holds (hide portraits; covers lines 149-151)",
+  "why": "Sefa's defining deed: she holds him, and the sea takes her gift",
+  "new_image": {
+   "kind": "cg",
+   "name": "c11_sefa_holds",
+   "prompt_seed": "Exactly two people kneeling on the floor of a silent kelp forest, entirely underwater: a lean adult man with short messy black hair, light skin, wearing a plain tunic, with a single thin pale line from temple down the side of his neck, held from behind by a thin teenage girl with both hands on the back of his neck, her face fierce; no text"
+  },
+  "also_v1": true
+ },
+ {
+  "ref": "c11.s03",
+  "line": 159,
+  "pass": "A+B",
+  "run_len": 5,
+  "after_text": "They did it for an hour. They brought",
+  "tier": 2,
+  "change": "show p sefa_tired as right at head_right (no one speaks)",
+  "why": "Narration about Sefa going to the boy on the float",
+  "new_image": null,
+  "narration_portrait": true
+ },
+ {
+  "ref": "c11.s04",
+  "line": 186,
+  "pass": "B",
+  "run_len": 2,
+  "after_text": "Okonta came down with her needle's flank scored",
+  "tier": 2,
+  "change": "show p okonta_flat as right at head_right (no one speaks)",
+  "why": "Narration about Okonta walking the rows of grey sleeves",
+  "new_image": null,
+  "narration_portrait": true
+ },
+ {
+  "ref": "c11.s04",
+  "line": 207,
+  "pass": "A",
+  "run_len": 6,
+  "after_text": "He swallowed.",
+  "tier": 1,
+  "change": "corin_grief -> corin_earnest",
+  "why": "Corin turns from his own grief to what he was told",
+  "new_image": null,
+  "also_v1": true
+ },
+ {
+  "ref": "c11.s04",
+  "line": 226,
+  "pass": "A",
+  "run_len": 5,
+  "after_text": "I told you that on the black sand.",
+  "tier": 1,
+  "change": "okonta_flat -> okonta_grim",
+  "why": "Okonta wipes her mouth: \"Don't ask me to say more\"",
+  "new_image": null
+ },
+ {
+  "ref": "c11.s04",
+  "line": 244,
+  "pass": "A",
+  "run_len": 6,
+  "after_text": "Ilan had nothing to say to him.",
+  "tier": 1,
+  "change": "wrack_thread_grieving -> wrack_thread_ashamed",
+  "why": "Ilan has nothing to say to the caller",
+  "new_image": null,
+  "also_v1": true
+ },
+ {
+  "ref": "c11.s05",
+  "line": 269,
+  "pass": "A",
+  "run_len": 7,
+  "after_text": "She spoke quite softly.",
+  "tier": 1,
+  "change": "hesper_cold -> hesper_raw",
+  "why": "Hesper speaks softly; her grief shows before the charge",
+  "new_image": null,
+  "also_v1": true
+ },
+ {
+  "ref": "c11.s06",
+  "line": 298,
+  "pass": "A+B",
+  "run_len": 5,
+  "after_text": "He did not sleep that night.",
+  "tier": 2,
+  "change": "show p wrack_thread_grieving as left at head_left (no one speaks)",
+  "why": "Narration about Ilan walking the sleds, looking at each face",
+  "new_image": null,
+  "narration_portrait": true,
+  "also_v1": true
+ },
+ {
+  "ref": "c11.s06",
+  "line": 315,
+  "pass": "A",
+  "run_len": 7,
+  "after_text": "Her voice wavered and held.",
+  "tier": 1,
+  "change": "sefa_eyes_filling -> sefa_understanding",
+  "why": "Her voice held; she comforts him with the rays keeping what the sea takes",
+  "new_image": null,
+  "also_v1": true
+ }
+]

@@ -26,27 +26,35 @@ label ch01:
     "Water went in and out of him, cold and easy, and some part of him that had no words was certain this should be killing him."
 
     "He lay still and looked up. He was at the bottom of a forest."
+
+    scene bg kelp_forest
+    with dissolve
     "The light that came down through them was green at the edges and gold in the middle, and it moved slowly across the sand. And the forest was making a sound."
     "Every stem was humming in the current, each on its own low note, and the notes ran together into a chord that had no beginning and did not seem to need an end."
     "He felt it in his teeth."
 
+    show p bother_alert as bother at bother_corner
+    with qd
     "Something bumped his ribs."
 
     "He turned his head and found a whiskered grey muzzle a hand's width from his nose. It belonged to an animal like a seal that had been built by someone fond of dogs."
     "It wore a collar of plaited cord. It snuffled his neck, sneezed a stream of bubbles into his face, and looked up, very pleased with itself, for someone to tell about it."
 
+    hide bother
+    show p sefa_wary as right at head_right
+    with qd
     "A girl of about sixteen hung in the water above him. She was holding a harvesting hook the way you hold something you are prepared to use."
 
-    scene bg kelp_forest
-    with dissolve
     show p wrack_bewildered as left at head_left
     show p sefa_wary as right at head_right
     with qd
-    "\"Bother, leave it,\" she said. Then, to him: \"You're wearing shoes.\""
+    c_sefa "Bother, leave it,"
+    "she said. Then, to him:"
+    c_sefa "You're wearing shoes."
 
     "He looked. He was. Heavy surface boots, a torn grey jacket with a corporate crest half ripped away, and around both wrists the raw red marks of a cable tie."
 
-    "\"What's your name?\""
+    c_sefa "What's your name?"
 
     hide left
     hide right
@@ -58,7 +66,8 @@ label ch01:
     show p wrack_blank as left at head_left
     show p sefa_wary as right at head_right
     with qd
-    "\"I don't know,\" he said. His voice came out strange in the water, slow and round, and he understood, distantly, that he had never spoken in water before."
+    c_wrack "I don't know,"
+    "he said. His voice came out strange in the water, slow and round, and he understood, distantly, that he had never spoken in water before."
 
     show p sefa_thoughtful as right at head_right
     show p bother_pleased as bother at bother_corner
@@ -69,7 +78,8 @@ label ch01:
     with qd
     show p wrack_puzzled as left at head_left
     with qd
-    "\"Then you're Wrack,\" she said."
+    c_sefa "Then you're Wrack,"
+    "she said."
     show p sefa_amused as right at head_right
     with qd
     c_sefa "It's what we call what the tide brings in. I'm Sefa. Can you swim, or do I tow you?"
@@ -95,6 +105,9 @@ label ch01:
     "The sand between was raked clean, and here and there a stem had been cut and bound with cord, as a branch is pruned."
     "Then the ground began to step upward in terraces, each one walled with fitted stone, and there were people on them."
 
+    scene bg terrace_work
+    with dissolve
+
     "They were cutting fronds with hooks and laying them in floating nets. A shoal of fat silver fish grazed along the foot of a wall under the eye of two more hounds."
     "Somebody was singing, and the others took it up without lifting their heads. It was a slow song with a long line, and it fitted itself to the chord of the forest."
 
@@ -112,6 +125,9 @@ label ch01:
     hide bother
     with qd
     "At the top of the terraces stood a dome."
+
+    scene bg dome_dark_half
+    with dissolve
 
     "It was the size of a hill. He could see at once that it had not been built by the people on the terraces, or by anyone like them. It was very old, and very beautiful."
     "Light shone through it from inside, but only on one side."
@@ -200,6 +216,10 @@ label ch01:
     "The meals were flat cakes of pressed kelp, smoked silverback, and a bowl of small green globes that burst salt on the tongue. He ate everything."
     "He did not know when he had last eaten, and that was the least of what he did not know."
 
+    show p wrack_puzzled as left at head_left
+    show p sefa_dry as right at head_right
+    with qd
+
     "The argument, as Sefa reported it, went like this. He breathed water, so he was a mariner; that was what the people of the holds called themselves."
     "He wore the clothes of the islands and did not know a single song, so he was not."
     "He was an agravar, a land-dweller, one of the forty million who lived on the rocks up above and threw their filth down. But agravars drowned. Then he was a spy."
@@ -217,9 +237,8 @@ label ch01:
     with qd
     c_sefa "Eat your sea-grapes."
 
-    hide left
-    hide right
-    hide bother
+    show p wrack_blank as left at head_left
+    show p oro_gentle as right at head_right
     with qd
     "It was Elder Oro who ended the argument. Wrack met him on the second evening. He was a very old man with a gentle, slightly amused way of looking at things."
     "He came in and sat on the bench and looked at Wrack's wrists for a while."
@@ -241,6 +260,9 @@ label ch01:
     show p oro_gentle as right at head_right
     with qd
     c_oro "No. Well. It'll come or it won't. In the meantime Ione will look at you."
+
+    show p ione_calm as right at head_right
+    with qd
 
     "Ione was Sefa's mother, and the hold's healer."
     "She was a broad calm woman with her sleeves rolled, and her forearms were ridged from wrist to elbow with old shiny scars, as though she had once put both arms into a fire."
@@ -273,6 +295,8 @@ label ch01:
     "She seemed at a loss as to where to begin."
     c_sefa "The sea answers some of us. Not many, one in ten maybe. You ask it for something, and if you've asked properly, it does it. There are two ways of asking."
     c_sefa "Mother's way is to ask it to care about someone. That's intending, and the water you've asked is intended water. It mends things. Cuts, fevers, bones if you're good."
+    show p sefa_wary as right at head_right
+    with qd
     "She hesitated."
     c_sefa "I can do cuts. The other way is calling, when you ask it to move. I can't do that at all. Hold still. It doesn't hurt."
 
@@ -310,6 +334,8 @@ label ch01:
     c_ione "The undertow."
     "Ione dried her hands on her tunic. She spoke to Wrack now, plainly, as healers speak to the people they have bad news for."
     c_ione "The sea gives when it's asked. But if you ask for more than you can carry, or if you let go of yourself altogether, it takes something back."
+    show p ione_cautious as right at head_right
+    with qd
     c_ione "A sense, a year of your life, a piece of your mind. It takes it whole and it keeps it. That's been done to you. I can't undo it. I don't know anyone who can."
     "She paused."
     show p ione_gentle as right at head_right
@@ -345,17 +371,21 @@ label ch01:
     show p wrack_tunic_faint_smile as left at head_left
     with qd
     c_davin "Everything in this hold is up and across. The Makers were all left-handed, my wife says."
-    hide left
-    hide right
-    hide bother
+    show p hesper_stern as right at head_right
     with qd
     "His wife was called Hesper. Wrack had seen her only at a distance, a lean hard woman whom people made room for."
     "She was the hold's Tidecaller, Davin said, with a pride he did not try to hide."
     "She was the only one for two hundred kilometres who could ask the sea to move and have it do so."
 
+    scene bg sea_door
+    with dissolve
+
     "He learned the shape of the days. They were short, and the hold kept them by song."
     "A singer stood at the sea-door and sang the turn of each watch, and the terraces picked it up and passed it out into the forest, so that the hour travelled outward through the kelp like a ripple."
     "Work was done in the water. Eating, sleeping and argument were done in the dry halls, where a fire would burn and a voice did not carry to every ear in the hold."
+
+    scene bg dome_dark_half
+    with dissolve
     "In the evenings the lamps on the lit side of the dome dimmed of their own accord, slowly, as they had every evening for three thousand years."
     "The dark side had only its strings of glowing weed."
 
@@ -392,32 +422,59 @@ label ch01:
     with qd
     scene bg long_dry_hall
     with fade
+    show p wrack_tunic_attentive as left at head_left
+    with qd
     "He heard about Jef from the night crew, lying in his hammock in the dark hall with the others talking round him. He gathered it in pieces."
     "Jef lived at the top of the world. Jef was older than the oldest song. He had been alive at the Hold Wars, nine hundred years ago."
     "When an air-heart failed in some great hold and the dry halls began to go stale, they sent to Jef, and if they were lucky he came, a small old man with a bag of tools."
     "He laid his hands on the thing and it worked again. He was the only one in the world who could do it. Some of the night crew spoke of him as of a clever uncle."
+
+    scene cg c1_night_crew
+    with dissolve
     "More of them spoke of him as a god, and one old woman made a small sign with her fingers whenever his name was said."
 
-    "\"He rides the Dragon,\" a boy said, from somewhere down the hall."
+    c_boy "He rides the Dragon,"
+    "a boy said, from somewhere down the hall."
 
-    "\"Everybody rides the Dragon who can get on it.\""
+    c_nightcrew "Everybody rides the Dragon who can get on it."
 
-    "\"He tells it who to let in, though.\""
+    c_nightcrew "He tells it who to let in, though."
 
+    scene bg long_dry_hall
+    with dissolve
+    show p wrack_tunic_attentive as left at head_left
+    with qd
     "The Dragon, Wrack learned, went round the world from top to bottom and never stopped. It was a kilometre long, and it sang."
+    show p davin_neutral as right at head_right
+    with qd
     "It came by the nearest calling stone about once a season, if the almanac was right. Davin had seen it once, as a boy, from a long way off."
     "He said that it had looked like a river that had got loose from its bed, and that he had dreamed about it for a year."
 
-    "\"And the Threaded,\" said the boy. \"Tell him about the Threaded.\""
+    hide right
+    show p wrack_tunic_thinking as left at head_left
+    with qd
 
-    "\"Jef's monks,\" someone said. \"He puts a thread in their heads and they can ride the old machines. They keep the islanders out of our water."
-    "There's one keeps these waters, a woman. She came through when I was small. Went past the terrace like a thrown knife.\""
+    c_boy "And the Threaded,"
+    "said the boy."
+    c_boy "Tell him about the Threaded."
 
-    "\"There's not enough of them,\" the old woman said. \"There never was, and there's fewer now.\""
+    c_nightcrew "Jef's monks,"
+    "someone said."
+    c_nightcrew "He puts a thread in their heads and they can ride the old machines. They keep the islanders out of our water."
+    c_nightcrew "There's one keeps these waters, a woman. She came through when I was small. Went past the terrace like a thrown knife."
 
-    "\"And one went up,\" said the boy. \"My uncle says so. One of the Threaded went up to the islands, before anybody here was born, and never came down again.\""
+    c_oldwoman "There's not enough of them,"
+    "the old woman said."
+    c_oldwoman "There never was, and there's fewer now."
 
-    "\"Your uncle says a great deal,\" said the old woman. But she made the sign with her fingers a second time, and it was not for Jef."
+    show p wrack_tunic_troubled as left at head_left
+    with qd
+    c_boy "And one went up,"
+    "said the boy."
+    c_boy "My uncle says so. One of the Threaded went up to the islands, before anybody here was born, and never came down again."
+
+    c_oldwoman "Your uncle says a great deal,"
+    "said the old woman. But she made the sign with her fingers a second time, and it was not for Jef."
 
     "They taught him the tending song, the slow one for work that is never finished. He got the words wrong and they laughed at him, not unkindly. He liked them."
     show p bother_pleased as bother at bother_corner
@@ -437,8 +494,14 @@ label ch01:
     "People touched it as they passed, for luck, so that at shoulder height it was polished to a shine. It was dusted every morning and sung to at every festival."
     "A wreath of fresh weed hung on it. Nobody had the least idea how it worked."
 
+    scene bg meeting_hall
+    with dissolve
+    show p wrack_tunic_lost as left at head_left
+    with qd
     "His hands reached up on their own."
 
+    scene cg lamp_seam
+    with dissolve
     "He did not decide to. He was looking at the wreath, and thinking of nothing, and his fingers found a seam that no one had ever seen, and opened it."
     "Inside was a shape he could not have named. He knew that it was wrong, as you know a word is misspelled before you can say how. It was seated badly."
     "It was clogged, and tired. He moved three things. He closed the seam."

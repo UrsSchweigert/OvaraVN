@@ -1,0 +1,178 @@
+[
+ {
+  "ref": "c13.s01",
+  "line": 24,
+  "pass": "A+B",
+  "run_len": 6,
+  "after_text": "They had never signed a charter. The people",
+  "tier": 2,
+  "change": "show wrack_thread_calm as left (Ilan flew over the Stubborns), from the next box",
+  "why": "Run of 6 narration; next box is about Ilan",
+  "new_image": null
+ },
+ {
+  "ref": "c13.s02",
+  "line": 91,
+  "pass": "B",
+  "run_len": 3,
+  "after_text": "Marit Coyle was thirty-four, and had presented the",
+  "tier": 2,
+  "change": "show marit_pleasant as right from this box (Marit introduced); replaced by marit_hard at line 95",
+  "why": "Marit is a lead and is introduced in narration",
+  "new_image": null
+ },
+ {
+  "ref": "c13.s02",
+  "line": 100,
+  "pass": "A",
+  "run_len": 6,
+  "after_text": "There were eighty thousand tonnes a year going",
+  "tier": 2,
+  "change": "show wrack_thread_ashamed as left (the name on the routing orders is his)",
+  "why": "Run of 6 (97-102); turn when Marit names him",
+  "new_image": null
+ },
+ {
+  "ref": "c13.s02",
+  "line": 109,
+  "pass": "A",
+  "run_len": 35,
+  "after_text": "Above him is a duty director who can",
+  "tier": 1,
+  "change": "wrack_thread_attentive -> wrack_thread_thinking",
+  "why": "Break 1 of 7 in the 35-box run; Marit finishes describing the studio plan",
+  "new_image": null
+ },
+ {
+  "ref": "c13.s02",
+  "line": 114,
+  "pass": "A",
+  "run_len": 35,
+  "after_text": "There's a backup transmitter on the hundred and",
+  "tier": 1,
+  "change": "marit_hard -> marit_white",
+  "why": "Break 2; the backup transmitter, the stakes",
+  "new_image": null
+ },
+ {
+  "ref": "c13.s02",
+  "line": 119,
+  "pass": "A",
+  "run_len": 35,
+  "after_text": "That's the word for you, too, isn't it?",
+  "tier": 1,
+  "change": "wrack_thread_thinking -> wrack_thread_attentive",
+  "why": "Break 3; the Shallowborn remark is aimed at Ilan",
+  "new_image": null
+ },
+ {
+  "ref": "c13.s02",
+  "line": 124,
+  "pass": "A",
+  "run_len": 35,
+  "after_text": "That's what the sea was short of,",
+  "tier": 1,
+  "change": "marit_white -> marit_hard",
+  "why": "Break 4; Ilan answers, Marit turns to the thing she dislikes",
+  "new_image": null
+ },
+ {
+  "ref": "c13.s02",
+  "line": 128,
+  "pass": "A",
+  "run_len": 35,
+  "after_text": "He'll give you the main channel, with no",
+  "tier": 1,
+  "change": "wrack_thread_attentive -> wrack_thread_troubled",
+  "why": "Break 5; Venn offers the main channel, Ilan distrusts it",
+  "new_image": null
+ },
+ {
+  "ref": "c13.s02",
+  "line": 131,
+  "pass": "A",
+  "run_len": 35,
+  "after_text": "She turned the card over.",
+  "tier": 1,
+  "change": "marit_hard -> marit_pleasant",
+  "why": "Break 6; after Q and answer about Venn, Marit turns dry",
+  "new_image": null
+ },
+ {
+  "ref": "c13.s02",
+  "line": 136,
+  "pass": "A",
+  "run_len": 35,
+  "after_text": "She glanced at Sefa, who had come up",
+  "tier": 1,
+  "change": "marit_pleasant -> marit_hard; wrack_thread_troubled -> wrack_thread_resolved",
+  "why": "Break 7; Marit speaks of the jug, Ilan says he will not need water",
+  "new_image": null
+ },
+ {
+  "ref": "c13.s03",
+  "line": 170,
+  "pass": "A+B",
+  "run_len": 6,
+  "after_text": "No corporation owned them. All five kept their",
+  "tier": 2,
+  "change": "show wrack_thread_calm as left, from the next box (Ilan kept a flat here)",
+  "why": "Run of 6 describing Concord; narration turns to Ilan",
+  "new_image": null
+ },
+ {
+  "ref": "c13.s03",
+  "line": 184,
+  "pass": "A",
+  "run_len": 6,
+  "after_text": "When two companies go to war, Meridian lends",
+  "tier": 1,
+  "change": "marit_pleasant -> marit_hard",
+  "why": "Run of 6 (181-186); Marit warns not to stare at the Exchange",
+  "new_image": null
+ },
+ {
+  "ref": "c13.s03",
+  "line": 214,
+  "pass": "A",
+  "run_len": 7,
+  "after_text": "She was silent. Then she nodded, once.",
+  "tier": 1,
+  "change": "marit_hard -> marit_pleasant",
+  "why": "Run of 7 (212-218); after Ilan confesses and she nods",
+  "new_image": null
+ },
+ {
+  "ref": "c13.s03",
+  "line": 237,
+  "pass": "B",
+  "run_len": 3,
+  "after_text": "Nobody cut him off. The red light stayed",
+  "tier": 2,
+  "change": "show marit_white as right (she holds the monitor, gone white)",
+  "why": "Marit is a lead; narration is about her; hide right before cg at 241",
+  "new_image": null
+ },
+ {
+  "ref": "c13.s03",
+  "line": 300,
+  "pass": "A",
+  "run_len": 6,
+  "after_text": "A hundred and sixty-one of your sons and",
+  "tier": 1,
+  "change": "wrack_thread_troubled -> wrack_thread_grieving",
+  "why": "Run of 6 (297-302); after the 161 dead",
+  "new_image": null
+ },
+ {
+  "ref": "c13.s03",
+  "line": 376,
+  "pass": "B",
+  "run_len": 5,
+  "after_text": "Ten days, perhaps twelve, Okonta had said. It",
+  "tier": 2,
+  "change": "show hesper_stricken as right for the two Hesper narration boxes; hide right after \"He stood up.\"",
+  "why": "Hesper is a lead and the narration is about her",
+  "new_image": null
+ }
+]
