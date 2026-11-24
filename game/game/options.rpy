@@ -18,6 +18,12 @@ define config.name = _("The Man the Tide Brought In")
 ## This hides the Upload Sync and Download Sync buttons on the save and load screens.
 define config.has_sync = False
 
+## A save made by an older build can point at a script line that no longer exists
+## (the staging pass added lines inside each chapter). Ren'Py then cannot restore
+## it. Instead of the crash screen, show a plain note and go to the main menu,
+## where the Chapters screen lets the player start any chapter they have.
+define config.load_failed_label = "vn_load_failed"
+
 
 ## Determines if the title given above is shown on the main menu screen. Set
 ## this to False to hide the title.
