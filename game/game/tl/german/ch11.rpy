@@ -238,7 +238,7 @@ translate german ch11_2e7a70f7:
 translate german ch11_8636e68d:
 
     # "A voice was coming down through the water, enormous and calm. It said that the people of Fallow were being taken into protection. It said that nobody should be alarmed, and that their speaker's mark would be accepted on arrival."
-    "Eine Stimme kam durch das Wasser herab, gewaltig und ruhig. Sie sagte, die Menschen von Fallow würden in Schutz genommen. Sie sagte, niemand brauche sich zu beunruhigen, und das Zeichen ihrer Sprecherin werde bei der Ankunft anerkannt."
+    "Eine Stimme kam durch das Wasser herab, gewaltig und ruhig. Sie sagte, die Menschen von Fallow würden in Obhut genommen. Sie sagte, niemand brauche sich zu beunruhigen, und das Zeichen ihrer Sprecherin werde bei der Ankunft anerkannt."
 
 # game/ch11.rpy:102
 translate german ch11_5da44c48:
@@ -250,7 +250,7 @@ translate german ch11_5da44c48:
 translate german ch11_403b2a9e:
 
     # "And above the nets, pacing them, a needle moved to and fro. Its rider was pointing. He was showing the trawl-masters where the column bent, and where the ground would foul their gear. He was doing it carefully. He had been asked to see that nobody was hurt."
-    "Und über den Netzen, im selben Tempo wie sie, bewegte sich eine Nadel hin und her. Ihr Reiter zeigte. Er zeigte den Netzführern, wo die Kolonne eine Biegung machte und wo der Grund ihr Gerät verfangen würde. Er tat es sorgfältig. Man hatte ihn gebeten, dafür zu sorgen, dass niemand zu Schaden kam."
+    "Und über den Netzen, im selben Tempo wie sie, bewegte sich eine Nadel hin und her. Ihr Reiter zeigte. Er zeigte den Netzführern, wo die Kolonne eine Biegung machte und wo sich ihr Gerät am Grund verfangen würde. Er tat es sorgfältig. Man hatte ihn gebeten, dafür zu sorgen, dass niemand zu Schaden kam."
 
 # game/ch11.rpy:110
 translate german ch11_1cf4f118:
@@ -280,7 +280,7 @@ translate german ch11_ed888950:
 translate german ch11_5746c168:
 
     # "He had his arm's length of sea about him, and it saved his life in the first minute. A gunboat had seen the needle. Charges came down, three together. They burst against the skin of water he had been carrying for a month, and he was thrown end over end, deafened, but whole. He came up under the nearest net with his hands open."
-    "Er hatte seine Armlänge Meer um sich, und das rettete ihm in der ersten Minute das Leben. Ein Kanonenboot hatte die Nadel gesehen. Sprengladungen fielen herab, drei zugleich. Sie barsten an der Haut aus Wasser, die er einen Monat lang getragen hatte, und er wurde mehrfach überschlagen, taub, aber heil. Er kam unter dem nächsten Netz hoch, die Hände geöffnet."
+    "Er hatte seine Armlänge Meer um sich, und das rettete ihm in der ersten Minute das Leben. Ein Kanonenboot hatte die Nadel gesehen. Sprengladungen fielen herab, drei zugleich. Sie barsten an der Haut aus Wasser, die er einen Monat lang getragen hatte, und er überschlug sich mehrfach, taub, aber heil. Er kam unter dem nächsten Netz hoch, die Hände geöffnet."
 
 # game/ch11.rpy:119
 translate german ch11_8b63552a:
@@ -340,7 +340,7 @@ translate german ch11_9e7f90cc:
 translate german ch11_c2e1d99c:
 
     # "{i}The engine isn't sorry. There is nothing in it but the one thing.{/i}"
-    "{i}Der Maschine tut nichts leid. Es ist nichts in ihr als das eine.{/i}"
+    "{i}Der Maschine tut nichts leid. Es steckt nichts darin außer dem einen.{/i}"
 
 # game/ch11.rpy:135
 translate german ch11_2ddae9d1:
@@ -364,19 +364,19 @@ translate german ch11_bea21d3a:
 translate german ch11_0b8d5082:
 
     # "He put everything out of himself that was not the one thing. He put out the fear, and the pity, and Davin's voice saying that it was boys on those boats. When there was nothing left in him but an order, he gave it."
-    "Er gab alles aus sich heraus, was nicht das eine war. Er gab die Angst heraus und das Mitleid und Davins Stimme, die sagte, es seien Jungen auf diesen Booten. Als in ihm nichts mehr war außer einem Befehl, gab er ihn."
+    "Er schaffte alles aus sich hinaus, was nicht das eine war. Er schaffte die Angst hinaus und das Mitleid und Davins Stimme, die sagte, es seien Jungen auf diesen Booten. Als in ihm nichts mehr war außer einem Befehl, gab er ihn."
 
 # game/ch11.rpy:141
 translate german ch11_96066d97:
 
     # "{i}Off them.{/i}"
-    "{i}Weg mit ihnen.{/i}"
+    "{i}Weg von ihnen.{/i}"
 
 # game/ch11.rpy:142
 translate german ch11_e622b672:
 
     # "It was not like the barge. The barge had been a shout, and the sea had reared like a startled horse. This was quiet. It was like watching a nail go into wood."
-    "Es war nicht wie beim Lastkahn. Der Lastkahn war ein Schrei gewesen, und das Meer hatte sich aufgebäumt wie ein erschrecktes Pferd. Dies hier war leise. Es war, als sähe man einen Nagel ins Holz gehen."
+    "Es war nicht wie beim Lastkahn. Der Lastkahn war ein Schrei gewesen, und das Meer hatte sich aufgebäumt wie ein erschrecktes Pferd. Dies hier war leise. Es war, als sähe man zu, wie ein Nagel in Holz getrieben wird."
 
 # game/ch11.rpy:146
 translate german ch11_9475cbb7:
@@ -418,7 +418,7 @@ translate german ch11_24c0d47e:
 translate german ch11_8af630d1:
 
     # "It stood all round him, leaning in the current as it had always leaned. It made no sound. The chord was gone, from the valley floor to the surface, as far as he could reach in every direction. It had been sounding in that forest for three thousand years."
-    "Er stand rings um ihn und lehnte sich in die Strömung, wie er sich immer gelehnt hatte. Er gab keinen Laut von sich. Der Akkord war fort, vom Talgrund bis zur Oberfläche, so weit er in jede Richtung reichen konnte. Dreitausend Jahre lang hatte er in diesem Wald geklungen."
+    "Er stand rings um ihn und neigte sich in der Strömung, wie er sich immer geneigt hatte. Er gab keinen Laut von sich. Der Akkord war fort, vom Talgrund bis zur Oberfläche, so weit er in jede Richtung reichen konnte. Dreitausend Jahre lang hatte er in diesem Wald geklungen."
 
 # game/ch11.rpy:158
 translate german ch11_f89789f1:
@@ -436,7 +436,7 @@ translate german ch11_02906a4f:
 translate german ch11_7435852e:
 
     # "It came fast. It was not the plain cold of being ebbed. It was the other, the pleasant one, the looseness before sleep. He had put himself out of himself to give that order, and something had noticed the room standing empty. He thought, quite calmly, {i}this time it will be all of me.{/i}"
-    "Sie kam schnell. Es war nicht die schlichte Kälte der Ebbe. Es war die andere, die angenehme, die Lockerheit vor dem Schlaf. Er hatte sich aus sich selbst herausgegeben, um diesen Befehl zu erteilen, und etwas hatte bemerkt, dass der Raum leer stand. Er dachte ganz ruhig: {i}diesmal wird es alles von mir sein.{/i}"
+    "Sie kam schnell. Es war nicht die schlichte Kälte der Ebbe. Es war die andere, die angenehme, die Lockerheit vor dem Schlaf. Er hatte sich selbst aus sich hinausgeschafft, um diesen Befehl zu erteilen, und etwas hatte bemerkt, dass der Raum leer stand. Er dachte ganz ruhig: {i}diesmal nimmt es mich ganz.{/i}"
 
 # game/ch11.rpy:161
 translate german ch11_4a03782c:
@@ -490,7 +490,7 @@ translate german ch11_1fe64e33:
 translate german ch11_f243cda5:
 
     # "He had not thought of them. He had put them out of himself with the rest. There had been four hundred men and women on those twelve ships, in grey, with Meridian's mark on their sleeves. Most of them had been below. Those who had been on deck were drifting down through the kelp now in a slow rain, with their arms out."
-    "Er hatte nicht an sie gedacht. Er hatte sie mit dem Rest aus sich herausgegeben. Vierhundert Männer und Frauen waren auf diesen zwölf Schiffen gewesen, in Grau, das Zeichen von Meridian auf den Ärmeln. Die meisten waren unter Deck gewesen. Die, die an Deck gewesen waren, sanken nun in einem langsamen Regen durch den Kelp herab, die Arme ausgestreckt."
+    "Er hatte nicht an sie gedacht. Er hatte sie mit dem Rest aus sich hinausgeschafft. Vierhundert Männer und Frauen waren auf diesen zwölf Schiffen gewesen, in Grau, das Zeichen von Meridian auf den Ärmeln. Die meisten waren unter Deck gewesen. Die, die an Deck gewesen waren, sanken nun in einem langsamen Regen durch den Kelp herab, die Arme ausgestreckt."
 
 # game/ch11.rpy:181
 translate german ch11_9e3c5a2d:
@@ -586,7 +586,7 @@ translate german ch11_45358f8d:
 translate german ch11_56954d66:
 
     # "Her voice was quite flat."
-    "Ihre Stimme war ganz flach."
+    "Ihre Stimme war ganz tonlos."
 
 # game/ch11.rpy:222
 translate german ch11_629116ac:
@@ -610,7 +610,7 @@ translate german ch11_9abf7ea2:
 translate german ch11_ba546f48:
 
     # c_corin "That's the truth. I thought it was a kindness. There's lamps where they were going. My sister's there."
-    c_corin "Das ist die Wahrheit. Ich habe es für eine Freundlichkeit gehalten. Dort, wohin sie wollten, brennen Lampen. Meine Schwester ist dort."
+    c_corin "Das ist die Wahrheit. Ich habe es für eine Freundlichkeit gehalten. Dort, wohin sie kommen sollten, brennen Lampen. Meine Schwester ist dort."
 
 # game/ch11.rpy:234
 translate german ch11_d2e2503b:
@@ -658,7 +658,7 @@ translate german ch11_d90f8eb1:
 translate german ch11_610755ef:
 
     # c_okonta "I said the rule to him, not to you,"
-    c_okonta "Die Regel habe ich ihm gesagt, nicht dir,"
+    c_okonta "Die Regel habe ich ihm aufgesagt, nicht dir,"
 
 # game/ch11.rpy:254
 translate german ch11_79f2a867:
@@ -778,7 +778,7 @@ translate german ch11_ea486e60:
 translate german ch11_4a5938aa:
 
     # c_hesper "I taught you a rule on the floor of a hold. {i}Ask. Do not order.{/i} I made you say it till I was satisfied."
-    c_hesper "Ich habe dir auf dem Boden einer Halte eine Regel beigebracht. {i}Bitte. Befiehl nicht.{/i} Ich habe dich so lange aufsagen lassen, bis ich zufrieden war."
+    c_hesper "Ich habe dir auf dem Boden einer Halte eine Regel beigebracht. {i}Bitte. Befiehl nicht.{/i} Ich habe sie dich so lange aufsagen lassen, bis ich zufrieden war."
 
 # game/ch11.rpy:302
 translate german ch11_5e381c43:
@@ -820,13 +820,13 @@ translate german ch11_e3a1a76e:
 translate german ch11_a6fb52c6:
 
     # c_ilan "It took Sefa's gift. It came for me, and she held me, and it took hers."
-    c_ilan "Es hat Sefas Gabe genommen. Es kam für mich, und sie hat mich gehalten, und es hat ihre genommen."
+    c_ilan "Es hat Sefas Gabe genommen. Es wollte mich holen, und sie hat mich gehalten, und es hat ihre genommen."
 
 # game/ch11.rpy:319
 translate german ch11_16de7457:
 
     # "That stopped her. She had known Sefa from the day she was born."
-    "Das hielt sie auf. Sie hatte Sefa gekannt, seit dem Tag, an dem sie geboren wurde."
+    "Das hielt sie auf. Sie hatte Sefa seit dem Tag gekannt, an dem sie geboren wurde."
 
 # game/ch11.rpy:320
 translate german ch11_a74282dc:
@@ -976,7 +976,7 @@ translate german ch11_49b0a8c3:
 translate german ch11_33cf0291:
 
     # c_sefa "That's what I can't stop seeing. Asking takes you all day and you're shaking after. That took you one breath, and you looked like you were doing sums."
-    c_sefa "Das ist es, was ich nicht aufhören kann zu sehen. Bitten dauert bei dir den ganzen Tag, und danach zitterst du. Das hat dich einen Atemzug gekostet, und du hast ausgesehen, als würdest du rechnen."
+    c_sefa "Das sehe ich immer wieder vor mir. Bitten dauert bei dir den ganzen Tag, und danach zitterst du. Das hat dich einen Atemzug gekostet, und du hast ausgesehen, als würdest du rechnen."
 
 # game/ch11.rpy:380
 translate german ch11_c3da0296:
@@ -988,7 +988,7 @@ translate german ch11_c3da0296:
 translate german ch11_216cbbe4:
 
     # "In the morning the people of Fallow took up their sled ropes. They went on toward the canyon, with a hundred and thirty islanders walking among them in borrowed hard-suit helmets, because there was nowhere else to put them. They did not sing. Ilan and Okonta saw them over the ridge and into water that could hear."
-    "Am Morgen nahmen die Leute von Fallow ihre Schlittenseile auf. Sie zogen weiter zum Kanyon, und unter ihnen gingen einhundertdreißig Inselleute in geliehenen Taucherhelmen, weil es sonst keinen Ort gab, sie unterzubringen. Sie sangen nicht. Ilan und Okonta sahen ihnen nach, über den Kamm und in Wasser, das hören konnte."
+    "Am Morgen nahmen die Leute von Fallow ihre Schlittenseile auf. Sie zogen weiter zum Kanyon, und unter ihnen gingen einhundertdreißig Inselleute in geliehenen Taucherhelmen, weil es sonst keinen Ort gab, sie unterzubringen. Sie sangen nicht. Ilan und Okonta begleiteten sie über den Kamm und in Wasser, das hören konnte."
 
 # game/ch11.rpy:385
 translate german ch11_ccc8e80c:

@@ -52,7 +52,7 @@ translate german ch13_23e7d6d1:
 translate german ch13_626d09ae:
 
     # "He saw fish-hooks and shells, and a child's shoe. At the back, worn nearly smooth, a figure was carved. It was a woman, long in the limb, rising from a wave. Her eyes were very large."
-    "Er sah Angelhaken und Muscheln und einen Kinderschuh. Ganz hinten war, fast glatt abgegriffen, eine Gestalt geschnitzt. Es war eine Frau, lang in den Gliedern, die sich aus einer Welle erhob. Ihre Augen waren sehr groß."
+    "Er sah Angelhaken und Muscheln und einen Kinderschuh. Ganz hinten war, fast glatt abgegriffen, eine Gestalt in den Stein gehauen. Es war eine Frau, lang in den Gliedern, die sich aus einer Welle erhob. Ihre Augen waren sehr groß."
 
 # game/ch13.rpy:41
 translate german ch13_70c956c2:
@@ -118,7 +118,7 @@ translate german ch13_ae613ed0:
 translate german ch13_ba2dae9d:
 
     # c_ilan "If I go for the wave, the fleet reaches Deep Chorus. If I go for the fleet, a city drowns. And then every agravar on Ovara has a reason to boil the sea, and they'll be right."
-    c_ilan "Gehe ich der Welle nach, erreicht die Flotte Deep Chorus. Gehe ich der Flotte nach, ertrinkt eine Stadt. Und dann hat jeder Agravar auf Ovara einen Grund, das Meer zum Kochen zu bringen, und sie werden recht haben."
+    c_ilan "Kümmere ich mich um die Welle, erreicht die Flotte Deep Chorus. Kümmere ich mich um die Flotte, ertrinkt eine Stadt. Und dann hat jeder Agravar auf Ovara einen Grund, das Meer zum Kochen zu bringen, und sie werden recht haben."
 
 # game/ch13.rpy:65
 translate german ch13_432273e1:
@@ -190,7 +190,7 @@ translate german ch13_ee9d74f1:
 translate german ch13_c5561288:
 
     # "It showed the weather and the shift times, and stories about brave company sailors. Nothing was said on Ovara that Orrin did not carry. It carried nothing that the five boards had not approved."
-    "Er zeigte das Wetter und die Schichtzeiten und Geschichten über tapfere Matrosen der Konzerne. Auf Ovara wurde nichts gesagt, was Orrin nicht verbreitete. Orrin verbreitete nichts, was die fünf Vorstände nicht gebilligt hatten."
+    "Er zeigte das Wetter und die Schichtzeiten und Geschichten über tapfere Firmenmatrosen. Auf Ovara wurde nichts gesagt, was Orrin nicht verbreitete. Orrin verbreitete nichts, was die fünf Vorstände nicht gebilligt hatten."
 
 # game/ch13.rpy:85
 translate german ch13_4e2275be:
@@ -424,7 +424,7 @@ translate german ch13_8c9df2bd:
 translate german ch13_1f594259:
 
     # c_marit "But it takes you in by the front door, under your own name, and it puts every screen on Ovara on you from the first word. So we say yes. And my three people bring the backup up anyway, and I watch what actually goes out."
-    c_marit "Aber es führt Sie durch den Vordereingang hinein, unter Ihrem eigenen Namen, und es richtet vom ersten Wort an jeden Bildschirm auf Ovara auf Sie. Also sagen wir Ja. Und meine drei Leute fahren den Reservesender trotzdem hoch, und ich sehe zu, was tatsächlich gesendet wird."
+    c_marit "Aber es führt Sie durch den Vordereingang hinein, unter Ihrem eigenen Namen, und es bringt Sie vom ersten Wort an auf jeden Bildschirm auf Ovara. Also sagen wir Ja. Und meine drei Leute fahren den Reservesender trotzdem hoch, und ich behalte im Auge, was tatsächlich gesendet wird."
 
 # game/ch13.rpy:163
 translate german ch13_b0478bfe:
@@ -484,7 +484,7 @@ translate german ch13_f7cd2880:
 translate german ch13_e8e3b95a:
 
     # "They were there a long time. Ilan did not hear what was said. In the morning Marit's eyes were red. She looked at Sefa, and at Sefa's hands, as though they were something on which a great deal had been spent."
-    "Sie blieben lange dort. Ilan hörte nicht, was gesagt wurde. Am Morgen waren Marits Augen rot. Sie sah Sefa an und Sefas Hände, als wären sie etwas, worauf sehr viel verwendet worden war."
+    "Sie blieben lange dort. Ilan hörte nicht, was gesagt wurde. Am Morgen waren Marits Augen rot. Sie sah Sefa an und Sefas Hände, als wären sie etwas, das sehr viel gekostet hatte."
 
 # game/ch13.rpy:190
 translate german ch13_30a22438:
@@ -538,13 +538,13 @@ translate german ch13_74557256:
 translate german ch13_dbf7c88e:
 
     # "Ilan had kept a flat here. He had walked these pavements in good shoes, thinking about tonnage."
-    "Ilan hatte hier eine Wohnung gehabt. Er war in guten Schuhen über diese Pflaster gegangen und hatte an Tonnage gedacht."
+    "Ilan hatte hier eine Wohnung gehabt. Er war in guten Schuhen über dieses Pflaster gegangen und hatte an Tonnage gedacht."
 
 # game/ch13.rpy:212
 translate german ch13_660a1160:
 
     # "Screens the size of buildings hung between the towers. That week every one of them showed the same footage. A freighter was burning on a dark sea."
-    "Bildschirme so groß wie Gebäude hingen zwischen den Türmen. In dieser Woche zeigte jeder von ihnen dieselben Bilder. Ein Frachter brannte auf dunkler See."
+    "Bildschirme so groß wie Gebäude hingen zwischen den Türmen. In dieser Woche zeigte jeder von ihnen dieselben Bilder. Ein Frachter brannte auf dunklem Meer."
 
 # game/ch13.rpy:213
 translate german ch13_d835261c:
@@ -556,7 +556,7 @@ translate german ch13_d835261c:
 translate german ch13_e4d45406:
 
     # "The Orrin Spire was the tallest thing on Ovara. It stood at the centre of the middle island. At its foot, taking up an entire block, stood a building with no windows at all."
-    "Der Orrin-Turm war das höchste Bauwerk auf Ovara. Er stand im Zentrum der mittleren Insel. An seinem Fuß stand, einen ganzen Block einnehmend, ein Gebäude ganz ohne Fenster."
+    "Der Orrin-Turm war das höchste Bauwerk auf Ovara. Er stand im Zentrum der mittleren Insel. An seinem Fuß stand ein Gebäude ganz ohne Fenster, das einen ganzen Block einnahm."
 
 # game/ch13.rpy:221
 translate german ch13_0b07678c:
@@ -604,19 +604,19 @@ translate german ch13_7a9fd28e:
 translate german ch13_9fc939ec:
 
     # "Venn met them himself, on the blue marble of the lobby. He had a beautiful voice, and he held Ilan's hand in both of his. He said that it was a brave thing, and long overdue."
-    "Venn empfing sie selbst, auf dem blauen Marmor der Eingangshalle. Er hatte eine schöne Stimme und hielt Ilans Hand in beiden seinen. Er sagte, es sei eine mutige Tat und längst überfällig."
+    "Venn empfing sie selbst, auf dem blauen Marmor der Eingangshalle. Er hatte eine schöne Stimme und hielt Ilans Hand in seinen beiden Händen. Er sagte, es sei eine mutige Tat und längst überfällig."
 
 # game/ch13.rpy:237
 translate german ch13_02b9929b:
 
     # "He said that Orrin Signal was proud to be the house that told the truth at last. He said it very well. He had been saying things well for forty years."
-    "Er sagte, Orrin Signal sei stolz darauf, das Haus zu sein, das endlich die Wahrheit sagte. Er sagte es sehr gut. Er sagte seit vierzig Jahren Dinge gut."
+    "Er sagte, Orrin Signal sei stolz darauf, das Haus zu sein, das endlich die Wahrheit sage. Er sagte es sehr gut. Er sagte seit vierzig Jahren Dinge gut."
 
 # game/ch13.rpy:241
 translate german ch13_1fe7bca5:
 
     # "The lift went up for a long time. His ears hurt. He felt the sea go from him, floor by floor, as it had in the Brightwater tower, but further."
-    "Der Fahrstuhl fuhr lange nach oben. Ihm taten die Ohren weh. Er spürte, wie ihn das Meer verließ, Stockwerk um Stockwerk, wie im Brightwater-Turm, nur weiter."
+    "Der Aufzug fuhr lange nach oben. Ihm taten die Ohren weh. Er spürte, wie ihn das Meer verließ, Stockwerk um Stockwerk, wie im Brightwater-Turm, nur weiter."
 
 # game/ch13.rpy:242
 translate german ch13_aec9fd15:
@@ -646,7 +646,7 @@ translate german ch13_7181f3ae:
 translate german ch13_35d397f5:
 
     # c_marit "I'll give you the speech,"
-    c_marit "Ich gebe Ihnen die Rede,"
+    c_marit "Sie bekommen die Rede,"
 
 # game/ch13.rpy:253
 translate german ch13_a370866c:
@@ -814,7 +814,7 @@ translate german ch13_790bab75:
 translate german ch13_6027d572:
 
     # "The big screen on the studio wall broke up, and came back. The picture was grainier, and it had no caption. It showed the studio from a different angle."
-    "Der große Bildschirm an der Studiowand zerfiel und kam wieder. Das Bild war körniger und hatte keine Einblendung. Es zeigte das Studio aus einem anderen Winkel."
+    "Das Bild auf dem großen Bildschirm an der Studiowand zerfiel und kam wieder. Das Bild war körniger und hatte keine Einblendung. Es zeigte das Studio aus einem anderen Winkel."
 
 # game/ch13.rpy:318
 translate german ch13_5555f38f:
@@ -940,7 +940,7 @@ translate german ch13_eaac37a0:
 translate german ch13_80641f37:
 
     # c_ilan "But ask yourselves why they started this year. I'll tell you. The one man who kept their cities alive was killed four months ago, and their lamps are going out. And then there's this."
-    c_ilan "Aber fragt euch, warum sie dieses Jahr damit angefangen haben. Ich sage es euch. Der eine Mann, der ihre Städte am Leben hielt, wurde vor vier Monaten getötet, und ihre Lampen gehen aus. Und dann ist da noch das hier."
+    c_ilan "Aber fragt euch, warum sie dieses Jahr damit angefangen haben. Ich sage es euch. Der einzige Mann, der ihre Städte am Leben hielt, wurde vor vier Monaten getötet, und ihre Lampen gehen aus. Und dann ist da noch das hier."
 
 # game/ch13.rpy:372
 translate german ch13_fbe17052:
@@ -952,7 +952,7 @@ translate german ch13_fbe17052:
 translate german ch13_eae0267c:
 
     # c_ilan "This is a Maker engine. Halcyon took it from a drowned city under the Girdle. I led that dig. It turns seawater to steam, as much as you point it at."
-    c_ilan "Das ist eine Erbauermaschine. Halcyon hat sie aus einer versunkenen Stadt unter dem Gürtel geholt. Ich habe diese Grabung geleitet. Sie verwandelt Meerwasser in Dampf, so viel, wie man darauf richtet."
+    c_ilan "Das ist eine Erbauermaschine. Halcyon hat sie aus einer versunkenen Stadt unter dem Gürtel geholt. Ich habe diese Grabung geleitet. Sie verwandelt Meerwasser in Dampf, so viel, wie man ihr vorsetzt."
 
 # game/ch13.rpy:377
 translate german ch13_5e132ac1:
@@ -970,7 +970,7 @@ translate german ch13_137d7ef2:
 translate german ch13_ab9018dd:
 
     # c_ilan "And the man who holds every debt on these islands wants that engine for something larger. His name is Anselm Rook. He's the chairman of Meridian Assurance. You have never once been shown his face. Ask why."
-    c_ilan "Und der Mann, dem jede Schuld auf diesen Inseln gehört, will diese Maschine für etwas Größeres. Sein Name ist Anselm Rook. Er ist der Vorsitzende von Meridian Assurance. Sein Gesicht hat man euch nie ein einziges Mal gezeigt. Fragt, warum."
+    c_ilan "Und der Mann, dem jede Schuld auf diesen Inseln gehört, will diese Maschine für etwas Größeres. Sein Name ist Anselm Rook. Er ist der Vorsitzende von Meridian Assurance. Sein Gesicht hat man euch kein einziges Mal gezeigt. Fragt, warum."
 
 # game/ch13.rpy:383
 translate german ch13_278d2467:
@@ -1078,13 +1078,13 @@ translate german ch13_5bb95c44:
 translate german ch13_bc8f631c:
 
     # "That was how Orrin Signal fell. It took perhaps ten seconds, and nobody raised a hand."
-    "So fiel Orrin Signal. Es dauerte vielleicht zehn Sekunden, und niemand hob die Hand."
+    "So fiel Orrin Signal. Es dauerte vielleicht zehn Sekunden, und niemand erhob die Hand."
 
 # game/ch13.rpy:429
 translate german ch13_93c62677:
 
     # "The big screen on the wall broke up. A new picture came through from an Orrin news boat. Whoever was running the transmitter fifty floors up had patched it in without being asked."
-    "Der große Bildschirm an der Wand zerfiel. Ein neues Bild kam von einem Orrin-Nachrichtenboot herein. Wer auch immer den Sender fünfzig Stockwerke höher bediente, hatte es ungefragt dazugeschaltet."
+    "Das Bild auf dem großen Bildschirm an der Wand zerfiel. Ein neues Bild kam von einem Orrin-Nachrichtenboot herein. Wer auch immer den Sender fünfzig Stockwerke höher bediente, hatte es ungefragt dazugeschaltet."
 
 # game/ch13.rpy:433
 translate german ch13_503d6e41:
@@ -1102,7 +1102,7 @@ translate german ch13_338ff625:
 translate german ch13_83347b40:
 
     # "Words crawled under it. PORT HALCYON. SEA LEVEL ANOMALY. And beneath that, a second line: HALCYON FLEET SAILED 0400 TODAY, TWO DAYS AHEAD OF SCHEDULE."
-    "Unter dem Bild liefen Worte: PORT HALCYON. MEERESSPIEGEL-ANOMALIE. Und darunter eine zweite Zeile: HALCYON-FLOTTE HEUTE UM 4 UHR AUSGELAUFEN, ZWEI TAGE VOR DEM PLAN."
+    "Unter dem Bild liefen Worte: PORT HALCYON. MEERESSPIEGEL-ANOMALIE. Und darunter eine zweite Zeile: HALCYON-FLOTTE HEUTE UM 4 UHR AUSGELAUFEN, ZWEI TAGE FRÜHER ALS GEPLANT."
 
 # game/ch13.rpy:439
 translate german ch13_f2226981:
@@ -1150,7 +1150,7 @@ translate german ch13_f00f5dc3:
 translate german ch13_a3b86570:
 
     # c_ilan "Twelve of them. I know the woman who leads them. Halcyon killed her husband. If it falls, two million of you die. Then your fleet boils two million of them. After that nobody will be left who remembers how any of it began."
-    c_ilan "Zwölf von ihnen. Ich kenne die Frau, die sie anführt. Halcyon hat ihren Mann getötet. Wenn sie einbricht, sterben zwei Millionen von euch. Dann kocht eure Flotte zwei Millionen von ihnen. Danach ist niemand mehr übrig, der sich erinnert, wie das alles begann."
+    c_ilan "Zwölf von ihnen. Ich kenne die Frau, die sie anführt. Halcyon hat ihren Mann getötet. Wenn sie bricht, sterben zwei Millionen von euch. Dann kocht eure Flotte zwei Millionen von ihnen. Danach ist niemand mehr übrig, der sich erinnert, wie das alles begann."
 
 # game/ch13.rpy:459
 translate german ch13_f11239be:

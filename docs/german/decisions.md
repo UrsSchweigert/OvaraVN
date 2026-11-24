@@ -68,3 +68,20 @@ Only these four of the twelve open items in `consolidation.md` section 7 were de
 | "tide line" | Flutsaum (changed in ch09, ch12, ch14) |
 | "gate barge" | Schleusenkahn |
 | "still-room" | Vorratskammer |
+
+## Answers to the style-review questions (owner, 2026-11-24, third round)
+
+| Topic | Decision |
+|---|---|
+| Title "Ältester/Älteste" before a name | Declined with article like any German noun phrase: "zum Ältesten Oro", "vom Ältesten Oro", "mit der Ältesten Vey" (all chapters). |
+| Maelis's "Sorry" (ch04) | „Es tat ihm leid“, sagte sie. „Es tat ihm sehr, sehr leid.“ (replaces "Tut mir leid" and "Reumütig") |
+| "instand setzen" | Written as two words for the verb ("instand setzen", "instand gesetzt"), noun "das Instandsetzen", in all chapters. Jef's craft level Mend = "instand setzen". |
+| "ground" (Rook's offer) | "Land" everywhere (ch04 "Boden" changes to "Land"). |
+| company / corporation | Konzern for the large corporations, Firma for English "company": check each place against the English word. |
+| The healers as a group (ch15 to 17) | "Heiler" (generic masculine for the mixed group); the healers of the Hush stay feminine where the text says so. |
+| "cupful" | "Tasse" (ch14 "Becher" changes). |
+| "seat" (Jef's word) | "einsetzen / eingesetzt" ("Sie war falsch eingesetzt", "Setz es richtig ein"), also in ch14 and ch15. |
+| Well-wardens (ch04) | "Kalmare" (not "Tintenfische"). |
+| Meridian | Neuter: "es", "seine Rechte" in all chapters. |
+| Title of ch06 | "Der älteste Bruder" stays. |
+| "Lautlosigkeit" in ch07 (listening silence of the Smokers and the Hush) | "Stille" at those three places; "Lautlosigkeit" stays for the sound of dead water and the Slick. |

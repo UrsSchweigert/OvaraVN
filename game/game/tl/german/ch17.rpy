@@ -4,7 +4,7 @@
 translate german ch17_20ee172f:
 
     # "The healers went first."
-    "Die Heilerinnen gingen zuerst."
+    "Die Heiler gingen zuerst."
 
 # game/ch17.rpy:14
 translate german ch17_aaf7f1d9:
@@ -94,7 +94,7 @@ translate german ch17_ccf65f8c:
 translate german ch17_de70ff1e:
 
     # "Six thousand healers sat down in the water."
-    "Sechstausend Heilerinnen setzten sich ins Wasser."
+    "Sechstausend Heiler setzten sich ins Wasser."
 
 # game/ch17.rpy:57
 translate german ch17_1193043e:
@@ -136,13 +136,13 @@ translate german ch17_a235ce95:
 translate german ch17_cf497dce:
 
     # "The sea behind the healers leaned in over their shoulders, as the old water of the Well had once leaned in over three hundred pools, and helped."
-    "Das Meer hinter den Heilerinnen lehnte sich über ihre Schultern herein, wie das alte Wasser des Brunnens sich einmal über dreihundert Becken hereingelehnt hatte, und half."
+    "Das Meer hinter den Heilern lehnte sich über ihre Schultern herein, wie das alte Wasser des Brunnens sich einmal über dreihundert Becken hereingelehnt hatte, und half."
 
 # game/ch17.rpy:74
 translate german ch17_f1736505:
 
     # "It went like a thaw. First there was a wet patch on the ice, and then a channel, and then the sound of running."
-    "Es ging wie ein Tauwetter. Erst war da ein nasser Fleck auf dem Eis, dann eine Rinne, dann das Geräusch von fließendem Wasser."
+    "Es ging wie bei Tauwetter. Erst war da ein nasser Fleck auf dem Eis, dann eine Rinne, dann das Geräusch von fließendem Wasser."
 
 # game/ch17.rpy:75
 translate german ch17_e532048d:
@@ -160,7 +160,7 @@ translate german ch17_096941b9:
 translate german ch17_6ac639ac:
 
     # "So the barges came up. The dockers of Saltgate lifted the healers of Kelder aboard, with their brass tags still on their wrists, and sat them along the gunwales with their arms over the side."
-    "So kamen die Kähne heran. Die Hafenarbeiter von Saltgate hoben die Heilerinnen von Kelder an Bord, die Messingmarken noch an den Handgelenken, und setzten sie längs der Reling, die Arme über der Bordkante."
+    "So kamen die Kähne heran. Die Hafenarbeiter von Saltgate hoben die Heiler von Kelder an Bord, die Messingmarken noch an den Handgelenken, und setzten sie längs der Reling, die Arme über der Bordkante."
 
 # game/ch17.rpy:81
 translate german ch17_042615f9:
@@ -190,7 +190,7 @@ translate german ch17_c1b0bef4:
 translate german ch17_995499e4:
 
     # "It was not much of a fight. Corin saw to that. He went out ahead of the rest with his hands open, and he called to the grey riders by name, one after another, in a voice that carried across the water."
-    "Es war kein großer Kampf. Dafür sorgte Corin. Er fuhr den anderen voraus hinaus, mit offenen Händen, und rief die grauen Reiter beim Namen, einen nach dem anderen, mit einer Stimme, die weit über das Wasser trug."
+    "Es war kein großer Kampf. Dafür sorgte Corin. Er flog den anderen voraus, mit offenen Händen, und rief die grauen Reiter beim Namen, einen nach dem anderen, mit einer Stimme, die weit über das Wasser trug."
 
 # game/ch17.rpy:103
 translate german ch17_38edbafc:
@@ -250,7 +250,7 @@ translate german ch17_93be0264:
 translate german ch17_d870b1f5:
 
     # c_garran "Forty paces by twenty. I can tell you whose it'll be. Come and look at what he's done to get it."
-    c_garran "Vierzig Schritt mal zwanzig. Ich kann euch sagen, wem es gehören wird. Kommt und seht, was er getan hat, um es zu bekommen."
+    c_garran "Vierzig Schritt auf zwanzig. Ich kann euch sagen, wem es gehören wird. Kommt und seht, was er getan hat, um es zu bekommen."
 
 # game/ch17.rpy:122
 translate german ch17_9dce1d47:
@@ -262,7 +262,7 @@ translate german ch17_9dce1d47:
 translate german ch17_840b0cdd:
 
     # "The gunboat's captain stood on his bridge for some time. Then the crest came down from her mast, and she swung in behind the barges, and rowed."
-    "Der Kapitän des Kanonenboots stand eine ganze Weile auf seiner Brücke. Dann kam das Wappen von ihrem Mast herunter, und sie schwenkte hinter die Kähne ein und ruderte."
+    "Der Kapitän des Kanonenboots stand eine ganze Weile auf seiner Brücke. Dann kam das Wappen von seinem Mast herunter, und es schwenkte hinter die Kähne ein und ruderte."
 
 # game/ch17.rpy:128
 translate german ch17_bab8dc72:
@@ -484,7 +484,7 @@ translate german ch17_3d6b4a0c:
 translate german ch17_94915bb7:
 
     # c_anselm "You came the long way,"
-    c_anselm "Du bist den langen Weg gekommen,"
+    c_anselm "Du hast den langen Umweg genommen,"
 
 # game/ch17.rpy:218
 translate german ch17_bdce4283:
@@ -502,7 +502,7 @@ translate german ch17_47f0b105:
 translate german ch17_a5b97c79:
 
     # c_ilan "I asked."
-    c_ilan "Ich habe gefragt."
+    c_ilan "Ich habe gebeten."
 
 # game/ch17.rpy:225
 translate german ch17_3f90f6a9:
@@ -622,7 +622,7 @@ translate german ch17_799828b3:
 translate german ch17_d96fb81c:
 
     # c_ilan "It's seated wrong,"
-    c_ilan "Es sitzt falsch,"
+    c_ilan "Es ist falsch eingesetzt,"
 
 # game/ch17.rpy:274
 translate german ch17_3b74418c:
@@ -790,13 +790,13 @@ translate german ch17_7c527e8a:
 translate german ch17_ad2f7f0c:
 
     # "Round the ring the grey water leapt. Ilan felt the vault shudder. Far overhead, and forty kilometres off, sixty metres of sea stepped forward."
-    "Um den Ring her sprang das graue Wasser. Ilan spürte das Gewölbe erzittern. Weit über ihnen, vierzig Kilometer entfernt, machten sechzig Meter Meer einen Schritt nach vorn."
+    "Um den Ring herum sprang das graue Wasser. Ilan spürte das Gewölbe erzittern. Weit über ihnen, vierzig Kilometer entfernt, machten sechzig Meter Meer einen Schritt nach vorn."
 
 # game/ch17.rpy:340
 translate german ch17_5308d8eb:
 
     # c_anselm "I can run it faster. I'd rather not. One more step, and it's over your barges."
-    c_anselm "Ich kann es schneller laufen lassen. Ich möchte lieber nicht. Noch ein Schritt, und es steht über deinen Kähnen."
+    c_anselm "Ich kann es schneller laufen lassen. Ich möchte lieber nicht. Noch ein Schritt, und es geht über deine Kähne hinweg."
 
 # game/ch17.rpy:345
 translate german ch17_0084f6bd:
@@ -862,7 +862,7 @@ translate german ch17_d2351dad:
 translate german ch17_12e43b25:
 
     # "It was the wall behind him that answered. Ilan had passed a lamp at the foot of the stair, and the stair had lit. Now the stone of the vault paled, and brightened, and turned to light from floor to roof."
-    "Es war die Wand hinter ihm, die antwortete. Ilan war am Fuß der Treppe an einer Lampe vorbeigekommen, und die Treppe hatte aufgeleuchtet. Jetzt wurde der Stein des Gewölbes blass, dann hell und wurde von Boden bis Decke zu Licht."
+    "Es war die Wand hinter ihm, die antwortete. Ilan war am Fuß der Treppe an einer Lampe vorbeigekommen, und die Treppe hatte aufgeleuchtet. Jetzt wurde der Stein des Gewölbes blass, dann hell und wurde vom Boden bis zur Decke zu Licht."
 
 # game/ch17.rpy:371
 translate german ch17_47633aa5:
@@ -874,7 +874,7 @@ translate german ch17_47633aa5:
 translate german ch17_a99acc7f:
 
     # "The pictures moved. They showed the ring, new, and the city standing round it under a clean sea. They showed the hoop turning, bright. A street rose out of the water as gently as a breath, with children sitting on the steps."
-    "Die Bilder bewegten sich. Sie zeigten den Ring, neu, und die Stadt, die um ihn her unter einem klaren Meer stand. Sie zeigten den Reif, wie er sich drehte, hell. Eine Straße hob sich aus dem Wasser, so sacht wie ein Atemzug, und auf den Stufen saßen Kinder."
+    "Die Bilder bewegten sich. Sie zeigten den Ring, neu, und die Stadt, die um ihn herum unter einem klaren Meer stand. Sie zeigten den Reif, wie er sich drehte, hell. Eine Straße hob sich aus dem Wasser, so sacht wie ein Atemzug, und auf den Stufen saßen Kinder."
 
 # game/ch17.rpy:376
 translate german ch17_8e8b7abf:
@@ -958,7 +958,7 @@ translate german ch17_776e342b:
 translate german ch17_455f5bac:
 
     # c_ilan "Every island on the Girdle."
-    c_ilan "Jede Insel im Gürtel."
+    c_ilan "Jede Insel am Gürtel."
 
 # game/ch17.rpy:415
 translate german ch17_638133fa:
@@ -1000,7 +1000,7 @@ translate german ch17_bfa2712a:
 translate german ch17_1d6a4a08:
 
     # c_anselm "I am too old to be anybody's third row. I should like to watch. I've only ever seen it done wrong."
-    c_anselm "Ich bin zu alt, um irgendjemandes dritte Reihe zu sein. Ich möchte zusehen. Ich habe es immer nur falsch gemacht gesehen."
+    c_anselm "Ich bin zu alt, um irgendjemandes dritte Reihe zu sein. Ich möchte zusehen. Ich habe immer nur gesehen, wie man es falsch macht."
 
 # game/ch17.rpy:434
 translate german ch17_8a075440:
@@ -1018,7 +1018,7 @@ translate german ch17_5c8a5c15:
 translate german ch17_ea47ac2b:
 
     # "Ilan cut the wheels out of their steel frame and seated them where the Makers had meant a heart to sit. He turned one of them end for end, and it ran cooler."
-    "Ilan schnitt die Räder aus ihrem Stahlrahmen und setzte sie dorthin, wo nach dem Willen der Erbauer ein Herz sitzen sollte. Eines davon drehte er um, Ende für Ende, und es lief kühler."
+    "Ilan schnitt die Räder aus ihrem Stahlrahmen und setzte sie dort ein, wo nach dem Willen der Erbauer ein Herz sitzen sollte. Eines davon drehte er um, das hintere Ende nach vorn, und es lief kühler."
 
 # game/ch17.rpy:440
 translate german ch17_535e9dfa:
@@ -1048,7 +1048,7 @@ translate german ch17_7cf95a81:
 translate german ch17_9c27ee28:
 
     # "The healers met it as it came. They were ready now, and there were six thousand of them. They sat in the shallows with their hands in it, and it came in hearing."
-    "Die Heilerinnen empfingen es, als es kam. Sie waren jetzt bereit, und es waren sechstausend. Sie saßen im flachen Wasser, die Hände darin, und es kam hörend herein."
+    "Die Heiler empfingen es, als es kam. Sie waren jetzt bereit, und es waren sechstausend. Sie saßen im flachen Wasser, die Hände darin, und es kam hörend herein."
 
 # game/ch17.rpy:453
 translate german ch17_be07071f:
@@ -1090,7 +1090,7 @@ translate german ch17_d4dab510:
 translate german ch17_0e5ec4d3:
 
     # c_anselm "I did."
-    c_anselm "Das habe ich."
+    c_anselm "Stimmt."
 
 # game/ch17.rpy:472
 translate german ch17_3d68c76a:
@@ -1114,13 +1114,13 @@ translate german ch17_6d602dc6:
 translate german ch17_87960a1a:
 
     # c_anselm "Go on. They'll want you in the water. It's the only thing I taught you that I'm not ashamed of. Knowing where you're wanted."
-    c_anselm "Geh nur. Sie werden dich im Wasser haben wollen. Es ist das Einzige, was ich dir beigebracht habe, dessen ich mich nicht schäme. Zu wissen, wo man gebraucht wird."
+    c_anselm "Geh nur. Sie werden dich im Wasser brauchen. Es ist das Einzige, was ich dir beigebracht habe, dessen ich mich nicht schäme. Zu wissen, wo man gebraucht wird."
 
 # game/ch17.rpy:485
 translate german ch17_76119d12:
 
     # "Maelis had taken off her coat. She folded it, and laid it on the stone, and sat down beside him at the edge of the ring. She put out her hand. After a moment he gave her his, rags and all."
-    "Maelis hatte ihren Mantel ausgezogen. Sie faltete ihn, legte ihn auf den Stein und setzte sich neben ihn an den Rand des Rings. Sie streckte die Hand aus. Nach einem Moment gab er ihr seine, Lumpen und alles."
+    "Maelis hatte ihren Mantel ausgezogen. Sie faltete ihn, legte ihn auf den Stein und setzte sich neben ihn an den Rand des Rings. Sie streckte die Hand aus. Nach einem Moment gab er ihr seine, mitsamt den Lumpen."
 
 # game/ch17.rpy:489
 translate german ch17_4b1b6be3:
@@ -1186,7 +1186,7 @@ translate german ch17_5a0f1ec6:
 translate german ch17_b3311871:
 
     # "The callers of Kelder gave, with their brass tags on. Hesper's twelve came in last, hard and bright and exact. They knew how a great weight is built."
-    "Die Rufer von Kelder gaben, die Messingmarken noch um. Hespers Zwölf kamen als Letzte, hart und hell und genau. Sie wussten, wie ein großes Gewicht aufgebaut wird."
+    "Die Rufer von Kelder gaben, die Messingmarken noch am Handgelenk. Hespers Zwölf kamen als Letzte, hart und hell und genau. Sie wussten, wie man eine große Last baut."
 
 # game/ch17.rpy:514
 translate german ch17_e9ebf08b:
@@ -1204,7 +1204,7 @@ translate german ch17_daee56c2:
 translate german ch17_5f08cf06:
 
     # "He saw every street and every foundation. He saw where the rock was sound and where it was not. He had been holding a guess. Now he had a drawing."
-    "Er sah jede Straße und jedes Fundament. Er sah, wo der Fels fest war und wo nicht. Er hatte eine Vermutung gehalten. Jetzt hatte er eine Zeichnung."
+    "Er sah jede Straße und jedes Fundament. Er sah, wo der Fels fest war und wo nicht. Er hatte nur eine Vermutung gehabt. Jetzt hatte er eine Zeichnung."
 
 # game/ch17.rpy:522
 translate german ch17_40730994:
@@ -1252,7 +1252,7 @@ translate german ch17_3a624501:
 translate german ch17_b448f25f:
 
     # "It stopped when half of it stood dry in the air. The other half lay in clear deep water. A person could walk from the high towers down a broad white stair and, without a break, go on walking under water."
-    "Sie hörte auf, als die Hälfte von ihr trocken in der Luft stand. Die andere Hälfte lag in klarem tiefem Wasser. Man konnte von den hohen Türmen eine breite weiße Treppe hinabgehen und, ohne Unterbrechung, unter Wasser weitergehen."
+    "Sie hielt an, als die Hälfte von ihr trocken in der Luft stand. Die andere Hälfte lag in klarem tiefem Wasser. Man konnte von den hohen Türmen eine breite weiße Treppe hinabgehen und, ohne Unterbrechung, unter Wasser weitergehen."
 
 # game/ch17.rpy:539
 translate german ch17_8cbc6fd9:

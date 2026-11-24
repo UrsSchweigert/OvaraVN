@@ -22,7 +22,7 @@ translate german ch07_8c795f92:
 translate german ch07_e227e43b:
 
     # "Okonta did not let him off. She came at him in the gallery morning and evening, with the needle or with the flat of her hand."
-    "Okonta ließ ihn nicht davonkommen. Morgens und abends kam sie in der Galerie über ihn, mit der Nadel oder mit der flachen Hand."
+    "Okonta ließ ihn nicht davonkommen. Morgens und abends ging sie in der Galerie auf ihn los, mit der Nadel oder mit der flachen Hand."
 
 # game/ch07.rpy:21
 translate german ch07_65d9d62e:
@@ -58,7 +58,7 @@ translate german ch07_4893810d:
 translate german ch07_d1027998:
 
     # c_okonta "It's never once come up in these waters. There's not a calling stone between the two Shoulders."
-    c_okonta "Er ist hier nie ein einziges Mal aufgetaucht. Zwischen den beiden Schultern gibt es keinen einzigen Rufstein."
+    c_okonta "Er ist in diesen Gewässern nicht ein einziges Mal aufgetaucht. Zwischen den beiden Schultern gibt es keinen einzigen Rufstein."
 
 # game/ch07.rpy:38
 translate german ch07_e9e24fba:
@@ -172,7 +172,7 @@ translate german ch07_5ed491c5:
 translate german ch07_29e9d72c:
 
     # c_okonta "Don't ever touch it. It'll take your hand off."
-    c_okonta "Fass sie niemals an. Sie nehmen dir die Hand ab."
+    c_okonta "Fass sie niemals an. Sie trennen dir die Hand ab."
 
 # game/ch07.rpy:100
 translate german ch07_e12001e8:
@@ -202,7 +202,7 @@ translate german ch07_d2c14fb7:
 translate german ch07_b11063ca:
 
     # "She sniffed."
-    "Sie schniefte."
+    "Sie rümpfte die Nase."
 
 # game/ch07.rpy:115
 translate german ch07_b15be704:
@@ -292,7 +292,7 @@ translate german ch07_93806257:
 translate german ch07_9139fd8a:
 
     # "He put his face under and looked. There were fields of stone towers down there, hundreds of them, crooked and tall. Each poured out a plume of black water that glowed dull red at its root."
-    "Er steckte das Gesicht ins Wasser und sah hinab. Dort unten standen Felder aus Steintürmen, Hunderte davon, schief und hoch. Jeder stieß eine Fahne schwarzen Wassers aus, die an ihrem Fuß dumpf rot glühte."
+    "Er steckte das Gesicht ins Wasser und sah hinab. Dort unten standen Felder aus Steintürmen, Hunderte davon, schief und hoch. Jeder stieß eine Fahne schwarzen Wassers aus, die an ihrer Wurzel dumpf rot glühte."
 
 # game/ch07.rpy:161
 translate german ch07_81d86e69:
@@ -304,7 +304,7 @@ translate german ch07_81d86e69:
 translate german ch07_a08c18a0:
 
     # "Nothing sang. He realised that he had not heard a sound he had not made himself since the Dragon's note died away. It was not the silence of the Slick. That had been an absence. This was the silence of a room where someone is listening."
-    "Nichts sang. Er merkte, dass er, seit der Ton des Drachen verklungen war, kein Geräusch gehört hatte, das er nicht selbst gemacht hatte. Es war nicht die Lautlosigkeit des Schlicks. Die war ein Fehlen gewesen. Dies hier war die Lautlosigkeit eines Zimmers, in dem jemand lauscht."
+    "Nichts sang. Er merkte, dass er, seit der Ton des Drachen verklungen war, kein Geräusch gehört hatte, das er nicht selbst gemacht hatte. Es war nicht die Lautlosigkeit des Schlicks. Die war ein Fehlen gewesen. Dies hier war die Stille eines Zimmers, in dem jemand lauscht."
 
 # game/ch07.rpy:167
 translate german ch07_36ee7780:
@@ -424,7 +424,7 @@ translate german ch07_ae5a2f74:
 translate german ch07_380d5a01:
 
     # "Hundreds of them were there. They were turning, slowly, wing behind wing, in a ring so wide that he could not see across it. It was the Wheel. Maelis had named it to him once. It had been turning before the Makers built their first city, and it had never stopped."
-    "Hunderte von ihnen waren dort. Sie drehten sich langsam, Flügel hinter Flügel, in einem Ring, so weit, dass er nicht hinüberblicken konnte. Es war das Rad. Maelis hatte es ihm einmal genannt. Es hatte sich gedreht, ehe die Erbauer ihre erste Stadt bauten, und es hatte nie aufgehört."
+    "Hunderte von ihnen waren dort. Sie drehten sich langsam, Flügel hinter Flügel, in einem Ring, so weit, dass er nicht hinüberblicken konnte. Es war das Rad. Maelis hatte ihm den Namen einmal genannt. Es hatte sich gedreht, ehe die Erbauer ihre erste Stadt bauten, und es hatte nie aufgehört."
 
 # game/ch07.rpy:228
 translate german ch07_77fbdda6:
@@ -454,13 +454,13 @@ translate german ch07_e07ea60e:
 translate german ch07_e65e8105:
 
     # "There were forests that ran from Tip to Tip, unbroken. The water was so full of life that it was never dark. He saw the Makers' cities, lit, under clean water, with children swimming between the towers. He saw the Dragon new, and a hundred like it, a web of bright roads round the world."
-    "Es gab Wälder, die von Pol zu Pol reichten, ungebrochen. Das Wasser war so voller Leben, dass es nie dunkel war. Er sah die Städte der Erbauer, erleuchtet, unter sauberem Wasser, mit Kindern, die zwischen den Türmen schwammen. Er sah den Drachen neu, und hundert wie ihn, ein Netz heller Straßen um die Welt."
+    "Es gab Wälder, die von Pol zu Pol reichten, ohne Lücke. Das Wasser war so voller Leben, dass es nie dunkel war. Er sah die Städte der Erbauer, erleuchtet, unter sauberem Wasser, mit Kindern, die zwischen den Türmen schwammen. Er sah den Drachen neu, und hundert wie ihn, ein Netz heller Straßen um die Welt."
 
 # game/ch07.rpy:241
 translate german ch07_3189d5e4:
 
     # "He saw the Sinking. It was not the wave he had imagined. It was slow, a long patient drowning that took generations. Some people walked down into the water as it rose, and some climbed away from it. He saw two sisters part on a shore, one going each way."
-    "Er sah das Versinken. Es war nicht die Welle, die er sich vorgestellt hatte. Es war langsam, ein langes, geduldiges Ertrinken, das Generationen dauerte. Manche Menschen gingen ins Wasser hinein, während es stieg, und manche stiegen davor hinauf. Er sah zwei Schwestern sich an einem Ufer trennen, jede ging in eine andere Richtung."
+    "Er sah das Versinken. Es war nicht die Welle, die er sich vorgestellt hatte. Es war langsam, ein langes, geduldiges Ertrinken, das Generationen dauerte. Manche Menschen gingen ins Wasser hinein, während es stieg, und manche stiegen höher, fort von ihm. Er sah zwei Schwestern sich an einem Ufer trennen, jede ging in eine andere Richtung."
 
 # game/ch07.rpy:245
 translate german ch07_805e637c:
@@ -478,7 +478,7 @@ translate german ch07_7444a5c8:
 translate german ch07_2ba617bf:
 
     # "He saw a black sea under a storm, with cases and cork floats and coats drifting on it. One boy was among them, alone, in a ferryman's jacket far too big for him. A wing rose under the boy and lifted him."
-    "Er sah ein schwarzes Meer unter einem Sturm, auf dem Kisten und Korkbojen und Mäntel trieben. Ein Junge war unter ihnen, allein, in einer Fährmannsjacke, die ihm viel zu groß war. Ein Flügel hob sich unter dem Jungen und trug ihn empor."
+    "Er sah ein schwarzes Meer unter einem Sturm, auf dem Koffer und Korkbojen und Mäntel trieben. Ein Junge war unter ihnen, allein, in einer Fährmannsjacke, die ihm viel zu groß war. Ein Flügel hob sich unter dem Jungen und trug ihn empor."
 
 # game/ch07.rpy:253
 translate german ch07_74608809:
@@ -502,7 +502,7 @@ translate german ch07_58329b5d:
 translate german ch07_70bcda64:
 
     # "He could not read the name. He knew the hand. He had been looking at it for months."
-    "Den Namen konnte er nicht lesen. Die Hand kannte er. Er hatte sie monatelang angesehen."
+    "Den Namen konnte er nicht lesen. Die Hand kannte er. Er hatte sie seit Monaten vor Augen."
 
 # game/ch07.rpy:264
 translate german ch07_19d6cbe4:
@@ -568,13 +568,13 @@ translate german ch07_054604c0:
 translate german ch07_550e7d04:
 
     # "The Lantern mended what was broken. The Hush was where you came when nothing was broken and you still could not go on. The dark and the silence were the medicine, and the warm water, and somebody's hand."
-    "Die Laterne heilte, was zerbrochen war. Das Schweigen war der Ort, an den man kam, wenn nichts zerbrochen war und man trotzdem nicht weiterkonnte. Das Dunkel und die Lautlosigkeit waren die Arznei, und das warme Wasser, und die Hand von jemandem."
+    "Die Laterne heilte, was zerbrochen war. Das Schweigen war der Ort, an den man kam, wenn nichts zerbrochen war und man trotzdem nicht weiterkonnte. Das Dunkel und die Stille waren die Arznei, und das warme Wasser, und die Hand von jemandem."
 
 # game/ch07.rpy:291
 translate german ch07_06aa563c:
 
     # "One of the healers took him by the sleeve. She led him through the quiet to a small room where a single ember of light burned in a dish."
-    "Eine der Heilerinnen nahm ihn am Ärmel. Sie führte ihn durch die Lautlosigkeit in einen kleinen Raum, in dem in einer Schale eine einzelne Glut aus Licht brannte."
+    "Eine der Heilerinnen nahm ihn am Ärmel. Sie führte ihn durch die Stille in einen kleinen Raum, in dem in einer Schale eine einzelne Glut aus Licht brannte."
 
 # game/ch07.rpy:295
 translate german ch07_94ae3b45:
@@ -586,7 +586,7 @@ translate german ch07_94ae3b45:
 translate german ch07_6bf5d68d:
 
     # "She let him sit. For a long time neither of them said anything. He thought that she looked like a house with one room shut up."
-    "Sie ließ ihn sitzen. Lange sagte keiner von ihnen etwas. Er dachte, dass sie aussah wie ein Haus mit einem verschlossenen Zimmer."
+    "Sie ließ ihn Platz nehmen. Lange sagte keiner von ihnen etwas. Er dachte, dass sie aussah wie ein Haus mit einem verschlossenen Zimmer."
 
 # game/ch07.rpy:302
 translate german ch07_847bdd3f:
@@ -712,7 +712,7 @@ translate german ch07_f52a6096:
 translate german ch07_9e202b91:
 
     # "He thought of Elder Oro under the lamp. He thought of Davin showing him a gate latch for the fourth time, and of Hesper's shut face."
-    "Er dachte an Ältester Oro unter der Lampe. Er dachte an Davin, der ihm zum vierten Mal den Torriegel zeigte, und an Hespers verschlossenes Gesicht."
+    "Er dachte an den Ältesten Oro unter der Lampe. Er dachte an Davin, der ihm zum vierten Mal den Gatterriegel zeigte, und an Hespers verschlossenes Gesicht."
 
 # game/ch07.rpy:337
 translate german ch07_2dc279a6:
@@ -778,7 +778,7 @@ translate german ch07_4517065a:
 translate german ch07_9fcf27bd:
 
     # "In Saltgate a mariner was a curiosity. Anywhere else on the islands she would have been a specimen. She taught her son the names of kelp from memory. She taught him to hide."
-    "In Saltgate war ein Meermensch eine Kuriosität. Überall sonst auf den Inseln wäre sie ein Exemplar gewesen. Sie lehrte ihren Sohn die Namen des Kelps auswendig. Sie lehrte ihn, sich zu verbergen."
+    "In Saltgate war ein Meermensch eine Kuriosität. Überall sonst auf den Inseln wäre sie ein Exemplar gewesen. Sie lehrte ihren Sohn aus dem Gedächtnis die Namen des Kelps. Sie lehrte ihn, sich zu verbergen."
 
 # game/ch07.rpy:369
 translate german ch07_c87a24a0:
@@ -808,13 +808,13 @@ translate german ch07_e595b7d6:
 translate german ch07_8472183c:
 
     # "The week after his father's funeral a man came to the school on the Sluice. He was from the Meridian Scholarship, which every dock child had heard of and none had ever won. He set out a tray of objects on the master's desk, and had the top form come up one at a time to handle them."
-    "In der Woche nach dem Begräbnis seines Vaters kam ein Mann in die Schule am Siel. Er kam vom Meridian-Stipendium, von dem jedes Hafenkind gehört und das keines je gewonnen hatte. Er legte ein Tablett mit Gegenständen auf das Lehrerpult und ließ die oberste Klasse einzeln herauskommen, um sie in die Hand zu nehmen."
+    "In der Woche nach dem Begräbnis seines Vaters kam ein Mann in die Schule am Siel. Er kam vom Meridian-Stipendium, von dem jedes Hafenkind gehört und das keines je gewonnen hatte. Er legte ein Tablett mit Gegenständen auf das Lehrerpult und ließ die oberste Klasse einzeln nach vorn kommen, um sie in die Hand zu nehmen."
 
 # game/ch07.rpy:382
 translate german ch07_81060e9d:
 
     # "There was a brass sextant, and a slide rule, and a lump of ore. There was a short grey rod of something smooth that was neither glass nor stone. Ilan picked it up because it was the only thing on the tray he did not know. It was warm. For a moment, far down inside it, there was a light like a struck match."
-    "Da waren ein Sextant aus Messing und ein Rechenschieber und ein Brocken Erz. Da war ein kurzer grauer Stab aus etwas Glattem, das weder Glas noch Stein war. Ilan nahm ihn, weil er das einzige Ding auf dem Tablett war, das er nicht kannte. Er war warm. Einen Moment lang war tief in seinem Inneren ein Licht wie ein angerissenes Streichholz."
+    "Da waren ein Sextant aus Messing und ein Rechenschieber und ein Brocken Erz. Da war ein kurzer grauer Stab aus etwas Glattem, das weder Glas noch Stein war. Ilan nahm ihn, weil er das einzige Ding auf dem Tablett war, das er nicht kannte. Er war warm. Einen Moment lang war tief im Inneren des Stabs ein Licht wie ein angerissenes Streichholz."
 
 # game/ch07.rpy:384
 translate german ch07_806109a0:
@@ -844,7 +844,7 @@ translate german ch07_f3484d27:
 translate german ch07_07f60a15:
 
     # "He never raised his voice. He never forgot a thing he was told. He came to the launch of Ilan's first survey ship and stood at the back. Ilan had loved his father. He had not known, until now, how badly he had gone on needing one."
-    "Er erhob nie die Stimme. Er vergaß nie etwas, das man ihm gesagt hatte. Er kam zum Stapellauf von Ilans erstem Vermessungsschiff und stand ganz hinten. Ilan hatte seinen Vater geliebt. Er hatte nicht gewusst, bis jetzt, wie sehr er weiter einen gebraucht hatte."
+    "Er erhob nie die Stimme. Er vergaß nie etwas, das man ihm gesagt hatte. Er kam zum Stapellauf von Ilans erstem Vermessungsschiff und stand ganz hinten. Ilan hatte seinen Vater geliebt. Bis jetzt hatte er nicht gewusst, wie sehr er weiterhin einen gebraucht hatte."
 
 # game/ch07.rpy:398
 translate german ch07_522ebb10:
@@ -874,13 +874,13 @@ translate german ch07_ecdab38b:
 translate german ch07_89ef5163:
 
     # "It lay under a sill in the open Girdle, beneath forty metres of silt, entire. He had felt it there for years, without knowing what he felt. Rook had asked for the dig. He had asked gently, over the fish, six years running: {i}that sill in the open Girdle, the one you say feels wrong. Humour me.{/i} Ilan led it himself."
-    "Sie lag unter einer Schwelle im offenen Gürtel, unter vierzig Metern Schlamm, vollständig. Er hatte sie dort jahrelang gespürt, ohne zu wissen, was er spürte. Rook hatte um die Grabung gebeten. Er hatte sanft darum gebeten, beim Fisch, sechs Jahre hintereinander: {i}Diese Schwelle im offenen Gürtel, die sich deiner Meinung nach falsch anfühlt. Tu mir den Gefallen.{/i} Ilan leitete sie selbst."
+    "Sie lag unter einer Schwelle im offenen Gürtel, unter vierzig Metern Schlamm, unversehrt. Er hatte sie dort jahrelang gespürt, ohne zu wissen, was er spürte. Rook hatte um die Grabung gebeten. Er hatte sanft darum gebeten, beim Fisch, sechs Jahre hintereinander: {i}Diese Schwelle im offenen Gürtel, die sich deiner Meinung nach falsch anfühlt. Tu mir den Gefallen.{/i} Ilan leitete sie selbst."
 
 # game/ch07.rpy:411
 translate german ch07_9af13d0f:
 
     # "He was the first to walk into its central hall, in a hard suit, with a lamp, and it woke. Lamps came on down every street. The walls turned to light. They showed him the people who had built it, and they did not have mariner faces or agravar faces. They had both. Long limbs and broad hands, and large dark eyes in weathered skin. One people."
-    "Er war der Erste, der in ihre zentrale Halle ging, im Taucheranzug, mit einer Lampe, und sie erwachte. In allen Straßen gingen Lampen an. Die Wände wurden zu Licht. Sie zeigten ihm die Menschen, die sie erbaut hatten, und diese hatten weder die Gesichter von Meerleuten noch die von Agravaren. Sie hatten beides. Lange Glieder und breite Hände und große dunkle Augen in wettergegerbter Haut. Ein Volk."
+    "Er war der Erste, der in die zentrale Halle der Stadt ging, im Taucheranzug, mit einer Lampe, und sie erwachte. In allen Straßen gingen Lampen an. Die Wände wurden zu Licht. Sie zeigten ihm die Menschen, die sie erbaut hatten, und diese hatten weder die Gesichter von Meerleuten noch die von Agravaren. Sie hatten beides. Lange Glieder und breite Hände und große dunkle Augen in wettergegerbter Haut. Ein Volk."
 
 # game/ch07.rpy:412
 translate german ch07_a4d5749d:
@@ -916,7 +916,7 @@ translate german ch07_94541005:
 translate german ch07_d046c96b:
 
     # "It was night, and the water was deep, and no one was looking. Crane said he was sorry, and seemed to mean it. {i}It's the chairman's order,{/i} he said. {i}I asked him twice.{/i}"
-    "Es war Nacht, und das Wasser war tief, und niemand sah hin. Crane sagte, es tue ihm leid, und schien es ernst zu meinen. {i}Es ist der Befehl des Vorsitzenden,{/i} sagte er. {i}Ich habe ihn zweimal gefragt.{/i}"
+    "Es war Nacht, und das Wasser war tief, und niemand sah hin. Crane sagte, es tue ihm leid, und schien es ernst zu meinen. {i}Es ist der Befehl des Vorsitzenden,{/i} sagte er. {i}Ich habe zweimal nachgefragt.{/i}"
 
 # game/ch07.rpy:428
 translate german ch07_48be5e47:
@@ -946,7 +946,7 @@ translate german ch07_a4105a75:
 translate german ch07_87fb7649:
 
     # c_ilan "Low Anthem. All of them. The burns. Davin. It was a line on a chart. I never even went to {i}see{/i}."
-    c_ilan "Low Anthem. Sie alle. Die Verbrennungen. Davin. Es war eine Linie auf einer Karte. Ich bin nicht einmal hingegangen, um zu {i}sehen{/i}."
+    c_ilan "Low Anthem. Alle dort. Die Verbrennungen. Davin. Es war eine Linie auf einer Karte. Ich bin nicht einmal hingegangen, um zu {i}sehen{/i}."
 
 # game/ch07.rpy:445
 translate german ch07_8cd0f9cf:
@@ -1036,7 +1036,7 @@ translate german ch07_1602be80:
 translate german ch07_bae802f7:
 
     # c_maelis "When Jef came south and found a boy sweeping a hospital, he thought the sea had sent him his own self to do over. He took Anselm north the same season he took me."
-    c_maelis "Als Jef nach Süden kam und einen Jungen fand, der ein Hospital fegte, dachte er, die See habe ihm sein eigenes Ich geschickt, damit er es noch einmal von vorn machen könne. Er nahm Anselm in derselben Jahreszeit mit nach Norden wie mich."
+    c_maelis "Als Jef nach Süden kam und einen Jungen fand, der ein Krankenhaus fegte, dachte er, die See habe ihm sein eigenes Ich geschickt, damit er es noch einmal von vorn machen könne. Er nahm Anselm in derselben Jahreszeit mit nach Norden wie mich."
 
 # game/ch07.rpy:472
 translate german ch07_ed0a0076:
@@ -1072,7 +1072,7 @@ translate german ch07_16dcf901:
 translate german ch07_30a9fc8f:
 
     # c_maelis "Jef never spoke of him as a failure. He spoke of him as a thing he had made badly."
-    c_maelis "Jef hat von ihm nie als von einem Versager gesprochen. Er sprach von ihm wie von etwas, das er schlecht gemacht hatte."
+    c_maelis "Jef hat von ihm nie als von einem Fehlschlag gesprochen. Er sprach von ihm wie von etwas, das er schlecht gemacht hatte."
 
 # game/ch07.rpy:482
 translate german ch07_d30c974c:
@@ -1150,7 +1150,7 @@ translate german ch07_52779dfc:
 translate german ch07_65b9a570:
 
     # "He also knew now, to the day, how long Halcyon needed to finish the engine."
-    "Er wusste jetzt auch, auf den Tag genau, wie lange Halcyon brauchte, um die Maschine fertigzustellen."
+    "Er wusste jetzt auch, auf den Tag genau, wie lange Halcyon noch brauchte, um die Maschine fertigzustellen."
 
 # game/ch07.rpy:523
 translate german ch07_da74cad3:
@@ -1168,7 +1168,7 @@ translate german ch07_9f339816:
 translate german ch07_a9b84ba6:
 
     # "He had thought, coming up through the warm dark, that he might wait. There would be a better time. She was sixteen, and a long way from home. He had thought it for about as long as it took to rise a hundred metres. Then he had heard Jef say {i}it doesn't get lighter for being left.{/i}"
-    "Beim Aufstieg durch das warme Dunkel hatte er gedacht, er könne vielleicht warten. Es werde eine bessere Zeit geben. Sie war sechzehn und weit weg von zu Hause. Er hatte das so lange gedacht, wie man braucht, um hundert Meter aufzusteigen. Dann hatte er Jef sagen hören: {i}Davon, dass man es liegen lässt, wird es nicht leichter.{/i}"
+    "Beim Aufstieg durch das warme Dunkel hatte er gedacht, er könne vielleicht warten. Es werde einen besseren Zeitpunkt geben. Sie war sechzehn und weit weg von zu Hause. Er hatte das so lange gedacht, wie man braucht, um hundert Meter aufzusteigen. Dann hatte er Jef sagen hören: {i}Es wird nicht leichter, wenn man es liegen lässt.{/i}"
 
 # game/ch07.rpy:534
 translate german ch07_a34090f3:
@@ -1240,7 +1240,7 @@ translate german ch07_6b80e082:
 translate german ch07_afd48835:
 
     # c_okonta "Well. He picked you, and he was no fool. And I said the rule to him, not to you."
-    c_okonta "Nun. Er hat dich ausgewählt, und er war kein Narr. Und die Regel habe ich ihm gegenüber gesprochen, nicht dir gegenüber."
+    c_okonta "Nun. Er hat dich ausgewählt, und er war kein Narr. Und die Regel habe ich ihm aufgesagt, nicht dir."
 
 # game/ch07.rpy:563
 translate german ch07_1dde53d0:
@@ -1300,7 +1300,7 @@ translate german ch07_50fd2edb:
 translate german ch07_45509d32:
 
     # c_sefa "I hit you in the face ten days ago to stop you dying for a lot of strangers. You didn't even know what you'd done then, and you nearly died for them anyway. I can't make it fit."
-    c_sefa "Ich habe dir vor zehn Tagen ins Gesicht geschlagen, damit du nicht für ein paar Fremde stirbst. Du wusstest damals nicht einmal, was du getan hattest, und bist trotzdem beinahe für sie gestorben. Ich kriege das nicht zusammen."
+    c_sefa "Ich habe dir vor zehn Tagen ins Gesicht geschlagen, damit du nicht für einen Haufen Fremde stirbst. Du wusstest damals nicht einmal, was du getan hattest, und bist trotzdem beinahe für sie gestorben. Ich kriege das nicht zusammen."
 
 # game/ch07.rpy:583
 translate german ch07_2dbe1741:

@@ -46,7 +46,7 @@ translate german ch02_a143ee25:
 translate german ch02_38503762:
 
     # "Nobody was unkind to him. But the night crew no longer laughed when he got the words wrong. Old people stopped him in the passages to touch his sleeve, as they had touched the lamp. A woman brought her baby to be looked at by him, he did not know what for."
-    "Niemand war unfreundlich zu ihm. Aber die Nachtschicht lachte nicht mehr, wenn er sich in den Wörtern irrte. Alte Leute hielten ihn in den Gängen an, um seinen Ärmel zu berühren, so wie sie die Lampe berührt hatten. Eine Frau brachte ihr Baby zu ihm, damit er es ansah, er wusste nicht, wozu."
+    "Niemand war unfreundlich zu ihm. Aber die Nachtschicht lachte nicht mehr, wenn er die Worte falsch sang. Alte Leute hielten ihn in den Gängen an, um seinen Ärmel zu berühren, so wie sie die Lampe berührt hatten. Eine Frau brachte ihr Baby zu ihm, damit er es ansah, er wusste nicht, wozu."
 
 # game/ch02.rpy:32
 translate german ch02_31972253:
@@ -70,7 +70,7 @@ translate german ch02_97d96ee5:
 translate german ch02_218050e1:
 
     # c_oro "He complained of it for nine centuries, I'm told. I shouldn't worry. You'll let a net of fish out tomorrow and they'll remember what you are."
-    c_oro "Neun Jahrhunderte lang hat er sich darüber beklagt, wie man mir erzählt. Ich würde mir keine Sorgen machen. Morgen lässt du ein Netz voll Fische frei, und sie werden sich wieder daran erinnern, was du bist."
+    c_oro "Neun Jahrhunderte lang hat er sich darüber beklagt, wie man mir erzählt. Ich würde mir keine Sorgen machen. Morgen lässt du wieder ein Netz voll Fische entwischen, und sie werden sich wieder daran erinnern, was du bist."
 
 # game/ch02.rpy:42
 translate german ch02_fe12084f:
@@ -82,19 +82,19 @@ translate german ch02_fe12084f:
 translate german ch02_48f57e11:
 
     # c_oro "Though I'd like to know what that is, before I die. Go and see the dark side with me. Humour an old man."
-    c_oro "Auch wenn ich gern wüsste, was das ist, bevor ich sterbe. Sieh dir mit mir die dunkle Seite an. Tu einem alten Mann den Gefallen."
+    c_oro "Allerdings wüsste ich gern, was das ist, bevor ich sterbe. Sieh dir mit mir die dunkle Seite an. Tu einem alten Mann den Gefallen."
 
 # game/ch02.rpy:49
 translate german ch02_45cd5a0a:
 
     # "They went round the dark half of the dome together, the elder leaning on his arm. There were eleven dead lamps. Wrack laid his hands on each of them."
-    "Gemeinsam gingen sie um die dunkle Hälfte der Kuppel, der Älteste auf seinen Arm gestützt. Es gab elf tote Lampen. Wrack legte die Hände auf jede von ihnen."
+    "Gemeinsam gingen sie die dunkle Hälfte der Kuppel ab, der Älteste auf seinen Arm gestützt. Es gab elf tote Lampen. Wrack legte die Hände auf jede von ihnen."
 
 # game/ch02.rpy:50
 translate german ch02_b86df6b5:
 
     # "Nine he could not open at all; his fingers slid over them and found nothing, and he could not have said why. Two had seams. One of those was beyond him."
-    "Neun konnte er gar nicht öffnen; seine Finger glitten darüber und fanden nichts, und er hätte nicht sagen können, warum. Zwei hatten Nähte. Eine davon überstieg seine Kräfte."
+    "Neun konnte er gar nicht öffnen; seine Finger glitten darüber und fanden nichts, und er hätte nicht sagen können, warum. Zwei hatten Nähte. Eine davon überstieg sein Können."
 
 # game/ch02.rpy:51
 translate german ch02_a05f9707:
@@ -178,7 +178,7 @@ translate german ch02_07e17dd9:
 translate german ch02_7e1e3be7:
 
     # c_davin "It's been going on two hundred years. It's worse than it was. There's stuff in it now that burns. We net it, and bag it, and the carrying crews take it out to the dead ground and leave it. Then we plant bitterwrack to drink what we missed. That's being a Tender. Most of us here are Tenders."
-    c_davin "Das geht seit zweihundert Jahren so. Es ist schlimmer geworden. Inzwischen ist Zeug darin, das brennt. Wir fangen es mit Netzen auf, packen es in Beutel, und die Trägertrupps bringen es hinaus auf den toten Grund und lassen es dort. Dann pflanzen wir Bittertang, damit er trinkt, was wir nicht erwischt haben. Das ist es, ein Heger zu sein. Die meisten von uns hier sind Heger."
+    c_davin "Das geht seit zweihundert Jahren so. Es ist schlimmer geworden. Inzwischen ist Zeug darin, das brennt. Wir fangen es mit Netzen auf, packen es in Beutel, und die Trägertrupps bringen es hinaus auf den toten Grund und lassen es dort. Dann pflanzen wir Bittertang, damit er trinkt, was wir nicht erwischt haben. Das heißt es, ein Heger zu sein. Die meisten von uns hier sind Heger."
 
 # game/ch02.rpy:90
 translate german ch02_5a6af205:
@@ -202,7 +202,7 @@ translate german ch02_09a35b0e:
 translate german ch02_0e9adc97:
 
     # c_davin "There's folk in the wild kelp south of here who say we should stop netting and start sinking. Put a few of those barges on the bottom, and see if the islanders learn. Some of them have done it."
-    c_davin "Im wilden Kelp südlich von hier gibt es Leute, die sagen, wir sollten aufhören, Netze zu werfen, und anfangen zu versenken. Ein paar von diesen Lastkähnen auf den Grund setzen und sehen, ob die Inselleute lernen. Einige haben es getan."
+    c_davin "Im wilden Kelp südlich von hier gibt es Leute, die sagen, wir sollten aufhören, Netze zu spannen, und anfangen zu versenken. Ein paar von diesen Lastkähnen auf den Grund setzen und sehen, ob die Inselleute lernen. Einige haben es getan."
 
 # game/ch02.rpy:97
 translate german ch02_293b9653:
@@ -328,7 +328,7 @@ translate german ch02_e56b600f:
 translate german ch02_c26486c8:
 
     # "He understood then where the scars had come from. She had not put her arms in a fire once. She had put them into this, year after year, since she was Sefa's age."
-    "Da verstand er, woher die Narben kamen. Sie hatte die Arme nicht ein einziges Mal in ein Feuer gesteckt. Sie hatte sie in dies hier gesteckt, Jahr um Jahr, seit sie so alt war wie Sefa."
+    "Da verstand er, woher die Narben kamen. Sie hatte die Arme nicht irgendwann einmal in ein Feuer gesteckt. Sie hatte sie in dies hier gesteckt, Jahr um Jahr, seit sie so alt war wie Sefa."
 
 # game/ch02.rpy:153
 translate german ch02_d8eacc0e:
@@ -340,7 +340,7 @@ translate german ch02_d8eacc0e:
 translate german ch02_38703885:
 
     # "He did not know he could do it. He only looked up at the long shadow of the hull and wanted it {i}gone{/i}, with his whole body, the way you want air."
-    "Er wusste nicht, dass er es konnte. Er sah nur zu dem langen Schatten des Rumpfes hinauf und wollte ihn {i}weg{/i}, mit dem ganzen Körper, so, wie man nach Luft verlangt."
+    "Er wusste nicht, dass er es konnte. Er sah nur zu dem langen Schatten des Rumpfes hinauf und wollte ihn {i}weghaben{/i}, mit dem ganzen Körper, so, wie man nach Luft verlangt."
 
 # game/ch02.rpy:159
 translate german ch02_3cf991a1:
@@ -352,7 +352,7 @@ translate german ch02_3cf991a1:
 translate german ch02_2f67c37c:
 
     # "Hesper said afterwards that it was like standing next to a bell when it is struck. The water under the barge stood up. It rose in a column the full width of the ship and lifted two thousand tonnes of steel clean out of the ocean."
-    "Hesper sagte hinterher, es sei gewesen, als stünde man neben einer Glocke, wenn sie angeschlagen wird. Das Wasser unter dem Lastkahn stand auf. Es erhob sich als Säule in der ganzen Breite des Schiffes und hob zweitausend Tonnen Stahl mühelos aus dem Ozean."
+    "Hesper sagte hinterher, es sei gewesen, als stünde man neben einer Glocke, wenn sie angeschlagen wird. Das Wasser unter dem Lastkahn stand auf. Es erhob sich als Säule in der ganzen Breite des Schiffes und hob zweitausend Tonnen Stahl ganz aus dem Ozean."
 
 # game/ch02.rpy:165
 translate german ch02_84148aed:
@@ -370,7 +370,7 @@ translate german ch02_13ae4f12:
 translate german ch02_bdc088dd:
 
     # "Wrack did not see that part. The moment the sea answered him he lost his hold on it, and the whole terrace went with it. Water slammed sideways through the forest. Nets, hooks, harvesters and tide hounds went tumbling end over end into the kelp."
-    "Diesen Teil sah Wrack nicht. In dem Augenblick, als das Meer ihm antwortete, verlor er es aus dem Griff, und die ganze Terrasse ging mit. Wasser schlug seitlich durch den Wald. Netze, Haken, Erntegeräte und Fluthunde überschlugen sich im Kelp."
+    "Diesen Teil sah Wrack nicht. In dem Augenblick, als das Meer ihm antwortete, entglitt es ihm, und die ganze Terrasse ging mit. Wasser schlug seitlich durch den Wald. Netze, Haken, Erntearbeiter und Fluthunde überschlugen sich im Kelp."
 
 # game/ch02.rpy:174
 translate german ch02_a717401d:
@@ -448,7 +448,7 @@ translate german ch02_25cb762e:
 translate german ch02_857b97dd:
 
     # "He had not known, until it stopped, that he had been hearing the sea since the moment he woke in the kelp. It had been a presence at the edge of things, like someone else in the house. Now a door had shut. The water at the sea-door was only water."
-    "Er hatte nicht gewusst, dass er das Meer gehört hatte, seit er im Kelp erwacht war, bis es verstummte. Es war eine Gegenwart am Rand der Dinge gewesen, wie ein anderer Mensch im Haus. Nun hatte sich eine Tür geschlossen. Das Wasser an der Meerpforte war nur noch Wasser."
+    "Bis es verstummte, hatte er nicht gewusst, dass er das Meer gehört hatte, seit er im Kelp erwacht war. Es war eine Gegenwart am Rand der Dinge gewesen, wie ein anderer Mensch im Haus. Nun hatte sich eine Tür geschlossen. Das Wasser an der Meerpforte war nur noch Wasser."
 
 # game/ch02.rpy:210
 translate german ch02_4fc7792f:
@@ -532,7 +532,7 @@ translate german ch02_884f12bb:
 translate german ch02_5e659449:
 
     # c_hesper "Three things, the old callers say. You have to be touching her; water that's joined to the sea, not a cupful on a table. You have to want one thing and only that thing. And you have to have standing, which means you've lived in her and looked after her, and she knows you."
-    c_hesper "Drei Dinge, sagen die alten Rufer. Du musst sie berühren; Wasser, das mit der See verbunden ist, nicht einen Becher voll auf einem Tisch. Du musst ein einziges Ding wollen und nur dieses. Und du brauchst Geltung bei ihr, das heißt, du hast in ihr gelebt und dich um sie gekümmert, und sie kennt dich."
+    c_hesper "Drei Dinge, sagen die alten Rufer. Du musst sie berühren; Wasser, das mit der See verbunden ist, nicht eine Tasse voll auf einem Tisch. Du musst eine einzige Sache wollen und nur diese. Und du brauchst Geltung bei ihr, das heißt, du hast in ihr gelebt und dich um sie gekümmert, und sie kennt dich."
 
 # game/ch02.rpy:246
 translate german ch02_2cbcabf6:
@@ -628,7 +628,7 @@ translate german ch02_7cf2070f:
 translate german ch02_30fabb16:
 
     # c_hesper "He's a better judge than I am. Don't make him wrong."
-    c_hesper "Er kann das besser beurteilen als ich. Gib ihm nicht unrecht."
+    c_hesper "Er kann das besser beurteilen als ich. Sorg dafür, dass er recht behält."
 
 # game/ch02.rpy:285
 translate german ch02_6af960da:
@@ -646,7 +646,7 @@ translate german ch02_e67adec9:
 translate german ch02_dca5f94e:
 
     # "He remembered it afterwards only in pieces. The sound, which was not a sound but a blow. The terrace he had worked folding in on itself. A crack running up the pale dome like a branch of lightning, and the sea going in."
-    "Danach erinnerte er sich nur in Bruchstücken daran. Der Klang, der kein Klang war, sondern ein Schlag. Die Terrasse, die er bearbeitet hatte, wie sie in sich zusammenfiel. Ein Riss, der wie ein Blitzast an der blassen Kuppel hinauflief, und das Meer, das hineinströmte."
+    "Danach erinnerte er sich nur in Bruchstücken daran. Das Geräusch, das kein Geräusch war, sondern ein Schlag. Die Terrasse, die er bearbeitet hatte, wie sie in sich zusammenfiel. Ein Riss, der wie ein Blitzast an der blassen Kuppel hinauflief, und das Meer, das eindrang."
 
 # game/ch02.rpy:294
 translate german ch02_66adc650:
@@ -784,13 +784,13 @@ translate german ch02_0c6d5bdb:
 translate german ch02_ab100b99:
 
     # "It was a sliver of pale metal, three times the length of a man and no thicker than a kelp stem, pointed at both ends. It had no visible means of doing anything. A soft light ran along its flank like the light on a fish. He knew, with the part of him that had opened the lamp, that it was Maker work, and that it was alive in the way the lamp had not been until he touched it."
-    "Es war ein Span aus hellem Metall, dreimal so lang wie ein Mann, nicht dicker als ein Kelpstamm, an beiden Enden spitz. Es hatte keine erkennbaren Mittel, irgendetwas zu tun. Ein sanftes Licht lief an seiner Flanke entlang wie das Licht auf einem Fisch. Er wusste, mit dem Teil von sich, der die Lampe geöffnet hatte, dass es Erbauerwerk war und lebendig, so wie die Lampe es nicht gewesen war, bis er sie berührte."
+    "Es war ein Span aus hellem Metall, dreimal so lang wie ein Mann, nicht dicker als ein Kelpstamm, an beiden Enden spitz. Nichts an ihm ließ erkennen, wie es irgendetwas tun sollte. Ein sanftes Licht lief an seiner Flanke entlang wie das Licht auf einem Fisch. Er wusste, mit dem Teil von sich, der die Lampe geöffnet hatte, dass es Erbauerwerk war und lebendig, so wie die Lampe es nicht gewesen war, bis er sie berührte."
 
 # game/ch02.rpy:357
 translate german ch02_314b2783:
 
     # "A woman stepped off it. She had been riding astride, lying along it. Thin pale scars ran from her temples down the sides of her neck and under her collar, as fine as if they had been drawn with a pen."
-    "Eine Frau stieg von ihm ab. Sie war rittlings geritten, der Länge nach darauf liegend. Dünne helle Narben zogen sich von ihren Schläfen die Halsseiten hinab und unter ihren Kragen, so fein, als wären sie mit einem Stift gezeichnet."
+    "Eine Frau stieg von ihm ab. Sie hatte rittlings darauf gelegen, der Länge nach ausgestreckt. Dünne helle Narben zogen sich von ihren Schläfen die Halsseiten hinab und unter ihren Kragen, so fein, als wären sie mit einem Stift gezeichnet."
 
 # game/ch02.rpy:361
 translate german ch02_44f993cd:
@@ -820,7 +820,7 @@ translate german ch02_55243d0c:
 translate german ch02_7fc466de:
 
     # c_okonta "I should have been closer. That's mine to carry. Are you the one?"
-    c_okonta "Ich hätte näher sein sollen. Das ist meine Last. Bist du derjenige?"
+    c_okonta "Ich hätte näher sein sollen. Das ist meine Last. Bist du es?"
 
 # game/ch02.rpy:375
 translate german ch02_a3f6cbe9_1:

@@ -88,7 +88,7 @@ translate german ch01_81199bc8:
 translate german ch01_085a0952:
 
     # "He looked. He was. Heavy surface boots, a torn grey jacket with a corporate crest half ripped away, and around both wrists the raw red marks of a cable tie."
-    "Er sah hin. Es stimmte. Schwere Stiefel von der Oberfläche, eine zerrissene graue Jacke, auf der ein Firmenwappen halb abgerissen war, und um beide Handgelenke die rohen roten Spuren eines Kabelbinders."
+    "Er sah hin. Es stimmte. Schwere Stiefel von der Oberfläche, eine zerrissene graue Jacke, auf der ein Konzernwappen halb abgerissen war, und um beide Handgelenke die rohen roten Spuren eines Kabelbinders."
 
 # game/ch01.rpy:57
 translate german ch01_49db40f4:
@@ -148,7 +148,7 @@ translate german ch01_5079e3dd:
 translate german ch01_4e337a61:
 
     # "He could swim, it turned out, though not as she did. She went through the water without seeming to do anything, a flick of the feet now and then, like a person strolling."
-    "Er konnte schwimmen, wie sich zeigte, wenn auch nicht so wie sie. Sie glitt durchs Wasser, ohne etwas zu tun, hin und wieder ein Schlag der Füße, wie jemand, der spazieren geht."
+    "Er konnte schwimmen, wie sich zeigte, wenn auch nicht so wie sie. Sie glitt durchs Wasser, scheinbar ohne etwas zu tun, hin und wieder ein Schlag der Füße, wie jemand, der spazieren geht."
 
 # game/ch01.rpy:90
 translate german ch01_fcec107e:
@@ -196,7 +196,7 @@ translate german ch01_8fe16ea3:
 translate german ch01_e0d02661:
 
     # "They were cutting fronds with hooks and laying them in floating nets. A shoal of fat silver fish grazed along the foot of a wall under the eye of two more hounds."
-    "Sie schnitten Wedel mit Haken und legten sie in schwimmende Netze. Ein Schwarm fetter silberner Fische graste am Fuß einer Mauer, unter dem Auge zweier weiterer Hunde."
+    "Sie schnitten Wedel mit Haken und legten sie in schwimmende Netze. Ein Schwarm fetter silberner Fische graste am Fuß einer Mauer, unter den Augen zweier weiterer Hunde."
 
 # game/ch01.rpy:112
 translate german ch01_b32d3d38:
@@ -274,7 +274,7 @@ translate german ch01_2bad6f82:
 translate german ch01_7f26ce7a:
 
     # c_sefa "A hold. Where people live. The Makers built them, before the Sinking. They built all of them, there's three hundred. We just keep them."
-    c_sefa "Eine Halte. Wo Menschen leben. Die Erbauer haben sie gebaut, vor dem Versinken. Alle haben sie gebaut, es gibt dreihundert. Wir bewahren sie nur."
+    c_sefa "Eine Halte. Wo Menschen leben. Die Erbauer haben sie gebaut, vor dem Versinken. Sie haben sie alle gebaut, es gibt dreihundert. Wir bewahren sie nur."
 
 # game/ch01.rpy:148
 translate german ch01_39a4690d:
@@ -286,7 +286,7 @@ translate german ch01_39a4690d:
 translate german ch01_17059678:
 
     # c_sefa "We're one of the small ones. Four hundred of us. Half our lamps are out. They've been out since before my grandmother was born, so nobody minds."
-    c_sefa "Wir sind eine von den kleinen. Vierhundert von uns. Die Hälfte unserer Lampen ist aus. Sie sind aus, seit bevor meine Großmutter geboren wurde, also stört es niemanden."
+    c_sefa "Wir sind eine von den kleinen. Vierhundert von uns. Die Hälfte unserer Lampen ist aus. Sie waren schon aus, bevor meine Großmutter geboren wurde, also stört es niemanden."
 
 # game/ch01.rpy:155
 translate german ch01_d2abb751:
@@ -406,7 +406,7 @@ translate german ch01_6259ec0a:
 translate german ch01_3103f067:
 
     # c_sefa "Every hold has them. They herd the silverbacks and they watch the terraces at night, and if a child swims off they bring it back by the collar. He's not a very good one."
-    c_sefa "Jede Halte hat welche. Sie hüten die Silberlinge, und nachts wachen sie über die Terrassen, und wenn ein Kind wegschwimmt, bringen sie es am Halsband zurück. Er ist nicht gerade ein guter."
+    c_sefa "Jede Halte hat welche. Sie hüten die Silberlinge, und nachts wachen sie über die Terrassen, und wenn ein Kind wegschwimmt, bringen sie es am Kragen zurück. Er ist nicht gerade ein guter."
 
 # game/ch01.rpy:204
 translate german ch01_9ebb4ce9:
@@ -436,7 +436,7 @@ translate german ch01_26fda778:
 translate german ch01_a64c7100:
 
     # "He did not know when he had last eaten, and that was the least of what he did not know."
-    "Er wusste nicht, wann er zuletzt gegessen hatte, und das war das Wenigste von dem, was er nicht wusste."
+    "Er wusste nicht, wann er zuletzt gegessen hatte, und das war noch das Geringste von dem, was er nicht wusste."
 
 # game/ch01.rpy:223
 translate german ch01_4ad65372:
@@ -538,7 +538,7 @@ translate german ch01_cafb8a9b:
 translate german ch01_c44481cd:
 
     # c_oro "No. Well. It'll come or it won't. In the meantime Ione will look at you."
-    c_oro "Nein. Nun. Es wird kommen oder nicht. Bis dahin sieht Ione dich an."
+    c_oro "Nein. Nun. Es wird kommen oder nicht. Bis dahin sieht Ione sich dich einmal an."
 
 # game/ch01.rpy:267
 translate german ch01_1ad33e73:
@@ -622,7 +622,7 @@ translate german ch01_ab14f5e1:
 translate german ch01_260eec2e:
 
     # c_sefa "Mother's way is to ask it to care about someone. That's intending, and the water you've asked is intended water. It mends things. Cuts, fevers, bones if you're good."
-    c_sefa "Muttersart ist, es zu bitten, sich um jemanden zu kümmern. Das ist Hegen, und das Wasser, das man gebeten hat, ist gehegtes Wasser. Es heilt. Schnittwunden, Fieber, Knochen, wenn man gut ist."
+    c_sefa "Mutters Art ist, es zu bitten, sich um jemanden zu kümmern. Das ist Hegen, und das Wasser, das man gebeten hat, ist gehegtes Wasser. Es heilt. Schnittwunden, Fieber, Knochen, wenn man gut ist."
 
 # game/ch01.rpy:300
 translate german ch01_6b7c4a9f:
@@ -664,7 +664,7 @@ translate german ch01_00ee9346:
 translate german ch01_b9300517:
 
     # "she told Elder Oro."
-    "sagte sie zu Ältester Oro."
+    "sagte sie zum Ältesten Oro."
 
 # game/ch01.rpy:318
 translate german ch01_2947284b:
@@ -730,7 +730,7 @@ translate german ch01_25e85aed:
 translate german ch01_0df2026f:
 
     # c_ione "But I'll say this to the elders. The undertow only takes from people who have the gift. So whatever else he is, he isn't an agravar. No agravar has ever been answered."
-    c_ione "Aber das sage ich den Ältesten. Der Sog nimmt nur denen etwas, die die Gabe haben. Was er auch sonst ist, ein Agravar ist er nicht. Noch nie hat das Meer einem Agravar geantwortet."
+    c_ione "Aber eines werde ich den Ältesten sagen. Der Sog nimmt nur denen etwas, die die Gabe haben. Was er auch sonst ist, ein Agravar ist er nicht. Noch nie hat das Meer einem Agravar geantwortet."
 
 # game/ch01.rpy:344
 translate german ch01_51b7301e:
@@ -808,13 +808,13 @@ translate german ch01_9e164ade:
 translate german ch01_8214d0b0:
 
     # "She was the only one for two hundred kilometres who could ask the sea to move and have it do so."
-    "Sie war die Einzige auf zweihundert Kilometer, die das Meer bitten konnte, sich zu bewegen, und es tat es auch."
+    "Sie war die Einzige auf zweihundert Kilometer, die das Meer bitten konnte, sich zu bewegen, und bei der es das auch tat."
 
 # game/ch01.rpy:383
 translate german ch01_4a0f4ea2:
 
     # "He learned the shape of the days. They were short, and the hold kept them by song."
-    "Er lernte die Gestalt der Tage kennen. Sie waren kurz, und die Halte gab sie durch Gesang an."
+    "Er lernte die Gestalt der Tage kennen. Sie waren kurz, und die Halte maß sie mit Gesang."
 
 # game/ch01.rpy:384
 translate german ch01_e3e9c66b:
@@ -832,7 +832,7 @@ translate german ch01_97b49b83:
 translate german ch01_07f74fe7:
 
     # "In the evenings the lamps on the lit side of the dome dimmed of their own accord, slowly, as they had every evening for three thousand years."
-    "Abends dimmten sich die Lampen auf der hellen Seite der Kuppel von selbst, langsam, wie an jedem Abend seit dreitausend Jahren."
+    "Abends wurden die Lampen auf der hellen Seite der Kuppel von selbst dunkler, langsam, wie an jedem Abend seit dreitausend Jahren."
 
 # game/ch01.rpy:390
 translate german ch01_83eec44f:
@@ -868,7 +868,7 @@ translate german ch01_240a4565:
 translate german ch01_08d38488:
 
     # c_sefa "Mother says in her mother's time there were six more lamps. One goes every ten years or so. They just don't come on one evening."
-    c_sefa "Mutter sagt, zur Zeit ihrer Mutter gab es sechs Lampen mehr. Etwa alle zehn Jahre fällt eine aus. Sie gehen an einem Abend einfach nicht an."
+    c_sefa "Mutter sagt, zur Zeit ihrer Mutter gab es sechs Lampen mehr. Etwa alle zehn Jahre fällt eine aus. Eines Abends geht sie einfach nicht an."
 
 # game/ch01.rpy:404
 translate german ch01_a3c13c63:
@@ -904,7 +904,7 @@ translate german ch01_0718d8d8:
 translate german ch01_617f6546:
 
     # "He heard about Jef from the night crew, lying in his hammock in the dark hall with the others talking round him. He gathered it in pieces."
-    "Von Jef hörte er von der Nachtschicht, wie er in seiner Hängematte in der dunklen Halle lag und die anderen um ihn herum redeten. Er setzte es aus einzelnen Stücken zusammen."
+    "Von Jef erfuhr er durch die Nachtschicht, während er in seiner Hängematte in der dunklen Halle lag und die anderen um ihn herum redeten. Er setzte es aus einzelnen Stücken zusammen."
 
 # game/ch01.rpy:428
 translate german ch01_ea7ef30f:
@@ -1012,7 +1012,7 @@ translate german ch01_e174c510:
 translate german ch01_8446856e:
 
     # c_nightcrew "There's one keeps these waters, a woman. She came through when I was small. Went past the terrace like a thrown knife."
-    c_nightcrew "Eine von ihnen hütet diese Gewässer, eine Frau. Sie kam durch, als ich klein war. Sie ging an der Terrasse vorbei wie ein geworfenes Messer."
+    c_nightcrew "Eine von ihnen hütet diese Gewässer, eine Frau. Sie kam durch, als ich klein war. Sie schoss an der Terrasse vorbei wie ein geworfenes Messer."
 
 # game/ch01.rpy:466
 translate german ch01_1ee4ce26:
@@ -1066,7 +1066,7 @@ translate german ch01_44116d0f:
 translate german ch01_55015567:
 
     # "They taught him the tending song, the slow one for work that is never finished. He got the words wrong and they laughed at him, not unkindly. He liked them."
-    "Sie brachten ihm das Hegelied bei, das langsame, für Arbeit, die nie fertig wird. Er sang die Worte falsch, und sie lachten ihn aus, nicht unfreundlich. Er mochte sie."
+    "Sie brachten ihm das Hegelied bei, das langsame, für Arbeit, die nie fertig wird. Er sang die Worte falsch, und sie lachten über ihn, nicht unfreundlich. Er mochte sie."
 
 # game/ch01.rpy:482
 translate german ch01_67d11a6e:
@@ -1090,13 +1090,13 @@ translate german ch01_48d88735:
 translate german ch01_73a1c4de:
 
     # "It was the heart of the dome, a round high room where the whole hold could sit. At its centre stood a Maker lamp. It had been dark since Sefa's grandmother was a child."
-    "Sie war das Herz der Kuppel, ein runder, hoher Raum, in dem die ganze Halte sitzen konnte. In ihrer Mitte stand eine Erbauerlampe. Sie war dunkel gewesen, seit Sefas Großmutter ein Kind war."
+    "Sie war das Herz der Kuppel, ein runder, hoher Raum, in dem die ganze Halte sitzen konnte. In ihrer Mitte stand eine Erbauerlampe. Sie war dunkel, seit Sefas Großmutter ein Kind gewesen war."
 
 # game/ch01.rpy:494
 translate german ch01_3995fa78:
 
     # "People touched it as they passed, for luck, so that at shoulder height it was polished to a shine. It was dusted every morning and sung to at every festival."
-    "Die Leute berührten sie im Vorbeigehen, für das Glück, sodass sie in Schulterhöhe blank poliert war. Sie wurde jeden Morgen abgestaubt und bei jedem Fest besungen."
+    "Die Leute berührten sie im Vorbeigehen, weil es Glück bringen sollte, sodass sie in Schulterhöhe blank poliert war. Sie wurde jeden Morgen abgestaubt und bei jedem Fest besungen."
 
 # game/ch01.rpy:495
 translate german ch01_ed10b0bf:
@@ -1120,7 +1120,7 @@ translate german ch01_17a8cfa2:
 translate german ch01_cdb0eacf:
 
     # "Inside was a shape he could not have named. He knew that it was wrong, as you know a word is misspelled before you can say how. It was seated badly."
-    "Darin lag eine Form, die er nicht hätte benennen können. Er wusste, dass sie falsch war, so wie man weiß, dass ein Wort falsch geschrieben ist, bevor man sagen kann, warum. Sie saß schlecht."
+    "Darin lag eine Form, die er nicht hätte benennen können. Er wusste, dass sie falsch war, so wie man weiß, dass ein Wort falsch geschrieben ist, bevor man sagen kann, warum. Sie war schlecht eingesetzt."
 
 # game/ch01.rpy:507
 translate german ch01_d20bae72:
@@ -1138,7 +1138,7 @@ translate german ch01_d5c2b9e3:
 translate german ch01_f97f38d8:
 
     # "Light poured down the hall, white and steady. People stopped where they stood. A child shrieked."
-    "Licht strömte durch die Halle, weiß und stetig. Die Leute blieben stehen, wo sie standen. Ein Kind kreischte."
+    "Licht strömte durch die Halle, weiß und stetig. Die Leute blieben stehen, wo sie gerade waren. Ein Kind kreischte."
 
 # game/ch01.rpy:514
 translate german ch01_d39ddee9:
@@ -1150,7 +1150,7 @@ translate german ch01_d39ddee9:
 translate german ch01_cecb11f4:
 
     # "Elder Oro had been crossing the hall with his stick. He stood looking up at the lamp. Then he sat down on the floor, quite slowly, and began to cry."
-    "Ältester Oro hatte die Halle mit seinem Stock durchquert. Er stand da und sah zur Lampe hinauf. Dann setzte er sich auf den Boden, ganz langsam, und begann zu weinen."
+    "Ältester Oro war gerade mit seinem Stock durch die Halle gegangen. Er stand da und sah zur Lampe hinauf. Dann setzte er sich auf den Boden, ganz langsam, und begann zu weinen."
 
 # game/ch01.rpy:523
 translate german ch01_83eeeba1:
@@ -1180,7 +1180,7 @@ translate german ch01_f96bd81e:
 translate german ch01_b5bd2388:
 
     # "Nobody in Low Anthem had ever seen a Maker thing repaired. Nobody in any hold had, for six hundred years, except by one pair of hands."
-    "Niemand in Low Anthem hatte je gesehen, wie ein Erbauerding instand gesetzt wurde. In keiner Halte hatte das jemand getan, seit sechshundert Jahren, außer durch ein einziges Paar Hände."
+    "Niemand in Low Anthem hatte je gesehen, wie ein Erbauerding instand gesetzt wurde. In keiner Halte hatte das jemand gesehen, seit sechshundert Jahren, außer durch ein einziges Paar Hände."
 
 # game/ch01.rpy:536
 translate german ch01_2fabea38:

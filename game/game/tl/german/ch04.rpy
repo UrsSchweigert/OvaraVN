@@ -76,7 +76,7 @@ translate german ch04_5618ca98:
 translate german ch04_b26c334c:
 
     # "It was half in the water and half out of it, under a sky the colour of a pigeon's breast, with a low red sun rolling along the rim of the world. There was a line of washing, quite stiff with frost."
-    "Es stand halb im Wasser und halb darüber, unter einem Himmel von der Farbe einer Taubenbrust, und eine tiefe rote Sonne rollte am Rand der Welt entlang. Eine Wäscheleine hing dort, ganz steif vom Frost."
+    "Es stand halb im Wasser und halb darüber, unter einem Himmel von der Farbe einer Taubenbrust, und eine tief stehende rote Sonne rollte am Rand der Welt entlang. Eine Leine voll Wäsche hing dort, ganz steif vom Frost."
 
 # game/ch04.rpy:44
 translate german ch04_5fe7be2c:
@@ -184,7 +184,7 @@ translate german ch04_d18e557e:
 translate german ch04_b176d7ea:
 
     # "The next day he felt the jellies, each a slow cold pulse. The day after that he reached down into the Well as far as he dared. Something very large was coiled against the wall a kilometre below him, and it had felt him too. He took his hand out of the water quickly."
-    "Am nächsten Tag spürte er die Quallen, jede ein langsamer kalter Puls. Am Tag darauf reichte er so weit in den Brunnen hinab, wie er sich traute. Etwas sehr Großes lag einen Kilometer unter ihm an die Wand geschmiegt, und es hatte ihn ebenfalls gespürt. Hastig zog er die Hand aus dem Wasser."
+    "Am nächsten Tag spürte er die Quallen, jede ein langsamer kalter Puls. Am Tag darauf griff er so weit in den Brunnen hinab, wie er sich traute. Etwas sehr Großes lag einen Kilometer unter ihm an die Wand geschmiegt, und es hatte ihn ebenfalls gespürt. Hastig zog er die Hand aus dem Wasser."
 
 # game/ch04.rpy:86
 translate german ch04_bce3a72a:
@@ -268,7 +268,7 @@ translate german ch04_3eaa047b:
 translate german ch04_41a3e89a:
 
     # "The Queen of the Stingrays was tall and straight and grey-haired, and she wore a patched coat with the pockets full of something. Behind her, out in the dark water of the Well, shapes the size of ships were turning slowly. Wrack felt himself looked at by minds a great deal older than the house."
-    "Die Königin der Stachelrochen war groß und gerade gewachsen und grauhaarig, und sie trug einen geflickten Mantel, dessen Taschen mit irgendetwas vollgestopft waren. Hinter ihr drehten sich draußen im dunklen Wasser des Brunnens Gestalten von der Größe von Schiffen langsam um. Wrack fühlte sich von Bewusstseinen angesehen, die viel älter waren als das Haus."
+    "Die Königin der Stachelrochen war groß und gerade gewachsen und grauhaarig, und sie trug einen geflickten Mantel, dessen Taschen mit irgendetwas vollgestopft waren. Hinter ihr kreisten draußen im dunklen Wasser des Brunnens langsam Gestalten von der Größe von Schiffen. Wrack fühlte sich von Wesen angesehen, deren Verstand viel älter war als das Haus."
 
 # game/ch04.rpy:126
 translate german ch04_7f2cf22e:
@@ -418,7 +418,7 @@ translate german ch04_6f26efe4:
 translate german ch04_ac9bc383:
 
     # "He leaned back. He was studying Wrack now with a fixed bright attention that was not rude at all."
-    "Er lehnte sich zurück. Er musterte Wrack jetzt mit einer starren, hellen Aufmerksamkeit, die überhaupt nicht unhöflich war."
+    "Er lehnte sich zurück. Er musterte Wrack jetzt mit einer unverwandten, wachen Aufmerksamkeit, die überhaupt nicht unhöflich war."
 
 # game/ch04.rpy:193
 translate german ch04_d141d9a4:
@@ -442,7 +442,7 @@ translate german ch04_212cd35a:
 translate german ch04_67b6be6f:
 
     # "In the loft, under a sealskin, Wrack lay and listened to them talking below, the old man's grumble and her low replies. Once Jef laughed, a short surprised bark. Outside the window the jellies went by. He slept better than he had since the kelp."
-    "Auf dem Dachboden lag Wrack unter einem Seehundfell und hörte ihnen unten beim Reden zu, dem Brummen des alten Mannes und ihren leisen Antworten. Einmal lachte Jef, ein kurzes, überraschtes Bellen. Draußen vor dem Fenster zogen die Quallen vorüber. Er schlief besser als seit dem Kelp."
+    "Auf dem Dachboden lag Wrack unter einem Seehundfell und hörte ihnen unten beim Reden zu, dem Brummen des alten Mannes und ihren leisen Antworten. Einmal lachte Jef, ein kurzes, überraschtes Bellen. Draußen vor dem Fenster zogen die Quallen vorüber. Er schlief besser als je seit dem Kelp."
 
 # game/ch04.rpy:207
 translate german ch04_451bb0fe:
@@ -460,7 +460,7 @@ translate german ch04_e7451ded:
 translate german ch04_c1ef2f5a:
 
     # c_jef "The mariners say tend, mend, make,"
-    c_jef "Die Meerleute sagen: hegen, instandsetzen, erbauen,"
+    c_jef "Die Meerleute sagen: hegen, instand setzen, erbauen,"
 
 # game/ch04.rpy:215
 translate german ch04_3dbf9483:
@@ -544,7 +544,7 @@ translate german ch04_146eb0f6:
 translate german ch04_4a25c49b:
 
     # c_jef "Not {i}this{/i}. But something. You've stood over drawings. You've told other people where to put things. You think in sections, look, you always start by working out where you'd cut it."
-    c_jef "Nicht {i}das hier{/i}. Aber etwas. Du hast über Zeichnungen gestanden. Du hast anderen gesagt, wo etwas hingehört. Du denkst in Abschnitten, sieh nur, du überlegst immer zuerst, wo du es durchtrennen würdest."
+    c_jef "Nicht {i}das hier{/i}. Aber etwas. Du hast über Zeichnungen gestanden. Du hast anderen gesagt, wo etwas hingehört. Du denkst in Schnitten, sieh nur, du überlegst immer zuerst, wo du es durchtrennen würdest."
 
 # game/ch04.rpy:243
 translate german ch04_073cdbea:
@@ -580,7 +580,7 @@ translate german ch04_c16cc398:
 translate german ch04_68b02b11:
 
     # c_jef "You'll be better than me at seeing where to cut. And worse at knowing when not to. Hand me that."
-    c_jef "Du wirst besser sein als ich darin, zu sehen, wo man schneiden muss. Und schlechter darin, zu wissen, wann nicht. Reich mir das."
+    c_jef "Du wirst besser als ich sehen, wo man schneiden muss. Und schlechter darin, zu wissen, wann nicht. Reich mir das."
 
 # game/ch04.rpy:257
 translate german ch04_f9866520:
@@ -628,7 +628,7 @@ translate german ch04_6b98bb5d:
 translate german ch04_eebb0c51:
 
     # c_jef "You've not seen one working. Hardly anyone alive has. You'd put your hand on the glass and it would light, and there'd be pictures. Moving. How a thing was built. Every part, one after another, as slow as you liked."
-    c_jef "Du hast keine in Betrieb gesehen. Kaum ein Lebender hat das. Man legte die Hand auf das Glas, und es leuchtete, und es gab Bilder. Bewegte. Wie ein Ding gebaut wurde. Jedes Teil, eins nach dem anderen, so langsam, wie man wollte."
+    c_jef "Du hast keine in Betrieb gesehen. Das hat kaum ein Lebender. Man legte die Hand auf das Glas, und es leuchtete, und es gab Bilder. Bewegte. Wie ein Ding gebaut wurde. Jedes Teil, eins nach dem anderen, so langsam, wie man wollte."
 
 # game/ch04.rpy:278
 translate german ch04_c9522943:
@@ -652,7 +652,7 @@ translate german ch04_56b286bc:
 translate german ch04_b0972541:
 
     # c_jef "Dark. They went one at a time. The last one in the Lantern went out when I was about three hundred. I've never found out how to mend them; they never showed me themselves."
-    c_jef "Dunkel. Sie sind eine nach der anderen ausgegangen. Die letzte in der Laterne erlosch, als ich ungefähr dreihundert war. Ich habe nie herausgefunden, wie man sie instand setzt; sie haben sich mir nie selbst gezeigt."
+    c_jef "Dunkel. Sie sind eine nach der anderen ausgegangen. Die letzte in der Laterne erlosch, als ich ungefähr dreihundert war. Ich habe nie herausgefunden, wie man sie instand setzt; sich selbst haben sie mir nie gezeigt."
 
 # game/ch04.rpy:286
 translate german ch04_4c3beaf6:
@@ -724,7 +724,7 @@ translate german ch04_88c16e64:
 translate german ch04_99769d2d:
 
     # c_jef "Squid. Don't stare, it's rude."
-    c_jef "Tintenfische. Starr nicht hin, das ist unhöflich."
+    c_jef "Kalmare. Starr nicht hin, das ist unhöflich."
 
 # game/ch04.rpy:317
 translate german ch04_b898650b:
@@ -766,7 +766,7 @@ translate german ch04_05d92347:
 translate german ch04_93e7b31e:
 
     # "Wrack saw a child whose hand was growing back; it was translucent still, like a hand made of wax, and she was holding it up to the light and turning it. He saw a man lying with his chest open like a book, and under the water things were being put right in it."
-    "Wrack sah ein Kind, dem die Hand nachwuchs; sie war noch durchscheinend, wie eine Hand aus Wachs, und das Mädchen hielt sie ins Licht und drehte sie. Er sah einen Mann, der mit offener Brust wie ein Buch dalag, und unter Wasser wurde in ihm etwas wieder in Ordnung gebracht."
+    "Wrack sah ein Kind, dem die Hand nachwuchs; sie war noch durchscheinend, wie eine Hand aus Wachs, und das Mädchen hielt sie ins Licht und drehte sie. Er sah einen Mann, dessen Brust offen dalag wie ein Buch, und unter Wasser wurde in ihm etwas wieder in Ordnung gebracht."
 
 # game/ch04.rpy:334
 translate german ch04_547a1112:
@@ -856,7 +856,7 @@ translate german ch04_1d3571a6:
 translate german ch04_4553f5f7:
 
     # c_jef "Unless somebody could hold the water in five halls just as it is. Warm, and still, and cared for. While somebody else had his hands in the works."
-    c_jef "Wenn nur jemand das Wasser in fünf Hallen genau so halten könnte, wie es ist. Warm und still und umsorgt. Während ein anderer die Hände im Werk hätte."
+    c_jef "Es sei denn, jemand könnte das Wasser in fünf Hallen genau so halten, wie es ist. Warm und still und umsorgt. Während ein anderer die Hände im Werk hätte."
 
 # game/ch04.rpy:370
 translate german ch04_829ebb76:
@@ -988,7 +988,7 @@ translate german ch04_dbfd7aef:
 translate german ch04_4b816360:
 
     # c_maelis "You raised a ship before you could listen to a crab. It's as if a child ran before it had seen its own feet. No wonder she knocked you down."
-    c_maelis "Du hast ein Schiff gehoben, ehe du einem Krebs zuhören konntest. Es ist, als würde ein Kind rennen, bevor es seine eigenen Füße gesehen hat. Kein Wunder, dass sie dich umgeworfen hat."
+    c_maelis "Du hast ein Schiff gehoben, ehe du einem Krebs lauschen konntest. Es ist, als würde ein Kind rennen, bevor es seine eigenen Füße gesehen hat. Kein Wunder, dass sie dich umgeworfen hat."
 
 # game/ch04.rpy:427
 translate german ch04_c854017a:
@@ -1000,7 +1000,7 @@ translate german ch04_c854017a:
 translate german ch04_c140c66b:
 
     # c_maelis "Go back to the beginning. Do each one small. Ask for less than you think you can have. You'll be astonished how much she gives a person who doesn't grab."
-    c_maelis "Geh zurück zum Anfang. Mach jedes Ding klein. Bitte um weniger, als du glaubst bekommen zu können. Du wirst staunen, wie viel sie einem Menschen gibt, der nicht zupackt."
+    c_maelis "Geh zurück zum Anfang. Mach jede Form im Kleinen. Bitte um weniger, als du glaubst bekommen zu können. Du wirst staunen, wie viel sie einem Menschen gibt, der nicht zupackt."
 
 # game/ch04.rpy:433
 translate german ch04_fcdbc317:
@@ -1018,7 +1018,7 @@ translate german ch04_e807a3cd:
 translate german ch04_157acbfa:
 
     # "At the end of a month a sphere of water a hundred metres across hung in the air over the Well, turning slowly, with a living shoal inside it. The low sun shone through it and laid a moving red light across the ice."
-    "Nach einem Monat hing eine hundert Meter breite Kugel aus Wasser in der Luft über dem Brunnen und drehte sich langsam, mit einem lebenden Fischschwarm darin. Die tiefe Sonne schien hindurch und warf ein wanderndes rotes Licht über das Eis."
+    "Nach einem Monat hing eine hundert Meter breite Kugel aus Wasser in der Luft über dem Brunnen und drehte sich langsam, mit einem lebenden Fischschwarm darin. Die tief stehende Sonne schien hindurch und warf ein wanderndes rotes Licht über das Eis."
 
 # game/ch04.rpy:445
 translate german ch04_acf9df87:
@@ -1090,7 +1090,7 @@ translate german ch04_b90a83ab:
 translate german ch04_6fff94c1:
 
     # c_wrack "You could teach someone."
-    c_wrack "Sie könnten jemandem etwas beibringen."
+    c_wrack "Sie könnten es jemandem beibringen."
 
 # game/ch04.rpy:469
 translate german ch04_dee2dffd:
@@ -1144,7 +1144,7 @@ translate german ch04_8aa6797d:
 translate german ch04_65608a99:
 
     # c_maelis "It looked at me. For about a day. When it had finished I knew things I hadn't known, and I could tell what it wanted. They don't speak. They remember, and they can put a memory into you as you'd put a cup in someone's hand. They wanted somebody who could say it in words to the rest of us, now and then. I was standing there."
-    c_maelis "Er hat mich angesehen. Etwa einen Tag lang. Als er fertig war, wusste ich Dinge, die ich vorher nicht gewusst hatte, und ich konnte sagen, was er wollte. Sie sprechen nicht. Sie erinnern sich, und sie können einem eine Erinnerung geben, wie man jemandem eine Tasse in die Hand gibt. Sie wollten jemanden, der es uns übrigen hin und wieder in Worten sagen konnte. Ich stand gerade da."
+    c_maelis "Er hat mich angesehen. Etwa einen Tag lang. Als er fertig war, wusste ich Dinge, die ich vorher nicht gewusst hatte, und ich wusste, was er wollte. Sie sprechen nicht. Sie erinnern sich, und sie können einem eine Erinnerung geben, wie man jemandem eine Tasse in die Hand gibt. Sie wollten jemanden, der es uns übrigen hin und wieder in Worten sagen konnte. Ich stand gerade da."
 
 # game/ch04.rpy:495
 translate german ch04_a7fc2c2d:
@@ -1174,13 +1174,13 @@ translate german ch04_13a85dc1:
 translate german ch04_cf67e69e:
 
     # "She glanced at the window, where the long shapes turned."
-    "Sie warf einen Blick zum Fenster, wo die langen Gestalten sich drehten."
+    "Sie warf einen Blick zum Fenster, wo die langen Gestalten kreisten."
 
 # game/ch04.rpy:505
 translate german ch04_7acf47da:
 
     # c_maelis "They keep what the undertow takes, too. Did Ione tell you that? No, she wouldn't know. Nothing the sea is given is ever lost. It goes to them."
-    c_maelis "Sie bewahren auch, was der Sog nimmt. Hat Ione dir das gesagt? Nein, sie würde es nicht wissen. Nichts, was der See gegeben wird, geht je verloren. Es geht zu ihnen."
+    c_maelis "Sie bewahren auch, was der Sog nimmt. Hat Ione dir das gesagt? Nein, das kann sie nicht wissen. Nichts, was der See gegeben wird, geht je verloren. Es geht zu ihnen."
 
 # game/ch04.rpy:507
 translate german ch04_c53957cf:
@@ -1252,7 +1252,7 @@ translate german ch04_24012289:
 translate german ch04_b1ff5d90:
 
     # c_maelis "There were wives before me. Seven. He remembers every one of them, and he's never once called me by the wrong name. I asked the rays if it would be a foolish thing to do. They showed me him at twenty. So I did it."
-    c_maelis "Vor mir gab es Ehefrauen. Sieben. Er erinnert sich an jede von ihnen, und er hat mich nie ein einziges Mal mit dem falschen Namen gerufen. Ich habe die Rochen gefragt, ob es töricht wäre. Sie haben mir ihn mit zwanzig gezeigt. Also habe ich es getan."
+    c_maelis "Vor mir gab es Ehefrauen. Sieben. Er erinnert sich an jede von ihnen, und er hat mich nie ein einziges Mal beim falschen Namen genannt. Ich habe die Rochen gefragt, ob es töricht wäre. Sie haben mir ihn mit zwanzig gezeigt. Also habe ich es getan."
 
 # game/ch04.rpy:533
 translate german ch04_312e0c7c:
@@ -1270,13 +1270,13 @@ translate german ch04_6d9a106b:
 translate german ch04_fb3d4d2f:
 
     # c_maelis "Sorry,"
-    c_maelis "Tut mir leid,"
+    c_maelis "Es tat ihm leid,"
 
 # game/ch04.rpy:540
 translate german ch04_b07ef62a:
 
     # c_maelis "He was very, very sorry. Pass me the pot."
-    c_maelis "Er war sehr, sehr reumütig. Reich mir den Topf."
+    c_maelis "Es tat ihm sehr, sehr leid. Reich mir den Topf."
 
 # game/ch04.rpy:548
 translate german ch04_bb63bffd:
@@ -1318,7 +1318,7 @@ translate german ch04_5b6555bd:
 translate german ch04_a365f186:
 
     # "Out in the Well, the rays had stopped turning. Wrack had never seen them still. They hung in the black water all facing one way, like weathervanes."
-    "Draußen im Brunnen hatten die Rochen aufgehört, sich zu drehen. Wrack hatte sie nie still gesehen. Sie hingen alle in dieselbe Richtung gewandt im schwarzen Wasser, wie Wetterfahnen."
+    "Draußen im Brunnen hatten die Rochen aufgehört zu kreisen. Wrack hatte sie nie still gesehen. Sie hingen alle in dieselbe Richtung gewandt im schwarzen Wasser, wie Wetterfahnen."
 
 # game/ch04.rpy:569
 translate german ch04_2f36464a:
@@ -1438,7 +1438,7 @@ translate german ch04_6d548434:
 translate german ch04_6fdee53f:
 
     # "Only his eyes kept coming back to Wrack. They had gone to him in the first moment, and rested there, as a man's eyes rest on something of his own that he has come upon in a neighbour's yard. He had not seemed surprised."
-    "Nur seine Augen kehrten immer wieder zu Wrack zurück. Sie waren gleich im ersten Augenblick zu ihm gegangen und dort geblieben, so wie die Augen eines Mannes auf etwas Eigenem ruhen, das er im Hof eines Nachbarn entdeckt hat. Er hatte nicht überrascht gewirkt."
+    "Nur seine Augen kehrten immer wieder zu Wrack zurück. Sie waren gleich im ersten Augenblick zu ihm gegangen und dort geblieben, so wie die Augen eines Mannes auf etwas ruhen, das ihm gehört und das er im Hof eines Nachbarn entdeckt hat. Er hatte nicht überrascht gewirkt."
 
 # game/ch04.rpy:623
 translate german ch04_8b99c37a:
@@ -1480,7 +1480,7 @@ translate german ch04_30f00a91:
 translate german ch04_6053994e:
 
     # c_anselm "I'll say what I came to say, and then I'll go. I've found your city. The one under the Girdle. You told me about it when I was twenty-three. You'd looked for it for a hundred years, you said, and given it up. It's there. It's whole. It lit from end to end, once, for one man, and went dark again when he left it."
-    c_anselm "Ich sage, weswegen ich gekommen bin, und dann gehe ich. Ich habe deine Stadt gefunden. Die unter dem Gürtel. Du hast mir davon erzählt, als ich dreiundzwanzig war. Du hattest hundert Jahre danach gesucht, sagtest du, und es aufgegeben. Sie ist da. Sie ist vollständig. Sie hat einmal von einem Ende zum anderen aufgeleuchtet, für einen einzigen Mann, und ist wieder dunkel geworden, als er sie verließ."
+    c_anselm "Ich sage, weswegen ich gekommen bin, und dann gehe ich. Ich habe deine Stadt gefunden. Die unter dem Gürtel. Du hast mir davon erzählt, als ich dreiundzwanzig war. Du hattest hundert Jahre danach gesucht, sagtest du, und es aufgegeben. Sie ist da. Sie ist unversehrt. Sie hat einmal von einem Ende zum anderen aufgeleuchtet, für einen einzigen Mann, und ist wieder dunkel geworden, als er sie verließ."
 
 # game/ch04.rpy:636
 translate german ch04_ce9fd6e2:
@@ -1534,7 +1534,7 @@ translate german ch04_a5bf5c18:
 translate german ch04_65d6ef1c:
 
     # c_anselm "You'll have told him about the holds, I suppose. That they're going. You told me, on this step. I was twenty-two, and I didn't sleep for a month. You've had your hand cupped round a candle for nine hundred years, old man, and you call it a life's work. Up there are forty million people on a few rocks. I can give them ground. Real ground, to stand on, that nobody is standing on already."
-    c_anselm "Du wirst ihm von den Halten erzählt haben, nehme ich an. Dass sie vergehen. Du hast es mir auf dieser Stufe erzählt. Ich war zweiundzwanzig und habe einen Monat nicht geschlafen. Du hältst seit neunhundert Jahren die Hand um eine Kerze, alter Mann, und nennst es ein Lebenswerk. Da oben leben vierzig Millionen Menschen auf ein paar Felsen. Ich kann ihnen Boden geben. Echten Boden, auf dem noch keiner steht."
+    c_anselm "Du wirst ihm von den Halten erzählt haben, nehme ich an. Dass sie vergehen. Du hast es mir auf dieser Stufe erzählt. Ich war zweiundzwanzig und habe einen Monat nicht geschlafen. Du hältst seit neunhundert Jahren die Hand um eine Kerze, alter Mann, und nennst es ein Lebenswerk. Da oben leben vierzig Millionen Menschen auf ein paar Felsen. Ich kann ihnen Land geben. Echtes Land, auf dem noch keiner steht."
 
 # game/ch04.rpy:651
 translate german ch04_c686ba7e:
@@ -1732,7 +1732,7 @@ translate german ch04_085d1097:
 translate german ch04_52bfd806:
 
     # "The grey needle went down from the landing and was gone. Out in the Well, one by one, the rays began to turn."
-    "Die graue Nadel sank von der Anlegestelle hinab und war verschwunden. Draußen im Brunnen begannen die Rochen sich einer nach dem anderen zu drehen."
+    "Die graue Nadel sank von der Anlegestelle hinab und war verschwunden. Draußen im Brunnen begannen die Rochen einer nach dem anderen wieder zu kreisen."
 
 # game/ch04.rpy:734
 translate german ch04_700c9bc7:
@@ -1762,7 +1762,7 @@ translate german ch04_7ff24cb0:
 translate german ch04_690d049e:
 
     # c_jef "He was the fifty-ninth. The best head of the lot. He could draw anything he'd seen once. He's an islander. The rays pulled him out of a wreck when he was a boy and left him at the Hush, and he grew up sweeping it, as I swept the Lantern. I thought—"
-    c_jef "Er war der Neunundfünfzigste. Der beste Kopf von allen. Er konnte alles zeichnen, was er einmal gesehen hatte. Er ist ein Inselbewohner. Die Rochen haben ihn als Jungen aus einem Schiffbruch gezogen und im Schweigen abgesetzt, und er ist damit aufgewachsen, es zu fegen, wie ich die Laterne gefegt habe. Ich dachte -"
+    c_jef "Er war der Neunundfünfzigste. Der beste Kopf von allen. Er konnte alles zeichnen, was er einmal gesehen hatte. Er ist ein Inselbewohner. Die Rochen haben ihn als Jungen aus einem gesunkenen Schiff gezogen und im Schweigen abgesetzt, und er ist damit aufgewachsen, es zu fegen, wie ich die Laterne gefegt habe. Ich dachte -"
 
 # game/ch04.rpy:744
 translate german ch04_a1830283:
@@ -1804,7 +1804,7 @@ translate german ch04_fd8999b2:
 translate german ch04_774294ea:
 
     # c_wrack "You could have let him say it."
-    c_wrack "Sie hätten ihn es sagen lassen können."
+    c_wrack "Sie hätten es ihn sagen lassen können."
 
 # game/ch04.rpy:757
 translate german ch04_0fee943f:
@@ -1816,7 +1816,7 @@ translate german ch04_0fee943f:
 translate german ch04_d7e2411a:
 
     # "Jef turned his head then. His bright dark eyes were very tired."
-    "Jef wandte da den Kopf. Seine hellen dunklen Augen waren sehr müde."
+    "Jef wandte da den Kopf. Seine wachen dunklen Augen waren sehr müde."
 
 # game/ch04.rpy:759
 translate german ch04_40d3478f:
@@ -1864,13 +1864,13 @@ translate german ch04_bc4ff95b:
 translate german ch04_865c60b7:
 
     # "That night he cooked."
-    "In dieser Nacht kochte er."
+    "An diesem Abend kochte er."
 
 # game/ch04.rpy:783
 translate german ch04_3bfafa5a:
 
     # "It was an event. He did not cook, Maelis said, more than twice a year, and the results were generally a matter for healers. He sent Wrack down to the weed garden and Okonta out for crab. He stood at the stove for two hours in his apron, swearing at it. What came to the table was a stew, red with some southern spice, and it was very good."
-    "Es war ein Ereignis. Er koche nicht, sagte Maelis, öfter als zweimal im Jahr, und die Ergebnisse seien in der Regel eine Sache für Heiler. Er schickte Wrack hinunter in den Tanggarten und Okonta nach Krebsen hinaus. Zwei Stunden stand er in seiner Schürze am Ofen und fluchte ihn an. Auf den Tisch kam ein Eintopf, rot von einem südlichen Gewürz, und er war sehr gut."
+    "Es war ein Ereignis. Er koche, sagte Maelis, nicht öfter als zweimal im Jahr, und die Ergebnisse seien in der Regel eine Sache für Heiler. Er schickte Wrack hinunter in den Tanggarten und Okonta nach Krebsen hinaus. Zwei Stunden stand er in seiner Schürze am Ofen und fluchte ihn an. Auf den Tisch kam ein Eintopf, rot von einem südlichen Gewürz, und er war sehr gut."
 
 # game/ch04.rpy:784
 translate german ch04_2be1e01b:
@@ -1888,7 +1888,7 @@ translate german ch04_17b4cb16:
 translate german ch04_42289976:
 
     # "It was a tool. Wrack had seen it in his hand every day, and never out of it. It was small and worn and of no shape that he could have named, and its grip had been polished by nine hundred years of one man's fingers."
-    "Es war ein Werkzeug. Wrack hatte es jeden Tag in seiner Hand gesehen, nie außerhalb davon. Es war klein und abgenutzt und von keiner Form, die er hätte nennen können, und sein Griff war von neunhundert Jahren der Finger eines einzigen Mannes blank poliert."
+    "Es war ein Werkzeug. Wrack hatte es jeden Tag in seiner Hand gesehen und nie anderswo. Es war klein und abgenutzt und von keiner Form, die er hätte nennen können, und sein Griff war in neunhundert Jahren von den Fingern eines einzigen Mannes blank poliert."
 
 # game/ch04.rpy:797
 translate german ch04_978f5a9f:
@@ -1924,7 +1924,7 @@ translate german ch04_2940a2c8:
 translate german ch04_ed901781:
 
     # c_jef "Tend, mend, make: that's the order, and making's the long one. We'll start tomorrow, or the day after. But there's something I want done first, while I've the hands for it."
-    c_jef "Hegen, instandsetzen, erbauen: so ist die Reihenfolge, und das Erbauen ist das lange. Wir fangen morgen an oder übermorgen. Aber vorher will ich etwas erledigt haben, solange ich die Hände dafür habe."
+    c_jef "Hegen, instand setzen, erbauen: so ist die Reihenfolge, und das Erbauen ist das lange. Wir fangen morgen an oder übermorgen. Aber vorher will ich etwas erledigt haben, solange ich die Hände dafür habe."
 
 # game/ch04.rpy:807
 translate german ch04_510a13d2:
@@ -1966,7 +1966,7 @@ translate german ch04_32a6a539:
 translate german ch04_ea60c331:
 
     # c_okonta "He lays a thread along the nerves, from here to the base of the skull. It's Maker stuff, he draws it himself. It takes a night. You sleep through it. When you wake, the old machines aren't things any more. They're more of you. I know where my needle is now, down at the landing, the way I know where my left hand is. When I'm riding, I hear through it for eighty kilometres."
-    c_okonta "Er legt einen Faden an den Nerven entlang, von hier bis zum Ansatz des Schädels. Es ist Erbauerzeug, er zieht es selbst. Es dauert eine Nacht. Du schläfst es durch. Wenn du aufwachst, sind die alten Maschinen keine Dinge mehr. Sie sind mehr von dir. Ich weiß jetzt, wo meine Nadel ist, unten an der Anlegestelle, so wie ich weiß, wo meine linke Hand ist. Wenn ich reite, höre ich durch sie achtzig Kilometer weit."
+    c_okonta "Er legt einen Faden an den Nerven entlang, von hier bis zum Ansatz des Schädels. Es ist Erbauerzeug, er zieht es selbst. Es dauert eine Nacht. Du verschläfst es. Wenn du aufwachst, sind die alten Maschinen keine Dinge mehr. Sie sind mehr von dir. Ich weiß jetzt, wo meine Nadel ist, unten an der Anlegestelle, so wie ich weiß, wo meine linke Hand ist. Wenn ich reite, höre ich durch sie achtzig Kilometer weit."
 
 # game/ch04.rpy:819
 translate german ch04_25e85aed:
@@ -2056,7 +2056,7 @@ translate german ch04_83050f19:
 translate german ch04_84a1e5e0:
 
     # "Wrack and Okonta sat and looked at the lamp. They could not hear the words. They heard her voice, low and steady and then not steady. They heard his going on, gently, for a long time. Once her voice cracked. Then there was silence. It went on so long that Okonta rose and began, very quietly, to clear the bowls."
-    "Wrack und Okonta saßen da und sahen die Lampe an. Sie konnten die Worte nicht hören. Sie hörten ihre Stimme, leise und ruhig und dann nicht mehr ruhig. Sie hörten seine, die sanft lange weiterging. Einmal brach ihre Stimme. Dann war es still. Es dauerte so lange, dass Okonta aufstand und sehr leise begann, die Schalen abzuräumen."
+    "Wrack und Okonta saßen da und sahen die Lampe an. Sie konnten die Worte nicht hören. Sie hörten ihre Stimme, leise und ruhig und dann nicht mehr ruhig. Sie hörten seine, die lange sanft weitersprach. Einmal brach ihre Stimme. Dann war es still. Es dauerte so lange, dass Okonta aufstand und sehr leise begann, die Schalen abzuräumen."
 
 # game/ch04.rpy:851
 translate german ch04_be47c525:
@@ -2116,7 +2116,7 @@ translate german ch04_bf039328:
 translate german ch04_bf2fb1c3:
 
     # c_jef "She's probably right. She generally is. I told her I'd rather be finished doing the one thing nobody else can do than last another year complaining about my knees."
-    c_jef "Wahrscheinlich hat sie recht. Das hat sie meistens. Ich habe ihr gesagt, ich wäre lieber fertig, wenn ich das Einzige getan habe, was kein anderer kann, als noch ein Jahr durchzuhalten und mich über meine Knie zu beklagen."
+    c_jef "Wahrscheinlich hat sie recht. Das hat sie meistens. Ich habe ihr gesagt, ich ließe mich lieber damit fertigmachen, das Einzige zu tun, was kein anderer kann, als noch ein Jahr durchzuhalten und mich über meine Knie zu beklagen."
 
 # game/ch04.rpy:879
 translate german ch04_9a6f3d94:
@@ -2152,7 +2152,7 @@ translate german ch04_41e3dc5e:
 translate german ch04_ccae95b5:
 
     # c_jef "Listen. I'll tell you something I've not said to an apprentice before. I never wanted to be the only one. People think I did. They think I kept it close. I'd have given it to anyone with the hands. I spent three hundred years begging holds to send me their cleverest children. They sent me their most devout ones."
-    c_jef "Hör zu. Ich sage dir etwas, das ich noch keinem Lehrling gesagt habe. Ich wollte nie der Einzige sein. Die Leute glauben das. Sie glauben, ich habe es eng bei mir gehalten. Ich hätte es jedem gegeben, der die Hände dafür hatte. Dreihundert Jahre lang habe ich die Halten angefleht, mir ihre klügsten Kinder zu schicken. Sie schickten mir ihre frömmsten."
+    c_jef "Hör zu. Ich sage dir etwas, das ich noch keinem Lehrling gesagt habe. Ich wollte nie der Einzige sein. Die Leute glauben das. Sie glauben, ich hätte es für mich behalten. Ich hätte es jedem gegeben, der die Hände dafür hatte. Dreihundert Jahre lang habe ich die Halten angefleht, mir ihre klügsten Kinder zu schicken. Sie schickten mir ihre frömmsten."
 
 # game/ch04.rpy:889
 translate german ch04_a0a16463_1:
@@ -2242,7 +2242,7 @@ translate german ch04_51facfba:
 translate german ch04_37f7b106:
 
     # "His head ached from the temples to the nape, as Okonta had promised. But it was the other thing he noticed. He could feel the needle moored at the landing as if it were his own foot. He could feel the deep-runner beside it, and the warm-stone on the workshop bench. Every lamp in the house was a small bright pressure, like sun on closed eyelids."
-    "Sein Kopf schmerzte von den Schläfen bis zum Nacken, wie Okonta es versprochen hatte. Aber er bemerkte das Andere. Er konnte die Nadel spüren, die an der Anlegestelle vertäut lag, als wäre sie sein eigener Fuß. Er spürte den Tiefenläufer neben ihr und den Wärmestein auf der Werkbank. Jede Lampe im Haus war ein kleiner heller Druck, wie Sonne auf geschlossenen Lidern."
+    "Sein Kopf schmerzte von den Schläfen bis zum Nacken, wie Okonta es versprochen hatte. Doch was ihm auffiel, war das andere. Er konnte die Nadel spüren, die an der Anlegestelle vertäut lag, als wäre sie sein eigener Fuß. Er spürte den Tiefenläufer neben ihr und den Wärmestein auf der Werkbank. Jede Lampe im Haus war ein kleiner heller Druck, wie Sonne auf geschlossenen Lidern."
 
 # game/ch04.rpy:922
 translate german ch04_e572e1bf:
@@ -2260,7 +2260,7 @@ translate german ch04_8b4cfbeb:
 translate german ch04_1d3e3fd8:
 
     # c_maelis "He wanted to be here when you woke,"
-    c_maelis "Er wollte hier sein, wenn du aufwachtest,"
+    c_maelis "Er wollte hier sein, wenn du aufwachst,"
 
 # game/ch04.rpy:932
 translate german ch04_c9ff1403:
@@ -2272,7 +2272,7 @@ translate german ch04_c9ff1403:
 translate german ch04_9200bfa4:
 
     # "He did not wake that day. Wrack carried him to the box bed, and was shocked at how little he weighed. Maelis sat with him. She did not use her gift. Wrack asked her once, and she said that there was nothing wrong with him to mend. He was only very tired, she said, like a road near its end."
-    "Er wachte an diesem Tag nicht auf. Wrack trug ihn zum Kastenbett und erschrak, wie wenig er wog. Maelis saß bei ihm. Sie benutzte ihre Gabe nicht. Wrack fragte sie einmal, und sie sagte, mit ihm sei nichts, was sich heilen ließe. Er sei nur sehr müde, sagte sie, wie ein Weg kurz vor seinem Ende."
+    "Er wachte an diesem Tag nicht auf. Wrack trug ihn zum Kastenbett und erschrak, wie wenig er wog. Maelis saß bei ihm. Sie benutzte ihre Gabe nicht. Wrack fragte sie einmal, und sie sagte, ihm fehle nichts, was sich heilen ließe. Er sei nur sehr müde, sagte sie, wie ein Weg kurz vor seinem Ende."
 
 # game/ch04.rpy:941
 translate german ch04_ea0cdce7:
@@ -2284,7 +2284,7 @@ translate german ch04_ea0cdce7:
 translate german ch04_0b9ef177:
 
     # "Something was coming. He felt it with the new sense, the one that still ached. It was far to the south, under the ice, and it was fast. It was narrow and bright, like a needle. But a needle with a rider had a warmth in it; he had learned that from Okonta's. This had none. It was cold all through, and there was an edge on it."
-    "Etwas kam. Er spürte es mit dem neuen Sinn, dem, der noch schmerzte. Es war weit im Süden, unter dem Eis, und es war schnell. Es war schmal und hell wie eine Nadel. Aber eine Nadel mit Reiter hatte Wärme in sich; das hatte er von Okontas gelernt. Dieses hatte keine. Es war durch und durch kalt, und es hatte eine Schneide."
+    "Etwas kam. Er spürte es mit dem neuen Sinn, dem, der noch schmerzte. Es war weit im Süden, unter dem Eis, und es war schnell. Es war schmal und hell wie eine Nadel. Aber eine Nadel mit Reiter hatte Wärme in sich; das hatte er an Okontas Nadel gelernt. Dieses hatte keine. Es war durch und durch kalt, und es hatte eine Schneide."
 
 # game/ch04.rpy:945
 translate german ch04_9bed8b3d:
@@ -2326,7 +2326,7 @@ translate german ch04_1ade8a1d:
 translate german ch04_a0fbb1bf:
 
     # "He ran to the lip and put his hand in the water. He felt the wardens rise. They came off the walls all together, a kilometre down, a whole forest of arms closing across the shaft. The thing went through them. He felt that too, and wished he had not."
-    "Er rannte zum Rand und legte die Hand ins Wasser. Er spürte, wie die Wächter sich erhoben. Sie lösten sich alle zugleich von den Wänden, einen Kilometer tiefer, ein ganzer Wald von Armen, der sich quer über den Schacht schloss. Das Ding fuhr durch sie hindurch. Auch das spürte er und wünschte, er hätte es nicht getan."
+    "Er rannte zum Rand und legte die Hand ins Wasser. Er spürte, wie die Wächter sich erhoben. Sie lösten sich alle zugleich von den Wänden, einen Kilometer tiefer, ein ganzer Wald von Armen, der sich quer über den Schacht schloss. Das Ding fuhr durch sie hindurch. Auch das spürte er und wünschte, er hätte es nicht gespürt."
 
 # game/ch04.rpy:966
 translate german ch04_e899cc3d:
@@ -2494,7 +2494,7 @@ translate german ch04_aebc4d0c:
 translate german ch04_35af137a:
 
     # "Wrack could not go to him this time. The cracked hall was letting the cold in, and the pools wanted to know it. It took everything he had to keep them from knowing. He heard the old man's voice now and then, calling up for something, and a young healer ran with it. Later the voice came less often. Then it did not come."
-    "Diesmal konnte Wrack nicht zu ihm gehen. Die geborstene Halle ließ die Kälte herein, und die Becken wollten es wissen. Es kostete alles, was er hatte, sie davon abzuhalten, es zu wissen. Er hörte die Stimme des alten Mannes hin und wieder, wie sie nach etwas heraufrief, und ein junger Heiler lief damit los. Später kam die Stimme seltener. Dann kam sie nicht mehr."
+    "Diesmal konnte Wrack nicht zu ihm gehen. Die geborstene Halle ließ die Kälte herein, und die Becken wollten es merken. Es kostete alles, was er hatte, sie davon abzuhalten. Er hörte die Stimme des alten Mannes hin und wieder, wie sie nach etwas heraufrief, und ein junger Heiler lief damit los. Später kam die Stimme seltener. Dann kam sie nicht mehr."
 
 # game/ch04.rpy:1044
 translate german ch04_3b19e313:
@@ -2554,7 +2554,7 @@ translate german ch04_6245d899:
 translate german ch04_da12b0d5:
 
     # c_wrack "He hadn't finished teaching me."
-    c_wrack "Er war noch nicht fertig damit, es mir beizubringen."
+    c_wrack "Er war noch nicht fertig damit, mich zu lehren."
 
 # game/ch04.rpy:1081
 translate german ch04_96bd7a2a:

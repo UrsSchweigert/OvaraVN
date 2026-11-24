@@ -22,7 +22,7 @@ translate german ch14_6f716072:
 translate german ch14_a6a47b1d:
 
     # "A man in a good coat turned from one of them and saw Ilan. He opened his mouth. Then he stepped back, off the pavement, to let him by. Others turned. They made a lane for him the whole length of the avenue, in silence."
-    "Ein Mann in einem guten Mantel wandte sich von einem davon ab und sah Ilan. Er öffnete den Mund. Dann trat er zurück, vom Gehweg herunter, um ihn vorbeizulassen. Andere wandten sich um. Sie bildeten ihm eine Gasse, die ganze Länge der Allee, schweigend."
+    "Ein Mann in einem guten Mantel wandte sich von einem der Bildschirme ab und sah Ilan. Er öffnete den Mund. Dann trat er zurück, vom Gehweg herunter, um ihn vorbeizulassen. Andere wandten sich um. Sie bildeten ihm eine Gasse, die ganze Länge der Allee, schweigend."
 
 # game/ch14.rpy:18
 translate german ch14_027c9477:
@@ -100,7 +100,7 @@ translate german ch14_d344d425:
 translate german ch14_3bca6665:
 
     # c_okonta "It doesn't come to the Girdle, Wrack. You saw. It goes under, a kilometre down, and it doesn't turn aside for anything. It runs pole to pole and nowhere else. It's run that line since before there were holds."
-    c_okonta "Er kommt nicht zum Gürtel, Wrack. Du hast es gesehen. Er geht darunter durch, einen Kilometer tief, und er weicht vor nichts aus. Er läuft von Pol zu Pol und sonst nirgends. Diese Bahn läuft er, seit es noch keine Halten gab."
+    c_okonta "Er kommt nicht zum Gürtel, Wrack. Du hast es gesehen. Er geht darunter durch, einen Kilometer tief, und er weicht vor nichts aus. Er läuft von Pol zu Pol und sonst nirgends. Diese Bahn läuft er schon länger, als es Halten gibt."
 
 # game/ch14.rpy:56
 translate german ch14_0edaea6a:
@@ -130,7 +130,7 @@ translate german ch14_73169169:
 translate german ch14_6c4aa460:
 
     # "That was what the Thread was for. Jef had seen it. The old man had sat on a step with a mug, with his hands shaking and his heart failing."
-    "Dafür war der Faden da. Jef hatte es gesehen. Der alte Mann hatte auf einer Stufe gesessen, einen Becher in der Hand, die Hände zitternd und das Herz versagend."
+    "Dafür war der Faden da. Jef hatte es gesehen. Der alte Mann hatte auf einer Stufe gesessen, einen Becher in der Hand, mit zitternden Händen und versagendem Herzen."
 
 # game/ch14.rpy:68
 translate german ch14_2fb1c953:
@@ -142,7 +142,7 @@ translate german ch14_2fb1c953:
 translate german ch14_a4fdf40d:
 
     # "Ilan knew what he was doing. He had turned it over on a frigate's deck at Lashing, and on most nights since. There was one heart on Ovara large enough. For three thousand years it had run where no islander could lay a hand on it."
-    "Ilan wusste, was er tat. Er hatte es auf dem Deck einer Fregatte bei Lashing hin und her überlegt, und seither in den meisten Nächten. Es gab auf Ovara ein einziges Herz, das groß genug war. Dreitausend Jahre lang war es dort gelaufen, wo kein Inselbewohner Hand an es legen konnte."
+    "Ilan wusste, was er tat. Er hatte es auf dem Deck einer Fregatte bei Lashing hin und her überlegt, und seither in den meisten Nächten. Es gab auf Ovara ein einziges Herz, das groß genug war. Dreitausend Jahre lang war es dort gelaufen, wo kein Inselbewohner Hand daran legen konnte."
 
 # game/ch14.rpy:74
 translate german ch14_01b5592a:
@@ -160,13 +160,13 @@ translate german ch14_acd5a65f:
 translate german ch14_ce6a75b7:
 
     # "It was on the surface. Nobody living had seen that. The great ribs rose out of the swell in a line a kilometre long, each trailing a mane of spray, and the bound water in them blazed in the early light. It did not stop for him this time."
-    "Er war an der Oberfläche. Das hatte kein Lebender je gesehen. Die großen Rippen stiegen aus der Dünung in einer Linie von einem Kilometer Länge, jede mit einer Gischtmähne, und das gebundene Wasser in ihnen loderte im frühen Licht. Diesmal hielt er nicht für ihn an."
+    "Er war an der Oberfläche. Das hatte kein Lebender je gesehen. Die großen Rippen stiegen aus der Dünung in einer Linie von einem Kilometer Länge, jede mit einer Gischtmähne, und das gebundene Wasser in ihnen loderte im frühen Licht. Diesmal hielt der Drache nicht für ihn an."
 
 # game/ch14.rpy:80
 translate german ch14_7c16c39e:
 
     # "He did not ask it to. He put the needle alongside at full speed and went aboard as the Threaded do. He laid himself along its brow with both palms on the warm metal. He stopped being a man riding something."
-    "Er bat ihn nicht darum. Er brachte die Nadel mit voller Fahrt längsseits und ging an Bord, wie es die Fadenträger tun. Er legte sich der Länge nach auf seine Stirn, beide Handflächen auf dem warmen Metall. Er hörte auf, ein Mann zu sein, der auf etwas ritt."
+    "Ilan bat ihn nicht darum. Er brachte die Nadel mit voller Fahrt längsseits und ging an Bord, wie es die Fadenträger tun. Er legte sich der Länge nach auf die Stirn des Drachen, beide Handflächen auf dem warmen Metall. Er hörte auf, ein Mann zu sein, der auf etwas ritt."
 
 # game/ch14.rpy:84
 translate german ch14_29afa49f:
@@ -178,7 +178,7 @@ translate german ch14_29afa49f:
 translate german ch14_12b054d9:
 
     # "Okonta was beside him, flying escort. Other needles and darts were dropping in behind her, out of the squalls, one by one. There were nine of them, then fifteen. They were Threaded who had gone home when Jef died."
-    "Okonta war neben ihm und flog Geleit. Andere Nadeln und Pfeile fielen hinter ihr aus den Regenböen ein, einer nach dem anderen. Erst waren es neun, dann fünfzehn. Es waren Fadenträger, die nach Hause gegangen waren, als Jef starb."
+    "Okonta war neben ihm und flog Geleit. Andere Nadeln und Pfeile reihten sich hinter ihr ein, aus den Regenböen heraus, einer nach dem anderen. Erst waren es neun, dann fünfzehn. Es waren Fadenträger, die nach Hause gegangen waren, als Jef starb."
 
 # game/ch14.rpy:89
 translate german ch14_ebee7fa8:
@@ -220,7 +220,7 @@ translate german ch14_c7b1050b:
 translate german ch14_74cf5d8e:
 
     # "Fishing fleets hauled their nets and stood to watch. Children were held up on shoulders. All along its road, the people of the islands came out to see the mariners' god go by, off its course, with a man lying on its head."
-    "Fischerflotten holten ihre Netze ein und blieben stehen, um zu schauen. Kinder wurden auf Schultern hochgehoben. Entlang seiner ganzen Bahn kamen die Menschen der Inseln heraus, um den Gott der Meerleute vorbeiziehen zu sehen, abseits seines Kurses, mit einem Mann, der auf seinem Kopf lag."
+    "Fischerflotten holten ihre Netze ein und lagen still, um zu schauen. Kinder wurden auf Schultern hochgehoben. Entlang seiner ganzen Bahn kamen die Menschen der Inseln heraus, um den Gott der Meerleute vorbeiziehen zu sehen, abseits seines Kurses, mit einem Mann, der auf seinem Kopf lag."
 
 # game/ch14.rpy:108
 translate german ch14_31053483:
@@ -238,7 +238,7 @@ translate german ch14_750bc40e:
 translate german ch14_12d0332d:
 
     # "He had lived in it for fifteen years, and had never once seen it from the water."
-    "Er hatte fünfzehn Jahre darin gelebt und sie nie ein einziges Mal vom Wasser aus gesehen."
+    "Er hatte fünfzehn Jahre darin gelebt und sie kein einziges Mal vom Wasser aus gesehen."
 
 # game/ch14.rpy:116
 translate german ch14_36be4906:
@@ -256,7 +256,7 @@ translate german ch14_891543b1:
 translate german ch14_5ff9dc83:
 
     # "Ash was falling over all of it, soft and grey, as it fell most days. On the Rim, men were paid to sweep it."
-    "Über alldem fiel Asche, weich und grau, wie an den meisten Tagen. Auf dem Kraterrand wurden Männer dafür bezahlt, sie wegzukehren."
+    "Auf all das fiel Asche, weich und grau, wie an den meisten Tagen. Auf dem Kraterrand wurden Männer dafür bezahlt, sie wegzukehren."
 
 # game/ch14.rpy:119
 translate german ch14_7c0104cc:
@@ -298,7 +298,7 @@ translate german ch14_675d9035:
 translate german ch14_fa971098:
 
     # "He had his arm's length of sea about him, and this time he was ready. He did not need it. Okonta went past his shoulder like a thrown knife. The two needles met prow to prow, and hung there, turning."
-    "Er hatte seine Armlänge Meer um sich, und diesmal war er bereit. Er brauchte es nicht. Okonta schoss an seiner Schulter vorbei wie ein geworfenes Messer. Die beiden Nadeln trafen sich Bug an Bug und hingen dort, sich drehend."
+    "Er hatte seine Armlänge Meer um sich, und diesmal war er bereit. Er brauchte es nicht. Okonta schoss an seiner Schulter vorbei wie ein geworfenes Messer. Die beiden Nadeln trafen sich Bug an Bug und hingen dort und drehten sich."
 
 # game/ch14.rpy:140
 translate german ch14_6f919bdb:
@@ -328,7 +328,7 @@ translate german ch14_547c191d:
 translate german ch14_84d3d493:
 
     # c_okonta "I did. Where did he put your sister?"
-    c_okonta "Das habe ich. Wohin hat er deine Schwester gebracht?"
+    c_okonta "Ja, das habe ich. Wohin hat er deine Schwester gebracht?"
 
 # game/ch14.rpy:154
 translate german ch14_7e4ca133:
@@ -370,7 +370,7 @@ translate german ch14_814ed9a6:
 translate german ch14_d4482998:
 
     # c_okonta "And three holds more. Eleven thousand of ours, in orphan water, at the bottom of that hill. He has put them under your wave. He'll have known for months where it would fall."
-    c_okonta "Und drei Halten mehr. Elftausend von uns, in Waisenwasser, am Fuß dieses Hügels. Er hat sie unter deine Welle gesteckt. Er wird seit Monaten gewusst haben, wohin sie fallen würde."
+    c_okonta "Und drei weitere Halten. Elftausend von uns, in Waisenwasser, am Fuß dieses Hügels. Er hat sie unter deine Welle gesteckt. Er wird seit Monaten gewusst haben, wohin sie fallen würde."
 
 # game/ch14.rpy:175
 translate german ch14_8748703c:
@@ -490,7 +490,7 @@ translate german ch14_2f34a0d0:
 translate german ch14_d2c8044c:
 
     # c_hesper "Don't you see? None of us can! We built it too big. We learned something from you at Tidehall. How to hand strength on, one to the next. And we learned something at Fallow. We didn't ask for this, Wrack. Each of us told our piece of it to stand."
-    c_hesper "Siehst du das nicht? Keiner von uns kann es! Wir haben sie zu groß gebaut. Wir haben bei Tidehall etwas von dir gelernt. Wie man Kraft weitergibt, einer an den nächsten. Und wir haben bei Fallow etwas gelernt. Wir haben das nicht gewollt, Wrack. Jeder von uns hat seinem Stück davon befohlen zu stehen."
+    c_hesper "Siehst du das nicht? Keiner von uns kann es! Wir haben sie zu groß gebaut. Wir haben in Tidehall etwas von dir gelernt. Wie man Kraft weitergibt, einer an den nächsten. Und wir haben bei Fallow etwas gelernt. Wir haben nicht darum gebeten, Wrack. Jeder von uns hat seinem Stück davon befohlen zu stehen."
 
 # game/ch14.rpy:225
 translate german ch14_bc0fcf41:
@@ -604,7 +604,7 @@ translate german ch14_6ec17cdc:
 translate german ch14_1ab1d3aa:
 
     # "The wave lay down. It went back into the ocean like a sheet smoothed over a bed. A swell no higher than a child passed under the breakwater. It lifted the fishing boats, once, at their moorings."
-    "Die Welle legte sich nieder. Sie ging ins Meer zurück wie ein Laken, das über ein Bett geglättet wird. Eine Dünung, nicht höher als ein Kind, lief unter dem Wellenbrecher hindurch. Sie hob die Fischerboote, einmal, an ihren Liegeplätzen."
+    "Die Welle legte sich nieder. Sie ging ins Meer zurück wie ein Laken, das über einem Bett glatt gestrichen wird. Eine Dünung, nicht höher als ein Kind, lief unter der Mole hindurch. Sie hob die Fischerboote, einmal, an ihren Liegeplätzen."
 
 # game/ch14.rpy:271
 translate german ch14_4b3df142:
@@ -616,7 +616,7 @@ translate german ch14_4b3df142:
 translate german ch14_37cde2dc:
 
     # "Hesper had folded up in the water with her arms round her knees. Davin had said that it was boys on those boats. Ilan thought that she was hearing him."
-    "Hesper hatte sich im Wasser zusammengefaltet, die Arme um die Knie. Davin hatte gesagt, dass es Jungen auf diesen Booten waren. Ilan dachte, dass sie ihn hörte."
+    "Hesper hatte sich im Wasser zusammengekauert, die Arme um die Knie. Davin hatte gesagt, dass es Jungen auf diesen Booten waren. Ilan dachte, dass sie ihn hörte."
 
 # game/ch14.rpy:279
 translate german ch14_372b2a84:
@@ -664,7 +664,7 @@ translate german ch14_26b60a04:
 translate german ch14_1cb1533b:
 
     # "The whole of it was deaf, from the breakwater to the refinery quays. It was two hundred years of what ran off those tiers. Some of it was his."
-    "Alles davon war taub, vom Wellenbrecher bis zu den Raffineriekais. Es waren zweihundert Jahre von dem, was von diesen Stufen herablief. Ein Teil davon war seiner."
+    "Das ganze Wasser war taub, von der Mole bis zu den Raffineriekais. Es waren zweihundert Jahre von dem, was von diesen Stufen herablief. Ein Teil davon stammte von ihm."
 
 # game/ch14.rpy:303
 translate german ch14_f1a9cca8:
@@ -682,7 +682,7 @@ translate german ch14_bb58fbd1:
 translate german ch14_8cacfa72:
 
     # "He stopped trying to call. He put both hands into the filthy water, as he had once held a cupful in a canal in Saltgate. He looked at it. He thought of the harbour as a sick body. It was a wound that somebody had left to rot."
-    "Er hörte auf zu rufen. Er legte beide Hände in das schmutzige Wasser, so wie er einst einen Becher voll in einem Kanal in Saltgate gehalten hatte. Er sah es an. Er dachte an den Hafen wie an einen kranken Körper. Es war eine Wunde, die jemand hatte verfaulen lassen."
+    "Er hörte auf zu rufen. Er legte beide Hände in das schmutzige Wasser, so wie er einst eine Tasse voll in einem Kanal in Saltgate gehalten hatte. Er sah es an. Er dachte an den Hafen wie an einen kranken Körper. Es war eine Wunde, die jemand hatte verfaulen lassen."
 
 # game/ch14.rpy:309
 translate german ch14_c6650248:
@@ -712,19 +712,19 @@ translate german ch14_2ca06cff:
 translate german ch14_51e9da3e:
 
     # "And it could hear him."
-    "Und es konnte ihn hören."
+    "Und das Wasser konnte ihn hören."
 
 # game/ch14.rpy:320
 translate german ch14_5b487610:
 
     # "The second shot came straight. He raised the harbour to meet it. It was a wall of clean sea a kilometre thick, between the beam and the city. The beam struck it, and boiled into it, and guttered."
-    "Der zweite Schuss kam geradewegs. Er hob den Hafen, um ihm zu begegnen. Es war eine Wand aus sauberem Meer, einen Kilometer dick, zwischen dem Strahl und der Stadt. Der Strahl traf sie und kochte in sie hinein und erlosch flackernd."
+    "Der zweite Schuss kam genau auf die Stadt zu. Er hob den Hafen, um ihm zu begegnen. Es war eine Wand aus sauberem Meer, einen Kilometer dick, zwischen dem Strahl und der Stadt. Der Strahl traf sie und kochte in sie hinein und erlosch flackernd."
 
 # game/ch14.rpy:321
 translate german ch14_672e18b2:
 
     # "In the same moment he reached out along the Thread with the craft, across eleven kilometres, into a machine he had once stood inside. It was seated wrong."
-    "Im selben Augenblick griff er mit dem Handwerk den Faden entlang hinaus, über elf Kilometer, in eine Maschine, in der er einst gestanden hatte. Sie saß falsch."
+    "Im selben Augenblick griff er mit dem Handwerk den Faden entlang hinaus, über elf Kilometer, in eine Maschine, in der er einst gestanden hatte. Sie war falsch eingesetzt."
 
 # game/ch14.rpy:322
 translate german ch14_6ea1429b:
@@ -754,7 +754,7 @@ translate german ch14_e6bc3062:
 translate german ch14_db30ec6f:
 
     # "He carried them in over the breakwater, with their crews clinging to the rails. He set them down in the berths they had sailed from, one by one, as gently as he had ever done anything. Nobody was hurt."
-    "Er trug sie über den Wellenbrecher, die Besatzungen an die Reling geklammert. Er setzte sie an den Liegeplätzen ab, von denen sie ausgelaufen waren, eines nach dem anderen, so behutsam, wie er je etwas getan hatte. Niemand wurde verletzt."
+    "Er trug sie über die Mole, die Besatzungen an die Reling geklammert. Er setzte sie an den Liegeplätzen ab, von denen sie ausgelaufen waren, eines nach dem anderen, so behutsam, wie er je etwas getan hatte. Niemand wurde verletzt."
 
 # game/ch14.rpy:333
 translate german ch14_b39eb38d:
@@ -814,7 +814,7 @@ translate german ch14_87178f8c:
 translate german ch14_5ce5ac28:
 
     # "Then something rang in his head, faintly, as a glass rings when another is set down beside it."
-    "Dann klang etwas in seinem Kopf, leise, wie ein Glas klingt, wenn ein anderes neben es gestellt wird."
+    "Dann klang etwas in seinem Kopf, leise, wie ein Glas klingt, wenn man ein anderes danebenstellt."
 
 # game/ch14.rpy:363
 translate german ch14_e1aeb837:

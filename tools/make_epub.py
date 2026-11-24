@@ -4,6 +4,7 @@
 Reads source/novel.md (never changes it) and writes a reflowable EPUB.
   Full book:  python3 tools/make_epub.py --author "Name" --cover publish/books/cover.jpg --out publish/books/book.epub
   Sample:     add --sample 2     (first two chapters, with a closing page)
+  German:     add --lang de      (source defaults to work/german/novel_de.md, made by tools/assemble_german.py)
 The author name is a command-line argument so it never sits in a committed file.
 """
 import argparse
@@ -13,9 +14,32 @@ import zipfile
 from datetime import datetime, timezone
 from html import escape
 
-TITLE = "The Man the Tide Brought In"
-SUBTITLE = "A novel of Ovara"
-UID = "urn:uuid:" + str(uuid.uuid5(uuid.NAMESPACE_URL, "https://derschweigert.de/ovara/the-man-the-tide-brought-in"))
+LANGS = {
+    "en": dict(
+        code="en", source="source/novel.md",
+        title="The Man the Tide Brought In", subtitle="A novel of Ovara",
+        uid_url="https://derschweigert.de/ovara/the-man-the-tide-brought-in",
+        part_re=r"# (Part [^:]+): (.+)", chap_re=r"## (Chapter \d+)\. (.+)", end_mark="*The End*", end_text="The End",
+        cover_alt="Cover of ", rights="All rights reserved.", cover_label="Cover", contents="Contents",
+        guide="Guide", start="Start of the story", sample_end="End of sample",
+        thanks=("Thank you for reading. The story continues in ", ", &#8220;", "&#8221;, in the full book."),
+        extra_css="",
+    ),
+    "de": dict(
+        code="de", source="work/german/novel_de.md",
+        title="Der Mann, den die Flut brachte", subtitle="Ein Roman aus Ovara",
+        uid_url="https://derschweigert.de/ovara/der-mann-den-die-flut-brachte",
+        part_re=r"# (Teil [^:]+): (.+)", chap_re=r"## (Kapitel \d+)\. (.+)", end_mark="*Ende*", end_text="Ende",
+        cover_alt="Umschlag von ", rights="Alle Rechte vorbehalten.", cover_label="Umschlag", contents="Inhalt",
+        guide="Wegweiser", start="Beginn der Geschichte", sample_end="Ende der Leseprobe",
+        thanks=("Danke fürs Lesen. Die Geschichte geht in ", ", &#8222;", "&#8220;, im vollständigen Buch weiter."),
+        extra_css="p { hyphens: auto; -webkit-hyphens: auto; }\n",
+    ),
+}
+L = LANGS["en"]  # set in main()
+TITLE = L["title"]
+SUBTITLE = L["subtitle"]
+UID = "urn:uuid:" + str(uuid.uuid5(uuid.NAMESPACE_URL, L["uid_url"]))
 
 CSS = """\
 body { margin: 0; padding: 0 0.2em; line-height: 1.45; }
@@ -51,12 +75,12 @@ def parse(path):
 
     for raw in open(path, encoding="utf-8"):
         line = raw.rstrip("\n")
-        m = re.match(r"# (Part [^:]+): (.+)", line)
+        m = re.match(L["part_re"], line)
         if m:
             flush(); chap = None
             part = {"label": m.group(1), "name": m.group(2), "chapters": []}
             parts.append(part); continue
-        m = re.match(r"## (Chapter \d+)\. (.+)", line)
+        m = re.match(L["chap_re"], line)
         if m:
             flush()
             chap = {"label": m.group(1), "title": m.group(2), "items": []}
@@ -75,7 +99,7 @@ def parse(path):
 def xhtml(title, body, cls=""):
     return f"""<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" lang="en" xml:lang="en">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" lang="{L['code']}" xml:lang="{L['code']}">
 <head><meta charset="utf-8"/><title>{escape(title)}</title><link rel="stylesheet" type="text/css" href="style.css"/></head>
 <body{(' class="' + cls + '"') if cls else ''}>
 {body}
@@ -92,8 +116,8 @@ def chapter_body(chap):
         if it[0] == "sb":
             out.append('<p class="sb">*&#160;&#160;*&#160;&#160;*</p>'); continue
         text = it[1]
-        if text == "*The End*":
-            out.append('<p class="end">The End</p>'); continue
+        if text == L["end_mark"]:
+            out.append(f'<p class="end">{L["end_text"]}</p>'); continue
         attr = ' class="first"' if first else ""
         out.append(f"<p{attr}>{inline(text)}</p>")
         first = False
@@ -106,10 +130,17 @@ def main():
     ap.add_argument("--author", required=True)
     ap.add_argument("--cover", required=True)
     ap.add_argument("--out", required=True)
-    ap.add_argument("--source", default="source/novel.md")
+    ap.add_argument("--lang", choices=sorted(LANGS), default="en")
+    ap.add_argument("--source", default=None)
     ap.add_argument("--sample", type=int, default=0, help="only the first N chapters, plus a closing page")
     ap.add_argument("--year", default="2026")
     a = ap.parse_args()
+    global L, TITLE, SUBTITLE, UID
+    L = LANGS[a.lang]
+    TITLE, SUBTITLE = L["title"], L["subtitle"]
+    UID = "urn:uuid:" + str(uuid.uuid5(uuid.NAMESPACE_URL, L["uid_url"]))
+    if a.source is None:
+        a.source = L["source"]
 
     parts = parse(a.source)
     all_chaps = [c for p in parts for c in p["chapters"]]
@@ -123,9 +154,9 @@ def main():
 
     files = {}      # name -> (xhtml text, nav title or None)
     spine, toc = [], []   # toc: (href, label, [children])
-    files["cover.xhtml"] = xhtml("Cover", '<div class="cover"><img class="cover" src="cover.jpg" alt="Cover of ' + escape(TITLE) + '"/></div>')
+    files["cover.xhtml"] = xhtml(L["cover_label"], '<div class="cover"><img class="cover" src="cover.jpg" alt="' + L["cover_alt"] + escape(TITLE) + '"/></div>')
     files["title.xhtml"] = xhtml(TITLE, f'<section epub:type="titlepage"><h1>{escape(TITLE)}</h1><p class="sub">{escape(SUBTITLE)}</p><p class="center">{escape(a.author)}</p></section>')
-    files["copyright.xhtml"] = xhtml("Copyright", f'<section epub:type="copyright-page"><p class="noindent">{escape(TITLE)}</p><p class="noindent">&#169; {a.year} {escape(a.author)}. All rights reserved.</p></section>')
+    files["copyright.xhtml"] = xhtml("Copyright", f'<section epub:type="copyright-page"><p class="noindent">{escape(TITLE)}</p><p class="noindent">&#169; {a.year} {escape(a.author)}. {L["rights"]}</p></section>')
     spine += ["cover.xhtml", "title.xhtml", "copyright.xhtml"]
 
     first_body = None
@@ -142,9 +173,10 @@ def main():
             first_body = first_body or cf
         toc.append((pf, f'{part["label"]}: {part["name"]}', kids))
     if a.sample:
-        files["sample-end.xhtml"] = xhtml("End of sample", f'<section><h1>End of sample</h1><p class="center">Thank you for reading. The story continues in {escape(next_chap["label"])}, &#8220;{escape(next_chap["title"])}&#8221;, in the full book.</p></section>')
+        t1, t2, t3 = L["thanks"]
+        files["sample-end.xhtml"] = xhtml(L["sample_end"], f'<section><h1>{L["sample_end"]}</h1><p class="center">{t1}{escape(next_chap["label"])}{t2}{escape(next_chap["title"])}{t3}</p></section>')
         spine.append("sample-end.xhtml")
-        toc.append(("sample-end.xhtml", "End of sample", []))
+        toc.append(("sample-end.xhtml", L["sample_end"], []))
 
     def nav_li(items):
         s = "<ol>"
@@ -154,14 +186,14 @@ def main():
 
     nav = f"""<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" lang="en" xml:lang="en">
-<head><meta charset="utf-8"/><title>Contents</title><link rel="stylesheet" type="text/css" href="style.css"/></head>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" lang="{L['code']}" xml:lang="{L['code']}">
+<head><meta charset="utf-8"/><title>{L['contents']}</title><link rel="stylesheet" type="text/css" href="style.css"/></head>
 <body>
-<nav epub:type="toc" id="toc"><h1>Contents</h1>{nav_li(toc)}</nav>
-<nav epub:type="landmarks" hidden="hidden"><h2>Guide</h2><ol>
-<li><a epub:type="cover" href="cover.xhtml">Cover</a></li>
-<li><a epub:type="toc" href="nav.xhtml">Contents</a></li>
-<li><a epub:type="bodymatter" href="{first_body}">Start of the story</a></li></ol></nav>
+<nav epub:type="toc" id="toc"><h1>{L["contents"]}</h1>{nav_li(toc)}</nav>
+<nav epub:type="landmarks" hidden="hidden"><h2>{L["guide"]}</h2><ol>
+<li><a epub:type="cover" href="cover.xhtml">{L["cover_label"]}</a></li>
+<li><a epub:type="toc" href="nav.xhtml">{L["contents"]}</a></li>
+<li><a epub:type="bodymatter" href="{first_body}">{L["start"]}</a></li></ol></nav>
 </body>
 </html>
 """
@@ -175,14 +207,14 @@ def main():
     # nav.xhtml sits in the spine after the copyright page so readers can reach it.
     itemrefs = itemrefs.replace('<itemref idref="part1"', '<itemref idref="nav"/><itemref idref="part1"', 1)
     opf = f"""<?xml version="1.0" encoding="UTF-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="bookid" xml:lang="en">
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="bookid" xml:lang="{L['code']}">
 <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 <dc:identifier id="bookid">{UID}</dc:identifier>
 <dc:title id="t">{escape(TITLE)}</dc:title>
 <dc:creator id="c1">{escape(a.author)}</dc:creator>
 <meta refines="#c1" property="role" scheme="marc:relators">aut</meta>
-<dc:language>en</dc:language>
-<dc:rights>&#169; {a.year} {escape(a.author)}. All rights reserved.</dc:rights>
+<dc:language>{L["code"]}</dc:language>
+<dc:rights>&#169; {a.year} {escape(a.author)}. {L["rights"]}</dc:rights>
 <meta property="dcterms:modified">{now}</meta>
 <meta name="cover" content="cover-image"/>
 </metadata>
@@ -203,7 +235,7 @@ def main():
         z.writestr("META-INF/container.xml", container, compress_type=d)
         z.writestr("OEBPS/content.opf", opf, compress_type=d)
         z.writestr("OEBPS/nav.xhtml", nav, compress_type=d)
-        z.writestr("OEBPS/style.css", CSS, compress_type=d)
+        z.writestr("OEBPS/style.css", CSS + L["extra_css"], compress_type=d)
         z.write(a.cover, "OEBPS/cover.jpg", compress_type=zipfile.ZIP_STORED)
         for n, t in files.items():
             z.writestr("OEBPS/" + n, t, compress_type=d)

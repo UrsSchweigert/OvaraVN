@@ -22,7 +22,7 @@ translate german ch16_a3137652:
 translate german ch16_a0a6c686:
 
     # "The tanks stood behind the sea-wall in rows. Electric lamps hung over them on wires, hard and white, and they did not flicker. That had been in the paper."
-    "Die Tanks standen in Reihen hinter der Ufermauer. Elektrische Lampen hingen an Drähten über ihnen, hart und weiß, und sie flackerten nicht. Das hatte im Papier gestanden."
+    "Die Tanks standen in Reihen hinter der Hafenmauer. Elektrische Lampen hingen an Drähten über ihnen, hart und weiß, und sie flackerten nicht. Das hatte im Papier gestanden."
 
 # game/ch16.rpy:18
 translate german ch16_8bcded6a:
@@ -160,13 +160,13 @@ translate german ch16_77e5e07b:
 translate german ch16_4b89bd45:
 
     # "He turned, and spoke to the nearest of his people, and they spoke to the next. Ilan watched it go down the rows. It was a Moot, he saw. It was a small one, held in a trough. It took two hours, and nobody raised a voice."
-    "Er drehte sich um und sprach zu dem Nächststehenden seiner Leute, und die sprachen zum Nächsten. Ilan sah zu, wie es die Reihen hinunterlief. Es war ein Moot, sah er. Ein kleines, in einem Trog abgehalten. Es dauerte zwei Stunden, und niemand erhob die Stimme."
+    "Er drehte sich um und sprach zu den Nächststehenden seiner Leute, und die sprachen zu den Nächsten. Ilan sah zu, wie es die Reihen hinunterlief. Es war ein Moot, sah er. Ein kleines, in einem Trog abgehalten. Es dauerte zwei Stunden, und niemand erhob die Stimme."
 
 # game/ch16.rpy:79
 translate german ch16_a4ebf067:
 
     # "Then the callers of Kelder got up out of the orphan water. They went down through the open sluice into the harbour, which was clean, and could hear. He saw their faces as it touched them."
-    "Dann stiegen die Rufer von Kelder aus dem Waisenwasser. Sie gingen durch die offene Schleuse hinunter in den Hafen, der sauber war und hören konnte. Er sah ihre Gesichter, als es sie berührte."
+    "Dann stiegen die Rufer von Kelder aus dem Waisenwasser. Sie gingen durch die offene Schleuse hinunter in den Hafen, der sauber war und hören konnte. Er sah ihre Gesichter, als das Wasser sie berührte."
 
 # game/ch16.rpy:83
 translate german ch16_d0e351b8:
@@ -244,7 +244,7 @@ translate german ch16_00405ce4:
 translate german ch16_6e77af7a:
 
     # "She nodded once. She had still not smiled. But she put her hand on his forearm, as an old man had gripped hers in the gallery of the Dragon, and held it there."
-    "Sie nickte einmal. Sie hatte noch immer nicht gelächelt. Aber sie legte ihm die Hand auf den Unterarm, wie ein alter Mann die ihre in der Galerie des Drachen gepackt hatte, und ließ sie dort."
+    "Sie nickte einmal. Sie hatte noch immer nicht gelächelt. Aber sie legte ihm die Hand auf den Unterarm, wie ein alter Mann den ihren in der Galerie des Drachen gepackt hatte, und ließ sie dort."
 
 # game/ch16.rpy:133
 translate german ch16_21208227:
@@ -256,7 +256,7 @@ translate german ch16_21208227:
 translate german ch16_11aca31a:
 
     # "The Thread was not the gift, and being ebbed did not touch it. He lay along the needle with Sefa behind him and thought, with some bitterness, that it was the one thing Jef had given him that he could not spoil."
-    "Der Faden war nicht die Gabe, und dass er ausgeebbt war, berührte ihn nicht. Er lag der Länge nach auf der Nadel, Sefa hinter sich, und dachte mit einiger Bitterkeit, dass es das Einzige war, was Jef ihm gegeben hatte und was er nicht verderben konnte."
+    "Der Faden war nicht die Gabe, und dass er ausgeebbt war, berührte ihn nicht. Er lag der Länge nach auf der Nadel, Sefa hinter sich, und dachte mit einiger Bitterkeit, dass es das Einzige von Jefs Gaben war, das er nicht verderben konnte."
 
 # game/ch16.rpy:137
 translate german ch16_e8b63d47:
@@ -322,7 +322,7 @@ translate german ch16_973d51b1:
 translate german ch16_bce47124:
 
     # "The Lockkeepers kept their senior box at the north gate. He climbed to it by an iron ladder, slowly, stopping at every landing. The woman inside was seventy. She had a brass badge worn smooth, and a kettle, and a logbook the size of a paving stone."
-    "Die Schleusenwärter hatten ihr Hauptwärterhäuschen am Nordtor. Er stieg über eine Eisenleiter hinauf, langsam, auf jedem Absatz stehen bleibend. Die Frau darin war siebzig. Sie hatte ein glatt abgewetztes Messingabzeichen, einen Wasserkessel und ein Logbuch so groß wie ein Pflasterstein."
+    "Die Schleusenwärter hatten ihr Hauptwärterhäuschen am Nordtor. Er stieg über eine Eisenleiter hinauf, langsam, und blieb auf jedem Absatz stehen. Die Frau darin war siebzig. Sie hatte ein glatt abgewetztes Messingabzeichen, einen Wasserkessel und ein Logbuch so groß wie eine Gehwegplatte."
 
 # game/ch16.rpy:175
 translate german ch16_fd259489:
@@ -448,7 +448,7 @@ translate german ch16_e47ab4a8:
 translate german ch16_fe2f999a:
 
     # "He went north, because there was one hold he could not ask by messenger."
-    "Er ging nach Norden, denn es gab eine Halte, um die er nicht durch einen Boten bitten konnte."
+    "Er ging nach Norden, denn es gab eine Halte, die er nicht durch einen Boten bitten konnte."
 
 # game/ch16.rpy:231
 translate german ch16_e99b3227:
@@ -490,7 +490,7 @@ translate german ch16_40b3e3f6:
 translate german ch16_a82dbee4:
 
     # c_ilan "It would take every caller you have, and every healer, at the edge of deaf water, passing strength hand to hand through a man who has gone under once already. Some of them may not come back whole. I've nothing to offer for it. I'm only asking."
-    c_ilan "Es würde jeden Rufer brauchen, den ihr habt, und jeden Heiler, am Rand des tauben Wassers, die Kraft von Hand zu Hand weiterreichend durch einen Mann, der schon einmal untergegangen ist. Manche von ihnen kommen vielleicht nicht unversehrt zurück. Ich habe nichts dafür zu bieten. Ich bitte nur."
+    c_ilan "Es würde jeden Rufer brauchen, den ihr habt, und jeden Heiler, am Rand des tauben Wassers, und sie müssten die Kraft von Hand zu Hand weiterreichen, durch einen Mann, der schon einmal untergegangen ist. Manche von ihnen kommen vielleicht nicht unversehrt zurück. Ich habe nichts dafür zu bieten. Ich bitte nur."
 
 # game/ch16.rpy:250
 translate german ch16_d84c3fa3:
@@ -532,7 +532,7 @@ translate german ch16_4686f773:
 translate german ch16_dc60668d:
 
     # c_vey "I have wondered, since, whether that was why we let him carry it. It is very easy to be grateful. It asks nothing of one."
-    c_vey "Ich habe mich seither gefragt, ob wir ihn deshalb haben tragen lassen. Es ist sehr leicht, dankbar zu sein. Es verlangt einem nichts ab."
+    c_vey "Ich habe mich seither gefragt, ob wir es ihn deshalb haben tragen lassen. Es ist sehr leicht, dankbar zu sein. Es verlangt einem nichts ab."
 
 # game/ch16.rpy:270
 translate german ch16_12f25b51:
@@ -754,7 +754,7 @@ translate german ch16_e2fc177c:
 translate german ch16_618ccd13:
 
     # "Sefa looked at the bottle. Her mouth worked."
-    "Sefa sah die Flasche an. Ihr Mund arbeitete."
+    "Sefa sah die Flasche an. Ihr Mund zuckte."
 
 # game/ch16.rpy:383
 translate german ch16_1c03a200:
@@ -862,7 +862,7 @@ translate german ch16_17ffcae7:
 translate german ch16_398456bf:
 
     # c_maelis "Now. They've told me something else. In fifty-five years they have never once told me what they want. I've asked. They thought it was funny."
-    c_maelis "Nun. Sie haben mir noch etwas gesagt. In fünfundfünfzig Jahren haben sie mir nie ein einziges Mal gesagt, was sie wollen. Ich habe gefragt. Sie fanden es komisch."
+    c_maelis "Nun. Sie haben mir noch etwas gesagt. In fünfundfünfzig Jahren haben sie mir kein einziges Mal gesagt, was sie wollen. Ich habe gefragt. Sie fanden es komisch."
 
 # game/ch16.rpy:433
 translate german ch16_6b492fc0:
@@ -928,7 +928,7 @@ translate german ch16_c6f1ccc6:
 translate german ch16_3459ab95:
 
     # "Teodora Raske stood on the deck of a tug with her three hundred and eleven, checking the seals on one another's hard suits. Adler Crane was among them, in a borrowed helmet, holding a lamp for Hanne."
-    "Teodora Raske stand auf dem Deck eines Schleppers mit ihren dreihundertelf und prüfte gegenseitig die Dichtungen der Taucheranzüge. Adler Crane war unter ihnen, in einem geliehenen Helm, und hielt eine Lampe für Hanne."
+    "Teodora Raske stand auf dem Deck eines Schleppers mit ihren dreihundertelf, die gegenseitig die Dichtungen ihrer Taucheranzüge prüften. Adler Crane war unter ihnen, in einem geliehenen Helm, und hielt eine Lampe für Hanne."
 
 # game/ch16.rpy:474
 translate german ch16_46aeefe4:
@@ -940,7 +940,7 @@ translate german ch16_46aeefe4:
 translate german ch16_35a75323:
 
     # "He had been somebody that people could not do without. He was watching it stop. He found, to his surprise, that it was like setting down a sled rope."
-    "Er war jemand gewesen, ohne den die Leute nicht auskamen. Er sah zu, wie das aufhörte. Zu seiner Überraschung fand er, dass es sich anfühlte, als setze man ein Schlittenseil ab."
+    "Er war jemand gewesen, ohne den die Leute nicht auskamen. Er sah zu, wie das aufhörte. Zu seiner Überraschung fand er, dass es sich anfühlte, als lege man ein Schlittenseil aus der Hand."
 
 # game/ch16.rpy:478
 translate german ch16_81f6be09:
@@ -970,7 +970,7 @@ translate german ch16_aad4c1fb:
 translate german ch16_35226499:
 
     # c_hesper "To where we built it, off the Crown. And then I went to Fallow. I wanted to see it properly. I'd only seen that it worked."
-    c_hesper "Dorthin, wo wir es gebaut haben, vor der Krone. Und dann bin ich nach Fallow gegangen. Ich wollte es mir richtig ansehen. Ich hatte nur gesehen, dass es funktionierte."
+    c_hesper "Dorthin, wo wir sie gebaut haben, vor der Krone. Und dann bin ich nach Fallow gegangen. Ich wollte es mir richtig ansehen. Ich hatte nur gesehen, dass es funktionierte."
 
 # game/ch16.rpy:490
 translate german ch16_0ff4a975:
@@ -1000,7 +1000,7 @@ translate german ch16_62bbd89c:
 translate german ch16_f5c6e55b:
 
     # c_ilan "I needed to go and look. I never did. For fifteen years."
-    c_ilan "Ich musste hingehen und nachsehen. Ich habe es nie getan. Fünfzehn Jahre lang."
+    c_ilan "Ich hätte hingehen und nachsehen müssen. Ich habe es nie getan. Fünfzehn Jahre lang."
 
 # game/ch16.rpy:501
 translate german ch16_86f5acc0:
@@ -1012,7 +1012,7 @@ translate german ch16_86f5acc0:
 translate german ch16_7a6677ef:
 
     # "She glanced along the boat. Sefa was asleep in the bows with her hand trailing in the water. Even from the stern he could see that the sea round her fingers was faintly gold."
-    "Sie ließ den Blick am Boot entlanggehen. Sefa schlief im Bug, die Hand im Wasser schleifend. Selbst vom Heck aus sah er, dass das Meer um ihre Finger schwach golden war."
+    "Sie ließ den Blick am Boot entlanggehen. Sefa schlief im Bug und ließ die Hand durchs Wasser schleifen. Selbst vom Heck aus sah er, dass das Meer um ihre Finger schwach golden war."
 
 # game/ch16.rpy:515
 translate german ch16_ed85d047:
@@ -1042,7 +1042,7 @@ translate german ch16_968e5f6c:
 translate german ch16_02d41a21:
 
     # c_hesper "I did. I'll hold to it."
-    c_hesper "Das habe ich. Dabei bleibe ich."
+    c_hesper "Ja. Dabei bleibe ich."
 
 # game/ch16.rpy:529
 translate german ch16_e4ee6be2:

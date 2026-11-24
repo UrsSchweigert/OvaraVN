@@ -10,7 +10,7 @@ translate german ch12_918f2eb7:
 translate german ch12_d3b43441:
 
     # "It was six days out of Lashing, with Dace's boat ahead of it to find the Eyes. Raske had chosen forty of her people to come. The rest stayed at Lashing with their lamps."
-    "Er war sechs Tage von Lashing entfernt, und Daces Boot fuhr voraus, um die Augen zu finden. Raske hatte vierzig ihrer Leute für die Reise ausgewählt. Die anderen blieben mit ihren Lampen in Lashing."
+    "Der Schlepper war seit sechs Tagen von Lashing aus unterwegs, und Daces Boot fuhr voraus, um die Augen zu finden. Raske hatte vierzig ihrer Leute für die Reise ausgewählt. Die anderen blieben mit ihren Lampen in Lashing."
 
 # game/ch12.rpy:16
 translate german ch12_af9b5cd5:
@@ -22,7 +22,7 @@ translate german ch12_af9b5cd5:
 translate german ch12_688892bb:
 
     # "The storm had thinned behind them and fallen away, and they lay under a clean sky. Ilan left his needle with Okonta and went up the side. He thought it right to come to the Moot as the islanders came, on a deck, in plain view."
-    "Der Sturm hatte hinter ihnen nachgelassen und sich verzogen, und sie lagen unter einem klaren Himmel. Ilan ließ seine Nadel bei Okonta und stieg an der Bordwand hinauf. Er hielt es für richtig, so zum Moot zu kommen, wie die Inselbewohner kamen, auf einem Deck, vor aller Augen."
+    "Der Sturm hatte hinter ihnen nachgelassen und sich verzogen, und sie lagen unter einem klaren Himmel. Ilan ließ seine Nadel bei Okonta und stieg an der Bordwand hinauf. Er hielt es für richtig, so zum Moot zu kommen, wie die Inselleute kamen, auf einem Deck, vor aller Augen."
 
 # game/ch12.rpy:18
 translate german ch12_386bbb7f:
@@ -94,7 +94,7 @@ translate german ch12_e508130b:
 translate german ch12_e4574c29:
 
     # "The northern holds called the place half agravar. Ilan could see why. The mariners of Nine Spires wore sea-silk cut in island fashions. Their children ran along the aprons shouting to the raft children in a mixture of both tongues. He saw an old mariner sitting on a step with his feet in the sea, reading an agravar newspaper."
-    "Die Halten des Nordens nannten den Ort halb agravarisch. Ilan verstand, warum. Die Meerleute von Nine Spires trugen Meerseide, nach der Mode der Inseln geschnitten. Ihre Kinder liefen die Kais entlang und riefen den Flößerkindern in einem Gemisch aus beiden Sprachen etwas zu. Er sah einen alten Meermann auf einer Stufe sitzen, die Füße im Meer, und eine Zeitung der Agravare lesen."
+    "Die Halten des Nordens nannten den Ort halb agravarisch. Ilan verstand, warum. Die Meerleute von Nine Spires trugen Meerseide, nach der Mode der Inseln geschnitten. Ihre Kinder liefen die Kais entlang und riefen den Flößerkindern in einem Gemisch aus beiden Sprachen etwas zu. Er sah einen alten Meermenschen auf einer Stufe sitzen, die Füße im Meer, und eine Zeitung der Agravare lesen."
 
 # game/ch12.rpy:48
 translate german ch12_98d8a3d0:
@@ -106,7 +106,7 @@ translate german ch12_98d8a3d0:
 translate german ch12_bf05b88c:
 
     # "Its speaker met them at the apron. She was a brisk, handsome woman of fifty named Odile. She had the air of a person with a great many lists. She looked at the tug, and at the forty islanders on its deck in their borrowed hard suits."
-    "Seine Sprecherin empfing sie am Kai. Sie war eine flotte, stattliche Frau von fünfzig namens Odile. Sie hatte die Miene eines Menschen mit sehr vielen Listen. Sie betrachtete den Schlepper und die vierzig Inselbewohner an Deck in ihren geliehenen Taucheranzügen."
+    "Seine Sprecherin empfing sie am Kai. Sie war eine resolute, stattliche Frau von fünfzig namens Odile. Sie hatte die Miene eines Menschen mit sehr vielen Listen. Sie betrachtete den Schlepper und die vierzig Inselleute an Deck in ihren geliehenen Taucheranzügen."
 
 # game/ch12.rpy:54
 translate german ch12_e818bd86:
@@ -142,7 +142,7 @@ translate german ch12_bb4fa6d3:
 translate german ch12_41499c77:
 
     # c_odile "You'll be lodged apart. Nobody will harm you. I've given my word on that to the north, and I've given my word to the Breakers that you won't leave. Your engineers are guests of this hold. They may go where they like. They'll find my people ask a great many questions."
-    c_odile "Sie werden getrennt untergebracht. Niemand wird Ihnen etwas antun. Ich habe dem Norden mein Wort darauf gegeben, und den Brechern habe ich mein Wort gegeben, dass Sie nicht fortgehen. Ihre Ingenieure sind Gäste dieser Halte. Sie dürfen gehen, wohin sie wollen. Sie werden feststellen, dass meine Leute sehr viele Fragen stellen."
+    c_odile "Sie werden getrennt untergebracht. Niemand wird Ihnen etwas antun. Ich habe dem Norden mein Wort darauf gegeben, und den Brechern habe ich mein Wort gegeben, dass Sie nicht fortgehen. Ihre Ingenieure sind Gäste dieser Halte. Ihre Leute dürfen gehen, wohin sie wollen. Sie werden feststellen, dass meine Leute sehr viele Fragen stellen."
 
 # game/ch12.rpy:64
 translate german ch12_ec0c9430:
@@ -154,7 +154,7 @@ translate german ch12_ec0c9430:
 translate german ch12_d0b56596:
 
     # c_odile "Don't. I'm a hostess. It isn't the same as a friend."
-    c_odile "Nicht doch. Ich bin Gastgeberin. Das ist nicht dasselbe wie eine Freundin."
+    c_odile "Danken Sie mir nicht. Ich bin Gastgeberin. Das ist nicht dasselbe wie eine Freundin."
 
 # game/ch12.rpy:72
 translate german ch12_13838c11:
@@ -172,7 +172,7 @@ translate german ch12_7a63be75:
 translate german ch12_810e2db5:
 
     # "He sat at the window through most of the night."
-    "Er saß die meiste Nacht am Fenster."
+    "Er saß den größten Teil der Nacht am Fenster."
 
 # game/ch12.rpy:83
 translate german ch12_628db801:
@@ -196,7 +196,7 @@ translate german ch12_04477f2c:
 translate german ch12_75edc3ee:
 
     # "The Makers had built it. Nobody knew what for. It was a bowl sunk into the white sand, a kilometre across, and terraced all the way round in tiers of the pale stone. And it had a voice. A word spoken at the centre could be heard on the highest tier, as clearly as if the speaker stood at your shoulder."
-    "Die Erbauer hatten Tidehall gebaut. Niemand wusste, wozu. Es war eine Schale, in den weißen Sand eingesenkt, einen Kilometer breit und ringsum in Rängen aus hellem Stein terrassiert. Und sie hatte eine Stimme. Ein in der Mitte gesprochenes Wort war auf dem obersten Rang zu hören, so deutlich, als stünde der Sprecher einem an der Schulter."
+    "Die Erbauer hatten Tidehall gebaut. Niemand wusste, wozu. Es war eine Schale, in den weißen Sand eingesenkt, einen Kilometer breit und ringsum in Rängen aus hellem Stein terrassiert. Und sie hatte eine Stimme. Ein in der Mitte gesprochenes Wort war auf dem obersten Rang zu hören, so deutlich, als stünde der Sprechende neben einem."
 
 # game/ch12.rpy:91
 translate german ch12_d5c26029:
@@ -232,7 +232,7 @@ translate german ch12_66747368:
 translate german ch12_68669753:
 
     # "It was full now."
-    "Jetzt war sie voll."
+    "Jetzt war es voll."
 
 # game/ch12.rpy:101
 translate german ch12_5e8b272b:
@@ -244,7 +244,7 @@ translate german ch12_5e8b272b:
 translate german ch12_f3e95546:
 
     # "Pearl Stair had sent twelve small holds with one speaker between them. She was a tiny fierce woman with pearls in her hair, and she looked as if she had not agreed with anything since childhood."
-    "Pearl Stair hatte zwölf kleine Halten entsandt, die sich einen Sprecher teilten. Sie war eine winzige, grimmige Frau mit Perlen im Haar, und sie sah aus, als hätte sie seit ihrer Kindheit keiner Sache mehr zugestimmt."
+    "Pearl Stair hatte zwölf kleine Halten entsandt, die sich eine Sprecherin teilten. Sie war eine winzige, grimmige Frau mit Perlen im Haar, und sie sah aus, als hätte sie seit ihrer Kindheit keiner Sache mehr zugestimmt."
 
 # game/ch12.rpy:103
 translate german ch12_9fc25274:
@@ -268,7 +268,7 @@ translate german ch12_1222cdef:
 translate german ch12_6f456553:
 
     # "Odile called for quiet, and got it. She held up a purple flimsy."
-    "Odile rief um Ruhe und bekam sie. Sie hielt ein violettes Flugblatt hoch."
+    "Odile verlangte Ruhe und bekam sie. Sie hielt ein violettes Flugblatt hoch."
 
 # game/ch12.rpy:117
 translate german ch12_22a0841b:
@@ -328,7 +328,7 @@ translate german ch12_1169cb6d:
 translate german ch12_c22bf9dd:
 
     # c_ilan "I never came to see what it did. The charts on that paper are mine, and so is the signature."
-    c_ilan "Ich bin nie hingekommen, um zu sehen, was es anrichtete. Die Karten auf diesem Blatt sind meine, und die Unterschrift ist es auch."
+    c_ilan "Ich bin nie hingegangen, um nachzusehen, was es anrichtete. Die Karten auf diesem Blatt sind meine, und die Unterschrift ist es auch."
 
 # game/ch12.rpy:141
 translate german ch12_6c998c8c:
@@ -400,7 +400,7 @@ translate german ch12_6b369d8f:
 translate german ch12_cad60552:
 
     # c_hesper "He owes us. So give him to us. Give him to the Breakers, and we'll point him at Port Halcyon. He can pay what he owes in the only coin they've ever understood."
-    c_hesper "Er schuldet uns etwas. Also gebt ihn uns. Gebt ihn den Brechern, und wir richten ihn auf Port Halcyon aus. Er kann zahlen, was er schuldet, in der einzigen Münze, die sie je verstanden haben."
+    c_hesper "Er schuldet uns etwas. Also gebt ihn uns. Gebt ihn den Brechern, und wir richten ihn auf Port Halcyon. Er kann zahlen, was er schuldet, in der einzigen Münze, die sie je verstanden haben."
 
 # game/ch12.rpy:168
 translate german ch12_d1af9ed8:
@@ -448,7 +448,7 @@ translate german ch12_4edd0f68:
 translate german ch12_cb85c5a5:
 
     # c_ilan "And I'm not asking to be let off. I'm asking to be put to work. I've no defence. All I've got is what I've done since. The Lantern is lit, eight halls of the nine. The Dragon runs. Deep Chorus breathes, and Elder Vey is here to tell you how near it came. There's a Wellwalker walking again who spent eight months in a tank."
-    c_ilan "Und ich bitte nicht darum, laufen gelassen zu werden. Ich bitte darum, zur Arbeit eingesetzt zu werden. Ich habe keine Verteidigung. Ich habe nur, was ich seither getan habe. Die Laterne brennt, acht der neun Hallen. Der Drache läuft. Deep Chorus atmet, und Älteste Vey ist hier, um euch zu sagen, wie nah es daran war. Eine Brunnenwanderin geht wieder, die acht Monate in einem Tank saß."
+    c_ilan "Und ich bitte nicht darum, freigesprochen zu werden. Ich bitte darum, zur Arbeit eingesetzt zu werden. Ich habe keine Verteidigung. Ich habe nur, was ich seither getan habe. Die Laterne brennt, acht der neun Hallen. Der Drache läuft. Deep Chorus atmet, und Älteste Vey ist hier, um euch zu sagen, wie knapp es war. Eine Brunnenwanderin wandert wieder, die acht Monate in einem Tank saß."
 
 # game/ch12.rpy:189
 translate german ch12_f2115d84:
@@ -496,7 +496,7 @@ translate german ch12_94fda4a4:
 translate german ch12_2d85dc83:
 
     # c_vey "We hid it for six years. A child of sixteen shamed us into saying so, and after that we lost nobody. I will speak for him."
-    c_vey "Wir haben es sechs Jahre lang verborgen. Ein Kind von sechzehn hat uns beschämt, es auszusprechen, und danach haben wir niemanden mehr verloren. Ich werde für ihn sprechen."
+    c_vey "Wir haben es sechs Jahre lang verborgen. Ein Kind von sechzehn hat uns so beschämt, dass wir es aussprachen, und danach haben wir niemanden mehr verloren. Ich werde für ihn sprechen."
 
 # game/ch12.rpy:211
 translate german ch12_220722bb:
@@ -634,7 +634,7 @@ translate german ch12_72d08b56:
 translate german ch12_83246935:
 
     # c_sefa "Hesper watched the same thing. She went away pleased. That's all the difference there is. I can't heal any more. I can still tell."
-    c_sefa "Hesper hat dasselbe mit angesehen. Sie ist zufrieden davongegangen. Das ist der ganze Unterschied. Ich kann nicht mehr heilen. Ich erkenne es noch."
+    c_sefa "Hesper hat dasselbe mit angesehen. Sie ist zufrieden davongegangen. Das ist der ganze Unterschied. Ich kann nicht mehr heilen. Den Unterschied erkenne ich noch."
 
 # game/ch12.rpy:264
 translate german ch12_700c9bc7:
@@ -664,7 +664,7 @@ translate german ch12_ca2d2bc7:
 translate german ch12_ee6ea1e0:
 
     # c_hesper "You all know the song. I'll say it for the islanders."
-    c_hesper "Ihr kennt das Lied alle. Ich sage es für die Inselbewohner."
+    c_hesper "Ihr kennt das Lied alle. Ich sage es für die Inselleute."
 
 # game/ch12.rpy:275
 translate german ch12_56eb537c:
@@ -682,7 +682,7 @@ translate german ch12_f2713d0b:
 translate german ch12_766dfda2:
 
     # c_hesper "There's another way, in the songs. Many callers pour their strength into one, and that one does the asking. One will, and a hundred people's strength behind it. It's never once been done. Every caller who's tried to carry other people's strength has gone into the undertow. Some of them took the others along."
-    c_hesper "In den Liedern gibt es einen anderen Weg. Viele Rufer gießen ihre Kraft in einen einzigen, und dieser eine bittet. Ein Wille, und die Kraft von hundert Menschen dahinter. Das ist noch nie ein einziges Mal gelungen. Jeder Rufer, der versucht hat, die Kraft anderer zu tragen, ist im Sog untergegangen. Manche haben die anderen mitgenommen."
+    c_hesper "In den Liedern gibt es einen anderen Weg. Viele Rufer gießen ihre Kraft in einen einzigen, und dieser eine bittet. Ein Wille, und die Kraft von hundert Menschen dahinter. Das ist noch kein einziges Mal gelungen. Jeder Rufer, der versucht hat, die Kraft anderer zu tragen, ist im Sog untergegangen. Manche haben die anderen mitgenommen."
 
 # game/ch12.rpy:281
 translate german ch12_622e6709:
@@ -706,7 +706,7 @@ translate german ch12_dbdacf91:
 translate german ch12_d8d93f75:
 
     # c_ilan "Will you lend me yours?"
-    c_ilan "Leihst du mir deine?"
+    c_ilan "Leihst du mir deine Kraft?"
 
 # game/ch12.rpy:289
 translate german ch12_40c36178:
@@ -820,7 +820,7 @@ translate german ch12_9ae10b78:
 translate german ch12_093077fd:
 
     # "He was never again to command the sea. If he did, any caller who saw it might put him down, and no hold would ask why. The engineers were to be received as guests of all the waters, and any hold might send its people to learn beside them. And the holds were to act together, for the first time ever, in whatever came next."
-    "Er durfte dem Meer nie wieder befehlen. Tat er es doch, so durfte jeder Rufer, der es sah, ihn niederstrecken, und keine Halte würde um den Grund wissen wollen. Die Ingenieure sollten als Gäste aller Gewässer aufgenommen werden, und jede Halte durfte ihre Leute schicken, damit sie neben ihnen lernten. Und die Halten sollten zum ersten Mal überhaupt gemeinsam handeln, in allem, was als Nächstes kam."
+    "Er durfte dem Meer nie wieder befehlen. Tat er es doch, so durfte jeder Rufer, der es sah, ihn niederstrecken, und keine Halte würde sich nach dem Grund erkundigen. Die Ingenieure sollten als Gäste aller Gewässer aufgenommen werden, und jede Halte durfte ihre Leute schicken, damit sie neben ihnen lernten. Und die Halten sollten zum ersten Mal überhaupt gemeinsam handeln, in allem, was als Nächstes kam."
 
 # game/ch12.rpy:337
 translate german ch12_07dc7df8:
@@ -922,7 +922,7 @@ translate german ch12_dd138af9:
 translate german ch12_f3e15495:
 
     # c_ione "I'd like to hate you for that more than for the dome. She won't let me."
-    c_ione "Dafür würde ich dich gern mehr hassen als für die Kuppel. Sie lässt es mich nicht."
+    c_ione "Dafür würde ich dich gern mehr hassen als für die Kuppel. Sie lässt mich nicht."
 
 # game/ch12.rpy:369
 translate german ch12_49b5369c:
@@ -964,7 +964,7 @@ translate german ch12_c3be8efc:
 translate german ch12_c3769f26:
 
     # c_ione "Keep on not letting yourself off. And come and eat with us. Sefa's found some islanders she wants me to meet."
-    c_ione "Sprich dich weiter nicht frei. Und komm essen mit uns. Sefa hat ein paar Inselbewohner gefunden, die ich kennenlernen soll."
+    c_ione "Sprich dich weiter nicht frei. Und komm mit uns essen. Sefa hat ein paar Inselleute gefunden, die ich kennenlernen soll."
 
 # game/ch12.rpy:384
 translate german ch12_ea71cf15:
