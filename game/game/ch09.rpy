@@ -219,8 +219,8 @@ label ch09:
     show p wrack_assured_attentive as left at head_left
     show p enginewoman_weeping as right at head_right
     with qd
-    "I've got a lamp,"
-    "At home. In the wall, behind the stove. I've had it nineteen years. My husband thinks it's a piece of drainpipe."
+    c_enginewoman "I've got a lamp,"
+    c_enginewoman "At home. In the wall, behind the stove. I've had it nineteen years. My husband thinks it's a piece of drainpipe."
     show p wrack_assured_calm as left at head_left
     with qd
     c_ilan "Bring it,"
@@ -243,8 +243,8 @@ label ch09:
     c_dace "Me? Twenty. If you want more you'll need tugs."
     show p hullman_steady as right at head_right
     with qd
-    "We've tugs,"
-    "I sign for them."
+    c_hullman "We've tugs,"
+    c_hullman "I sign for them."
 
     hide left
     hide right
@@ -416,10 +416,10 @@ label ch09:
     show p wrack_assured_attentive as left at head_left
     show p fatman_unhappy as right at head_right
     with qd
-    "There's a launch come into the Eye,"
-    "Grey. No flag. One old gentleman in it, and a hamper. He's asked for the law, in the proper words, and he's got it. I can't refuse it him. I never refused it you."
+    c_fatman "There's a launch come into the Eye,"
+    c_fatman "Grey. No flag. One old gentleman in it, and a hamper. He's asked for the law, in the proper words, and he's got it. I can't refuse it him. I never refused it you."
     "He looked at Ilan unhappily."
-    "He says he's come to dine with his surveyor. He says you'll know the day."
+    c_fatman "He says he's come to dine with his surveyor. He says you'll know the day."
 
     hide left
     hide right

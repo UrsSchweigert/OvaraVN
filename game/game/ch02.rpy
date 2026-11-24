@@ -398,9 +398,9 @@ label ch02:
     show p wrack_tunic_troubled as left at head_left
     show p sefa_fierce as right at head_right
     with qd
-    "\"Come back,\""
+    c_sefa "Come back,"
     "It was not a request."
-    "\"You owe us a dome.\""
+    c_sefa "You owe us a dome."
 
     show p wrack_tunic_resolved as left at head_left
     with qd

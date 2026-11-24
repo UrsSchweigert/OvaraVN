@@ -294,9 +294,9 @@ label ch03:
     show p wrack_tunic_attentive as left at head_left
     show p fallow_woman_weary as right at head_right
     with qd
-    "It came, and there was no Threaded to carry us on,"
+    c_fallow "It came, and there was no Threaded to carry us on,"
     "She had a tired, flat, capable way of speaking."
-    "So we stayed. He won't last another season. I thought, if one of you came by this time."
+    c_fallow "So we stayed. He won't last another season. I thought, if one of you came by this time."
     show p fallow_woman_hopeful as right at head_right
     with qd
     "She looked at the needle, and then, hopefully, at Okonta."
@@ -363,15 +363,15 @@ label ch03:
     show p wrack_tunic_baffled as left at head_left
     show p officer_shocked as right at head_right
     with qd
-    "{i}Sir?{/i}"
+    c_officer "{i}Sir?{/i}"
 
     "Nobody moved."
 
     show p officer_hard as right at head_right
     with qd
     "Then her face closed. She brought the gun up again."
-    "Take him,"
-    "Alive. He wants him breathing. That's the order. Leave the others."
+    c_officer "Take him,"
+    c_officer "Alive. He wants him breathing. That's the order. Leave the others."
 
     hide left
     hide right
@@ -477,9 +477,9 @@ label ch03:
     show p wrack_tunic_troubled as left at head_left
     show p fallow_woman_relieved as right at head_right
     with qd
-    "It stopped for him,"
+    c_fallow "It stopped for him,"
     "she said to Okonta afterwards, not quite out of his hearing."
-    "It {i}stopped{/i}. What is he?"
+    c_fallow "It {i}stopped{/i}. What is he?"
 
     show p okonta_wry as right at head_right
     with dissolve

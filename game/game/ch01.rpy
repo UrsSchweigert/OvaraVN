@@ -48,11 +48,13 @@ label ch01:
     show p wrack_bewildered as left at head_left
     show p sefa_wary as right at head_right
     with qd
-    "\"Bother, leave it,\" she said. Then, to him: \"You're wearing shoes.\""
+    c_sefa "Bother, leave it,"
+    "she said. Then, to him:"
+    c_sefa "You're wearing shoes."
 
     "He looked. He was. Heavy surface boots, a torn grey jacket with a corporate crest half ripped away, and around both wrists the raw red marks of a cable tie."
 
-    "\"What's your name?\""
+    c_sefa "What's your name?"
 
     hide left
     hide right
@@ -64,7 +66,8 @@ label ch01:
     show p wrack_blank as left at head_left
     show p sefa_wary as right at head_right
     with qd
-    "\"I don't know,\" he said. His voice came out strange in the water, slow and round, and he understood, distantly, that he had never spoken in water before."
+    c_wrack "I don't know,"
+    "he said. His voice came out strange in the water, slow and round, and he understood, distantly, that he had never spoken in water before."
 
     show p sefa_thoughtful as right at head_right
     show p bother_pleased as bother at bother_corner
@@ -75,7 +78,8 @@ label ch01:
     with qd
     show p wrack_puzzled as left at head_left
     with qd
-    "\"Then you're Wrack,\" she said."
+    c_sefa "Then you're Wrack,"
+    "she said."
     show p sefa_amused as right at head_right
     with qd
     c_sefa "It's what we call what the tide brings in. I'm Sefa. Can you swim, or do I tow you?"
@@ -429,11 +433,12 @@ label ch01:
     with dissolve
     "More of them spoke of him as a god, and one old woman made a small sign with her fingers whenever his name was said."
 
-    "\"He rides the Dragon,\" a boy said, from somewhere down the hall."
+    c_boy "He rides the Dragon,"
+    "a boy said, from somewhere down the hall."
 
-    "\"Everybody rides the Dragon who can get on it.\""
+    c_nightcrew "Everybody rides the Dragon who can get on it."
 
-    "\"He tells it who to let in, though.\""
+    c_nightcrew "He tells it who to let in, though."
 
     scene bg long_dry_hall
     with dissolve
@@ -449,18 +454,27 @@ label ch01:
     show p wrack_tunic_thinking as left at head_left
     with qd
 
-    "\"And the Threaded,\" said the boy. \"Tell him about the Threaded.\""
+    c_boy "And the Threaded,"
+    "said the boy."
+    c_boy "Tell him about the Threaded."
 
-    "\"Jef's monks,\" someone said. \"He puts a thread in their heads and they can ride the old machines. They keep the islanders out of our water."
-    "There's one keeps these waters, a woman. She came through when I was small. Went past the terrace like a thrown knife.\""
+    c_nightcrew "Jef's monks,"
+    "someone said."
+    c_nightcrew "He puts a thread in their heads and they can ride the old machines. They keep the islanders out of our water."
+    c_nightcrew "There's one keeps these waters, a woman. She came through when I was small. Went past the terrace like a thrown knife."
 
-    "\"There's not enough of them,\" the old woman said. \"There never was, and there's fewer now.\""
+    c_oldwoman "There's not enough of them,"
+    "the old woman said."
+    c_oldwoman "There never was, and there's fewer now."
 
     show p wrack_tunic_troubled as left at head_left
     with qd
-    "\"And one went up,\" said the boy. \"My uncle says so. One of the Threaded went up to the islands, before anybody here was born, and never came down again.\""
+    c_boy "And one went up,"
+    "said the boy."
+    c_boy "My uncle says so. One of the Threaded went up to the islands, before anybody here was born, and never came down again."
 
-    "\"Your uncle says a great deal,\" said the old woman. But she made the sign with her fingers a second time, and it was not for Jef."
+    c_oldwoman "Your uncle says a great deal,"
+    "said the old woman. But she made the sign with her fingers a second time, and it was not for Jef."
 
     "They taught him the tending song, the slow one for work that is never finished. He got the words wrong and they laughed at him, not unkindly. He liked them."
     show p bother_pleased as bother at bother_corner

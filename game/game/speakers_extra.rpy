@@ -1,0 +1,15 @@
+# Speakers for people the novel does not name. Labels use the novel's own words.
+# (Staging pass 2026-11-24: spoken lines that used to show as narration.)
+
+define c_boy = Character("Boy")
+define c_nightcrew = Character("Night crew")
+define c_oldwoman = Character("Old woman")
+define c_fallow = Character("Woman from Fallow")
+define c_officer = Character("Officer")
+define c_claywoman = Character("Woman with the clay tube")
+define c_harpoon = Character("Girl with the harpoon")
+define c_enginewoman = Character("Woman from engines")
+define c_hullman = Character("Hull man")
+define c_fatman = Character("Fat old man")
+define c_fallowyouth = Character("Fallow youth")
+define c_fallowcaller = Character("Old caller of Fallow")

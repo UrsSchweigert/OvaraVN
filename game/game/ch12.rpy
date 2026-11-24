@@ -208,7 +208,7 @@ label ch12:
 
     hide right
     with qd
-    "So'll Rime,"
+    c_brask "So'll Rime,"
     "said a voice like a slab being dropped."
 
     show p brask_gruff as right at head_right
@@ -219,7 +219,7 @@ label ch12:
 
     hide right
     with qd
-    "So will I,"
+    c_ione "So will I,"
     "said somebody on the northern side."
     "It was a broad woman with scarred forearms. She spoke as the speaker of Low Anthem. She must have come in that morning, with the last of the north. Ilan heard Sefa make a small sound behind him. He could not look at the woman, and then he made himself."
 
@@ -241,7 +241,7 @@ label ch12:
     hide left
     hide right
     with qd
-    "Nobody's asked me,"
+    c_sefa "Nobody's asked me,"
     "said a voice behind him."
     show p sefa_shaken as right at head_right
     with qd

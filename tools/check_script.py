@@ -25,7 +25,19 @@ SPEAKERS = {"c_wrack": "Wrack", "c_sefa": "Sefa", "c_oro": "Elder Oro",
             "c_crane": "Crane", "c_greyman": "Man in grey",
             "c_healer": "Healer",
             "c_kelder": "Speaker of Kelder", "c_lockkeeper": "Senior Lockkeeper",
-            "c_noodle": "Noodle-stall old man"}
+            "c_noodle": "Noodle-stall old man",
+            "c_boy": "Boy",
+            "c_nightcrew": "Night crew",
+            "c_oldwoman": "Old woman",
+            "c_fallow": "Woman from Fallow",
+            "c_officer": "Officer",
+            "c_claywoman": "Woman with the clay tube",
+            "c_harpoon": "Girl with the harpoon",
+            "c_enginewoman": "Woman from engines",
+            "c_hullman": "Hull man",
+            "c_fatman": "Fat old man",
+            "c_fallowyouth": "Fallow youth",
+            "c_fallowcaller": "Old caller of Fallow"}
 
 # Speech tags that only name the speaker. These are the only text the script
 # may drop. Each is (text in the approved file, what is left).

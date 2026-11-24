@@ -15,26 +15,26 @@ label ch11:
     show p wrack_thread_troubled as left at head_left
     show p fallowyoung_exhausted as right at head_right
     with qd
-    "Fallow's dark,"
-    "The last lamp went nine days ago. The white ship was over us the next morning, with the bell. Our speaker wouldn't mark the paper. She said that Deep Chorus had lit its lamps again, and we'd go there."
+    c_fallowyouth "Fallow's dark,"
+    c_fallowyouth "The last lamp went nine days ago. The white ship was over us the next morning, with the bell. Our speaker wouldn't mark the paper. She said that Deep Chorus had lit its lamps again, and we'd go there."
     "He drank, and coughed."
-    "So they went. All of them. Nine hundred, with the sleds. It's five days' swim to the canyon with children. I flew guard."
+    c_fallowyouth "So they went. All of them. Nine hundred, with the sleds. It's five days' swim to the canyon with children. I flew guard."
     show p fallowyoung_sorry as right at head_right
     with qd
-    "On the second day the grey ships came up behind us. Twelve. They're not hurrying. They're only following, and every hour they're a little nearer."
+    c_fallowyouth "On the second day the grey ships came up behind us. Twelve. They're not hurrying. They're only following, and every hour they're a little nearer."
     c_ilan "Meridian?"
-    "It's their mark. And they've a pilot. Somebody who knows the kelp, and takes them round the shoals, and knows where a column would rest."
+    c_fallowyouth "It's their mark. And they've a pilot. Somebody who knows the kelp, and takes them round the shoals, and knows where a column would rest."
     show p wrack_assured_attentive as left at head_left
     with qd
     "He looked at Okonta, and then away."
-    "I know the hull. I held a lamp beside him for a night. He told me I had good hands."
+    c_fallowyouth "I know the hull. I held a lamp beside him for a night. He told me I had good hands."
     show p okonta_flat as right at head_right
     with qd
     c_okonta "Corin,"
     "Her face did not change."
     show p fallowyoung_exhausted as right at head_right
     with qd
-    "I couldn't do anything by myself. So I came."
+    c_fallowyouth "I couldn't do anything by myself. So I came."
 
     hide left
     hide right
@@ -266,17 +266,17 @@ label ch11:
     show p wrack_thread_grieving as left at head_left
     show p fallowcaller_wet as right at head_right
     with qd
-    "She's gone,"
-    "From here to the ridge, and as far behind us as I can feel. Ten kilometres. More."
+    c_fallowcaller "She's gone,"
+    c_fallowcaller "From here to the ridge, and as far behind us as I can feel. Ten kilometres. More."
     show p fallowcaller_puzzled as right at head_right
     with qd
     "He looked up at Ilan. He did not seem angry. He seemed puzzled, like a man who has come home and found the house moved."
-    "That's over Fallow. That's our dome. We couldn't go back now if every lamp in it came on."
+    c_fallowcaller "That's over Fallow. That's our dome. We couldn't go back now if every lamp in it came on."
     "Ilan had nothing to say to him."
     show p wrack_thread_ashamed as left at head_left
     with qd
-    "You got my people out of a net,"
-    "I'll remember that. I'll remember the other thing as well. I don't know how to hold both."
+    c_fallowcaller "You got my people out of a net,"
+    c_fallowcaller "I'll remember that. I'll remember the other thing as well. I don't know how to hold both."
     "He got up, with a hand on his knee, and went back to the sleds."
 
     # c11.s05

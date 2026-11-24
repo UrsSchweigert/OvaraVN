@@ -37,17 +37,17 @@ label ch06:
     show p wrack_thread_troubled as left at head_left
     show p claywoman_dry as right at head_right
     with qd
-    "That's him,"
+    c_claywoman "That's him,"
     "said the woman with the clay tube."
-    "The last one. The one he spent himself on."
+    c_claywoman "The last one. The one he spent himself on."
     show p wrack_thread_attentive as left at head_left
     with qd
     "She blew a thread of clove-water at him."
-    "Well? Can you start it?"
+    c_claywoman "Well? Can you start it?"
     c_wrack "I don't know yet."
     show p claywoman_wry as right at head_right
     with qd
-    "That's honest, anyway. He'd have said yes and then sworn at it for a week."
+    c_claywoman "That's honest, anyway. He'd have said yes and then sworn at it for a week."
 
     hide left
     hide right
@@ -59,10 +59,10 @@ label ch06:
     show p wrack_thread_troubled as left at head_left
     show p corin_grief as right at head_right
     with qd
-    "They took Kelder,"
+    c_corin "They took Kelder,"
     "a big man said."
-    "My hold. All of it, eleven hundred people. They went up in nets, singing, with a paper in the speaker's hand."
-    "I was two days late. I saw the wake."
+    c_corin "My hold. All of it, eleven hundred people. They went up in nets, singing, with a paper in the speaker's hand."
+    c_corin "I was two days late. I saw the wake."
     show p okonta_sorrow as right at head_right
     with qd
     c_okonta "Corin,"
@@ -88,16 +88,16 @@ label ch06:
     "Nobody spoke."
     show p harpoongirl_angry as right at head_right
     with qd
-    "And we're to do what about it?"
+    c_harpoon "And we're to do what about it?"
     "said the girl with the harpoon."
-    "That's what I've been asking for four days. There's forty-one of us in this hall. There were two hundred when my teacher took the Thread. He's gone. There'll be no more made. What's the rule for, with nobody to say it to?"
+    c_harpoon "That's what I've been asking for four days. There's forty-one of us in this hall. There were two hundred when my teacher took the Thread. He's gone. There'll be no more made. What's the rule for, with nobody to say it to?"
     show p okonta_cold as right at head_right
     with qd
     c_okonta "You said it,"
     c_okonta "I was there. I don't remember there being a clause about him staying alive."
     show p harpoongirl_bitter as right at head_right
     with qd
-    "That's easy to say when you've got the new one riding behind you."
+    c_harpoon "That's easy to say when you've got the new one riding behind you."
 
     hide left
     hide right
@@ -151,7 +151,7 @@ label ch06:
     c_anselm "Any one of them would have had engines in your forests long ago, if the other four had let it. I'm the reason they didn't. I don't ask to be thanked."
     show p claywoman_dry as right at head_right
     with qd
-    "What do you ask?"
+    c_claywoman "What do you ask?"
     "said the woman with the clay tube."
     show p anselm_gentle as right at head_right
     with qd
@@ -274,7 +274,7 @@ label ch06:
     show p wrack_thread_dejected as left at head_left
     show p corin_shouting as right at head_right
     with qd
-    "Lie still!"
+    c_corin "Lie still!"
     "a voice shouted back at him."
     "It was Corin's. It was not an angry voice."
     c_corin "Lie still, you'll only cut yourself! Nobody's going to hurt you! He wants you whole!"
@@ -440,8 +440,8 @@ label ch06:
     show p wrack_thread_dejected as left at head_left
     show p claywoman_wry as right at head_right
     with qd
-    "He had us carry for him as well,"
-    "He never said thank you either. Don't start. I shouldn't know where to look."
+    c_claywoman "He had us carry for him as well,"
+    c_claywoman "He never said thank you either. Don't start. I shouldn't know where to look."
 
     hide left
     hide right
@@ -485,12 +485,12 @@ label ch06:
     show p wrack_thread_dejected as left at head_left
     show p fallowyoung_ashamed as right at head_right
     with qd
-    "I'm going to my mother,"
+    c_fallow "I'm going to my mother,"
     "He would not meet Okonta's eye."
-    "Fallow's lamps are going. Somebody ought to be there if the white ships come."
+    c_fallow "Fallow's lamps are going. Somebody ought to be there if the white ships come."
     show p fallowyoung_sorry as right at head_right
     with qd
-    "I'm sorry. I'd have followed him anywhere."
+    c_fallow "I'm sorry. I'd have followed him anywhere."
     show p okonta_sorrow as right at head_right
     with qd
     c_okonta "Then go and keep that water,"

@@ -475,7 +475,8 @@ label ch16:
     show p wrack_strong_calm as left at head_left
     with qd
     "He had been somebody that people could not do without. He was watching it stop. He found, to his surprise, that it was like setting down a sled rope."
-    "\"You've got thin,\" somebody said, in the water."
+    c_hesper "You've got thin,"
+    "somebody said, in the water."
     show p hesper_tired as right at head_right
     with qd
     "Hesper had her arms folded on the gunwale. She looked ten years older than at Low Anthem. The cord was gone from her wrist."
