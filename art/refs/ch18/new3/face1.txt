@@ -1,0 +1,5 @@
+model: fal-ai/nano-banana-2/edit
+purpose: illustration
+refs: art/refs/ch18/new3/heart1.png, game/game/images/p_wrack_assured_calm.png
+
+Edit the first image. Change only Ilan's face. Keep everything else identical: the ribbed shell, hall, hair, tunic, tool, hand, stair, windows, silt. Give him the calm, gentle, attentive face of the second image (his portrait): eyebrows relaxed and level, no furrow between the brows, no downturn, eyes soft and open and looking at the shell, mouth closed and softly neutral, a quiet thoughtful look. Same profile angle, same black hair, thin pale scar line down the neck.

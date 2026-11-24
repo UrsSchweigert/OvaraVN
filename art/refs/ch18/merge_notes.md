@@ -28,8 +28,24 @@
 - cg c18_this_sleeves: a faint frown on Ilan; the tool is shown resting in the open palm, the blade is upright (text: he takes it out and rolls up his sleeves; the picture is the moment just after).
 - cg c18_archive_palm: the second glass panel behind him shows a pale pearl sphere; his Thread line is faint from behind.
 - bg c18_dragon_square and cg c18_ribs_water: the water is a strong mint green (same family as c12_apron). The Dragon head differs slightly from c15_dragon_ribs (smooth blunt hull-head, as in c14_harbour ref).
-- Chapter 17's Meet art did not exist when this was made; check c18_meet_* against it (tower design copied from c12_apron).
+- Checked against chapter 17 on 2026-11-24 and redone: see 'Maker pass' below.
 - Not made: the Dragon square with the nineteen lamp-holders (people), the Tidehall court with the board, Sefa at the canal table with queue (text narrates them; backgrounds are empty by rule).
 
 ## Cost
 $1.40 for chapter 18 (37 calls, none failed; ledger sum).
+
+## Maker pass (2026-11-24)
+Meet is the risen Site Nine city, so its buildings were redone as tiered Maker architecture to match chapter 17 (nano-banana-2 edit, current image plus bg c17_city_risen as reference, 16:9, resized to 1920x1088). Redone: bg c18_meet_empty, c18_waterside_square, c18_meet_market, c18_canal_table, c18_dragon_square, c18_archive_workshop; cg c18_ribs_water, c18_archive_palm, c18_this_sleeves. Old versions: previous/*_oldmaker.png. Left: bg c18_terrace_lit (Low Anthem, human hold), cg c18_empty_cradle (Meridian's concrete dock). Dragon head is now a smooth seamless blunt prow. Prompts: new/*.txt (first-try prompts are in new/*.txt too; second tries in new/*_r2 files; a first batch came out square and was discarded, in new/square_try1/).
+Weak: ribs_water far left/right edges stay ochre and flat-walled; canal_table left quay keeps some block joints; archive_palm now has fluted pilasters, panels unchanged; this_sleeves vault is Gothic-looking.
+Cost this task: $2.00 (25 nano-banana-2 images, incl. 9 wasted on a square-format first try and 3 ring fixes).
+
+## Maker pass 2 (2026-11-24)
+Fixed with nano-banana-2 edits (current image plus c17_city_risen, 16:9, resized to 1920x1088; one try each): cg c18_ribs_water (edges now pale tiered Maker, shell domes), bg c18_canal_table (smooth pale left quay, no joints or moss), cg c18_this_sleeves (smooth shell-shaped Maker hall, no Gothic vault). Shell-and-heart lean recorded in art/bible.md. Old versions: previous/*_pass1.png. Prompts and raw outputs: new2/. Checked and left: bg c18_dragon_square, c18_meet_empty (framing still serves c18.s02 and c18.s01). Weak: minaret-like spires remain in the backgrounds not touched.
+Cost this task: $0.24 (3 images).
+
+## This_sleeves fix (2026-11-24)
+cg c18_this_sleeves: air-heart redrawn as a pale ribbed shell, lower part closed, upper part only a few bare ribs, no cage, pearls, gold or filigree (world bible: 'a pale ribbed shell'); Ilan's face restored to calm and attentive using p_wrack_assured_calm as reference (mouth closed, faint soft smile, no frown). nano-banana-2 edits, 16:9, resized to 1920x1088, one try per step. Previous version: previous/this_sleeves_pass2.png. Prompts and raw outputs: new3/. Weak: the bare ribs are thin loops; the face has a very faint smile; the air-heart now differs from the pearl-and-gold air-heart in c5 images and bg c18_archive_workshop (still pearl and gold), which should be redone to match if the owner wants the shell look.
+Cost this task: $0.16 (2 images).
+
+## c18_this_sleeves, air-heart restored (2026-11-24)
+The ribbed-shell air-heart in the pass 3 version contradicted the owner's choice in art/bible.md (corrections of 2026-11-23: pearl plates, silver bands, gold filigree). Restored the pearl-and-gold air-heart (reference c5_airheart_open) with Ilan's calm face from pass 3 kept. The windows now show a city and hills instead of hands at work. Shell-heart version kept in previous/this_sleeves_shellheart.png.
