@@ -111,13 +111,13 @@ label ch17:
     "A gunboat came down the road of living water on the second morning with her crew at stations. She stopped across the bows of the leading barge."
     "Odo of Lashing handed his brass trumpet to Garran."
 
-    show p fatman_firm as right at head_right
+    show p garran_wary as right at head_right
     with qd
-    c_odo "I've been promised it too, lads,"
+    c_garran "I've been promised it too, lads,"
     "His voice went over the water like a crate being set down."
-    c_odo "Forty paces by twenty. I can tell you whose it'll be. Come and look at what he's done to get it."
+    c_garran "Forty paces by twenty. I can tell you whose it'll be. Come and look at what he's done to get it."
 
-    show p marit_hard as right at head_right
+    show p marit_coat_hard as right at head_right
     with qd
     "Marit Coyle had a camera on the gunboat from a smack alongside. The Lockkeepers' horns were sounding from every gate barge in the line."
     "The gunboat's captain stood on his bridge for some time. Then the crest came down from her mast, and she swung in behind the barges, and rowed."

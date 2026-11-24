@@ -393,6 +393,16 @@ screen main_menu():
 
     add "images/title_wordmark.png" xanchor 0.5 xpos 1230 ypos 150
 
+    ## Small language button, bottom left. Not translated: it reads the same in
+    ## both languages and opens Preferences, where the choice is made.
+    textbutton "Language / Sprache":
+        style "vn_lang_button"
+        action ShowMenu("preferences")
+        xalign 0.0
+        yalign 1.0
+        xoffset 30
+        yoffset -30
+
     text "[config.version]":
         style "main_menu_version"
         color "#fff8e1"
@@ -400,6 +410,21 @@ screen main_menu():
         yalign 1.0
         xoffset -30
         yoffset -30
+
+
+style vn_lang_button is gui_button
+style vn_lang_button_text is gui_button_text
+
+style vn_lang_button:
+    ## Touch target at least 60 px high on the 1080 px canvas (about 44 pt).
+    xpadding 24
+    ypadding 12
+
+style vn_lang_button_text:
+    size 38
+    idle_color "#fff8e1"
+    hover_color "#ffd678"
+    outlines [(2, "#000000cc", 0, 0)]
 
 
 style main_menu_frame is empty
@@ -765,6 +790,15 @@ screen preferences():
 
             hbox:
                 box_wrap True
+
+                ## Language: each name is written in its own language and is not
+                ## translated, so a player in the wrong language can still find it.
+                ## Language() stores the choice in the preferences (docs/german/language-switch.md).
+                vbox:
+                    style_prefix "radio"
+                    label _("Language")
+                    textbutton "English" action Language(None)
+                    textbutton "Deutsch" action Language("german")
 
                 if renpy.variant("pc") or renpy.variant("web"):
 

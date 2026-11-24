@@ -92,13 +92,13 @@ label ch13:
     scene bg c13_tolla_loft
     with fade
 
-    show p marit_pleasant as right at head_right
+    show p marit_coat_pleasant as right at head_right
     with qd
     "Marit Coyle was thirty-four, and had presented the evening bulletin on Orrin One for six years."
     "She had silver on her eyelids. Ilan realised that he had seen her forty metres high on a wall in Saltgate, selling something. Hers was the best-known face on Ovara."
     "She arrived at Old Tolla in a fishing smack, in borrowed oilskins. She was sick over the side before she said anything."
 
-    show p marit_hard as right at head_right
+    show p marit_coat_hard as right at head_right
     with qd
     c_marit "I've been feeding the Clean Hands tonnage reports since I was a researcher,"
     "She looked at Ilan for some time, and it was not a friendly look."
@@ -123,7 +123,7 @@ label ch13:
     c_ilan "I need twenty minutes."
     c_marit "I know what you need."
 
-    show p marit_white as right at head_right
+    show p marit_coat_white as right at head_right
     with qd
     "She tapped the plan."
     c_marit "There's a backup transmitter on the hundred and ninetieth. It's there for typhoons. It isn't on the delay, and it can't be cut from below."
@@ -136,7 +136,7 @@ label ch13:
     "She glanced at Ilan."
     c_marit "That's the word for you, too, isn't it? One parent from each side. There are more of them than you'd think. They wear high collars."
 
-    show p marit_hard as right at head_right
+    show p marit_coat_hard as right at head_right
     with qd
     "She went on."
     c_marit "And I have a transmitter technician who is simply very tired of lying."
@@ -157,14 +157,14 @@ label ch13:
     c_marit "I've worked for him eleven years. He has never given away a thing he could charge for."
     "She turned the card over."
 
-    show p marit_pleasant as right at head_right
+    show p marit_coat_pleasant as right at head_right
     with qd
     c_marit "But it takes you in by the front door, under your own name, and it puts every screen on Ovara on you from the first word. So we say yes. And my three people bring the backup up anyway, and I watch what actually goes out."
     c_ilan "He'll have asked the Exchange,"
     c_marit "He asks the Exchange what to have for lunch."
     c_marit "One more thing. You'll be a hundred and forty floors up, in a glass box. I'm told you can do remarkable things with water."
 
-    show p marit_hard as right at head_right
+    show p marit_coat_hard as right at head_right
     show p wrack_strong_resolved as left at head_left
     with qd
     "She glanced at Sefa, who had come up the loft ladder dripping and was sitting on the top rung, staring at the silver eyelids."
@@ -185,14 +185,14 @@ label ch13:
     scene bg c13_tolla_village
     with dissolve
     show p wrack_strong_calm as left at head_left
-    show p marit_red as right at head_right
+    show p marit_coat_red as right at head_right
     with qd
     c_marit "Six years,"
     "she said to Ilan, on the smack."
     c_marit "Six years I've read out that they don't exist. She told me about her friend. The net-mender."
     "She pulled her hood up."
 
-    show p marit_hard as right at head_right
+    show p marit_coat_hard as right at head_right
     with qd
     c_marit "Don't waste my three people, Mr Voss."
 
@@ -216,14 +216,14 @@ label ch13:
     with dissolve
     "The Orrin Spire was the tallest thing on Ovara. It stood at the centre of the middle island. At its foot, taking up an entire block, stood a building with no windows at all."
 
-    show p marit_pleasant as right at head_right
+    show p marit_suit_pleasant as right at head_right
     with qd
     c_marit "The Exchange,"
     "Marit said, not looking at it. She was in her own clothes now, and her own face, and people turned to watch her pass."
     c_marit "Meridian Assurance. Orrin tells people what to think. Meridian's what happens if they don't. Every debt in the world is in there. Every indenture, every mortgage on every island. Every loan the other four have ever taken to build a ship."
     c_marit "When two companies go to war, Meridian lends to both and insures both. It hires out the soldiers as well."
 
-    show p marit_hard as right at head_right
+    show p marit_suit_hard as right at head_right
     with qd
     "She walked a little faster."
     c_marit "Don't stare. It notices."
@@ -247,7 +247,7 @@ label ch13:
     "He thought, {i}she is one of forty million, and nobody has ever told her anything true.{/i}"
     "Marit came in and shut the door. She stood behind his chair and looked at him in the mirror."
 
-    show p marit_hard as right at head_right
+    show p marit_suit_hard as right at head_right
     with qd
     c_marit "I'll give you the speech,"
     c_marit "The short one. I wanted to ask you whether you ever thought about them. At all. Whether it kept you up."
@@ -259,7 +259,7 @@ label ch13:
     c_ilan "I slept very well. That's the thing I can't get over."
     "She was silent. Then she nodded, once."
 
-    show p marit_pleasant as right at head_right
+    show p marit_suit_pleasant as right at head_right
     with qd
     c_marit "That's worse than what I'd imagined,"
     c_marit "Good. Say it like that. Don't dress it."
@@ -288,7 +288,7 @@ label ch13:
     with qd
     "Nobody cut him off. The red light stayed on. He talked for six minutes, and Venn nodded gravely beside him. It was going so smoothly that the back of his neck had begun to crawl."
 
-    show p marit_white as right at head_right
+    show p marit_suit_white as right at head_right
     with qd
     "Marit was not looking at him. She stood behind the camera with a monitor in her hand, the small kind that the floor staff carried. She had gone white under the silver."
     "She turned it toward him."
@@ -403,13 +403,13 @@ label ch13:
     with qd
     c_captain "Off,"
     c_captain "Cut it. Now."
-    show p marit_pleasant as right at head_right
+    show p marit_suit_pleasant as right at head_right
     with qd
     c_marit "I can't,"
     "said Marit pleasantly."
     c_marit "It isn't in this room. It isn't on this floor."
 
-    show p marit_hard as right at head_right
+    show p marit_suit_hard as right at head_right
     with qd
     "She had picked up the small camera from the desk and was pointing it at him. The red light on it was on."
     c_marit "You're live, Captain. So is your face. To every screen on Ovara, including the one in your mother's kitchen. What would you like to do?"

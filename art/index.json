@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-24T11:56:40Z",
- "count": 560,
+ "generated": "2026-11-24T16:43:17Z",
+ "count": 567,
  "items": [
   {
    "kind": "portrait",
@@ -796,8 +796,7 @@
    "model": "flux-2",
    "cost": 0.024,
    "chapters": {
-    "10": 1,
-    "17": 1
+    "10": 1
    },
    "character": null,
    "emotion": null
@@ -873,7 +872,8 @@
    "cost": 0.012,
    "chapters": {
     "8": 2,
-    "15": 1
+    "15": 1,
+    "17": 1
    },
    "character": null,
    "emotion": null
@@ -1528,16 +1528,69 @@
   },
   {
    "kind": "portrait",
+   "id": "p marit_coat_hard",
+   "game_file": "game/game/images/p_marit_coat_hard.png",
+   "source": "art/refs/ch13/portraits/marit_coat_hard.png",
+   "prompt": "",
+   "model": null,
+   "cost": null,
+   "chapters": {
+    "13": 4
+   },
+   "character": null,
+   "emotion": null
+  },
+  {
+   "kind": "portrait",
+   "id": "p marit_coat_pleasant",
+   "game_file": "game/game/images/p_marit_coat_pleasant.png",
+   "source": "art/refs/ch13/portraits/marit_coat_pleasant.png",
+   "prompt": "",
+   "model": null,
+   "cost": null,
+   "chapters": {
+    "13": 2
+   },
+   "character": null,
+   "emotion": null
+  },
+  {
+   "kind": "portrait",
+   "id": "p marit_coat_red",
+   "game_file": "game/game/images/p_marit_coat_red.png",
+   "source": "art/refs/ch13/portraits/marit_coat_red.png",
+   "prompt": "",
+   "model": null,
+   "cost": null,
+   "chapters": {
+    "13": 1
+   },
+   "character": null,
+   "emotion": null
+  },
+  {
+   "kind": "portrait",
+   "id": "p marit_coat_white",
+   "game_file": "game/game/images/p_marit_coat_white.png",
+   "source": "art/refs/ch13/portraits/marit_coat_white.png",
+   "prompt": "",
+   "model": null,
+   "cost": null,
+   "chapters": {
+    "13": 1
+   },
+   "character": null,
+   "emotion": null
+  },
+  {
+   "kind": "portrait",
    "id": "p marit_hard",
    "game_file": "game/game/images/p_marit_hard.png",
    "source": "art/refs/ch13/portraits/marit_hard.png",
    "prompt": "model: fal-ai/flux-2/edit\npurpose: sprite\nrefs: art/refs/ch13/portraits/marit_base.png\n\nSame character, same face, hair, skin and clothes. Only the expression changes: hard and unfriendly, eyes level and cold, mouth a flat line. Her eyeshadow is ordinary makeup: a thin soft silver-grey shimmer on the upper eyelid only, the lower lids and skin around the eyes are plain natural skin. Head and shoulders, three-quarter view turned toward the viewer's right (the face and nose point to the right edge of the picture), plain light grey background, no text. Eyes fully drawn with irises, pupils and highlights. Restrained realistic face.",
    "model": "flux-2",
    "cost": 0.024,
-   "chapters": {
-    "13": 7,
-    "17": 1
-   },
+   "chapters": {},
    "character": null,
    "emotion": null
   },
@@ -1549,9 +1602,7 @@
    "prompt": "model: fal-ai/flux-2/edit\npurpose: sprite\nrefs: art/refs/ch13/portraits/marit_hard.png\n\nSame woman, same face, same jaw-length smooth dark brown hair, skin and thin silver eyelid shimmer, drawn in exactly the same flat anime style with clean outlines. New clothes and expression: a smart charcoal blazer over a cream blouse, no coat. Expression: pleasant and composed, mouth closed with the faintest polite lift, eyes level, a poised newsreader. Anime-style character portrait, clean line art, soft cel shading, gentle natural colours, flat drawn illustration (not photographic). Head and shoulders, three-quarter view turned toward the viewer's right (the face and nose point to the right edge of the picture), plain light grey background, no text. Both shoulders visible. The eyes are small, normal, realistic, fully drawn with irises, pupils and highlights, not large, not round, not shiny. Restrained realistic face.",
    "model": "flux-2",
    "cost": 0.024,
-   "chapters": {
-    "13": 5
-   },
+   "chapters": {},
    "character": null,
    "emotion": null
   },
@@ -1563,6 +1614,47 @@
    "prompt": "model: fal-ai/flux-2/edit\npurpose: sprite\nrefs: art/refs/ch13/portraits/marit_hard.png\n\nSame character, same face, hair, skin, oilskin coat, and the same silver eyeshadow shimmer on the upper eyelids (keep it clearly visible). Only the expression changes: the hardness has gone out of her; the lower lids and the skin around her eyes are slightly pink-red and tired, no tears, her eyes soft, her brows eased, her mouth soft and closed. Anime-style character portrait, clean line art, soft cel shading, gentle natural colours, flat drawn illustration (not photographic). Head and shoulders, three-quarter view turned toward the viewer's right (the face and nose point to the right edge of the picture), plain light grey background, no text. Both shoulders visible. The eyes are small, normal, realistic, fully drawn with irises, pupils and highlights, not large, not round, not shiny. Restrained realistic face.",
    "model": "flux-2",
    "cost": 0.024,
+   "chapters": {},
+   "character": null,
+   "emotion": null
+  },
+  {
+   "kind": "portrait",
+   "id": "p marit_suit_hard",
+   "game_file": "game/game/images/p_marit_suit_hard.png",
+   "source": "art/refs/ch13/portraits/marit_suit_hard.png",
+   "prompt": "",
+   "model": null,
+   "cost": null,
+   "chapters": {
+    "13": 3,
+    "17": 1
+   },
+   "character": null,
+   "emotion": null
+  },
+  {
+   "kind": "portrait",
+   "id": "p marit_suit_pleasant",
+   "game_file": "game/game/images/p_marit_pleasant.png",
+   "source": "art/refs/ch13/portraits/marit_suit_pleasant.png",
+   "prompt": "",
+   "model": null,
+   "cost": null,
+   "chapters": {
+    "13": 3
+   },
+   "character": null,
+   "emotion": null
+  },
+  {
+   "kind": "portrait",
+   "id": "p marit_suit_white",
+   "game_file": "game/game/images/p_marit_white.png",
+   "source": "art/refs/ch13/portraits/marit_suit_white.png",
+   "prompt": "",
+   "model": null,
+   "cost": null,
    "chapters": {
     "13": 1
    },
@@ -1577,9 +1669,7 @@
    "prompt": "model: fal-ai/flux-2/edit\npurpose: sprite\nrefs: art/refs/ch13/portraits/marit_pleasant.png\n\nSame woman, same clothes, hair, skin colour and thin silver eyelid shimmer, same flat anime style. Only the expression changes: tense and alarmed but controlled, eyes steady and a little wide, brows drawn slightly together, lips pressed into a thin line, the skin only very slightly paler than before (normal skin colour, no white paint, no mask). Anime-style character portrait, clean line art, soft cel shading, gentle natural colours, flat drawn illustration (not photographic). Head and shoulders, three-quarter view turned toward the viewer's right (the face and nose point to the right edge of the picture), plain light grey background, no text. Both shoulders visible. The eyes are small, normal, realistic, fully drawn with irises, pupils and highlights, not large, not round, not shiny. Restrained realistic face.",
    "model": "flux-2",
    "cost": 0.024,
-   "chapters": {
-    "13": 2
-   },
+   "chapters": {},
    "character": null,
    "emotion": null
   },
@@ -8083,10 +8173,12 @@
     ]
    },
    "Marit Coyle": {
-    "fixed": "Orrin One's evening newsreader, thirty-four, light olive skin, smooth jaw-length dark brown hair, brown eyes, a thin silver shimmer on her eyelids (silver eyelids are in the text; skin, hair, eyes are choices). s01-s02 of chapter 13: borrowed shapeless dark olive oilskin coat, hood down; s03: her own charcoal blazer over a cream blouse. Expressions: marit_hard, marit_red (red-rimmed, softened), marit_pleasant, marit_white (tense).",
+    "fixed": "Orrin One's evening newsreader, thirty-four, light olive skin, smooth jaw-length dark brown hair, brown eyes, a thin silver shimmer on her eyelids (silver eyelids are in the text; skin, hair, eyes are choices). Owner's rule: RAINCOAT before the city, SUIT in the city. Before the city (chapter 13 s02 and the village scene at the start of s03, up to the arrival in Concord): borrowed shapeless dark olive oilskin raincoat, slightly too big, hood down (portraits marit_coat_*). In the city (from the Spire exchange on, and later chapters, 'her own clothes now'): plain well-cut charcoal suit jacket over a cream blouse (portraits marit_suit_*). Expressions: marit_hard, marit_red (red-rimmed, softened), marit_pleasant, marit_white (tense).",
     "references": [
      "art/refs/ch13/portraits/marit_base.png",
-     "art/refs/ch13/portraits/marit_pleasant.png"
+     "art/refs/ch13/portraits/marit_pleasant.png",
+     "art/refs/ch13/portraits/marit_coat_pleasant.png",
+     "art/refs/ch13/portraits/marit_suit_hard.png"
     ]
    },
    "Caspar Venn": {

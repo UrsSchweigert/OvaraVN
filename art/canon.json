@@ -277,10 +277,10 @@
       ]
     },
     "Marit Coyle": {
-      "fixed": "Orrin One's evening newsreader, thirty-four, light olive skin, smooth jaw-length dark brown hair, brown eyes, a thin silver shimmer on her eyelids (silver eyelids are in the text; skin, hair, eyes are choices). s01-s02 of chapter 13: borrowed shapeless dark olive oilskin coat, hood down; s03: her own charcoal blazer over a cream blouse. Expressions: marit_hard, marit_red (red-rimmed, softened), marit_pleasant, marit_white (tense).",
+      "fixed": "Orrin One's evening newsreader, thirty-four, light olive skin, smooth jaw-length dark brown hair, brown eyes, a thin silver shimmer on her eyelids (silver eyelids are in the text; skin, hair, eyes are choices). Owner's rule: RAINCOAT before the city, SUIT in the city. Before the city (chapter 13 s02 and the village scene at the start of s03, up to the arrival in Concord): borrowed shapeless dark olive oilskin raincoat, slightly too big, hood down (portraits marit_coat_*). In the city (from the Spire exchange on, and later chapters, 'her own clothes now'): plain well-cut charcoal suit jacket over a cream blouse (portraits marit_suit_*). Expressions: marit_hard, marit_red (red-rimmed, softened), marit_pleasant, marit_white (tense).",
       "references": [
         "art/refs/ch13/portraits/marit_base.png",
-        "art/refs/ch13/portraits/marit_pleasant.png"
+        "art/refs/ch13/portraits/marit_pleasant.png", "art/refs/ch13/portraits/marit_coat_pleasant.png", "art/refs/ch13/portraits/marit_suit_hard.png"
       ]
     },
     "Caspar Venn": {

@@ -485,12 +485,12 @@ label ch06:
     show p wrack_thread_dejected as left at head_left
     show p fallowyoung_ashamed as right at head_right
     with qd
-    c_fallow "I'm going to my mother,"
+    c_fallowyouth "I'm going to my mother,"
     "He would not meet Okonta's eye."
-    c_fallow "Fallow's lamps are going. Somebody ought to be there if the white ships come."
+    c_fallowyouth "Fallow's lamps are going. Somebody ought to be there if the white ships come."
     show p fallowyoung_sorry as right at head_right
     with qd
-    c_fallow "I'm sorry. I'd have followed him anywhere."
+    c_fallowyouth "I'm sorry. I'd have followed him anywhere."
     show p okonta_sorrow as right at head_right
     with qd
     c_okonta "Then go and keep that water,"
