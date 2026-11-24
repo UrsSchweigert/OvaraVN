@@ -1,0 +1,5 @@
+model: fal-ai/nano-banana-2/edit
+purpose: background
+refs: game/game/images/bg/c18_meet_empty.png
+
+Keep this picture exactly: the camera, buildings, towers, sky, lamps, windows and colours all unchanged. Change only the street paving and water film: make the paving smooth pale blue-white stone with no visible tile joints and no pink or gold tint, with soft reflections of the lamps. Do not change the towers or anything else.

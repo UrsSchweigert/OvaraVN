@@ -1,0 +1,5 @@
+model: fal-ai/nano-banana-2/edit
+purpose: background
+refs: art/refs/ch18/new4/canal_a.png, game/game/images/bg/c17_vault_lit.png
+
+Keep this picture exactly, with these changes only. One: the buildings on the right side of the canal are lilac-grey; repaint them the same warm milk-white cream as the buildings on the left, lit by the same warm evening light, and make the right-hand quay and paving the same warm pale colour as the left. Two: the arched doorways and windows on the right side have slightly pointed tops; make them fully round-topped, like half circles. Three: redraw all outlines as crisp, clean, dark-grey lines of even weight, like clean cel animation, on every object including the buildings, bench, basins and washing, so nothing looks soft or painted. Do not change the table, basins, bench, blanket, ropes, washing, lantern, canal, skyline or composition.
