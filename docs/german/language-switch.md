@@ -1,8 +1,7 @@
 # Language switch (English / German)
 
 ## What the player sees
-- Preferences has a "Language" block (German: "Sprache") with two buttons: "English" and "Deutsch". Both names are always written the same way, in their own language, and are never translated.
-- The main menu has a small "Language / Sprache" button at the bottom left. It opens Preferences.
+- The switch is hidden. Five quick taps (within three seconds) on the left side of the title screen open a small box with "English" and "Deutsch" (and an X to close). Both names are written in their own language and are never translated. There is no visible language button in Preferences or on the main menu.
 - The choice is a Ren'Py preference. It is not stored in game saves, so every save loads in whichever language is on.
 
 ## How the default is chosen
@@ -19,5 +18,5 @@
 - Careful: Ren'Py reads persistent data from `game/game/saves/` as well as from `~/Library/RenPy/game-1795348692/`. To test a fresh start, copy the project to another folder and set `HOME` to an empty folder.
 
 ## Not verified
-- A real iPhone with German iOS. `detect_user_locale()` needs `pyobjus` inside the iOS build; if it is missing the code falls back to the environment variables, and if those are empty the game starts in English (the safe result, and the button still works).
+- Device language is not used any more: the game always starts in English (owner decision, 2026-11-25). German is chosen with the hidden switch.
 - The baked title image (`title_wordmark.png`) is English in both languages.
