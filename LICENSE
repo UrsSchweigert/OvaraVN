@@ -1,0 +1,27 @@
+Copyright (c) 2026. All rights reserved.
+
+This repository is public so that it can be read. It is not open source.
+
+No licence is granted, except the following. You may view the repository and
+clone it for your own private, non-commercial reading and study.
+
+Without prior written permission of the copyright holder you may NOT:
+
+  - copy, reproduce, publish, upload or distribute any part of this
+    repository, in original or changed form;
+  - make derivative works, including translations, adaptations, games,
+    audio or video versions, or other editions of the novel, its story,
+    characters, world, text, art or code;
+  - sell, rent, sublicense or otherwise use any part of it commercially;
+  - use any part of it to train, fine-tune or evaluate machine learning or
+    artificial intelligence models, or include it in datasets for that purpose;
+  - remove or change this notice.
+
+This covers the novel and the world bible (source/), the German text, the
+images and art direction (art/, game/game/images/), the game script and
+interface (game/), the tools (tools/) and the documents (docs/, work/).
+
+Third-party parts keep their own licences. The Ren'Py engine and its
+libraries are used under their own terms (see https://www.renpy.org/doc/html/license.html).
+
+The material is provided "as is", without warranty of any kind.
