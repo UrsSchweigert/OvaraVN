@@ -393,15 +393,16 @@ screen main_menu():
 
     add "images/title_wordmark.png" xanchor 0.5 xpos 1230 ypos 150
 
-    ## Small language button, bottom left. Not translated: it reads the same in
-    ## both languages and opens Preferences, where the choice is made.
-    textbutton "Language / Sprache":
-        style "vn_lang_button"
-        action ShowMenu("preferences")
-        xalign 0.0
-        yalign 1.0
-        xoffset 30
-        yoffset -30
+    ## Hidden language switch: five quick taps on the left side of the title
+    ## screen open a small English / Deutsch choice. The main-menu buttons are on
+    ## the right, so this strip covers nothing.
+    button:
+        xpos 0
+        ypos 0
+        xsize 600
+        ysize 1080
+        background None
+        action Function(vn_lang_tap)
 
     text "[config.version]":
         style "main_menu_version"
@@ -412,19 +413,36 @@ screen main_menu():
         yoffset -30
 
 
-style vn_lang_button is gui_button
-style vn_lang_button_text is gui_button_text
+init python:
+    import time as _vn_time
+    vn_lang_taps = []
 
-style vn_lang_button:
-    ## Touch target at least 60 px high on the 1080 px canvas (about 44 pt).
-    xpadding 24
-    ypadding 12
+    def vn_lang_tap():
+        ## Five taps within three seconds open the language choice.
+        now = _vn_time.time()
+        vn_lang_taps[:] = [t for t in vn_lang_taps if now - t < 3.0] + [now]
+        if len(vn_lang_taps) >= 5:
+            del vn_lang_taps[:]
+            renpy.show_screen("vn_lang_pick")
+            renpy.restart_interaction()
 
-style vn_lang_button_text:
-    size 38
-    idle_color "#fff8e1"
-    hover_color "#ffd678"
-    outlines [(2, "#000000cc", 0, 0)]
+## The hidden language choice. Each name is written in its own language and is
+## not translated. Language() stores the choice in the preferences.
+screen vn_lang_pick():
+    modal True
+    zorder 200
+    add "#000000b0"
+    frame:
+        xalign 0.5
+        yalign 0.5
+        xpadding 60
+        ypadding 40
+        vbox:
+            spacing 20
+            xalign 0.5
+            textbutton "English" action [Language(None), Hide("vn_lang_pick")] xalign 0.5
+            textbutton "Deutsch" action [Language("german"), Hide("vn_lang_pick")] xalign 0.5
+            textbutton "X" action Hide("vn_lang_pick") xalign 0.5
 
 
 style main_menu_frame is empty
@@ -790,15 +808,6 @@ screen preferences():
 
             hbox:
                 box_wrap True
-
-                ## Language: each name is written in its own language and is not
-                ## translated, so a player in the wrong language can still find it.
-                ## Language() stores the choice in the preferences (docs/german/language-switch.md).
-                vbox:
-                    style_prefix "radio"
-                    label _("Language")
-                    textbutton "English" action Language(None)
-                    textbutton "Deutsch" action Language("german")
 
                 if renpy.variant("pc") or renpy.variant("web"):
 

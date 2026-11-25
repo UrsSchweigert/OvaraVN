@@ -9,10 +9,8 @@ init python:
 #
 # The player's choice lives in Ren'Py's own language preference (Language() action
 # in Preferences; saved with the persistent data, not with game saves, so every
-# save loads in whichever language is on). First start only
-# (persistent.vn_lang_initialised False): if the device language is German, the game
-# starts in German; otherwise English. After that the flag stays True and the start
-# never changes the language again.
+# save loads in whichever language is on). The device language is NOT used:
+# a fresh install always starts in English (owner decision, 2026-11-25).
 # Device language, in this order: VN_SYSLANG (for testing, e.g. VN_SYSLANG=de),
 # renpy.translation.detect_user_locale() (NSLocale on iOS and macOS), the LANG
 # variables. Unknown means English.
@@ -58,10 +56,9 @@ init python:
             persistent.vn_dev_lang = False
             renpy.change_language(persistent.vn_lang_saved)
             persistent.vn_lang_saved = None
-        if not persistent.vn_lang_initialised:
-            persistent.vn_lang_initialised = True
-            if _preferences.language is None:
-                renpy.change_language(vn_device_language())
+        ## The game always starts in English. German is chosen by hand through the
+        ## hidden switch (five taps on the left of the title screen).
+        persistent.vn_lang_initialised = True
 
 label splashscreen:
     $ vn_language_startup()
