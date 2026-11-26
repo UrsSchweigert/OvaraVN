@@ -68,11 +68,22 @@ define config.has_voice = True
 # define config.sample_voice = "sample-voice.ogg"
 
 
-## Uncomment the following line to set an audio file that will be played while
-## the player is at the main menu. This file will continue playing into the
-## game, until it is stopped or another file is played.
+## The title music. Ren'Py would carry it on into the story, so it is faded out
+## when play begins: at "start", or at a chapter label (chapter select). Loading
+## a save stops it by itself.
 
-# define config.main_menu_music = "main-menu-theme.ogg"
+define config.main_menu_music = "audio/title.ogg"
+define config.main_menu_music_fadein = 1.0
+
+init python:
+    import re
+
+    def vn_stop_title_music(label, abnormal):
+        if label == "start" or re.match(r"ch\d\d$", label):
+            if renpy.music.get_playing() == config.main_menu_music:
+                renpy.music.stop(fadeout=2.0)
+
+    config.label_callbacks.append(vn_stop_title_music)
 
 
 ## Transitions #################################################################

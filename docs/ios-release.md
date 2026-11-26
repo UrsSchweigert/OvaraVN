@@ -5,7 +5,7 @@ Setup copied from the DerSchweigert repo (`sites/lesen/ios/RELEASING.md`): team 
 ## What is in git
 `ios/` is the Xcode project made by Ren'Py (`renpy.sh launcher ios_create`), with these changes:
 - Bundle id `de.derschweigert.ovaravn`, team `2F695PTZC6`, automatic signing, iPhone only.
-- Version comes from `MARKETING_VERSION` (1.0) and `CURRENT_PROJECT_VERSION` (1). Xcode Cloud raises the build number itself.
+- Version comes from `MARKETING_VERSION` (1.0.1) and `CURRENT_PROJECT_VERSION` (1). Xcode Cloud raises the build number itself.
 - Shared scheme `TheManTheTideBroughtIn` (Release archive).
 
 Not in git (about 740 MB, gitignored): `ios/base/` (the packaged game), `ios/prebuilt/` and `ios/Frameworks/` (Ren'Py engine).
