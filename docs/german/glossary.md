@@ -384,7 +384,7 @@ Named characters keep their names (see group A). These are the unnamed ones, as 
 | English | Where | PROPOSED German | Alternatives | Note |
 |---|---|---|---|---|
 | Unlock the rest of the story | paywall.rpy | Den Rest der Geschichte freischalten | Die ganze Geschichte freischalten | |
-| The first chapters are free. One purchase opens the second half, for good. | paywall.rpy | Die ersten Kapitel sind kostenlos. Ein einziger Kauf öffnet die zweite Hälfte, für immer. | | |
+| The first chapters are free. One purchase opens the rest of the story, for good. | paywall.rpy | Die ersten Kapitel sind kostenlos. Ein einziger Kauf öffnet den Rest der Geschichte, für immer. | | |
 | Unlock (button, with price) | paywall.rpy | Freischalten | - | |
 | Restore purchase | paywall.rpy | Kauf wiederherstellen | - | |
 | Not now | paywall.rpy | Jetzt nicht | Später | |

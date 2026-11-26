@@ -7,8 +7,8 @@ translate german strings:
     new "Den Rest der Geschichte freischalten"
 
     # game/paywall.rpy:74
-    old "The first chapters are free. One purchase opens the second half, for good."
-    new "Die ersten Kapitel sind kostenlos. Ein einziger Kauf öffnet die zweite Hälfte, für immer."
+    old "The first chapters are free. One purchase opens the rest of the story, for good."
+    new "Die ersten Kapitel sind kostenlos. Ein einziger Kauf öffnet den Rest der Geschichte, für immer."
 
     # game/paywall.rpy:76
     old "Unlock"

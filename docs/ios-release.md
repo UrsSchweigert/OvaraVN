@@ -37,8 +37,8 @@ Measured on 2026-11-23 (chapters 1 to 6): installed app 96 MB to 75 MB, `.ipa` (
 
 ## Paywall (one-time purchase)
 
-- Chapters 1-8 are free. Chapter 9 on needs the in-app purchase `full_story`.
+- Chapters 1-2 are free. Chapter 3 on needs the in-app purchase `full_story`.
 - Code: `game/game/paywall.rpy`. The App Store product ID is `PAYWALL_PRODUCT_ID` there (currently `renpy.iap.register`, as created in App Store Connect; it cannot be renamed there).
-- When chapter 9 is scripted, put `call paywall_gate` as its first line. The Chapters screen already locks chapters 9 and up.
+- The first paid chapter starts with `call paywall_gate` (now in `ch03.rpy`); the Chapters screen locks everything from `PAYWALL_FROM` up. Change both together.
 - On a computer the game counts as unlocked. `VN_PAYWALL=1 ./vn play` tests the locked path; Buy then fakes the purchase.
 - Not yet tested on a phone with a sandbox account.
