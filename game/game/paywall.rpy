@@ -1,11 +1,11 @@
-# One-time purchase that unlocks the second half of the story.
+# One-time purchase that unlocks the story from chapter 3 on.
 # Chapters 1 to PAYWALL_FROM-1 are free. From PAYWALL_FROM on, the player buys
 # "full_story" once (in-app purchase, non-consumable, on the App Store).
 #
 # The product ID below must match App Store Connect letter for letter.
 # It cannot be renamed there after it is created.
 
-define PAYWALL_FROM = 9
+define PAYWALL_FROM = 3
 define PAYWALL_PRODUCT_ID = "renpy.iap.register"
 
 init python:
@@ -71,7 +71,7 @@ screen paywall_screen():
         spacing 24
         xsize 1100
         text _("Unlock the rest of the story") size 56 xalign 0.5
-        text _("The first chapters are free. One purchase opens the second half, for good.") size 38 xalign 0.5 text_align 0.5
+        text _("The first chapters are free. One purchase opens the rest of the story, for good.") size 38 xalign 0.5 text_align 0.5
         $ price = paywall_price()
         textbutton (_("Unlock") + ((" (" + price + ")") if price else "")):
             action [Function(paywall_buy), Return(True)]
@@ -86,7 +86,7 @@ screen paywall_screen():
             xalign 0.5
             text_size 36
 
-# Put `call paywall_gate` at the top of the first paid chapter (chapter 9).
+# Put `call paywall_gate` at the top of the first paid chapter (PAYWALL_FROM).
 # Unlocked: it returns at once. Locked: the player sees the unlock screen,
 # and "Not now" sends them to the main menu.
 label paywall_gate:

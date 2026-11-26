@@ -4,6 +4,9 @@ define c_brask = Character("Brask")
 
 label ch03:
 
+    # First paid chapter (see paywall.rpy).
+    call paywall_gate from _call_paywall_gate
+
     # c03.s01
     scene cg c3_needle_ride
     with fade
